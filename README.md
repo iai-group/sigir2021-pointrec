@@ -1,4 +1,4 @@
-# POINTREC: A Test Collection for Point of Interest Recommendation
+# POINTREC: A Test Collection for Narrative-driven Point of Interest Recommendation
 
 POINTREC is a test collection for point of interest (POI) recommendation, comprising of (i) a set of information needs, (ii) a dataset of POIs, and (iii) graded relevance assessments for information need and POI pairs. Additionally, we include recommendations by multiple variants of a simple baseline method.
 
