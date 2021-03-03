@@ -1,0 +1,40 @@
+{
+  "88989": {
+    "url": "https://www.yelp.com/biz/klangschalen-zentrum-attnang-puchheim?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Klangschalen-Zentrum",
+    "alias": "klangschalen-zentrum-attnang-puchheim",
+    "main_category": "Active Life",
+    "sub_categories": "Meditation Centers, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Hundertwasserweg 2/1",
+    "city_from_postal": "Attnang-Puchheim",
+    "city": "Attnang-Puchheim",
+    "zip_code": "4800",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+436766273726",
+    "review_count": 1,
+    "snippets": []
+  },
+  "136823": {
+    "url": "https://www.yelp.com/biz/kellerb%C3%BChne-puchheim-attnang-puchheim?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fijZirwILauVn4Po_ORc2Q/o.jpg",
+    "name": "Kellerbühne Puchheim",
+    "alias": "kellerbühne-puchheim-attnang-puchheim",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Performing Arts, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Gmundner Str. 3",
+    "city_from_postal": "Attnang-Puchheim",
+    "city": "Attnang-Puchheim",
+    "zip_code": "4800",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+436801182130",
+    "review_count": 1,
+    "snippets": []
+  }
+}

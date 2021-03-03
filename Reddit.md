@@ -1,0 +1,55 @@
+# Information needs collected from Reddit
+
+The table below list the subreddits used (suffixes following `http://reddit.com/r/`) and the corresponding number of information needs extracted from each.
+
+| Subreddit | #InfoNeeds |
+| --- | ---: |
+| Amsterdam       |  6 |
+| askTO           |  1 |
+| Austin          |  1 |
+| Austria         |  1 |
+| berlin          |  3 |
+| bologna         |  1 |
+| britishcolumbia |  1 |
+| Caen            |  1 |
+| chicago         |  1 |
+| Delaware        |  3 |
+| Detroit         |  3 |
+| geneva          |  1 |
+| glendale        |  1 |
+| Hamilton        |  1 |
+| helsinki        |  3 |
+| hiking          |  1 |
+| JapanTravel     |  4 |
+| Knoxville       |  1 |
+| london          |  1 |
+| madisonwi       |  1 |
+| Madrid          |  1 |
+| melbourne       |  1 |
+| milwaukee       |  1 |
+| mountainview    |  1 |
+| nyc             |  1 |
+| oslo            |  4 |
+| paris           |  5 |
+| Prague          |  1 |
+| quebeccity      |  1 |
+| raleigh         |  2 |
+| rome            |  2 |
+| Rotterdam       |  1 |
+| rva             |  1 |
+| SaltLakeCity    |  1 |
+| SkyDiving       |  2 |
+| solotravel      |  8 |
+| Stavanger       |  2 |
+| Switzerland     |  1 |
+| Temecula        |  1 |
+| Tennessee       |  1 |
+| texas           |  1 |
+| Tokyo           |  2 |
+| Utah            |  1 |
+| VictoriaBC      |  1 |
+| wallawalla      |  1 |
+| Washington      |  1 |
+| Westchester     |  1 |
+| wien            |  4 |
+| zurich          |  2 |

@@ -1,0 +1,21 @@
+{
+  "149722": {
+    "url": "https://www.yelp.com/biz/la-cevicheria-chihuahua?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iKUXo_jYRZ5WRwyrUDQYBw/o.jpg",
+    "name": "La Cevicheria",
+    "alias": "la-cevicheria-chihuahua",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Seafood, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "Marina S/N",
+    "city_from_postal": "Chihuahua",
+    "city": "Chihuahua",
+    "zip_code": "31065",
+    "country_code": "MX",
+    "state_code": "CHH",
+    "phone": "",
+    "review_count": 15,
+    "snippets": []
+  }
+}

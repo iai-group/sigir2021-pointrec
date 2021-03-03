@@ -1,0 +1,40 @@
+{
+  "474632": {
+    "url": "https://www.yelp.com/biz/o-burgo-lous%C3%A3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JfWu3_Qy_llVS2NhlYvx7Q/o.jpg",
+    "name": "O Burgo",
+    "alias": "o-burgo-lousã",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, Modern European, Mediterranean, ",
+    "rating": 4.5,
+    "price": "€€",
+    "address": "Senhora da Piedade",
+    "city_from_postal": "Lousã",
+    "city": "Lousã",
+    "zip_code": "3200-000",
+    "country_code": "PT",
+    "state_code": "06",
+    "phone": "+351239991162",
+    "review_count": 2,
+    "snippets": []
+  },
+  "533669": {
+    "url": "https://www.yelp.com/biz/solar-do-adro-lous%C3%A3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sCGNRnAsEf7j7LCF67WbUA/o.jpg",
+    "name": "Solar do Adro",
+    "alias": "solar-do-adro-lousã",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Tea Rooms, ",
+    "rating": 4.0,
+    "price": "€",
+    "address": "Praça Cândido dos Reis",
+    "city_from_postal": "Lousã",
+    "city": "Lousã",
+    "zip_code": "3200-209",
+    "country_code": "PT",
+    "state_code": "06",
+    "phone": "+351239994093",
+    "review_count": 1,
+    "snippets": []
+  }
+}

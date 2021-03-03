@@ -1,0 +1,40 @@
+{
+  "207543": {
+    "url": "https://www.yelp.com/biz/camelo-marbella?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qO--SRLwiNfGGKAPeSGHpA/o.jpg",
+    "name": "Camelo",
+    "alias": "camelo-marbella",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, ",
+    "rating": 5.0,
+    "price": "€€",
+    "address": "Avenida María de Salamanca, 3",
+    "city_from_postal": "Marbella",
+    "city": "Marbella",
+    "zip_code": "29601",
+    "country_code": "ES",
+    "state_code": "MA",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "467043": {
+    "url": "https://www.yelp.com/biz/garum-marbella-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kOCu1NRpfB3b2ZyILLDGZg/o.jpg",
+    "name": "Garum",
+    "alias": "garum-marbella-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Spanish, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Avenida de La Fontanilla, 15",
+    "city_from_postal": "Marbella",
+    "city": "Marbella",
+    "zip_code": "29602",
+    "country_code": "ES",
+    "state_code": "MA",
+    "phone": "+34952858858",
+    "review_count": 2,
+    "snippets": []
+  }
+}

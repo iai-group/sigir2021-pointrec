@@ -1,0 +1,21 @@
+{
+  "636165": {
+    "url": "https://www.yelp.com/biz/manege-ludanchelo-hoeve-wateren?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hKDfGdEk30IhG5vX-cv05A/o.jpg",
+    "name": "Manege Ludanchelo Hoeve",
+    "alias": "manege-ludanchelo-hoeve-wateren",
+    "main_category": "Active Life",
+    "sub_categories": "Horseback Riding, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Wateren 15",
+    "city_from_postal": "Westerveld",
+    "city": "Wateren",
+    "zip_code": "8438 SB",
+    "country_code": "NL",
+    "state_code": "DR",
+    "phone": "+31521387506",
+    "review_count": 1,
+    "snippets": []
+  }
+}

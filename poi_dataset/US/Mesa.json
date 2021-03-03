@@ -1,0 +1,40 @@
+{
+  "81804": {
+    "url": "https://www.yelp.com/biz/adventure-bound-usa-grand-junction?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HDIRlIChxnEJ1AM69DUGGw/o.jpg",
+    "name": "Adventure Bound USA",
+    "alias": "adventure-bound-usa-grand-junction",
+    "main_category": "Active Life",
+    "sub_categories": "Rafting/Kayaking, Sports Clubs, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "2392 H Rd",
+    "city_from_postal": "Mesa",
+    "city": "Grand Junction",
+    "zip_code": "81505",
+    "country_code": "US",
+    "state_code": "CO",
+    "phone": "+19702455428",
+    "review_count": 8,
+    "snippets": []
+  },
+  "677201": {
+    "url": "https://www.yelp.com/biz/desert-mountain-shuttle-fruita?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4IjeeVJa5SnBcx-aTms6Ag/o.jpg",
+    "name": "Desert Mountain Shuttle",
+    "alias": "desert-mountain-shuttle-fruita",
+    "main_category": "Active Life",
+    "sub_categories": "Mountain Biking, Paddleboarding, Hiking, ",
+    "rating": 5.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Mesa",
+    "city": "Fruita",
+    "zip_code": "81521",
+    "country_code": "US",
+    "state_code": "CO",
+    "phone": "+19708521928",
+    "review_count": 4,
+    "snippets": []
+  }
+}

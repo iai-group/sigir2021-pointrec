@@ -1,0 +1,21 @@
+{
+  "426773": {
+    "url": "https://www.yelp.com/biz/tequila-mama-lucia-mezcales?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YbK08WATuLcUQkkKh_XzFA/o.jpg",
+    "name": "Tequila-Mama Lucia",
+    "alias": "tequila-mama-lucia-mezcales",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Distilleries, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Puesta de Sol 197",
+    "city_from_postal": "Veracruz",
+    "city": "Mezcales",
+    "zip_code": "91780",
+    "country_code": "MX",
+    "state_code": "NAY",
+    "phone": "+523292965189",
+    "review_count": 6,
+    "snippets": []
+  }
+}

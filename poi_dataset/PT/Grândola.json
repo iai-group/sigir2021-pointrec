@@ -1,0 +1,21 @@
+{
+  "196630": {
+    "url": "https://www.yelp.com/biz/pastelaria-favo-de-mel-gr%C3%A2ndola?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tQ8FzthHArBslTtviNJBgg/o.jpg",
+    "name": "Pastelaria Favo de Mel",
+    "alias": "pastelaria-favo-de-mel-grândola",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Custom Cakes, Patisserie/Cake Shop, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "R. do Bocage, 22",
+    "city_from_postal": "Grândola",
+    "city": "Grândola",
+    "zip_code": "7570-231",
+    "country_code": "PT",
+    "state_code": "15",
+    "phone": "+351269451937",
+    "review_count": 1,
+    "snippets": []
+  }
+}

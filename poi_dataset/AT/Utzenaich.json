@@ -1,0 +1,21 @@
+{
+  "387593": {
+    "url": "https://www.yelp.com/biz/jausenstube-zum-streif-utzenaich?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zmbj564SFYA-Y9cGvNQrtA/o.jpg",
+    "name": "Jausenstube zum Streif",
+    "alias": "jausenstube-zum-streif-utzenaich",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Beer Garden, Austrian, ",
+    "rating": 5.0,
+    "price": "€€",
+    "address": "Rabenfurter Str. 1",
+    "city_from_postal": "Utzenaich",
+    "city": "Utzenaich",
+    "zip_code": "4972",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4377518277",
+    "review_count": 1,
+    "snippets": []
+  }
+}

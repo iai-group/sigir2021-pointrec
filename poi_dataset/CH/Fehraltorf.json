@@ -1,0 +1,21 @@
+{
+  "108436": {
+    "url": "https://www.yelp.com/biz/im-speck-fehraltorf?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/baAzF_fk2eZm3L5dUmH4fQ/o.jpg",
+    "name": "im Speck",
+    "alias": "im-speck-fehraltorf",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, Swiss Food, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Flugplatz Speck",
+    "city_from_postal": "Fehraltorf",
+    "city": "Fehraltorf",
+    "zip_code": "8320",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41449541712",
+    "review_count": 1,
+    "snippets": []
+  }
+}

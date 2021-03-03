@@ -1,0 +1,21 @@
+{
+  "568772": {
+    "url": "https://www.yelp.com/biz/cineplexx-hohenems?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2s3J_fRcFkz2-K8Eqe8zGA/o.jpg",
+    "name": "Cineplexx",
+    "alias": "cineplexx-hohenems",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Cinema, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Lustenauerstr. 112",
+    "city_from_postal": "Hohenems",
+    "city": "Hohenems",
+    "zip_code": "6845",
+    "country_code": "AT",
+    "state_code": "8",
+    "phone": "+43557674499",
+    "review_count": 6,
+    "snippets": []
+  }
+}

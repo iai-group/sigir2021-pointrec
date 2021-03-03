@@ -1,0 +1,21 @@
+{
+  "106706": {
+    "url": "https://www.yelp.com/biz/schweizer-festungs-und-milit%C3%A4rmuseum-full-reuenthal?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zsCxSFgrhzhp-IR-2uANjA/o.jpg",
+    "name": "Schweizer Festungs- und Militärmuseum",
+    "alias": "schweizer-festungs-und-militärmuseum-full-reuenthal",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "General Guisan-Strasse 1",
+    "city_from_postal": "Full-Reuenthal",
+    "city": "Full-Reuenthal",
+    "zip_code": "5324",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41627723606",
+    "review_count": 1,
+    "snippets": []
+  }
+}

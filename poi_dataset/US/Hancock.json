@@ -1,0 +1,21 @@
+{
+  "376110": {
+    "url": "https://www.yelp.com/biz/pizza-hut-bay-saint-louis-5?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eFXbT84dliQR1gMft0lXXw/o.jpg",
+    "name": "Pizza Hut",
+    "alias": "pizza-hut-bay-saint-louis-5",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, Chicken Wings, ",
+    "rating": 2.5,
+    "price": "$",
+    "address": "599 Hwy 90",
+    "city_from_postal": "Hancock",
+    "city": "Bay Saint Louis",
+    "zip_code": "39520",
+    "country_code": "US",
+    "state_code": "MS",
+    "phone": "+12284673155",
+    "review_count": 3,
+    "snippets": []
+  }
+}

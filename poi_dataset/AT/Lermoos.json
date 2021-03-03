@@ -1,0 +1,40 @@
+{
+  "127348": {
+    "url": "https://www.yelp.com/biz/winelounge-lermoos?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VfMiGiJvh3ctBc88xJmRiQ/o.jpg",
+    "name": "Winelounge",
+    "alias": "winelounge-lermoos",
+    "main_category": "Nightlife",
+    "sub_categories": "Lounges, ",
+    "rating": 5.0,
+    "price": "€€",
+    "address": "Danielstr. 3",
+    "city_from_postal": "Lermoos",
+    "city": "Lermoos",
+    "zip_code": "6631",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+4356732424",
+    "review_count": 5,
+    "snippets": []
+  },
+  "244853": {
+    "url": "https://www.yelp.com/biz/sporthotel-zugspitze-lermoos?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/w5D9ENrs-48nOgHaFRcL9w/o.jpg",
+    "name": "Sporthotel Zugspitze",
+    "alias": "sporthotel-zugspitze-lermoos",
+    "main_category": "Nightlife",
+    "sub_categories": "Nightlife, Hotels, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Innsbrucker Str. 51",
+    "city_from_postal": "Lermoos",
+    "city": "Lermoos",
+    "zip_code": "6631",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+4356732630",
+    "review_count": 1,
+    "snippets": []
+  }
+}

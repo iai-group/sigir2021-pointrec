@@ -1,0 +1,40 @@
+{
+  "428738": {
+    "url": "https://www.yelp.com/biz/jacks-vishandel-marken?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RUM7nSAqtaoVj0bYbWbLlA/o.jpg",
+    "name": "Jack's Vishandel",
+    "alias": "jacks-vishandel-marken",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fishmonger, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Havenbuurt 19 A",
+    "city_from_postal": "Waterland",
+    "city": "Marken",
+    "zip_code": "1156 AL",
+    "country_code": "NL",
+    "state_code": "NH",
+    "phone": "+31651206064",
+    "review_count": 1,
+    "snippets": []
+  },
+  "490437": {
+    "url": "https://www.yelp.com/biz/restaurant-dijks-watergang?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tVhOn6uu352zGFTNZw7U7w/o.jpg",
+    "name": "Restaurant Dijks",
+    "alias": "restaurant-dijks-watergang",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Gastropubs, ",
+    "rating": 3.0,
+    "price": "€€",
+    "address": "Kanaaldijk 119",
+    "city_from_postal": "Waterland",
+    "city": "Watergang",
+    "zip_code": "1454 AE",
+    "country_code": "NL",
+    "state_code": "NH",
+    "phone": "+31202801871",
+    "review_count": 6,
+    "snippets": []
+  }
+}

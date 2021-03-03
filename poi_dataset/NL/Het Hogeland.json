@@ -1,0 +1,21 @@
+{
+  "494508": {
+    "url": "https://www.yelp.com/biz/de-oude-smidse-westernieland?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "De Oude Smidse",
+    "alias": "de-oude-smidse-westernieland",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Dirk Wierengastraat 36",
+    "city_from_postal": "Het Hogeland",
+    "city": "Westernieland",
+    "zip_code": "9969 PD",
+    "country_code": "NL",
+    "state_code": "GR",
+    "phone": "+31595528620",
+    "review_count": 1,
+    "snippets": []
+  }
+}

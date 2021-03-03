@@ -1,0 +1,40 @@
+{
+  "294475": {
+    "url": "https://www.yelp.com/biz/suype-la-algaba?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Roywi1vRFnx0GmD6z4fRuQ/o.jpg",
+    "name": "Suype",
+    "alias": "suype-la-algaba",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, Desserts, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Calle Huerta, 8",
+    "city_from_postal": "Algaba, La",
+    "city": "La Algaba",
+    "zip_code": "41980",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34955788666",
+    "review_count": 1,
+    "snippets": []
+  },
+  "648780": {
+    "url": "https://www.yelp.com/biz/puente-viejo-la-algaba?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Puente Viejo",
+    "alias": "puente-viejo-la-algaba",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Spanish, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Calle Neben Gymnasium",
+    "city_from_postal": "Algaba, La",
+    "city": "La Algaba",
+    "zip_code": "41980",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

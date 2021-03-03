@@ -1,0 +1,21 @@
+{
+  "91827": {
+    "url": "https://www.yelp.com/biz/de-waag-doesburg?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gpJrFhKTb4xdsem6E9JRzg/o.jpg",
+    "name": "De Waag",
+    "alias": "de-waag-doesburg",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, ",
+    "rating": 4.5,
+    "price": "€€",
+    "address": "Koepoortstraat 2  4",
+    "city_from_postal": "Doesburg",
+    "city": "Doesburg",
+    "zip_code": "6981 AS",
+    "country_code": "NL",
+    "state_code": "GE",
+    "phone": "+31313479617",
+    "review_count": 3,
+    "snippets": []
+  }
+}

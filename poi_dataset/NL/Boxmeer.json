@@ -1,0 +1,40 @@
+{
+  "330630": {
+    "url": "https://www.yelp.com/biz/caf%C3%A9-de-wildeman-vierlingsbeek?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Café De Wildeman",
+    "alias": "café-de-wildeman-vierlingsbeek",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Brasseries, Cafes, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Grotestraat 38",
+    "city_from_postal": "Boxmeer",
+    "city": "Vierlingsbeek",
+    "zip_code": "5821 AG",
+    "country_code": "NL",
+    "state_code": "NB",
+    "phone": "+31478631553",
+    "review_count": 1,
+    "snippets": []
+  },
+  "348027": {
+    "url": "https://www.yelp.com/biz/restaurant-poort-van-loon-vierlingsbeek?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Poort Van Loon",
+    "alias": "restaurant-poort-van-loon-vierlingsbeek",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Modern European, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Overloonseweg 10a",
+    "city_from_postal": "Boxmeer",
+    "city": "Vierlingsbeek",
+    "zip_code": "5821 EE",
+    "country_code": "NL",
+    "state_code": "NB",
+    "phone": "+31478226080",
+    "review_count": 1,
+    "snippets": []
+  }
+}

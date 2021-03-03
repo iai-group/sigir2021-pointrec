@@ -1,0 +1,21 @@
+{
+  "33634": {
+    "url": "https://www.yelp.com/biz/kfc-ankara-3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pHDvcYJ8zptGuALVS0-Y2w/o.jpg",
+    "name": "KFC",
+    "alias": "kfc-ankara-3",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fast Food, Chicken Shop, Chicken Wings, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Ankuva AVM",
+    "city_from_postal": "Çankaya",
+    "city": "Ankara",
+    "zip_code": "06800",
+    "country_code": "TR",
+    "state_code": "06",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "323805": {
+    "url": "https://www.yelp.com/biz/stenbohus-ribe-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/N6v0Y_Z24S_dwr-oTzUIpw/o.jpg",
+    "name": "Stenbohus",
+    "alias": "stenbohus-ribe-2",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, ",
+    "rating": 5.0,
+    "price": "$$",
+    "address": "Stenbogade 1",
+    "city_from_postal": "Esbjerg Kommune",
+    "city": "Ribe",
+    "zip_code": "6760",
+    "country_code": "DK",
+    "state_code": "83",
+    "phone": "+4575420122",
+    "review_count": 1,
+    "snippets": []
+  }
+}

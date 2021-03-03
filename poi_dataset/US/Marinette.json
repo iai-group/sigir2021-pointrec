@@ -1,0 +1,21 @@
+{
+  "48221": {
+    "url": "https://www.yelp.com/biz/big-bear-outpost-silver-cliff?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/67kkG0FmyfxqVlE2YqQmEA/o.jpg",
+    "name": "Big Bear Outpost",
+    "alias": "big-bear-outpost-silver-cliff",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "W13504 CR-C",
+    "city_from_postal": "Marinette",
+    "city": "Silver Cliff",
+    "zip_code": "54104",
+    "country_code": "US",
+    "state_code": "WI",
+    "phone": "+17157573777",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "579004": {
+    "url": "https://www.yelp.com/biz/caf%C3%A9-restaurant-dikt-rotterdam?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Café Restaurant DikT",
+    "alias": "café-restaurant-dikt-rotterdam",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Gastropubs, ",
+    "rating": 3.5,
+    "price": "€€",
+    "address": "Hoogstraat 110",
+    "city_from_postal": "Purkersdorf",
+    "city": "Rotterdam",
+    "zip_code": "3011",
+    "country_code": "AT",
+    "state_code": "ZH",
+    "phone": "+43104139823",
+    "review_count": 4,
+    "snippets": []
+  }
+}

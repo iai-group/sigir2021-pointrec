@@ -1,0 +1,82 @@
+{
+  "458873": {
+    "url": "https://www.yelp.com/biz/tierra-de-las-especias-madrid?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0pEt_N09aSEi-RMmRl-LKw/o.jpg",
+    "name": "Tierra de las Especias",
+    "alias": "tierra-de-las-especias-madrid",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Indian, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Calle de Alcala, 414",
+    "city_from_postal": "Villalbilla",
+    "city": "Madrid",
+    "zip_code": "28810",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34915027775",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g187514-d10523807-Reviews-Tierra_de_Especias_halal-Madrid.html",
+        "snippet": "Reserva Tierra de Especias, Madrid en Tripadvisor: ... Quizas excesivo el precio de las samosas de pollo, por 6€ dos de ellas de tamaño mediano/pequeño, y algo secas en el interior. pollo tikka masala y el butter chiken, ambos muy buenos, ...",
+        "title": "TIERRA DE ESPECIAS, Madrid - Pueblo Nuevo - Menú, Precios ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g187514-d10523807-Reviews-Tierra_de_Especias_halal-Madrid.html",
+        "snippet": "Order food online at Tierra de Especias halal, Madrid with Tripadvisor: See 72 unbiased reviews of Tierra de Especias halal, ranked #2,293 on Tripadvisor among 11,660 restaurants in Madrid.",
+        "title": "Tierra de Especias halal, Madrid - Pueblo Nuevo - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g187514-d10523807-Reviews-Tierra_de_Especias_halal-Madrid.html",
+        "snippet": "Tierra de Especias halal, Madrid: Se 72 objektive anmeldelser av Tierra de Especias halal, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 2 293 av 11 660 restauranter i Madrid.",
+        "title": "Tierra de Especias halal, Madrid - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g187514-d10523807-Reviews-or20-Tierra_de_Especias_halal-Madrid.html",
+        "snippet": "Reserva Tierra de Especias, Madrid en Tripadvisor: Consulta 72 opiniones sobre Tierra de Especias con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°2.291 de 11.650 restaurantes en Madrid.",
+        "title": "TIERRA DE ESPECIAS, Madrid - Pueblo Nuevo - Menú, Precios ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g187514-d10523807-Reviews-or30-Tierra_de_Especias_halal-Madrid.html",
+        "snippet": "Reserva Tierra de Especias, Madrid en Tripadvisor: ... Probamos uno de los menús de degustación y solo puedo decir que si bien el sabor era auténtico y aceptable, las cantidades no eran adecuadas: tanto en plato como en el número de ellos.",
+        "title": "TIERRA DE ESPECIAS, Madrid - Pueblo Nuevo - Menú, Precios ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.eltenedor.es/restaurante/tierra-de-especias-halal-r428355",
+        "snippet": "-30% en Carta - Restaurante Tierra de Especias Halal en Madrid - la información del restaurante Tierra de Especias Halal: Fotos, opiniones de usuarios, precios y menú. Reserva online de forma gratuita",
+        "title": "Restaurante Tierra de Especias Halal en Madrid, Arturo ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://restaurantguru.com/Tierra-de-Especias-Madrid",
+        "snippet": "All info on Tierra De Especias in Madrid - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.",
+        "title": "Tierra De Especias in Madrid - Restaurant menu and reviews",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/tierradeespecias/ads",
+        "snippet": "Restaurante tierra de Especias. 181 likes · 104 were here. Traemos a la ciudad de Madrid los sabores originales de la India. Comida India, Restuarante indio TDE la prepara con mucho amor.",
+        "title": "Restaurante tierra de Especias - Madrid, Spain - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.in/Restaurant_Review-g187514-d10523807-Reviews-Tierra_de_Especias_halal-Madrid.html",
+        "snippet": "Tierra de Especias halal, Madrid: See 72 unbiased reviews of Tierra de Especias halal, rated 4.5 of 5 on Tripadvisor and ranked #2,293 of 11,660 restaurants in Madrid.",
+        "title": "Tierra de Especias halal, Madrid - Pueblo Nuevo - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g187514-d10523807-r606479350-Tierra_de_Especias_halal-Madrid.html",
+        "snippet": "Tierra de Especias halal: Great food - See 72 traveler reviews, 66 candid photos, and great deals for Madrid, Spain, at Tripadvisor.",
+        "title": "Great food - Review of Tierra de Especias halal, Madrid ...",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

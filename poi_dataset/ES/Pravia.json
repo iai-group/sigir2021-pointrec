@@ -1,0 +1,82 @@
+{
+  "171957": {
+    "url": "https://www.yelp.com/biz/m%C3%A1sqmenos-barcelona-5?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/i-V57EILMuacE9LZvQajgw/o.jpg",
+    "name": "MásQMenos",
+    "alias": "másqmenos-barcelona-5",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Tapas Bars, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "C.C. Les Arenas",
+    "city_from_postal": "Pravia",
+    "city": "Barcelona",
+    "zip_code": "33127",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34932925312",
+    "review_count": 8,
+    "snippets": [
+      {
+        "url": "https://www.masqmenos.com/",
+        "snippet": "MásQMenos es un concepto de cocina tradicional saludable con el ibérico como protagonista. Un tapas bar moderno y rentable que ofrece una experiencia gourmet única.",
+        "title": "MásQmenos. Jamón y Tapas Bar",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.masqmenos.com/en/",
+        "snippet": "MásQMenos forma parte de Cacheiro Restaurants, un consolidado grupo de restaurantes nacido en Barcelona hace más de 15 años.",
+        "title": "MásQMenos - Jamón &amp; Tapas Bar",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g187497-d2446017-Reviews-MasQMenos_Las_Arenas-Barcelona_Catalonia.html",
+        "snippet": "MasQMenos Las Arenas, Barcelona: Se 311 objektive anmeldelser av MasQMenos Las Arenas, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 2 668 av 10 155 restauranter i Barcelona.",
+        "title": "MasQMenos Las Arenas, Barcelona - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g187497-d3880002-Reviews-MasQMenos_Rambla_46-Barcelona_Catalonia.html",
+        "snippet": "MasQMenos Rambla 46, Barcelona: Se 342 objektive anmeldelser av MasQMenos Rambla 46, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 3 809 av 10 129 restauranter i Barcelona.",
+        "title": "MasQMenos Rambla 46, Barcelona - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g187497-d2446017-Reviews-MasQMenos_Las_Arenas-Barcelona_Catalonia.html",
+        "snippet": "MasQMenos Las Arenas, Barcelona: See 311 unbiased reviews of MasQMenos Las Arenas, rated 3.5 of 5 on Tripadvisor and ranked #2,665 of 10,155 restaurants in Barcelona.",
+        "title": "MasQMenos Las Arenas, Barcelona - La Nova Esquerra de l ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g187497-d3880002-Reviews-MasQMenos_Rambla_46-Barcelona_Catalonia.html",
+        "snippet": "Order food online at MasQMenos Rambla 46, Barcelona with Tripadvisor: See 342 unbiased reviews of MasQMenos Rambla 46, ranked #3,812 on Tripadvisor among 10,136 restaurants in Barcelona.",
+        "title": "MasQMenos Rambla 46, Barcelona - La Dreta de l&#39;Eixample ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g187497-d5608888-Reviews-Masqmenos_Consell_de_Cent-Barcelona_Catalonia.html",
+        "snippet": "Masqmenos - Consell de Cent, Barcelona: Se 80 objektive anmeldelser av Masqmenos - Consell de Cent, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 4 048 av 10 137 restauranter i Barcelona.",
+        "title": "Masqmenos - Consell de Cent, Barcelona ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/ShowUserReviews-g187497-d3880002-r310298099-MasQMenos_Rambla_46-Barcelona_Catalonia.html",
+        "snippet": "MasQMenos Rambla 46: Tapas - Se 342 reiseanmeldelser, 136 objektive bilder og gode tilbud på Barcelona, Spania på Tripadvisor.",
+        "title": "Tapas - Anmeldelse for MasQMenos Rambla 46, Barcelona ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/ShowUserReviews-g187497-d2446017-r462550636-MasQMenos_Las_Arenas-Barcelona_Catalonia.html",
+        "snippet": "MasQMenos Las Arenas: God og rimelig lunch - Se 311 reiseanmeldelser, 121 objektive bilder og gode tilbud på Barcelona, Spania på Tripadvisor.",
+        "title": "God og rimelig lunch - Anmeldelse for MasQMenos Las Arenas ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g187497-d3880002-Reviews-MasQMenos_Rambla_46-Barcelona_Catalonia.html",
+        "snippet": "MásQMenos Rambla 46, Barcelona: Consulta 342 opiniones sobre MásQMenos Rambla 46 con puntuación 3,5 de 5 y clasificado en Tripadvisor N.°3.809 de 10.155 restaurantes en Barcelona.",
+        "title": "MÁSQMENOS RAMBLA 46, Barcelona - La Dreta de l&#39;Eixample ...",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

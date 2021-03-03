@@ -1,0 +1,21 @@
+{
+  "334036": {
+    "url": "https://www.yelp.com/biz/iguana-caxtle-la-cruz?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CYR6_m1FQ1le6WyfIukOZw/o.jpg",
+    "name": "Iguana Caxtle",
+    "alias": "iguana-caxtle-la-cruz",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Mexican, Breakfast & Brunch, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Camarón S/N",
+    "city_from_postal": "La Cruz",
+    "city": "La Cruz",
+    "zip_code": "82706",
+    "country_code": "MX",
+    "state_code": "SIN",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

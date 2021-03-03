@@ -1,0 +1,21 @@
+{
+  "140477": {
+    "url": "https://www.yelp.com/biz/%E3%82%A8%E3%83%AB%E3%83%93%E3%82%B9-%E3%82%AD%E3%83%B3%E3%82%B0-%E3%82%AA%E3%83%96-%E3%82%B1%E3%83%90%E3%83%96-%E8%99%BB%E7%94%B0%E9%83%A1?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business",
+    "image_url": "",
+    "name": "Elvis King of Kebab",
+    "alias": "エルビス-キング-オブ-ケバブ-虻田郡",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Kebab, Food Trucks, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "アザ山田170-43",
+    "city_from_postal": "Kutchan Cho",
+    "city": "虻田郡",
+    "zip_code": "044-0081",
+    "country_code": "JP",
+    "state_code": "01",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

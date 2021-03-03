@@ -1,0 +1,40 @@
+{
+  "402373": {
+    "url": "https://www.yelp.com/biz/la-taverna-del-castello-fiuggi?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OQa5SWJ-w9E-0XmU_jO61A/o.jpg",
+    "name": "La Taverna del Castello",
+    "alias": "la-taverna-del-castello-fiuggi",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Roman, Trattorie, Venison, ",
+    "rating": 4.5,
+    "price": "€€€",
+    "address": "Via Del Soldato Ignoto",
+    "city_from_postal": "Frosinone",
+    "city": "Fiuggi",
+    "zip_code": "03014",
+    "country_code": "IT",
+    "state_code": "FR",
+    "phone": "+390775515004",
+    "review_count": 2,
+    "snippets": []
+  },
+  "606765": {
+    "url": "https://www.yelp.com/biz/factory-club-ceprano-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Factory Club",
+    "alias": "factory-club-ceprano-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, Beer Bar, Cocktail Bars, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Via Vincenzo Gioberti 20",
+    "city_from_postal": "Frosinone",
+    "city": "Ceprano",
+    "zip_code": "03024",
+    "country_code": "IT",
+    "state_code": "FR",
+    "phone": "+393931063217",
+    "review_count": 1,
+    "snippets": []
+  }
+}

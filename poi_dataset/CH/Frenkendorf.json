@@ -1,0 +1,21 @@
+{
+  "637026": {
+    "url": "https://www.yelp.com/biz/gourmet-taxi-frenkendorf?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Gourmet-Taxi",
+    "alias": "gourmet-taxi-frenkendorf",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food Delivery Services, ",
+    "rating": 3.0,
+    "price": "$$",
+    "address": "Rheinstrasse 37",
+    "city_from_postal": "Frenkendorf",
+    "city": "Frenkendorf",
+    "zip_code": "4402",
+    "country_code": "CH",
+    "state_code": "BL",
+    "phone": "+41619016181",
+    "review_count": 1,
+    "snippets": []
+  }
+}

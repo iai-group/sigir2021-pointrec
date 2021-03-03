@@ -1,0 +1,40 @@
+{
+  "163010": {
+    "url": "https://www.yelp.com/biz/restaurant-eintracht-eschenz?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Eintracht",
+    "alias": "restaurant-eintracht-eschenz",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 0.0,
+    "price": null,
+    "address": "Kirchgasse 19",
+    "city_from_postal": "Eschenz",
+    "city": "Eschenz",
+    "zip_code": "8264",
+    "country_code": "CH",
+    "state_code": "TG",
+    "phone": "+41527412345",
+    "review_count": 0,
+    "snippets": []
+  },
+  "468654": {
+    "url": "https://www.yelp.com/biz/volg-eschenz?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Volg",
+    "alias": "volg-eschenz",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food, Shopping, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "Hauptstrasse 86",
+    "city_from_postal": "Eschenz",
+    "city": "Eschenz",
+    "zip_code": "8264",
+    "country_code": "CH",
+    "state_code": "TG",
+    "phone": "+41527412526",
+    "review_count": 1,
+    "snippets": []
+  }
+}

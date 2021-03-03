@@ -1,0 +1,40 @@
+{
+  "381628": {
+    "url": "https://www.yelp.com/biz/rodlwaldbad-d-gemeinde-gramastetten-gramastetten?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Rodlwaldbad d. Gemeinde Gramastetten",
+    "alias": "rodlwaldbad-d-gemeinde-gramastetten-gramastetten",
+    "main_category": "Active Life",
+    "sub_categories": "Swimming Pools, Arts & Entertainment, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Kirchleitenweg 2",
+    "city_from_postal": "Gramastetten",
+    "city": "Gramastetten",
+    "zip_code": "4201",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4372398615",
+    "review_count": 1,
+    "snippets": []
+  },
+  "586332": {
+    "url": "https://www.yelp.com/biz/restaurant-eidenberger-alm-eidenberg?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VgnH54It3pf_TiRU_1lWcA/o.jpg",
+    "name": "Restaurant Eidenberger alm",
+    "alias": "restaurant-eidenberger-alm-eidenberg",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Austrian, Wine Bars, ",
+    "rating": 3.0,
+    "price": "€€",
+    "address": "Almstr. 5",
+    "city_from_postal": "Gramastetten",
+    "city": "Eidenberg",
+    "zip_code": "4201",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4372395050",
+    "review_count": 7,
+    "snippets": []
+  }
+}

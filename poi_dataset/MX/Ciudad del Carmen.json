@@ -1,0 +1,21 @@
+{
+  "527616": {
+    "url": "https://www.yelp.com/biz/estaci%C3%B3n-55-tijuana?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/f1ehy1s2nLZmIBejwdGusw/o.jpg",
+    "name": "Estación 55",
+    "alias": "estación-55-tijuana",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Street Vendors, ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": "Blvd. Cuahtemoc Sur 2121",
+    "city_from_postal": "Ciudad del Carmen",
+    "city": "Tijuana",
+    "zip_code": "24100",
+    "country_code": "MX",
+    "state_code": "BCN",
+    "phone": "+526643244201",
+    "review_count": 3,
+    "snippets": []
+  }
+}

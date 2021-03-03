@@ -1,0 +1,21 @@
+{
+  "90424": {
+    "url": "https://www.yelp.com/biz/casa-manuel-manrique%C3%B1o-la-puebla-del-r%C3%ADo?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Casa Manuel Manriqueño",
+    "alias": "casa-manuel-manriqueño-la-puebla-del-río",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Andalusian, Spanish, Barbeque, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Poblado de Colinas, 6",
+    "city_from_postal": "Puebla del Río, La",
+    "city": "La Puebla del Río",
+    "zip_code": "41130",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34955777960",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "397473": {
+    "url": "https://www.yelp.com/biz/taverna-la-mola-stroncone?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Taverna La Mola",
+    "alias": "taverna-la-mola-stroncone",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, ",
+    "rating": 4.0,
+    "price": "€€€",
+    "address": "Via Sacramento 1",
+    "city_from_postal": "Terni",
+    "city": "Stroncone",
+    "zip_code": "05039",
+    "country_code": "IT",
+    "state_code": "TR",
+    "phone": "+390744608100",
+    "review_count": 1,
+    "snippets": []
+  }
+}

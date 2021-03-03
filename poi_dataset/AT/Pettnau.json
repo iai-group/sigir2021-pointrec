@@ -1,0 +1,21 @@
+{
+  "347635": {
+    "url": "https://www.yelp.com/biz/schwarze-katz-zirl?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Schwarze Katz",
+    "alias": "schwarze-katz-zirl",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Dorfplatz 2",
+    "city_from_postal": "Pettnau",
+    "city": "Zirl",
+    "zip_code": "6170",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+43523857070",
+    "review_count": 1,
+    "snippets": []
+  }
+}

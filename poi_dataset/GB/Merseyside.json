@@ -1,0 +1,21 @@
+{
+  "577685": {
+    "url": "https://www.yelp.com/biz/the-tavern-co-london?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "The Tavern Co",
+    "alias": "the-tavern-co-london",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Mexican, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "4 Queen Square",
+    "city_from_postal": "Merseyside",
+    "city": "London",
+    "zip_code": "L1 1RH",
+    "country_code": "GB",
+    "state_code": "XGL",
+    "phone": "+441517091070",
+    "review_count": 2,
+    "snippets": []
+  }
+}

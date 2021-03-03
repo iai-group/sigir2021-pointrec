@@ -1,0 +1,21 @@
+{
+  "626054": {
+    "url": "https://www.yelp.com/biz/gasthof-zum-kirchenwirt-puch-bei-hallein?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Gasthof zum Kirchenwirt",
+    "alias": "gasthof-zum-kirchenwirt-puch-bei-hallein",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Austrian, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Halleiner Landesstr. 28",
+    "city_from_postal": "Puch bei Hallein",
+    "city": "Puch bei Hallein",
+    "zip_code": "5412",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+43624583134",
+    "review_count": 1,
+    "snippets": []
+  }
+}

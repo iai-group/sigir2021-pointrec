@@ -1,0 +1,21 @@
+{
+  "525486": {
+    "url": "https://www.yelp.com/biz/aarem%C3%BCndung-koblenz?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ft9eG26FLvJSABO8QXP7cA/o.jpg",
+    "name": "Aaremündung",
+    "alias": "aaremündung-koblenz",
+    "main_category": "Active Life",
+    "sub_categories": "Active Life, ",
+    "rating": 5.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Koblenz",
+    "city": "Koblenz",
+    "zip_code": "5322",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

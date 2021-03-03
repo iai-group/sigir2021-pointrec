@@ -1,0 +1,21 @@
+{
+  "631522": {
+    "url": "https://www.yelp.com/biz/gottfried-keller-zentrum-stiftung-glattfelden-3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yr2idDudFbv6PyquP223kA/o.jpg",
+    "name": "Gottfried-keller-zentrum Stiftung",
+    "alias": "gottfried-keller-zentrum-stiftung-glattfelden-3",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Gottfried-Kellerstrasse 8",
+    "city_from_postal": "Glattfelden",
+    "city": "Glattfelden",
+    "zip_code": "8192",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41448672232",
+    "review_count": 1,
+    "snippets": []
+  }
+}

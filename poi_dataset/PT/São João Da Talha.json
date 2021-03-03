@@ -1,0 +1,21 @@
+{
+  "206729": {
+    "url": "https://www.yelp.com/biz/figueira-em-flor-s%C3%A3o-jo%C3%A3o-da-talha?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9OvjB1RBcm4Qlxz8NK907g/o.jpg",
+    "name": "Figueira em Flor",
+    "alias": "figueira-em-flor-são-joão-da-talha",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Patisserie/Cake Shop, Bakeries, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "R. da Escola, 40",
+    "city_from_postal": "São João Da Talha",
+    "city": "São João da talha",
+    "zip_code": "2695-583",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219554025",
+    "review_count": 1,
+    "snippets": []
+  }
+}

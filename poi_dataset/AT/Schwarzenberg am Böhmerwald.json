@@ -1,0 +1,21 @@
+{
+  "658230": {
+    "url": "https://www.yelp.com/biz/eisner-schwarzenberg-b%C3%B6hmerwald?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Eisner",
+    "alias": "eisner-schwarzenberg-böhmerwald",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food, Restaurants, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Nr. 129",
+    "city_from_postal": "Schwarzenberg am Böhmerwald",
+    "city": "Schwarzenberg/Böhmerwald",
+    "zip_code": "4164",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+43728020120",
+    "review_count": 1,
+    "snippets": []
+  }
+}

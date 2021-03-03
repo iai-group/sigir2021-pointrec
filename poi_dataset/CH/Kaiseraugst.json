@@ -1,0 +1,40 @@
+{
+  "4892": {
+    "url": "https://www.yelp.com/biz/pen-thai-food-kaiseraugst?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3B8ZgFoSXpgoqkjMd7fm5Q/o.jpg",
+    "name": "Pen Thai Food",
+    "alias": "pen-thai-food-kaiseraugst",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Chinese, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Falkenweg 11",
+    "city_from_postal": "Kaiseraugst",
+    "city": "Kaiseraugst",
+    "zip_code": "4303",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41794559633",
+    "review_count": 4,
+    "snippets": []
+  },
+  "428826": {
+    "url": "https://www.yelp.com/biz/hallenbad-liebr%C3%BCti-kaiseraugst?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Hallenbad Liebrüti",
+    "alias": "hallenbad-liebrüti-kaiseraugst",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Arts & Entertainment, Public Services & Government, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Liebrütistrasse 39",
+    "city_from_postal": "Kaiseraugst",
+    "city": "Kaiseraugst",
+    "zip_code": "4303",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41618114413",
+    "review_count": 1,
+    "snippets": []
+  }
+}

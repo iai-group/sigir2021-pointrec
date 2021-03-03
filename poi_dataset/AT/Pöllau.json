@@ -1,0 +1,21 @@
+{
+  "705969": {
+    "url": "https://www.yelp.com/biz/alpenkr%C3%A4utergarten-p%C3%B6llau-bei-hartberg?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kQ1BAWJb7lhXFSzNmz1hnQ/o.jpg",
+    "name": "Alpenkräutergarten",
+    "alias": "alpenkräutergarten-pöllau-bei-hartberg",
+    "main_category": "Active Life",
+    "sub_categories": "Hiking, Parks, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Rabenwald 106",
+    "city_from_postal": "Pöllau",
+    "city": "Pöllau bei Hartberg",
+    "zip_code": "8225",
+    "country_code": "AT",
+    "state_code": "6",
+    "phone": "+4333352085",
+    "review_count": 1,
+    "snippets": []
+  }
+}

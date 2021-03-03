@@ -1,0 +1,40 @@
+{
+  "57704": {
+    "url": "https://www.yelp.com/biz/reitplatz-pichler-geboltskirchen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1Z6gKAFacuETJP4VKrLvbA/o.jpg",
+    "name": "Reitplatz Pichler",
+    "alias": "reitplatz-pichler-geboltskirchen",
+    "main_category": "Active Life",
+    "sub_categories": "Horseback Riding, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Piesing 6",
+    "city_from_postal": "Geboltskirchen",
+    "city": "Geboltskirchen",
+    "zip_code": "4682",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4377323180",
+    "review_count": 1,
+    "snippets": []
+  },
+  "485878": {
+    "url": "https://www.yelp.com/biz/reiterhof-herbert-pichler-geboltskirchen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MRw8NHccj5VPGF4iTBX_Bw/o.jpg",
+    "name": "Reiterhof Herbert Pichler",
+    "alias": "reiterhof-herbert-pichler-geboltskirchen",
+    "main_category": "Event Planning & Services",
+    "sub_categories": "Hotels, Horseback Riding, Restaurants, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Frei 1",
+    "city_from_postal": "Geboltskirchen",
+    "city": "Geboltskirchen",
+    "zip_code": "4682",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4377323512x0",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "137478": {
+    "url": "https://www.yelp.com/biz/minigolf-park-m%C3%BCllheim-m%C3%BCllheim-dorf?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Minigolf-Park Müllheim",
+    "alias": "minigolf-park-müllheim-müllheim-dorf",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Arts & Entertainment, Public Services & Government, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Frauenfelderstrasse 37",
+    "city_from_postal": "Müllheim",
+    "city": "Müllheim Dorf",
+    "zip_code": "8555",
+    "country_code": "CH",
+    "state_code": "TG",
+    "phone": "+41527627771",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "418595": {
+    "url": "https://www.yelp.com/biz/lounsk%C3%BD-%C5%BEejdl%C3%ADk-louny?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/I6GaGLRT0PHFOby02HLqmg/o.jpg",
+    "name": "Lounský Žejdlík",
+    "alias": "lounský-žejdlík-louny",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Czech, Pubs, Breweries, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Rybalkova 1323",
+    "city_from_postal": "Louny",
+    "city": "Louny",
+    "zip_code": "440 01",
+    "country_code": "CZ",
+    "state_code": "US",
+    "phone": "+420731453082",
+    "review_count": 1,
+    "snippets": []
+  }
+}

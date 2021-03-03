@@ -1,0 +1,21 @@
+{
+  "463279": {
+    "url": "https://www.yelp.com/biz/la-luna-coria-del-r%C3%ADo?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8ImRuZaKIM1sivxVbEfrhw/o.jpg",
+    "name": "La Luna",
+    "alias": "la-luna-coria-del-río",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, Irish, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Avenida de Andalucia",
+    "city_from_postal": "Coria del Río",
+    "city": "Coria del Río",
+    "zip_code": "41100",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34615188477",
+    "review_count": 2,
+    "snippets": []
+  }
+}

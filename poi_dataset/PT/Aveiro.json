@@ -1,0 +1,40 @@
+{
+  "424370": {
+    "url": "https://www.yelp.com/biz/rosa-biscoito-aveiro?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XSyeblteJBMOh0ShanGwoQ/o.jpg",
+    "name": "Rosa Biscoito",
+    "alias": "rosa-biscoito-aveiro",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, Desserts, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Alameda do Casino, s/n",
+    "city_from_postal": "Luso",
+    "city": "Aveiro",
+    "zip_code": "3050-224",
+    "country_code": "PT",
+    "state_code": "20",
+    "phone": "+351919701310",
+    "review_count": 2,
+    "snippets": []
+  },
+  "468311": {
+    "url": "https://www.yelp.com/biz/parque-infante-d-pedro-aveiro?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YvxwktCF92c1rWIOWovbFw/o.jpg",
+    "name": "Parque Infante D. Pedro",
+    "alias": "parque-infante-d-pedro-aveiro",
+    "main_category": "Active Life",
+    "sub_categories": "Parks, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Av. de Artur Ravara",
+    "city_from_postal": "Aveiro",
+    "city": "Aveiro",
+    "zip_code": "3810-096",
+    "country_code": "PT",
+    "state_code": "01",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

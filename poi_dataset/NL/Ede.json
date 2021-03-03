@@ -1,0 +1,21 @@
+{
+  "706220": {
+    "url": "https://www.yelp.com/biz/kr%C3%B6ller-m%C3%BCller-museum-otterlo-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yuUWgUSARQKZQR38irJW_A/o.jpg",
+    "name": "Kröller-Müller Museum",
+    "alias": "kröller-müller-museum-otterlo-2",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Houtkampweg 6",
+    "city_from_postal": "Ede",
+    "city": "Otterlo",
+    "zip_code": "6731 AW",
+    "country_code": "NL",
+    "state_code": "GE",
+    "phone": "+31318591241",
+    "review_count": 22,
+    "snippets": []
+  }
+}

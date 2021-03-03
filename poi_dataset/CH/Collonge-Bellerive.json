@@ -1,0 +1,101 @@
+{
+  "519086": {
+    "url": "https://www.yelp.com/biz/la-belotte-vesenaz-5?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6C3BXgYmGtXbeSpUCPw_RA/o.jpg",
+    "name": "La Belotte",
+    "alias": "la-belotte-vesenaz-5",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "French, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Chemin des Pêcheurs 11",
+    "city_from_postal": "Collonge-Bellerive",
+    "city": "Vesenaz",
+    "zip_code": "1222",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41223006888",
+    "review_count": 4,
+    "snippets": []
+  },
+  "686106": {
+    "url": "https://www.yelp.com/biz/molino-gen%C3%A8ve-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oIVYd914Ue8ljRzmMyp_OQ/o.jpg",
+    "name": "Molino",
+    "alias": "molino-genève-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 2.5,
+    "price": null,
+    "address": "centre commercial La Praille",
+    "city_from_postal": "Collonge-Bellerive",
+    "city": "Geneva",
+    "zip_code": "1222",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://molino.ch/en/pizzeria-ristorante-molino-molard",
+        "snippet": "You can reserve your table at 022 317 40 00. You can also taste our delicious pizzas in one of our other Molino, in Balexert, Thônex or Carouge - www.molino.ch. We are already looking forward to welcoming you for the grand reopening of our establishment the Pizzeria Ristorante Molino Molard on 24th April 2020. A presto al Molino!",
+        "title": "Pizzeria Ristorante Molino, Molard | Molino",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://molino.ch/fr/pizzeria-ristorante-molino-molard",
+        "snippet": "Vous pouvez également déguster nos délicieuses pizzas dans un de nos autres Molino, à Balexert, Thônex ou encore Carouge – www.molino.ch. Nous nous réjouissons déjà de vous accueillir pour la grande réouverture de notre établissement la Pizzeria Ristorante Molino Molard le 24 avril 2020.",
+        "title": "Pizzeria Ristorante Molino Molard | Molino",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://molino.ch/en/pizzeria-ristorante-molino-balexert",
+        "snippet": "Ja, ich willige ein, dass Pizzeria Ristorante Molino mir an meine E-Mail-Adresse(n) Informationen und Werbung für eigene Angebote übermitteln darf. Ich weiss, dass ich diese Einwilligungen jederzeit widerrufen kann.",
+        "title": "Pizzeria Ristorante Molino Balexert | Molino",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g188057-d1319335-Reviews-Pizzeria_Ristorante_Molino_Molard_Geneve_UNDER_RECONSTRUCTION-Geneva.html",
+        "snippet": "Pizzeria Ristorante Molino, Molard Geneve UNDER RECONSTRUCTION, Geneva: See 922 unbiased reviews of Pizzeria Ristorante Molino, Molard Geneve UNDER RECONSTRUCTION, rated 3.5 of 5 on Tripadvisor and ranked #373 of 1,764 restaurants in Geneva.",
+        "title": "Pizzeria Ristorante Molino, Molard Geneve UNDER ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://molino.ch/en/pizzeria-ristorante-molino-frauenfeld",
+        "snippet": "For those quick cups of espresso or those evening aperitifs, let us welcome you in our Molino Bar. Here you can have a Negroni made to taste or simply choose between our house cocktail Negroni Molino and our other cocktail creations, interpreted in true Italien style.. With us you can experience Italianità 365 days a year.",
+        "title": "Pizzeria Ristorante Molino | Molino",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://molino.ch/en/pizzeria-molino-fribourg",
+        "snippet": "I am from Apulia, a region of southern Italy. I have the good fortune to be part of this big family Molino since 2013. To welcome my customers with passion and to offer them a moment of happiness, that&#39;s what makes me happy every day.",
+        "title": "Pizzeria Ristorante Molino Fribourg | Molino",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g188057-d4348505-Reviews-Pizzeria_Ristorante_Molino_Carouge_La_Praille-Geneva.html",
+        "snippet": "Pizzeria Ristorante Molino, Carouge La Praille, Geneva: See 198 unbiased reviews of Pizzeria Ristorante Molino, Carouge La Praille, rated 3.5 of 5 on Tripadvisor and ranked #977 of 1,761 restaurants in Geneva.",
+        "title": "Pizzeria Ristorante Molino, Carouge La Praille, Geneva ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g188057-d1319335-Reviews-Pizzeria_Ristorante_Molino_Molard_Geneve_UNDER_RECONSTRUCTION-Geneva.html",
+        "snippet": "Pizzeria Ristorante Molino, Molard Genève UNDER RECONSTRUCTION, Genève: Se 922 objektive anmeldelser av Pizzeria Ristorante Molino, Molard Genève UNDER RECONSTRUCTION, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 374 av 1 766 restauranter i Genève.",
+        "title": "Pizzeria Ristorante Molino, Molard Genève UNDER ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g188057-d1319335-Reviews-Pizzeria_Ristorante_Molino_Molard_Geneve-Geneva.html",
+        "snippet": "Pizzeria Ristorante Molino, Molard Genève, Genève: Se 914 objektive anmeldelser av Pizzeria Ristorante Molino, Molard Genève, vurdert til 3,5 av 5 på TripAdvisor og vurdert som nr. 371 av 1 750 restauranter i Genève.",
+        "title": "Pizzeria Ristorante Molino, Molard Genève ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pages/Molino/142578349119976",
+        "snippet": "Molino, Geneva, Switzerland. 479 likes · 1 talking about this · 7,667 were here. Italian Restaurant",
+        "title": "Molino - Geneva, Switzerland - Italian Restaurant, Pizza ...",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

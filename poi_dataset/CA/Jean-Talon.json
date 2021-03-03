@@ -1,0 +1,878 @@
+{
+  "18013": {
+    "url": "https://www.yelp.com/biz/les-moutons-noirs-qu%C3%A9bec?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UDspwPZBpKvhL-v_FBhPsA/o.jpg",
+    "name": "Les Moutons Noirs",
+    "alias": "les-moutons-noirs-québec",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Brasseries, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "615 Rue Jacques-Bédard",
+    "city_from_postal": "Jean-Talon",
+    "city": "Quebec City",
+    "zip_code": "G2N 1C5",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188413232",
+    "review_count": 3,
+    "snippets": [
+      {
+        "url": "https://fr.tripadvisor.ca/Restaurant_Review-g155033-d10472613-Reviews-Bistro_les_moutons_noirs-Quebec_City_Quebec.html",
+        "snippet": "Bistro les moutons noirs, Québec (ville) : consultez 30 avis sur Bistro les moutons noirs, noté 4,5 sur 5 sur Tripadvisor et classé #220 sur 1 426 restaurants à Québec (ville). Vols Locations de vacances Restaurants À voir/À faire ... restaurants américains avec une terrasse extérieure à Downtown Quebec City;",
+        "title": "Bistro les moutons noirs, Québec (ville) - Menu, prix et ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d10472613-Reviews-Bistro_les_moutons_noirs-Quebec_City_Quebec.html",
+        "snippet": "Bistro les moutons noirs, Quebec City: See 30 unbiased reviews of Bistro les moutons noirs, rated 4.5 of 5 on Tripadvisor and ranked #219 of 1,428 restaurants in Quebec City.",
+        "title": "Bistro les moutons noirs, Quebec City - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g155033-d10472613-r586520527-Bistro_les_moutons_noirs-Quebec_City_Quebec.html",
+        "snippet": "Bistro les moutons noirs: Good food, nicely presented. - See 30 traveler reviews, 22 candid photos, and great deals for Quebec City, Canada, at Tripadvisor.",
+        "title": "Good food, nicely presented. - Bistro les moutons noirs",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g155033-d10472613-r558075893-Bistro_les_moutons_noirs-Quebec_City_Quebec.html",
+        "snippet": "Bistro les moutons noirs: Smal bistro style - See 30 traveler reviews, 22 candid photos, and great deals for Quebec City, Canada, at Tripadvisor.",
+        "title": "Smal bistro style - Review of Bistro les moutons noirs ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g155033-d10472613-r586081303-Bistro_les_moutons_noirs-Quebec_City_Quebec.html",
+        "snippet": "Bistro les moutons noirs: Great place, staff and food! - See 30 traveler reviews, 22 candid photos, and great deals for Quebec City, Canada, at Tripadvisor.",
+        "title": "Great place, staff and food! - Bistro les moutons noirs",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/ShowUserReviews-g155033-d10472613-r558075893-Bistro_les_moutons_noirs-Quebec_City_Quebec.html",
+        "snippet": "Bistro les moutons noirs: Smal bistro style - See 30 traveler reviews, 22 candid photos, and great deals for Quebec City, Canada, at Tripadvisor.",
+        "title": "Smal bistro style - Bistro les moutons noirs, Quebec City ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.quebecoriginal.com/en/listing/restaurants/restaurants/bistro-les-moutons-noirs-342847366",
+        "snippet": "Bistro les moutons noirs. This restaurant serves festive, ... For more information on COVID-19, please visit Quebec.ca/coronavirus and the Government of Canada website. Open menu. Go home. Go to the content Go to the search form. ... Choose the city or region and type of cuisine.",
+        "title": "Bistro les moutons noirs | Restaurants Québec City Borough ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.de/Restaurant_Review-g155033-d10472613-Reviews-Bistro_les_moutons_noirs-Quebec_City_Quebec.html",
+        "snippet": "Bistro les moutons noirs, Québec (Stadt): 30 Bewertungen - bei Tripadvisor auf Platz 218 von 1.428 von 1.428 Québec (Stadt) Restaurants; ... Charles Gebiet von Quebec City. Wir hatten eines der zahlreichen Craft Biere, die sie vom Fass anbieten - ausgezeichnet.",
+        "title": "Bistro les moutons noirs, Québec (Stadt) - Menü, Preise ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr.tripadvisor.be/Restaurant_Review-g155033-d10472613-Reviews-Bistro_les_moutons_noirs-Quebec_City_Quebec.html",
+        "snippet": "Bistro les moutons noirs, Québec (ville) : consultez 30 avis sur Bistro les moutons noirs, noté 4,5 sur 5 sur Tripadvisor et classé #220 sur 1.426 restaurants à Québec (ville).",
+        "title": "Bistro les moutons noirs, Québec (ville) - Menu, Prix ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr-ca.facebook.com/bistrolesmoutonsnoirs/",
+        "snippet": "Bistro les moutons noirs - 615 Rue Jacques-Bédard, Québec, Québec G2N 1C5 - Note de 5 sur la base de 130 avis «Souper de groupe pour anniversaire hier....",
+        "title": "Bistro les moutons noirs - Accueil | Facebook",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "40712": {
+    "url": "https://www.yelp.com/biz/resto-clair-qu%C3%A9bec-3?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Resto-Clair",
+    "alias": "resto-clair-québec-3",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Burgers, Fast Food, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "911 Rue Jacques-Bédard",
+    "city_from_postal": "Jean-Talon",
+    "city": "Quebec City",
+    "zip_code": "G2N 1E1",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188490079",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d4852794-Reviews-Resto_Clair-Quebec_City_Quebec.html",
+        "snippet": "Resto-Clair, Quebec City: See 9 unbiased reviews of Resto-Clair, rated 3 of 5 on Tripadvisor and ranked #1,123 of 1,428 restaurants in Quebec City.",
+        "title": "Resto-Clair, Quebec City - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g155033-d4852794-Reviews-Resto_Clair-Quebec_City_Quebec.html",
+        "snippet": "Resto-Clair, Quebec by: Se 9 objektive anmeldelser av Resto-Clair, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 1 126 av 1 429 restauranter i Quebec by.",
+        "title": "Resto-Clair, Quebec by - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g155033-d4852794-Reviews-Resto_Clair-Quebec_City_Quebec.html",
+        "snippet": "Resto-Clair, Quebec City: See 9 unbiased reviews of Resto-Clair, rated 3 of 5 on Tripadvisor and ranked #1,126 of 1,428 restaurants in Quebec City.",
+        "title": "RESTO-CLAIR, Quebec City - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g155033-d4852794-r424250049-Resto_Clair-Quebec_City_Quebec.html",
+        "snippet": "Resto-Clair: Interesting place - See 9 traveler reviews, candid photos, and great deals for Quebec City, Canada, at Tripadvisor.",
+        "title": "Interesting place - Review of Resto-Clair, Quebec City ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr.tripadvisor.ca/Restaurant_Review-g155033-d4852794-Reviews-Resto_Clair-Quebec_City_Quebec.html",
+        "snippet": "Resto-Clair, Québec (ville) : consultez 9 avis sur Resto-Clair, noté 3 sur 5 sur Tripadvisor et classé #1 125 sur 1 426 restaurants à Québec (ville). Vols Locations de vacances Restaurants À voir/À faire ... cafés pour le petit déjeuner à Downtown Quebec City;",
+        "title": "Resto-Clair, Québec (ville) - Menu, prix et avis ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g155033-d4852794-r190057350-Resto_Clair-Quebec_City_Quebec.html",
+        "snippet": "Resto-Clair: this is a family restaurant, nothing fancy - See 9 traveler reviews, candid photos, and great deals for Quebec City, Canada, at Tripadvisor.",
+        "title": "this is a family restaurant, nothing... - Resto-Clair",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g155033-d4852794-r558076330-Resto_Clair-Quebec_City_Quebec.html",
+        "snippet": "Resto-Clair: Often wonder in for breakfast - See 9 traveler reviews, candid photos, and great deals for Quebec City, Canada, at Tripadvisor.",
+        "title": "Often wonder in for breakfast - Review of Resto-Clair ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.fr/Restaurant_Review-g155033-d4852794-Reviews-Resto_Clair-Quebec_City_Quebec.html",
+        "snippet": "Resto-Clair, Québec (ville) : consultez 9 avis sur Resto-Clair, noté 3 sur 5 sur Tripadvisor et classé #1 124 sur 1 428 restaurants à Québec (ville).",
+        "title": "Resto-Clair, Québec (ville) - Menu, Prix &amp; Restaurant Avis ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.de/Restaurant_Review-g155033-d4852794-Reviews-Resto_Clair-Quebec_City_Quebec.html",
+        "snippet": "Resto-Clair, Québec (Stadt): 9 Bewertungen - bei Tripadvisor auf Platz 1.125 von 1.429 von 1.429 Québec (Stadt) Restaurants; mit 3/5 von Reisenden bewertet.",
+        "title": "Resto-Clair, Québec (Stadt) - Menü, Preise &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/ShowUserReviews-g155033-d4852794-r190057350-Resto_Clair-Quebec_City_Quebec.html",
+        "snippet": "Resto-Clair: this is a family restaurant, nothing fancy - See 9 traveler reviews, candid photos, and great deals for Quebec City, Canada, at Tripadvisor.",
+        "title": "this is a family restaurant, nothing fancy - Resto-Clair ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "167548": {
+    "url": "https://www.yelp.com/biz/les-fr%C3%A8res-toc-qu%C3%A9bec?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cIB9UhPoYBd-Aslc6fyqKA/o.jpg",
+    "name": "Les Frères Toc",
+    "alias": "les-frères-toc-québec",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Diners, French, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "20815, Boulevard Henri-Bourassa",
+    "city_from_postal": "Jean-Talon",
+    "city": "Quebec City",
+    "zip_code": "G2N 1P6",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188496211",
+    "review_count": 9,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d911206-Reviews-Les_Freres_Toc-Quebec_City_Quebec.html",
+        "snippet": "Les Freres Toc, Quebec City: See 112 unbiased reviews of Les Freres Toc, rated 3.5 of 5 on Tripadvisor and ranked #341 of 1,426 restaurants in Quebec City.",
+        "title": "Les Freres Toc, Quebec City - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://lesfrerestoc.com/",
+        "snippet": "Situé au nord de Charlesbourg, tout près de Lac-Beauport, le restaurant Les Frères Toc offre un menu varié et savoureux depuis plus de 20 ans. Staff accueillant, ambiance conviviale et musique live du mercredi au samedi!",
+        "title": "Les Frères Toc | Différent ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g155033-d911206-oa30-Les_Freres_Toc-Quebec_City_Quebec.html",
+        "snippet": "Restaurants near Les Freres Toc, Quebec City on Tripadvisor: Find traveler reviews and candid photos of dining near Les Freres Toc in Quebec City, Quebec.",
+        "title": "THE 10 BEST Restaurants Near Les Freres Toc in Quebec City ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g155033-d911206-Les_Freres_Toc-Quebec_City_Quebec.html",
+        "snippet": "Restaurants near Les Freres Toc, Quebec City on Tripadvisor: Find traveler reviews and candid photos of dining near Les Freres Toc in Quebec City, Quebec.",
+        "title": "Restaurants Near Les Freres Toc, Quebec City - TripAdvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d911206-Reviews-or10-Les_Freres_Toc-Quebec_City_Quebec.html",
+        "snippet": "Les Freres Toc, Quebec City: See 112 unbiased reviews of Les Freres Toc, rated 3.5 of 5 on Tripadvisor and ranked #341 of 1,428 restaurants in Quebec City.",
+        "title": "Les Freres Toc, Quebec City - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/RestaurantsNear-g155033-d911206-Les_Freres_Toc-Quebec_City_Quebec.html",
+        "snippet": "Restaurants near Les Freres Toc, Quebec City on Tripadvisor: Find traveller reviews and candid photos of dining near Les Freres Toc in Quebec City, Quebec.",
+        "title": "The 10 Best Restaurants Near Les Freres Toc, Quebec City ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr.tripadvisor.ca/Restaurant_Review-g155033-d911206-Reviews-Les_Freres_Toc-Quebec_City_Quebec.html",
+        "snippet": "Les Freres Toc, Québec (ville) : consultez 112 avis sur Les Freres Toc, noté 3,5 sur 5 sur Tripadvisor et classé #341 sur 1 426 restaurants à Québec (ville). Vols Locations de vacances ... desserts à Downtown Quebec City; steakhouses pour le déjeuner à Downtown Quebec City;",
+        "title": "Les Freres Toc, Québec (ville) - Menu, prix et avis ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pl.tripadvisor.com/Restaurant_Review-g155033-d911206-Reviews-Les_Freres_Toc-Quebec_City_Quebec.html",
+        "snippet": "Les Freres Toc, Quebec: zobacz bezstronne recenzje (112 ) na temat Les Freres Toc, z oceną 3,5 na 5 w serwisie Tripadvisor, na pozycji 342 z 1 428 restauracji w Quebecu.",
+        "title": "Les Freres Toc, Quebec - recenzje restauracji - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/ShowUserReviews-g155033-d911206-r162268031-Les_Freres_Toc-Quebec_City_Quebec.html",
+        "snippet": "Les Freres Toc: Sushi night - See 112 traveler reviews, 4 candid photos, and great deals for Quebec City, Canada, at Tripadvisor.",
+        "title": "Sushi night - Les Freres Toc, Quebec City Traveller ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.dk/Restaurant_Review-g155033-d911206-Reviews-Les_Freres_Toc-Quebec_City_Quebec.html",
+        "snippet": "Les Freres Toc, Quebec City: Se 112 objektive anmeldelser af Les Freres Toc, som har fået 3,5 af 5 på Tripadvisor og er placeret som nr. 341 af 1.428 restauranter i Quebec City.",
+        "title": "Les Freres Toc, Quebec City - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "257179": {
+    "url": "https://www.yelp.com/biz/sushi-shop-lac-beauport-charlesbourg?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MwBxaXdPTZAxGqwKR53x0g/o.jpg",
+    "name": "Sushi Shop Lac-Beauport",
+    "alias": "sushi-shop-lac-beauport-charlesbourg",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Sushi Bars, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "990, boul. du Lac",
+    "city_from_postal": "Jean-Talon",
+    "city": "Charlesbourg",
+    "zip_code": "G2M 0C9",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188499020",
+    "review_count": 1,
+    "snippets": []
+  },
+  "334015": {
+    "url": "https://www.yelp.com/biz/accomodation-chez-doub-qu%C3%A9bec?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3eLeKDW_l3K4BSg4P4hD7w/o.jpg",
+    "name": "Accomodation Chez Doub",
+    "alias": "accomodation-chez-doub-québec",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Convenience Stores, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "971 Jacques Bedard",
+    "city_from_postal": "Jean-Talon",
+    "city": "Quebec City",
+    "zip_code": "G2N 1E1",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188491522",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.yelp.com/biz/accomodation-chez-doub-qu%C3%A9bec",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "www.yelp.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr.yelp.ca/biz/accomodation-chez-doub-qu%C3%A9bec",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "fr.yelp.ca",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ville-de-quebec.cdncompanies.com/convenience-store/accommodation-chez-doub-ville-de-quebec/",
+        "snippet": "Accommodation Chez Doub, Convenience store in Ville de Québec, Québec, 971 Rue Jacques-Bédard, Ville de Québec, QC G2N 1E1 – Hours of Operation &amp; Customer Reviews.",
+        "title": "Accommodation Chez Doub - Hours &amp; Reviews - 971 Rue ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.ratebeer.com/p/accomodation-chez-doub-quebec/12412/#!",
+        "snippet": "www.ratebeer.com",
+        "title": "www.ratebeer.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.pagesjaunes.ca/bus/Quebec/Quebec/Accommodation-Chez-Doub/3418389.html",
+        "snippet": "Numéro de téléphone, site web, adresse et heures d&#39;ouverture de Accommodation Chez Doub – Québec à QC - Dépanneurs.",
+        "title": "Accommodation Chez Doub - Horaire d&#39;ouverture - 1-971, rue ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://wego.here.com/canada/quebec/kiosk-convenience-store/accomodation-chez-doub--124f2m6b-0d410f0b887845619aa6c9137eedd392",
+        "snippet": "Accomodation Chez Doub Rue Jacques-Bédard Québec - Kiosk/24-7/Convenience Store. Drive, bike, walk, public transport directions on map to Accomodation Chez Doub - HERE WeGo. Get the app.",
+        "title": "Accomodation Chez Doub - Kiosk/24-7/Convenience Store ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.mapquest.com/canada/quebec/business-quebec/accommodation-chez-doub-359158857",
+        "snippet": "Get directions, reviews and information for Accommodation Chez Doub in Quebec, QC.",
+        "title": "Accommodation Chez Doub Quebec, QC Convenience Stores ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.quebec-cite.com/en/where-to-stay-quebec-city",
+        "snippet": "The ultimate guide to the best places to stay in Québec City in every neighbourhood. Advice for choosing the right hotel and a selection of…",
+        "title": "Accommodation in Québec City - Site officiel de l&#39;Office ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.expedia.ca/Quebec-Hotels.d180017.Travel-Guide-Hotels",
+        "snippet": "Lowest nightly price found within the past 24 hours based on a 1 night stay for 2 adults. Prices and availability subject to change. Additional terms may apply. The Auberge St-Antoine is a luxury hotel in the heart of Quebec City’s Old Port. In addition to its superb location facing the majestic ...",
+        "title": "Top Hotels in Quebec for 2020 (from CA $99/night)| Expedia.ca",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yellowpages.ca/bus/Quebec/Quebec/Accommodation-Chez-Doub/3418389.html",
+        "snippet": "Accommodation Chez Doub - Québec - phone number, website, address &amp; opening hours - QC - Convenience Stores. Find everything you need to know about Accommodation Chez Doub on Yellowpages.ca Please enter what you&#39;re searching for",
+        "title": "Accommodation Chez Doub - Opening Hours - 1-971, rue ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "345204": {
+    "url": "https://www.yelp.com/biz/sushi-oshima-qu%C3%A9bec?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vDqsVl4dtWI5uz7VX0QxVg/o.jpg",
+    "name": "Sushi Oshima",
+    "alias": "sushi-oshima-québec",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Japanese, Sushi Bars, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "16, rue Georges-Muir",
+    "city_from_postal": "Jean-Talon",
+    "city": "Quebec City",
+    "zip_code": "G2N 1K8",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188413838",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d8659377-Reviews-Sushi_Oshima-Quebec_City_Quebec.html",
+        "snippet": "Sushi Oshima, Quebec City: See 8 unbiased reviews of Sushi Oshima, rated 4.5 of 5 on Tripadvisor and ranked #589 of 1,428 restaurants in Quebec City.",
+        "title": "Sushi Oshima, Quebec City - Restaurant Reviews &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g155033-d8659377-Reviews-Sushi_Oshima-Quebec_City_Quebec.html",
+        "snippet": "Sushi Oshima, Quebec City: See 8 unbiased reviews of Sushi Oshima, rated 4.5 of 5 on Tripadvisor and ranked #589 of 1,427 restaurants in Quebec City.",
+        "title": "SUSHI OSHIMA, Quebec City - Restaurant Reviews &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/sushi-oshima-qu%C3%A9bec",
+        "snippet": "Sushi Oshima in Quebec City, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Quebec City and beyond.",
+        "title": "Sushi Oshima - Quebec City, QC, Canada",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/SushiOshima/",
+        "snippet": "Sushi Oshima, Charlesbourg, Quebec. 3.4K likes. Sushi Oshima une histoire de famille depuis plus de 18 ans. Venez à la rencontre de gens passionrnés et dévoués.16 george Muir à Charlesbourg .",
+        "title": "Sushi Oshima - Home - Charlesbourg, Quebec - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr.tripadvisor.ca/Restaurant_Review-g155033-d8659377-Reviews-Sushi_Oshima-Quebec_City_Quebec.html",
+        "snippet": "Sushi Oshima, Québec (ville) : consultez 8 avis sur Sushi Oshima, noté 4,5 sur 5 sur Tripadvisor et classé #590 sur 1 426 restaurants à Québec (ville).",
+        "title": "Sushi Oshima, Québec (ville) - Avis restaurant et numéro ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurants-g155033-c38-Quebec_City_Quebec.html",
+        "snippet": "Best Quebec City, Quebec Sushi: Find Tripadvisor traveler reviews of Quebec City Sushi restaurants and search by cuisine, price, location, and more.",
+        "title": "THE BEST Sushi in Quebec City - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurants-g155033-c38-Quebec_City_Quebec.html",
+        "snippet": "Best Sushi in Quebec City, Quebec: Find Tripadvisor traveller reviews of Quebec City Sushi restaurants and search by price, location, and more. Quebec City. Quebec City Tourism Quebec City Hotels Quebec City Bed and Breakfast Quebec City Vacation Rentals ... Sushi Oshima. 8 reviews.",
+        "title": "THE BEST Quebec City Sushi, Updated April 2020 - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.menupix.com/quebec/restaurants/31473648/Sushi-Oshima-Quebec-City-QC",
+        "snippet": "View the menu for Sushi Oshima and restaurants in Quebec City, QC. See restaurant menus, reviews, hours, photos, maps and directions.",
+        "title": "Online Menu of Sushi Oshima, Quebec City, QC",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.it/Restaurant_Review-g155033-d8659377-Reviews-Sushi_Oshima-Quebec_City_Quebec.html",
+        "snippet": "Sushi Oshima, Québec (città): su Tripadvisor trovi 8 recensioni imparziali su Sushi Oshima, con punteggio 4,5 su 5 e al n.590 su 1.426 ristoranti a Québec (città).",
+        "title": "SUSHI OSHIMA, Québec (città) - Ristorante Recensioni ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.mapquest.com/canada/quebec/restaurant-sushi-oshima-359158876",
+        "snippet": "Get directions, reviews and information for Restaurant Sushi Oshima in Quebec, QC.",
+        "title": "Restaurant Sushi Oshima Quebec, QC Restaurants - MapQuest",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "352421": {
+    "url": "https://www.yelp.com/biz/chez-boub-qu%C3%A9bec?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SIgBBU5CO_73nAl350b_vA/o.jpg",
+    "name": "Chez Boub",
+    "alias": "chez-boub-québec",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, Poutineries, Pizza, ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": "840 Boulevard du Lac",
+    "city_from_postal": "Jean-Talon",
+    "city": "Quebec City",
+    "zip_code": "G2M 0C9",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188412682",
+    "review_count": 4,
+    "snippets": [
+      {
+        "url": "http://chezboub.ca/",
+        "snippet": "Resto chez BouB a à cœur la satisfaction de sa clientèle. Depuis déjà 26 ans, nous nous efforçons de servir des plats maison dans une ambiance chaleureuse et sans prétention pour les familles et les travailleurs du quartier.",
+        "title": "Chez Boub - *|MC:SUBJECT|*",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.restoquebec.ca/resto/chez-boub-lac-beauport/7182/en/",
+        "snippet": "No menu for Chez Boub. We do have menus for other restaurants near this one. Le Batifol. Lac Beauport Menu. ... The Quebec City Magic Festival. May 06, 2020 to May 10, 2020 MORE - Partner - Subscribe to the RestoQuebec Newsletter. For interesting news, exclusive deals, contests &amp; more. GO.",
+        "title": "Chez Boub - Updated in 2020 - Info, Reviews &amp; more ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g676261-d4737876-r196563500-Chez_Boub-Lac_Beauport_Quebec.html",
+        "snippet": "Chez Boub: Always good value with a smile! - See 35 traveler reviews, 8 candid photos, and great deals for Lac-Beauport, Canada, at Tripadvisor.",
+        "title": "Always good value with a smile! - Review of Chez Boub, Lac ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g676261-d4737876-r594861049-Chez_Boub-Lac_Beauport_Quebec.html",
+        "snippet": "Chez Boub: Family friendly - See 35 traveler reviews, 8 candid photos, and great deals for Lac-Beauport, Canada, at Tripadvisor.",
+        "title": "Family friendly - Review of Chez Boub, Lac-Beauport ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://chezboub.ca/menu/",
+        "snippet": "Menu à la carte restaurant familial Chez Boub à Lac-Beauport. Bugers, frites, poutines, pizza, spaghetti, bar laitier, wrap",
+        "title": "Menu restaurant familial Chez Boub à Lac-Beauport",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g676261-d4737876-Reviews-Chez_Boub-Lac_Beauport_Quebec.html",
+        "snippet": "Chez Boub, Lac-Beauport: See 35 unbiased reviews of Chez Boub, rated 4 of 5 on Tripadvisor and ranked #4 of 8 restaurants in Lac-Beauport.",
+        "title": "CHEZ BOUB, Lac-Beauport - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Resto-Chez-BouB-110630778954711/",
+        "snippet": "Resto Chez BouB - 840 bl. du Lac, Quebec, Quebec g2m0c9 - Rated 4.4 based on 69 Reviews &quot;Ce matin 9h45 ont se présentes (2) pour le petit déjeuné ont...",
+        "title": "Resto Chez BouB - Home - Quebec, Quebec - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr.tripadvisor.ca/Restaurant_Review-g676261-d4737876-Reviews-Chez_Boub-Lac_Beauport_Quebec.html",
+        "snippet": "Chez Boub est un restaurant en bord de route très sympa. Leurs burgers sont excellents, frais et très bien préparés. Le cadre est hyper agréable tout comme l&#39;accueil. On s&#39;y sent de suite tres à l&#39;aise A essayer. ... Hampton Inn &amp; Suites by Hilton Beauport Quebec.",
+        "title": "Chez Boub, Lac-Beauport - Menu, prix et avis restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pages/Resto-Chez-BouB/110630778954711",
+        "snippet": "Resto Chez BouB - 840 bl. du Lac, Quebec, Quebec g2m0c9 - Rated 4.3 based on 74 Reviews &quot;Mon conjoint et moi avons pris une poutine chaque, mais le...",
+        "title": "Resto Chez BouB - Home - Quebec, Quebec - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g676261-d4737876-r221119117-Chez_Boub-Lac_Beauport_Quebec.html",
+        "snippet": "Chez Boub: Awful food - worst service ever. - See 35 traveler reviews, 8 candid photos, and great deals for Lac-Beauport, Canada, at Tripadvisor.",
+        "title": "Awful food - worst service ever. - Review of Chez Boub ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "363962": {
+    "url": "https://www.yelp.com/biz/caf%C3%A9-noisette-lac-beauport?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BqrKBgSlKiYgFTkKVUBdhA/o.jpg",
+    "name": "Café Noisette",
+    "alias": "café-noisette-lac-beauport",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, Flowers & Gifts, ",
+    "rating": 3.0,
+    "price": "$$",
+    "address": "1000, Boul du Lac",
+    "city_from_postal": "Jean-Talon",
+    "city": "Lac-Beauport",
+    "zip_code": "G2M 0C9",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188411777",
+    "review_count": 1,
+    "snippets": []
+  },
+  "392105": {
+    "url": "https://www.yelp.com/biz/pascal-le-boulanger-stoneham?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PZH9NcrAxdyvM-xAzZA3Pw/o.jpg",
+    "name": "Pascal Le Boulanger",
+    "alias": "pascal-le-boulanger-stoneham",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, ",
+    "rating": 5.0,
+    "price": "$$",
+    "address": "2 Avenue Tewkesbury",
+    "city_from_postal": "Jean-Talon",
+    "city": "Stoneham",
+    "zip_code": "G2N",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14189128501",
+    "review_count": 12,
+    "snippets": []
+  },
+  "432281": {
+    "url": "https://www.yelp.com/biz/les-fr%C3%A8res-toc-charlesbourg-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Les Frères Toc",
+    "alias": "les-frères-toc-charlesbourg-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "20815, boul. Henri-Bourassa",
+    "city_from_postal": "Jean-Talon",
+    "city": "Charlesbourg",
+    "zip_code": "G2N 1P6",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188496211",
+    "review_count": 2,
+    "snippets": []
+  },
+  "493883": {
+    "url": "https://www.yelp.com/biz/casse-cro%C3%BBte-flashbourg-qu%C3%A9bec?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BYvVLafQl0NlUqn_a7F0DQ/o.jpg",
+    "name": "Casse-croûte Flashbourg",
+    "alias": "casse-croûte-flashbourg-québec",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, Fast Food, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "21231 Boulevard Henri-Bourassa",
+    "city_from_postal": "Jean-Talon",
+    "city": "Quebec City",
+    "zip_code": "G2N 1R3",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188496662",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.restoquebec.ca/resto/casse-croute-flashbourg-quebec/10163/en/",
+        "snippet": "Casse-Croûte Flashbourg, 21 231 boul. Henri-bourassa, Charlesbourg Restaurant, Quebec, Burgers &amp; Sandwiches, Tel., Address, Map, Photos, Verified Reviews &amp; Up-to ...",
+        "title": "Casse-Croûte Flashbourg - Updated in 2020 - Info, Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/casse-cro%C3%BBte-flashbourg-qu%C3%A9bec",
+        "snippet": "With so few reviews, your opinion of Casse-croûte Flashbourg could be huge. Start your review today. Karen M. Monrovia, CA. 0 friends. 40 reviews. 9 photos. Share review. Embed review. 6/26/2018. 2 photos. You&#39;ve been hiking all day at Jacques Cartier N.P. And you did the Loop Trail.",
+        "title": "Casse-croûte Flashbourg - Quebec City, QC, Canada",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g155033-d4853075-Reviews-Casse_Croute_Pierrot-Quebec_City_Quebec.html",
+        "snippet": "Casse-Croute Pierrot, Quebec City: See 31 unbiased reviews of Casse-Croute Pierrot, rated 3.5 of 5 on Tripadvisor and ranked #859 of 1,428 restaurants in Quebec City. Flights Vacation Rentals ... The receptionist at our hotel recommended Casse-Croûte Pierrot, ...",
+        "title": "CASSE-CROUTE PIERROT, Quebec City - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.sirved.com/restaurant/vanier-quebec-canada/casse-croute-pierrot/37205/menus",
+        "snippet": "4 menu pages - Casse-Croûte Pierrot menu in Ville de Québec. The best canadian food in Ville de Québec, Casse-Croûte Pierrot creates scrumptious food. When looking for a bite to eat, be sure to try their salad 綾s 綾.",
+        "title": "Casse-Croûte Pierrot menu in Ville de Québec, Quebec, Canada",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Casse-croute-chez-Micheline-173272419373416/",
+        "snippet": "Casse croute chez Micheline - 225 Route 138, Quebec, Quebec G3A 0G2 - Rated 4.9 based on 156 Reviews &quot;Ces le meilleur , moi et mère on est des clients...",
+        "title": "Casse croute chez Micheline - Home - Quebec, Quebec - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d5086955-Reviews-Casse_Croute_Chez_Gaston-Quebec_City_Quebec.html",
+        "snippet": "Casse-Croute Chez Gaston, Quebec City: See 66 unbiased reviews of Casse-Croute Chez Gaston, rated 4.5 of 5 on Tripadvisor and ranked #118 of 1,426 restaurants in Quebec City.",
+        "title": "Casse-Croute Chez Gaston, Quebec City - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/cassecroutechezlouis/",
+        "snippet": "Quebec, Quebec G2L 1G3. Get Directions +1 418-626-6868. ... Flashbourg. Canadian Restaurant. Chocolaterie de l&#39;Île d&#39;Orléans. Chocolate Shop. ... excellent casse croûte! on va y retourner c&#39;est clair! April 4. Super bon , première fois et c’est loin d’être la dernière.",
+        "title": "Casse-croûte chez Louis - Home - Quebec, Quebec - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.restoquebec.ca/s/?restaurants=casse-croute-quebec&c=331&lang=fr",
+        "snippet": "Trouver des Restaurants Casse-Croutes Quebec - Menus mis à jour, Avis vérifiés, Photos de Restaurants Casse-Croutes Quebec, Les résultats incluent: Casse-Croûte Chez Pierrot, Yahwatsira, Brasserie La Faucheuse, ... Casse-Croûte Flashbourg. 21 231 boul. Henri-bourassa Charlesbourg.",
+        "title": "Meilleurs Restaurants Casse-Croutes Quebec - mis à jour ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr-ca.facebook.com/Flashbourg-451849924894741/",
+        "snippet": "Flashbourg, Charlesbourg, Quebec. 6 650 mentions J’aime · 263 en parlent · 812 personnes étaient ici. Casse-croûte",
+        "title": "Flashbourg - Accueil - Charlesbourg, Quebec - Menu, Prix ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yellowpages.ca/search/si/1/Casse-Cro%C3%BBte+Flash-Bourg+Inc/Quebec+QC",
+        "snippet": "Locate and compare Casse-Croûte Flash-Bourg Inc in Quebec QC, Yellow Pages Local Listings. Find useful information, the address and the phone number of the local business you are looking for.",
+        "title": "Casse-Croûte Flash-Bourg Inc in Quebec QC | YellowPages.ca™",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "522020": {
+    "url": "https://www.yelp.com/biz/studios-unis-d-auto-d%C3%A9fense-du-qu%C3%A9bec-qu%C3%A9bec-4?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/r95fI75HgJIRkvbwiO7c_A/o.jpg",
+    "name": "Studios Unis d'Auto Défense du Québec",
+    "alias": "studios-unis-d-auto-défense-du-québec-québec-4",
+    "main_category": "Active Life",
+    "sub_categories": "Specialty Schools, Martial Arts, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "876, Rue Jacques-Bedard",
+    "city_from_postal": "Jean-Talon",
+    "city": "Quebec City",
+    "zip_code": "G2N 1E3",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188410213",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.studiosunis.com/",
+        "snippet": "STUDIOS UNIS D’AUTO-DÉFENSE. L’excellence des arts martiaux au Québec depuis 1974. Nous enseignons le style «Nick Cerio’s Kenpo Karate» alliant la force et l’agilité et qui est pratiqué dans un environnement respectueux et non agressif.",
+        "title": "Accueil - Studios Unis d&#39;Auto-Défense",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.studiosunis.com/quebec-siege-social/",
+        "snippet": "Clermont Poulin, président et fondateur des Studios Unis d’Auto-Défense. Il débuta les arts martiaux en 1970 et fonds son premier dojo à Québec en 1974. Il a créé le plus gros regroupement de franchise d’arts martiaux au Québec. Maître Poulin a un impact social incroyable dans la société grâce à ses qualités humaines et sociales.",
+        "title": "Québec - Studios Unis d&#39;Auto-Défense",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/StudiosUnis",
+        "snippet": "Studios Unis d&#39;Auto-Défense, Quebec, QC. 7.1K likes. Nous formons des athlètes de haut niveau, mais surtout de bonnes personnes!",
+        "title": "Studios Unis d&#39;Auto-Défense - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/StudiosUnisQuebec/videos/362229047922283/",
+        "snippet": "Les arts martiaux aux Studios Unis d&#39;Auto-Défense c&#39;est bien plus que des coups frappés... On y enseigne des VALEURS! ️ Discipline ️ Persévérance ️ Concentration ️ Fierté. Découvres les bienfaits des arts martiaux avec notre formidable équipe de passionnés!",
+        "title": "Studios Unis de Québec - Studios Unis D&#39;Auto-Défense ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/studios-unis-d-auto-defense-du-quebec-qu%C3%A9bec-6",
+        "snippet": "Studios Unis D&#39;auto Defense Du Quebec in Quebec City, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Quebec City and beyond.",
+        "title": "Studios Unis D’auto Defense Du Quebec - Quebec City, QC ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ville-de-quebec.cdncompanies.com/health/studios-unis-dauto-defense-du-quebec-inc-ville-de-quebec/",
+        "snippet": "Studios Unis D`Auto Défense Du Québec Inc, Health clinic in Ville de Québec, Québec, 13061 Boulevard Henri-Bourassa, Ville de Québec, QC G1G 3Y6 – Hours of Operation &amp; Customer Reviews.",
+        "title": "Studios Unis D`Auto Défense Du Québec Inc - Hours ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ca.misterwhat.com/company/642057-studios-unis-dauto-defense-du-quebec-quebec",
+        "snippet": "Studios Unis D&#39;Auto Défense Du Québec in Québec G2G 1B5 - Company Profile, Phone Number, Address, Postcode, Map and more",
+        "title": "Studios Unis D&#39;Auto Défense Du Québec Québec G2G 1B5 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://foursquare.com/v/studios-unis-dauto-d%C3%A9fense-du-qu%C3%A9bec/4c2929e0fe6e2d7fb66b543c",
+        "snippet": "3 visitors have checked in at Studios Unis D&#39;Auto Défense Du Québec. College Gym in Québec, QC Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.",
+        "title": "Studios Unis D&#39;Auto Défense Du Québec - Beauport - 3 visitors",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tizeLDWdH20",
+        "snippet": "Joignez-vous à la famille des Studios Unis d&#39;Auto-Défense. Plusieurs disciplines offertes telles que le karaté, la boxe, le kick boxing, des camps récréatifs pour jeunes, et bien d&#39;autres ...",
+        "title": "Studios Unis, un mode de vie! - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.pagesjaunes.ca/bus/Quebec/Sainte-Foy/Studios-Unis-d-Auto-Defense/8219847.html",
+        "snippet": "Numéro de téléphone, site web et adresse de Studios Unis d&#39;Auto-Défense – Sainte-Foy à QC - Écoles et cours d&#39;arts martiaux et d&#39;autodéfense.",
+        "title": "Studios Unis d&#39;Auto-Défense - 12-3370 rue de la Pérade ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "614926": {
+    "url": "https://www.yelp.com/biz/boucherie-vic-verret-qu%C3%A9bec?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/O4WiIBPoNxJ_cVNGiaxfXA/o.jpg",
+    "name": "Boucherie Vic Verret",
+    "alias": "boucherie-vic-verret-québec",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Butcher, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "20659, Boulevard Henri-Bourassa",
+    "city_from_postal": "Jean-Talon",
+    "city": "Quebec City",
+    "zip_code": "G2N 1P4",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188494481",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "http://www.boucherievicverret.com/",
+        "snippet": "Boucherie Vic Verret &amp; Fils, à votre sevice depuis 1964. Nous offrons un large éventail de viandes, de produits et de services. Les viandes de la meilleur qualité et rien de moins.",
+        "title": "Boucherie Vic Verret &amp; Fils",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr.yelp.ca/biz/boucherie-vic-verret-qu%C3%A9bec",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "fr.yelp.ca",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.boucherievicverret.com/produits.html",
+        "snippet": "Vous êtes ici : &gt; Nos produits Nos produits. Bien plus qu&#39;une boucherie, à la Boucherie Vic Verret vous trouverez un vaste choix de produits, marinades, sauces, pâtés, cretons, tourtières, pain baguette, fromages, terrines, jambon &#39;Le Verret &#39; et autres ... Nous avons aussi du boudin cuisiné sur place, fait à partir de sang de porc.",
+        "title": "Boucherie Vic Verret &amp; Fils",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/boucherie-vic-verret-qu%C3%A9bec",
+        "snippet": "Boucherie Vic Verret in Quebec City, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Quebec City and beyond.",
+        "title": "Boucherie Vic Verret - Quebec City, QC, Canada",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.boucherievicverret.com/services.html",
+        "snippet": "Vous êtes ici : &gt; Nos services Nos services. Voici quelques services offerts par La Boucherie Vic Verret. Pour les chasseurs, pour faire des économies ou pour un coup de pouce durant le temps des fêtes nous sommes là.",
+        "title": "Boucherie Vic Verret &amp; Fils",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Boucherie-Vic-Verret-223448184372692/",
+        "snippet": "Boucherie Vic Verret - 20659, boul Henri-Bourassa, Quebec, Quebec G2N 1P4 - Rated 4.9 based on 45 Reviews &quot;Nous avons mangé sur le BBQ le steak 1855,...",
+        "title": "Boucherie Vic Verret - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.boucherievicverret.com/joindre.html",
+        "snippet": "Boucherie Vic Verret &amp; fils 20659, boul. Henri-Bourassa Québec (Qc) G2N 1P4 (Face au Canac rue Bernier) 418 849-4481",
+        "title": "Boucherie Vic Verret &amp; Fils",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.boucherievicverret.com/serviceBoiteEcono.html",
+        "snippet": "Les boîtes économiques de la Boucherie Vic Verret, un choix profitable! Il n&#39;y a pas de taxes sur les boîtes, c&#39;est une économie de 20% a 25 % . Créez votre boîte en trois petites étapes (le type, la sélection et la commande).",
+        "title": "Boucherie Vic Verret &amp; Fils",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.mapquest.com/canada/quebec/boucherie-vic-verret-enr-280109888",
+        "snippet": "Get directions, reviews and information for Boucherie Vic Verret Enr in Quebec, QC.",
+        "title": "Boucherie Vic Verret Enr Quebec, QC Butchering - MapQuest",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr-ca.facebook.com/Boucherie-Vic-Verret-223448184372692/",
+        "snippet": "Boucherie Vic Verret - 20659, boul Henri-Bourassa, Québec G2N 1P4 - Note de 4.9 sur la base de 45 avis «Nous avons mangé sur le BBQ le steak 1855,...",
+        "title": "Boucherie Vic Verret - Accueil | Facebook",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "680728": {
+    "url": "https://www.yelp.com/biz/iga-qu%C3%A9bec-25?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NzFpVevOr4HqwHqbXEwr-A/o.jpg",
+    "name": "IGA",
+    "alias": "iga-québec-25",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "795 Boulevard du Lac",
+    "city_from_postal": "Jean-Talon",
+    "city": "Quebec City",
+    "zip_code": "G2M 0E4",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188493674",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.iga.net/",
+        "snippet": "Discover The Joy of Eating Better at IGA. Shop for groceries online and find inspiration in our recipe ideas, videos, tips, and in our Products to discover section.",
+        "title": "IGA | Supermarket in Quebec: Recipes, Online Grocery, Flyer",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tiendeo.ca/Shops/quebec/iga",
+        "snippet": "Here you can find all the IGA stores in Quebec. To access the details of the store (location, opening hours, IGA online and current flyers) click on the location or the store name.",
+        "title": "IGA Stores in Quebec | Opening Hours &amp; Locations",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.iga.net/en/find_a_store",
+        "snippet": "Welcome to your IGA Grocery Store! You will find practical information such as how to join us, our products and services offered in store and our open hours. Find the pleasure of eating better!",
+        "title": "Find a store - IGA | Supermarket in Quebec: Recipes ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.iga.net/en/flyer",
+        "snippet": "iga Don&#39;t forget to Log in to add items from our digital flyer to your shopping list or to your cart. Display : Digital flyer Personalized flyer",
+        "title": "Flyer - IGA | Supermarket in Quebec: Recipes, Online ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.iga.net/fr/recherche_de_magasin/magasin/8188",
+        "snippet": "Bienvenue sur la page de votre magasin IGA! Vous trouverez nos coordonnées, nos services, nos heures d’ouverture et plusieurs autres détails pratiques. Et découvrez le plaisir de mieux manger!",
+        "title": "IGA Deschênes - IGA | Supermarket in Quebec: Recipes ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/IGA_(Quebec)",
+        "snippet": "IGA Extra locations are larger and carry a wider variety of general merchandise, more akin to the hypermarket model. They include a pharmacy, large bakery, a bank, a bistro, a post office and a larger selection of food items. IGA Extra launched in the early 2000s to take the place of Sobeys locations in the Quebec City and Montreal areas.",
+        "title": "IGA (supermarkets) - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.iga.net/en/contact/a_propos",
+        "snippet": "This sister-banner to IGA provides customers with excellent product variety and unparalleled customer service in a boutique environment, and IGA extra supermarkets are bigger than IGA stores. With the arrival of the IGA extra banner in Quebec, Sobeys has set a new standard for the supermarket customer experience.",
+        "title": "About us | Contact us | IGA - IGA | Supermarket in Quebec ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.mapquest.com/canada/quebec/iga-extra-lebourgneuf-272418602",
+        "snippet": "IGA Extra Quebec QC. Reviews (418) 622-5262 Website. Menu &amp; Reservations ... IGA est le plus important regroupement d&#39;epiciers independants au Canada. Leur mouvement du plaisir de mieux manger a pour but de demontrer qu&#39;il est possible de mieux manger sans sacrifier le plaisir",
+        "title": "IGA Extra Quebec, QC Grocery Stores - MapQuest",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yellowpages.ca/search/si/1/IGA/Quebec+QC",
+        "snippet": "Locate and compare IGA in Quebec QC, Yellow Pages Local Listings. Find useful information, the address and the phone number of the local business you are looking for.",
+        "title": "IGA in Quebec QC | YellowPages.ca™",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/iga-qu%C3%A9bec-14",
+        "snippet": "Quebec City, QC G1L 2W7 Canada. Enjoying food quite a bit, I was really delighted with my shopping experience at this IGA. Although my recollection of IGA from living on the west coast was more of a small neighborhood grocery store, they&#39;ve manage to keep that feel in a much larger store setting.",
+        "title": "IGA - Grocery - 390 8E Rue, Quebec City, QC, Canada - Yelp",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

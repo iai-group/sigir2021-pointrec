@@ -1,0 +1,21 @@
+{
+  "615916": {
+    "url": "https://www.yelp.com/biz/restaurant-r%C3%BCtihof-kaisten?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VZkQUCzZFb-fv3EmYQ0KbA/o.jpg",
+    "name": "Restaurant Rütihof",
+    "alias": "restaurant-rütihof-kaisten",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Heuberg 338",
+    "city_from_postal": "Kaisten",
+    "city": "Kaisten",
+    "zip_code": "5082",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41628741321",
+    "review_count": 2,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "457094": {
+    "url": "https://www.yelp.com/biz/go-in-tanzbar-pizzeria-breitenaich?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Go-In Tanzbar-Pizzeria",
+    "alias": "go-in-tanzbar-pizzeria-breitenaich",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Pizza, Active Life, Music Venues, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Finklham 1",
+    "city_from_postal": "Fraham",
+    "city": "Breitenaich",
+    "zip_code": "4075",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+43724945196",
+    "review_count": 1,
+    "snippets": []
+  }
+}

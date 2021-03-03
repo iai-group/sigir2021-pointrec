@@ -1,0 +1,21 @@
+{
+  "556238": {
+    "url": "https://www.yelp.com/biz/itamae-ayce-sushi-waterloo?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GveEHDLQgQ75tI77BSsnVg/o.jpg",
+    "name": "Itamae AYCE Sushi",
+    "alias": "itamae-ayce-sushi-waterloo",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Japanese, Sushi Bars, ",
+    "rating": 2.5,
+    "price": "$$",
+    "address": "253 King Street N",
+    "city_from_postal": "Waterloo",
+    "city": "Waterloo",
+    "zip_code": "N2J 2Y8",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+15198868688",
+    "review_count": 40,
+    "snippets": []
+  }
+}

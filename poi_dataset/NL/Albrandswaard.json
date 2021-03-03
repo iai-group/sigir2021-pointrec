@@ -1,0 +1,40 @@
+{
+  "53613": {
+    "url": "https://www.yelp.com/biz/smullers-rotterdam-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Smullers",
+    "alias": "smullers-rotterdam-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Friterie, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Stationsstraat 8b",
+    "city_from_postal": "Albrandswaard",
+    "city": "Rotterdam",
+    "zip_code": "3161 AJ",
+    "country_code": "NL",
+    "state_code": "ZH",
+    "phone": "+31886711200",
+    "review_count": 1,
+    "snippets": []
+  },
+  "596515": {
+    "url": "https://www.yelp.com/biz/kees-poortugaal?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vwD2mdW7IfPQaf4_SXTi5A/o.jpg",
+    "name": "Kees",
+    "alias": "kees-poortugaal",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Barbeque, Chicken Shop, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Kruisdijk 8",
+    "city_from_postal": "Albrandswaard",
+    "city": "Poortugaal",
+    "zip_code": "3176 PK",
+    "country_code": "NL",
+    "state_code": "ZH",
+    "phone": "+31105015511",
+    "review_count": 1,
+    "snippets": []
+  }
+}

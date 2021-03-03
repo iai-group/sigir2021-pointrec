@@ -1,0 +1,40 @@
+{
+  "71033": {
+    "url": "https://www.yelp.com/biz/hauser-kaibling-st-jakob-in-haus?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Hauser Kaibling",
+    "alias": "hauser-kaibling-st-jakob-in-haus",
+    "main_category": "Active Life",
+    "sub_categories": "Active Life, ",
+    "rating": 4.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Haus",
+    "city": "St. Jakob in Haus",
+    "zip_code": "8967",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "221046": {
+    "url": "https://www.yelp.com/biz/erlebnispark-familienland-sankt-jakob-in-haus?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qbtPP1Rfj2P_a4SmSW9Rvg/o.jpg",
+    "name": "Erlebnispark Familienland",
+    "alias": "erlebnispark-familienland-sankt-jakob-in-haus",
+    "main_category": "Active Life",
+    "sub_categories": "Amusement Parks, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Mühlau 29",
+    "city_from_postal": "St. Jakob in Haus",
+    "city": "Sankt Jakob in Haus",
+    "zip_code": "6392",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+43535488333",
+    "review_count": 2,
+    "snippets": []
+  }
+}

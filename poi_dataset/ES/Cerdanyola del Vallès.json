@@ -1,0 +1,139 @@
+{
+  "488481": {
+    "url": "https://www.yelp.com/biz/genov%C3%A9-1911-cerdanyola-del-vall%C3%A8s?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/14meKTJLonVIvNr3OIjhSA/o.jpg",
+    "name": "Genové 1911",
+    "alias": "genové-1911-cerdanyola-del-vallès",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Spanish, Tapas Bars, ",
+    "rating": 1.5,
+    "price": "€€€",
+    "address": "Carrer de Rambla Sant Josep, 77",
+    "city_from_postal": "Cerdanyola del Vallès",
+    "city": "Cerdanyola del Vallès",
+    "zip_code": "08193",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34933021250",
+    "review_count": 10,
+    "snippets": []
+  },
+  "526068": {
+    "url": "https://www.yelp.com/biz/mas%C3%ADa-can-borrell-barcelona?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MWjqu8PDeNY1SDlHKd2adw/o.jpg",
+    "name": "Masía Can Borrell",
+    "alias": "masía-can-borrell-barcelona",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Spanish, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": null,
+    "city_from_postal": "Cerdanyola del Vallès",
+    "city": "Barcelona",
+    "zip_code": "08290",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34936929723",
+    "review_count": 5,
+    "snippets": [
+      {
+        "url": "https://www.can-borrell.com/tancat-per-emergencia/",
+        "snippet": "Contacta amb Can Borrell. IMPORTANT: Aquest formulari està destinat a contactar amb el retaurant per solventar dubtes però en cap cas seran ateses modificacions de reserves existents ni sol·licituds de noves reserves fetes a través d&#39;aquest formulari.",
+        "title": "Tancat per emergència – Restaurant Can Borrell",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.masiacanborrell.es/es/",
+        "snippet": "Can Borrell Weddings &amp; Events es una maravillosa finca modernista rodeada de 180 hectáreas de terreno que fue restaurada en 1912 por Batllevell, discípulo de Gaudí. Su posición es ideal, puesto que es una finca soleada y vistas increíbles, además, cuenta con unas estancias perfectas para dar cabida a celebraciones como la vuestra.",
+        "title": "Masía para bodas y eventos en Barcelona",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g1080422-d2520821-Reviews-Masia_Can_Borrell-Sant_Cugat_del_Valles_Catalonia.html",
+        "snippet": "Masia Can Borrell, Sant Cugat del Valles: See 373 unbiased reviews of Masia Can Borrell, rated 3.5 of 5 on Tripadvisor and ranked #64 of 274 restaurants in Sant Cugat del Valles. ... Very close to Barcelona, in the middle of Collaerola, you can find this amazing restaurant.",
+        "title": "Masia Can Borrell, Sant Cugat del Valles - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.masiacanborrell.es/es/la-masia",
+        "snippet": "Can Borrell es la finca perfecta para realizar todo tipo de eventos y celebraciones en un entorno natural y único. Con la realización del nuevo proyecto de adaptación para nuevos espacios y colocación de tres carpas, se ha acabado de completar el conjunto ideal para todo tipo de celebraciones.",
+        "title": "Finca modernista para bodas y eventos en Barcelona",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.masiacanborrell.es/es/alquiler-espacio-eventos-barcelona",
+        "snippet": "La Masía Can Borrell, situada al lado del parque natural de Sant Llorenç del Munt i l&#39;Oblac es un lugar perfecto para organizar eventos cerca de Barcelona. Si tenéis pensado celebrar vuestra cena de empresa, bautizo, celebracion familiar, etc. Este es vuestro lugar, ...",
+        "title": "Alquiler espacios para eventos en Barcelona",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.masiacanborrell.es/ca/",
+        "snippet": "Can Borrell Weddings &amp; Events és una meravellosa finca modernista envoltada de 180 hectàrees de terreny que va ser restaurada el 1912 per Batllevell, deixeble de Gaudí. La seva posició és ideal, ja que és una finca assolellada i vistes increïbles, a més, compta amb unes estades perfectes per donar cabuda a celebracions com la vostra.",
+        "title": "Masia per a casaments i esdeveniments a Barcelona",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.masiacanborrell.es/es/masia-bodas-barcelona",
+        "snippet": "La Masía Can Borrell, situada en Castellar del Vallés, es un espacio idílico para bodas en Barcelona. Tendréis todo lo necesario para celebrar una boda hecha a medida, así que, si siempre habíais soñado casaros al aire libre, rodeados de unas vistas espectaculares y un jardín de ensueño, ...",
+        "title": "Masía para Bodas en Barcelona y Cataluña",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.can-borrell.com/es/1380-2/",
+        "snippet": "Contact Can Borrell. IMPORTANTE : Este formulario está destinado a contactar con el retaurant para solventar dudas pero en ningún caso serán atendidas modificaciones de reservas existentes ni solicitudes de nuevas reservas hechas a través de este formulario .",
+        "title": "Restaurant Can Borrell",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.can-borrell.com/en/1378-2/",
+        "snippet": "Dear friends and clients, in the exceptional situation generated in our beloved territory, Due to social responsibility towards our customers and employees, we have decided to close in March, pending the improvement of the situation. We hope this situation remits as soon as possible",
+        "title": "Emergency – Restaurant Can Borrell",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g1080422-d2520821-Reviews-Masia_Can_Borrell-Sant_Cugat_del_Valles_Catalonia.html",
+        "snippet": "Masia Can Borrell, Sant Cugat del Vallès: Consulta 373 opiniones sobre Masia Can Borrell con puntuación 3,5 de 5 y clasificado en Tripadvisor N.°64 de 274 restaurantes en Sant Cugat del Vallès.",
+        "title": "MASIA CAN BORRELL, Sant Cugat del Vallès - Menú, Precios y ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "570435": {
+    "url": "https://www.yelp.com/biz/can-valldaura-cerdanyola-del-valles?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8g4TgsCjXX76M5SHKhQa-A/o.jpg",
+    "name": "Can Valldaura",
+    "alias": "can-valldaura-cerdanyola-del-valles",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Brasseries, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "BV-1415 Km. 7,08",
+    "city_from_postal": "Cerdanyola del Vallès",
+    "city": "Cerdanyola del Valles",
+    "zip_code": "08290",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34934276202",
+    "review_count": 2,
+    "snippets": []
+  },
+  "595966": {
+    "url": "https://www.yelp.com/biz/can-sard%C3%A0-cerdanyola-del-vall%C3%A8s-3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WWVDwtltjuv1oLBaACIXAg/o.jpg",
+    "name": "Can Sardà",
+    "alias": "can-sardà-cerdanyola-del-vallès-3",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Catalan, ",
+    "rating": 4.0,
+    "price": "€€€",
+    "address": "Carretera de Horta, Km 4",
+    "city_from_postal": "Cerdanyola del Vallès",
+    "city": "Cerdanyola del Vallès",
+    "zip_code": "08290",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34936926185",
+    "review_count": 2,
+    "snippets": []
+  }
+}

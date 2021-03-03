@@ -1,0 +1,21 @@
+{
+  "598170": {
+    "url": "https://www.yelp.com/biz/seisenbergklamm-wei%C3%9Fbach-bei-lofer?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XZCmmQRJ87lC3cgAbHfyPA/o.jpg",
+    "name": "Seisenbergklamm",
+    "alias": "seisenbergklamm-weißbach-bei-lofer",
+    "main_category": "Active Life",
+    "sub_categories": "Hiking, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Oberweißbach 16",
+    "city_from_postal": "Weißbach bei Lofer",
+    "city": "Weißbach bei Lofer",
+    "zip_code": "5093",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+436582824248352",
+    "review_count": 5,
+    "snippets": []
+  }
+}

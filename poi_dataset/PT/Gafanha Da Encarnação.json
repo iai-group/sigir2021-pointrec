@@ -1,0 +1,21 @@
+{
+  "287130": {
+    "url": "https://www.yelp.com/biz/riactiva-gafanha-da-encarna%C3%A7%C3%A3o?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SxgCUeyJ27uxcY7dY25dkA/o.jpg",
+    "name": "Riactiva",
+    "alias": "riactiva-gafanha-da-encarnação",
+    "main_category": "Active Life",
+    "sub_categories": "Bike Rentals, Rafting/Kayaking, Surf Schools, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Av. Jose Estevão, s/n",
+    "city_from_postal": "Gafanha Da Encarnação",
+    "city": "Gafanha da Encarnação",
+    "zip_code": "3830-453",
+    "country_code": "PT",
+    "state_code": "01",
+    "phone": "+351919943595",
+    "review_count": 1,
+    "snippets": []
+  }
+}

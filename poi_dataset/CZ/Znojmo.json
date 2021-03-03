@@ -1,0 +1,21 @@
+{
+  "306983": {
+    "url": "https://www.yelp.com/biz/restaurace-zetocha-hevl%C3%ADn?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qkOBdvmnW1en7j2OteLTHQ/o.jpg",
+    "name": "Restaurace Zetocha",
+    "alias": "restaurace-zetocha-hevlín",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Czech, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "",
+    "city_from_postal": "Znojmo",
+    "city": "Hevlín",
+    "zip_code": "671 69",
+    "country_code": "CZ",
+    "state_code": "JM",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

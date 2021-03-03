@@ -1,0 +1,21 @@
+{
+  "433145": {
+    "url": "https://www.yelp.com/biz/tiergarten-und-reiterhof-walding-walding?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/krFGZYcg_87B4C5tZbxtuA/o.jpg",
+    "name": "Tiergarten & Reiterhof Walding",
+    "alias": "tiergarten-und-reiterhof-walding-walding",
+    "main_category": "Active Life",
+    "sub_categories": "Zoos, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Mursberg 42",
+    "city_from_postal": "Walding",
+    "city": "Walding",
+    "zip_code": "4111",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+43723482759",
+    "review_count": 4,
+    "snippets": []
+  }
+}

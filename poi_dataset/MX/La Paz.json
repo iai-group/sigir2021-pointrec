@@ -1,0 +1,21 @@
+{
+  "613065": {
+    "url": "https://www.yelp.com/biz/kimchimix-internacional?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/W10x-seeKp1rfWI_tcqNkA/o.jpg",
+    "name": "Kimchimix",
+    "alias": "kimchimix-internacional",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Korean, ",
+    "rating": 4.0,
+    "price": "$",
+    "address": "Calzada Tecnológico 14487",
+    "city_from_postal": "La Paz",
+    "city": "Internacional",
+    "zip_code": "23310",
+    "country_code": "MX",
+    "state_code": "BCN",
+    "phone": "+526636249500",
+    "review_count": 12,
+    "snippets": []
+  }
+}

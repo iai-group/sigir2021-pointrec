@@ -1,0 +1,21 @@
+{
+  "348180": {
+    "url": "https://www.yelp.com/biz/weiss-axams?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Weiss",
+    "alias": "weiss-axams",
+    "main_category": "Nightlife",
+    "sub_categories": "Lounges, Italian, Austrian, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Sylvester-Jordan-Str. 1",
+    "city_from_postal": "Axams",
+    "city": "Axams",
+    "zip_code": "6094",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+4352346886018",
+    "review_count": 1,
+    "snippets": []
+  }
+}

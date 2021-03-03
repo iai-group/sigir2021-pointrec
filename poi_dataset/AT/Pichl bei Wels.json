@@ -1,0 +1,40 @@
+{
+  "25479": {
+    "url": "https://www.yelp.com/biz/aquapulco-bad-schallerbach?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RtbPFIRbopd7iQsV4prx-g/o.jpg",
+    "name": "Aquapulco",
+    "alias": "aquapulco-bad-schallerbach",
+    "main_category": "Active Life",
+    "sub_categories": "Amusement Parks, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Promenade 1",
+    "city_from_postal": "Pichl bei Wels",
+    "city": "Bad Schallerbach",
+    "zip_code": "4701",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+437249440610",
+    "review_count": 9,
+    "snippets": []
+  },
+  "121036": {
+    "url": "https://www.yelp.com/biz/seidenthalerhof-mitterleiten?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XB6qiULWF-LJpl4-3tX4ug/o.jpg",
+    "name": "Seidenthalerhof",
+    "alias": "seidenthalerhof-mitterleiten",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Austrian, Wine Bars, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Mitterleiten 4",
+    "city_from_postal": "Pichl bei Wels",
+    "city": "Mitterleiten",
+    "zip_code": "4632",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4369917194391",
+    "review_count": 1,
+    "snippets": []
+  }
+}

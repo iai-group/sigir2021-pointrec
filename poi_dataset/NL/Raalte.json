@@ -1,0 +1,21 @@
+{
+  "22337": {
+    "url": "https://www.yelp.com/biz/pedro-pico-pop-raalte?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BTb3nou2Gn_Z6LOABcZQSA/o.jpg",
+    "name": "Pedro Pico Pop",
+    "alias": "pedro-pico-pop-raalte",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Festivals, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Arkelstein 2",
+    "city_from_postal": "Raalte",
+    "city": "Raalte",
+    "zip_code": "8103 PA",
+    "country_code": "NL",
+    "state_code": "OV",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

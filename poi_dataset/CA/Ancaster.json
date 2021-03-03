@@ -1,0 +1,2510 @@
+{
+  "25490": {
+    "url": "https://www.yelp.com/biz/a-and-w-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IGiI7kEAjBIMhy3Hl20BOA/o.jpg",
+    "name": "A&W",
+    "alias": "a-and-w-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fast Food, Burgers, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "10 Legend Court",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9K 1J3",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053046582",
+    "review_count": 2,
+    "snippets": []
+  },
+  "26295": {
+    "url": "https://www.yelp.com/biz/marquis-gardens-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Marquis Gardens",
+    "alias": "marquis-gardens-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "1365 Sandhill Drive",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 4V5",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053044416",
+    "review_count": 1,
+    "snippets": []
+  },
+  "26583": {
+    "url": "https://www.yelp.com/biz/pizza-hut-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OURW_uqds6FRnZYoJ3w92w/o.jpg",
+    "name": "Pizza Hut",
+    "alias": "pizza-hut-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": "6-1179 Wilson Street West",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 0E8",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056480609",
+    "review_count": 2,
+    "snippets": []
+  },
+  "33460": {
+    "url": "https://www.yelp.com/biz/cavallo-nero-hamilton-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9WeREKoVt0UmZPONZ5fi3g/o.jpg",
+    "name": "Cavallo Nero",
+    "alias": "cavallo-nero-hamilton-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, Soup, ",
+    "rating": 3.0,
+    "price": "$$",
+    "address": "370 Wilson Street E",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9G 2C2",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056488888",
+    "review_count": 10,
+    "snippets": [
+      {
+        "url": "http://cavallonero.ca/",
+        "snippet": "Cavallo Nero is a casual fine-dining restaurant in the heart of Ancaster&#39;s Village. Great food &amp; outstanding wine. Come dine with us in Ancaster.",
+        "title": "Cavallo Nero | Casual Fine-Dining Restaurant in Ancaster, On",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://cavallonero.ca/dinner/",
+        "snippet": "View our dinner menu.",
+        "title": "Dinner Menu | Cavallo Nero",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g499248-d2479200-Reviews-Cavallo_Nero-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Cavallo Nero, Ancaster: See 325 unbiased reviews of Cavallo Nero, rated 4 of 5 on Tripadvisor and ranked #6 of 71 restaurants in Ancaster.",
+        "title": "Cavallo Nero, Ancaster - Menu, Prices &amp; Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://cavallonero.ca/appetizers/",
+        "snippet": "Come in and try our appetizers. We are offering a limited take-out menu from 4:00 to 7:00, Thursday to Sunday until the dining room re-opens.",
+        "title": "Appetizers | Cavallo Nero",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://cavallonero.ca/lunch/",
+        "snippet": "“It is more fun to talk with someone who doesn’t use long, difficult words but rather short, easy words, like ‘What about lunch?’” – A. A. Milne",
+        "title": "Lunch Menu | Cavallo Nero",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://cavallonero.ca/live-music/",
+        "snippet": "Live Music Each Thursday evening between 6:00 and 10:00, we welcome local artists to our dining room. Come in, and enjoy a breath of fresh air. On Friday evening from 6:30 to 10:00 and Saturday evening between 6:00 and 10:00, join us as the room is filled with the smooth jazz sound of The Henry Strong Duo.",
+        "title": "Live Music in Ancaster | Hamilton | Cavallo Nero Restaurant",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/cavallonero.ancaster/posts",
+        "snippet": "Cavallo Nero has gone online with take out. Please browse and give us a call. We will be open for pick up from 4 pm until 7 pm Thursday to Sunday. Please note that it will be a limited menu of our most popular dishes. Call the resturaunt 905 648 8888 to place your order. Again, the Restaurant is closed but pick up is available.",
+        "title": "Cavallo Nero - Posts - Ancaster, Ontario - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g499248-d2479200-Cavallo_Nero-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Restaurants near Cavallo Nero, Ancaster on Tripadvisor: Find traveler reviews and candid photos of dining near Cavallo Nero in Ancaster, Ontario.",
+        "title": "THE 10 BEST Restaurants Near Cavallo Nero in Ancaster ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/RestaurantsNear-g499248-d2479200-Cavallo_Nero-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Restauranter i nærheten av Cavallo Nero på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Cavallo Nero, Ancaster.",
+        "title": "De 10 beste restaurantene i nærheten av Cavallo Nero",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://restaurantguru.com/Cavallo-Nero-Hamilton/menu",
+        "snippet": "The restaurant information including the Cavallo Nero menu items and prices may have been modified since the last website update. All users are free to download and save the Cavallo Nero menu files, but can not duplicate or distribute them for any commercial use without prior written permission of the copyright holder.",
+        "title": "Menu at Cavallo Nero restaurant, Hamilton",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "52546": {
+    "url": "https://www.yelp.com/biz/mcdonalds-ancaster-4?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1Ipl_xNIgnTFOC8YQKn7Kg/o.jpg",
+    "name": "McDonald's",
+    "alias": "mcdonalds-ancaster-4",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, Fast Food, Coffee & Tea, ",
+    "rating": 3.0,
+    "price": "$",
+    "address": "1175 Wilson St W",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 0E8",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053044092",
+    "review_count": 2,
+    "snippets": []
+  },
+  "67550": {
+    "url": "https://www.yelp.com/biz/mob-fitness-hamilton?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "MOB Fitness",
+    "alias": "mob-fitness-hamilton",
+    "main_category": "Active Life",
+    "sub_categories": "Sports Clubs, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "675 Mohawk Road",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9G 2X3",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://hamilton.cdncompanies.com/gym/mob-fitness-hamilton/",
+        "snippet": "MOB Fitness – Gym in Hamilton, ON – 680 Tradewind Drive, Hamilton, Ontario. Read verified and trustworthy customer reviews for MOB Fitness or write your own review.",
+        "title": "MOB Fitness - Hours &amp; Reviews - 680 Tradewind Drive ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.ca/biz/mob-fitness-hamilton",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "www.yelp.ca",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/mob-fitness-hamilton",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "www.yelp.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://torontosun.com/news/local-news/hunter-was-latest-hamilton-murder-mob-related",
+        "snippet": "The GTA has seen a number of mob hits over the past three years as underworld alliances and power shifts back and forth. Recently, hitters have gone for the soft underbelly of those in the mob milieu.",
+        "title": "HUNTER: Was latest Hamilton murder mob-related? | Toronto Sun",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=s04SinDBXDc",
+        "snippet": "Burn Bhanga Fitness flash mob outside Mont-Royal Metro station, Sept. 22, 2017. The two very talented dance school partners in this video have since parted ways and started these two new dance ...",
+        "title": "Burn Bhangra Fitness flash mob outside Mont-Royal Metro ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.wagjag.com/deal/mob-fitness-january-2014-hamilton",
+        "snippet": "$19 for 10 fitness classes (a $100 value) $39 for 2 months of unlimited fitness classes (a $90 value) $59 for 3 months of unlimited fitness classes (a $135 value) The classes at MOB (Mind over Body) combine aspects of cardio, strength training, yoga, pilates and fun in a unique and fit way. Classes are suitable for all weights, sizes and ...",
+        "title": "Up to 81% off Fitness Classes at MOB Fitness in Hamilton ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=3Kt0luH6GoY",
+        "snippet": "Tieniti in forma con le coreografie di Zumba Fitness targate e firmate Dance Mob ! Le nostre lezioni ti aspettano! ZIN Interpreti: Enza Rifino, Ludovica Rifi...",
+        "title": "FIREHOUSE | ZUMBA FITNESS® | DANCE MOB - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://torontosun.com/news/local-news/man-44-slain-in-targeted-shooting-in-hamilton",
+        "snippet": "A 44-year-old mob scion is the latest casualty in what appears to be a bloody battle for control of the underworld raging across southern Ontario.Cops say emergency services were called to the 56 ...",
+        "title": "Mob scion, 44, slain in ‘targeted’ Hamilton shooting ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.bodymorphfitness.co.uk/",
+        "snippet": "Body Morph Fitness Ltd is a unique private Health, Fitness and Lifestyle facility situated on Bothwell Road, Hamilton dedicated to working with the general public who want to improve their overall health and fitness as well as working with clients and patients with acknowledged health issues.",
+        "title": "Morphfit | Body Morph Fitness Ltd – Personal Training and ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.fastlane.kiwi/",
+        "snippet": "We house some of New Zealand’s leading brands in fitness equipment, a 30 metre lunge track, a separate strength area, air-conditioning, and some great motivating trainers, all designed to ensure a safe and welcoming environment. We have 3 separate studios for group fitness; including boxing, stretch, HIIT, and crank.",
+        "title": "Fastlane Fitness - Gym, Cafe &amp; Fitness Centre | Hamilton",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "70229": {
+    "url": "https://www.yelp.com/biz/east-side-marios-hamilton-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fBNc1u79GuBQQ3ziZVXdDA/o.jpg",
+    "name": "East Side Mario's",
+    "alias": "east-side-marios-hamilton-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, American (Traditional), Pizza, ",
+    "rating": 2.0,
+    "price": "$$",
+    "address": "1389 Upper James St",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9K 1B2",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19055743890",
+    "review_count": 21,
+    "snippets": [
+      {
+        "url": "https://www.eastsidemarios.com/",
+        "snippet": "Home Of All-You-Can-Eat. Responding to Coronavirus. As we continue to monitor the situation with Coronavirus (COVID-19), we are taking steps to help protect the health and well-being of our customers and partners.",
+        "title": "East Side Mario&#39;s – Home Of All-You-Can-Eat",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.eastsidemarios.com/en/menu.html",
+        "snippet": "Please note that our dining rooms are currently closed. We are committed to serving Italian classics safely through takeout, pick-up and delivery under a temporary reduced menu provided below. Please check our locations page for local East Side Mario&#39;s hours.",
+        "title": "Menu - East Side Mario&#39;s",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g154990-d684373-Reviews-East_Side_Mario_s-Hamilton_Ontario.html",
+        "snippet": "Order food online at East Side Mario&#39;s, Hamilton with Tripadvisor: See 116 unbiased reviews of East Side Mario&#39;s, ranked #999 on Tripadvisor among 1,344 restaurants in Hamilton.",
+        "title": "East Side Mario&#39;s, Hamilton - 1389 Upper James St - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g154990-d684373-Reviews-East_Side_Mario_s-Hamilton_Ontario.html",
+        "snippet": "Order takeaway and delivery at East Side Mario&#39;s, Hamilton with Tripadvisor: See 117 unbiased reviews of East Side Mario&#39;s, ranked #1,008 on Tripadvisor among 1,354 restaurants in Hamilton.",
+        "title": "EAST SIDE MARIO&#39;S, Hamilton - 1389 Upper James St ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://order.eastsidemarios.com/",
+        "snippet": "To help serve you better, we&#39;ve given our site an overhaul and added some great new features. Whether you&#39;re ordering in, or picking it up, it&#39;s never been easier to bring home the delicious taste of East Side Mario&#39;s. If you&#39;re a returning guest, all of your old profile information has been saved, including your login email and password.",
+        "title": "East Side Marios",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/East-Side-Marios-161490604570652/",
+        "snippet": "East Side Mario&#39;s. 42 likes. A restaurant focused on serving up delicious Italian meals at great value, all in a family oriented, fun and casual atmosphere. ... Hamilton, Ontario L8G 1A4. Get Directions. East Side Mario&#39;s Location +1 905-573-9442. Contact East Side Mario&#39;s on Messenger.",
+        "title": "East Side Mario&#39;s - Home - Hamilton, Ontario - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g154990-d947150-Reviews-East_Side_Mario_s_Hamilton_Stoney_Creek-Hamilton_Ontario.html",
+        "snippet": "Order food online at East Side Mario&#39;s Hamilton (Stoney Creek), Hamilton with Tripadvisor: See 79 unbiased reviews of East Side Mario&#39;s Hamilton (Stoney Creek), ranked #709 on Tripadvisor among 1,354 restaurants in Hamilton.",
+        "title": "East Side Mario&#39;s Hamilton (Stoney Creek) - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/eastsidemarioshamilton/",
+        "snippet": "East Side Mario&#39;s Queenston Rd Hamilton. 43 likes. HOME OF ALL YOU CAN EAT BREAD, SOUP AND SALAD! COME EMPTY LEAVE FULL1",
+        "title": "East Side Mario&#39;s Queenston Rd Hamilton - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://order.eastsidemarios.com/login",
+        "snippet": "Order from East Side Marios online.",
+        "title": "East Side Marios",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.skipthedishes.com/east-side-marios-queenston",
+        "snippet": "Order food delivery and take out online from East Side Mario&#39;s (750 Queenston Road, Hamilton, ON, Canada). Browse their menu and store hours.",
+        "title": "East Side Mario&#39;s (750 Queenston Road, Hamilton, ON ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "72698": {
+    "url": "https://www.yelp.com/biz/buffalo-wild-wings-hamilton-4?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kFTOrUFKRNcH2pXwcdv8oQ/o.jpg",
+    "name": "Buffalo Wild Wings",
+    "alias": "buffalo-wild-wings-hamilton-4",
+    "main_category": "Nightlife",
+    "sub_categories": "Sports Bars, American (Traditional), Chicken Wings, ",
+    "rating": 2.5,
+    "price": null,
+    "address": "1015 Golf Links Road",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9K 1L6",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053043759",
+    "review_count": 3,
+    "snippets": [
+      {
+        "url": "https://www.buffalowildwings.com/en/locations/detail/435/",
+        "snippet": "Excludes tax and gratuity. Not valid with any other discount or offer. Delivery is available at participating locations subject to location delivery hours, customer’s location, and availability. *Bundle includes 20 boneless wings, 20 traditional wings and large fries.",
+        "title": "Location Details | Buffalo Wild Wings",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.buffalowildwings.com/",
+        "snippet": "Buffalo Wild Wings® is the ultimate place to get together with your friends, watch sports, drink beer, and eat wings. Order online today.",
+        "title": "Buffalo Wild Wings® | Wings. Beer. Sports.",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/BWW1015GolfLinksRoad/",
+        "snippet": "Buffalo Wild Wings, Hamilton. 203 likes · 11 talking about this · 4,665 were here. Lively sports-bar chain dishing up wings &amp; other American pub grub amid lots of large-screen TVs.",
+        "title": "Buffalo Wild Wings - Home - Hamilton, Ontario - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yellowpages.ca/bus/Ontario/Hamilton/Buffalo-Wild-Wings/8214147.html",
+        "snippet": "My daughter, son in-law and myself were very excited to go to the new Buffalo Wild Wings here in Hamilton. When we first walked in I was deafened by the constant roar that came from the 30 odd TVs they had there. Let me say that in my 52 years I have never had such a wretched experience in any dining establishment. The service was unbelievably bad.",
+        "title": "Buffalo Wild Wings - Restaurants - Hamilton - YellowPages.ca",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.buffalowildwings.com/en/locations/",
+        "snippet": "Find a Buffalo Wild Wings® near you. Get directions, check out dine-in hours, and discover events in your neighborhood.",
+        "title": "Locations | Buffalo Wild Wings®",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g3404947-d4416102-Reviews-Buffalo_Wild_Wings-Stoney_Creek_Hamilton_Ontario.html",
+        "snippet": "Buffalo Wild Wings, Stoney Creek: Se 124 objektive anmeldelser av Buffalo Wild Wings, vurdert til 3 av 5 på TripAdvisor og vurdert som nr. 93 av 138 restauranter i Stoney Creek.",
+        "title": "Buffalo Wild Wings, Stoney Creek - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.sirved.com/restaurant/hamilton-ontario-canada/buffalo-wild-wings/368634/menus#!",
+        "snippet": "buffalo wild in hamilton review, buffalo wild wings menu, buffalo wild wings menu photos, lunch menu for buffalo wild, buffalo wild in hamilton, 494 dundas st w. #chicken #chili #grill #sandwiches #spicy #wings #wraps #seafood #salads #hamburgers #desserts #asian #fries #cheese #casualdining #bbq",
+        "title": "Buffalo Wild Wings menu in Hamilton, Ontario, Canada",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/buffalo-wild-wings-hamilton-4",
+        "snippet": "3 reviews of Buffalo Wild Wings &quot;We placed our order online and picked it up in 20 mins. Ordered the wings and boneless combo with an add on vege boat. We asked for a bunch of dressing on the side and they had no problem giving it to us. Got the…",
+        "title": "Buffalo Wild Wings - Hamilton, ON, Canada - Yelp",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g499248-d6954773-Reviews-Buffalo_Wild_Wings-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Buffalo Wild Wings, Ancaster: See 64 unbiased reviews of Buffalo Wild Wings, rated 3 of 5 on Tripadvisor and ranked #52 of 71 restaurants in Ancaster.",
+        "title": "BUFFALO WILD WINGS, Ancaster - 1015 Golf Links Rd ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.mapquest.com/us/ohio/buffalo-wild-wings-278951658",
+        "snippet": "Get directions, reviews and information for Buffalo Wild Wings in Hamilton, OH. Buffalo Wild Wings 3417 Princeton Road Hamilton OH 45011. Reviews (513) 737-2999 Website. Menu &amp; Reservations Make Reservations . ... Eat wings, drink beer and watch sports all in one place.",
+        "title": "Buffalo Wild Wings 3417 Princeton Road Hamilton, OH ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "90920": {
+    "url": "https://www.yelp.com/biz/frogoxpress-hamilton?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "FroGoXpress",
+    "alias": "frogoxpress-hamilton",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Ice Cream & Frozen Yogurt, Food Trucks, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9G 4S5",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19055721668",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.facebook.com/FroYoXpress",
+        "snippet": "FroGoXpress, Hamilton, ON. 143 likes · 57 were here. Mobile Self Serve Frozen Yogurt",
+        "title": "FroGoXpress - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://hamilton.cdncompanies.com/other/frogoxpress-hamilton/",
+        "snippet": "FroGoXpress – Company in Hamilton, ON – Location Varies, Hamilton, Ontario. Read verified and trustworthy customer reviews for FroGoXpress or write your own review.",
+        "title": "FroGoXpress - Hours &amp; Reviews - Location Varies, Hamilton ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/hamilton-on/frogoxpress-hamilton",
+        "snippet": "FroGoXpress Hamilton; FroGoXpress, Hamilton; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for FroGoXpress Restaurant on Zomato",
+        "title": "FroGoXpress, Hamilton, Hamilton - Urbanspoon/Zomato",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://twitter.com/FroGoXpress",
+        "snippet": "The latest Tweets from FroGoXpress (@FroGoXpress). A Self-Serve Frozen Yogurt truck with toppings. Our yogurt is peanut and gluten free. A dairy free sorbet is usually available. Available for private events!. Hamilton, Ontario",
+        "title": "FroGoXpress (@FroGoXpress) | Twitter",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/hamilton-on/frogoxpress-hamilton/menu",
+        "snippet": "FroGoXpress Hamilton Menu - View the Menu for FroGoXpress Hamilton on Zomato for Delivery, Dine-out or Takeaway, FroGoXpress menu and prices. FroGoXpress Menu",
+        "title": "FroGoXpress Menu, Menu for FroGoXpress, Hamilton ... - Zomato",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://yellow.place/en/frogoxpress-hamilton-canada",
+        "snippet": "Mobile Self Serve Frozen Yogurt. We use cookies to personalise content and ads, to provide social media features and to analyse our traffic.",
+        "title": "FroGoXpress - Hamilton, Canada",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://frogoxpress.foodpages.ca/",
+        "snippet": "FroGoXpress, On the Move, Ainslie Wood West Hamilton ON Food Truck Restaurant",
+        "title": "FroGoXpress, On the Move, Hamilton Ainslie Wood West",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://roaminghunger.com/frogoxpress/",
+        "snippet": "Hamilton, ON . 5+ years on Roaming Hunger. Hire a Food Truck. Food truck catering for your next event. Fast, easy and delicious. Book it here. Get Started. About FroGoXpress. Delicious frozen yogurt on the go! Choose from a variety of flavors and toppings, and treat yourself to a delightful soft-serve frozen yogurt.",
+        "title": "FroGoXpress - Hamilton Food Trucks - Roaming Hunger",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://opengovca.com/place/ChIJ5_pJCPmFLIgRQQoDwcdmaNs",
+        "snippet": "FroGoXpress. Location Varies, Hamilton, ON L9G 2A9, Canada. Find places and points of interest around FroGoXpress",
+        "title": "FroGoXpress · Location Varies, Hamilton, ON L9G 2A9, Canada",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://foursquare.com/v/frogoxpress/51f85371498e78ca1f5bb7a6",
+        "snippet": "1 visitor has checked in at FroGoXpress. Food Truck in Hamilton, ON Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.",
+        "title": "FroGoXpress - Food Truck",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "100199": {
+    "url": "https://www.yelp.com/biz/5-star-fitness-hamilton?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "5 Star Fitness",
+    "alias": "5-star-fitness-hamilton",
+    "main_category": "Active Life",
+    "sub_categories": "Fitness & Instruction, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "1015 Golflinks Road",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9K 1L6",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056480226",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.5star-fitness.com/",
+        "snippet": "5 Star Fitness &amp; Nutrition Centres has been changing lives all over the Hamilton area since we were established in 2007. We believe that fitness is not a hobby, but a way of life. We found our gyms to be the second home for all of our customers.",
+        "title": "5 Star Fitness &amp; Nutrition Centre, Hamilton Fitness",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://hamilton.cdncompanies.com/gym/5-star-fitness-ancaster-hamilton/",
+        "snippet": "5 Star Fitness Ancaster, Gym in Hamilton, Ontario, 1015 Golf Links Road, Hamilton, ON L9K 1L6 – Hours of Operation &amp; Customer Reviews.",
+        "title": "5 Star Fitness Ancaster - Hours &amp; Reviews - 1015 Golf ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/5-star-fitness-and-nutrition-hamilton",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "www.yelp.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.bbb.org/ca/on/hamilton/profile/health-club/5-star-fitness-nutrition-centre-0107-1277587",
+        "snippet": "5 Star Fitness &amp; Nutrition Centre Health Club. This is a multi-location business. ... I called the site in Hamilton on stone church to ask about why I was sent to collections.",
+        "title": "5 Star Fitness &amp; Nutrition Centre | Better Business Bureau ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://hamilton.cdncompanies.com/gym/5-star-fitness-hamilton/",
+        "snippet": "5 Star Fitness, Gym in Hamilton, Ontario, 1215 Stone Church Road East, Hamilton, ON L8W 2C6 – Hours of Operation &amp; Customer Reviews.",
+        "title": "5 Star Fitness - Hours &amp; Reviews - 1215 Stone Church Road ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://hamilton.cdncompanies.com/gym/5-star-fitness-gateway-arena-hamilton/",
+        "snippet": "5 Star Fitness Gateway Arena, Gym in Hamilton, Ontario, 610 South Service Road, Hamilton, ON L8E 2W1 – Hours of Operation &amp; Customer Reviews.",
+        "title": "5 Star Fitness Gateway Arena - Hours &amp; Reviews - 610 South ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.5star-fitness.com/?lightbox=dataItem-jnqcj7f8",
+        "snippet": "5 Star Fitness &amp; Nutrition Centres has been changing lives all over the Hamilton area since we were established in 2007. We believe that fitness is not a hobby, but a way of life. We found our gyms to be the second home for all of our customers.",
+        "title": "5 Star Fitness &amp; Nutrition Centre, Hamilton Fitness",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pages/5-Star-Fitness/406171679574919",
+        "snippet": "5 Star Fitness, Hamilton, Ontario. 13 likes. Gym/Physical Fitness Center",
+        "title": "5 Star Fitness - Hamilton, Ontario - Gym/Physical Fitness ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.5star-fitness.com/boxing",
+        "snippet": "5 Star Fitness clubs in Hamilton, Stoney Creek, Ancaster with personal trainers to help you achieve your fitness goals.",
+        "title": "5 Star Fitness &amp; Nutrition Centre, Hamilton Fitness",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://gtafitnessreviewer.blogspot.com/2012/08/gym-review-5-star-fitness-hamilton.html",
+        "snippet": "5 Star Fitness is located on the east mountain in Hamilton just across the street from Total FX Fitness. The building was previously home to the Hamilton Roller Gardens. Upon arrival, guests and members are greeted with a warm and classy reception area complete with a water fountain feature, a waiting area with comfortable couches and a juice bar.",
+        "title": "The GTA Fitness Reviewer: Gym Review: 5 Star Fitness, Hamilton",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "104215": {
+    "url": "https://www.yelp.com/biz/lone-star-texas-grill-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/G8x_6PMnSQPdc8wCUclnMA/o.jpg",
+    "name": "Lone Star Texas Grill",
+    "alias": "lone-star-texas-grill-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, Steakhouses, Tex-Mex, ",
+    "rating": 3.0,
+    "price": "$$",
+    "address": "14 Martindale Crescent",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9K 1J9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056487147",
+    "review_count": 31,
+    "snippets": []
+  },
+  "112199": {
+    "url": "https://www.yelp.com/biz/carluke-orchards-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4IZ7lzXQX7gBEL9xarHbJA/o.jpg",
+    "name": "Carluke Orchards",
+    "alias": "carluke-orchards-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fruits & Veggies, Bakeries, Coffee & Tea, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "2194 Shaver Road S",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3L1",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056482775",
+    "review_count": 3,
+    "snippets": []
+  },
+  "114873": {
+    "url": "https://www.yelp.com/biz/golden-pita-hamilton?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FG8hyf-hH1cG_fi4LXXpGA/o.jpg",
+    "name": "Golden Pita",
+    "alias": "golden-pita-hamilton",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Mediterranean, ",
+    "rating": 3.5,
+    "price": "$$",
+    "address": "1172 Wilson Street W",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056489292",
+    "review_count": 6,
+    "snippets": [
+      {
+        "url": "https://www.goldenpitaancaster.ca/",
+        "snippet": "Caesar. Freshly cut romaine lettuce, tomatoes, crunchy pita and parmesan cheese, topped with creamy caesar dressing. 8.49",
+        "title": "Mediterranean Cuisine | Golden Pita Ancaster",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/golden-pita-hamilton",
+        "snippet": "6 reviews of Golden Pita &quot;I gave this review five stars because I feel they offer a five-star experience for their profile of restaurant, that being a balance between dine-in and take-out. What I really feel makes Golden Pita stand out is…",
+        "title": "Golden Pita - Hamilton, ON, Canada - Yelp",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g499248-d4702326-Reviews-Golden_Pita-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Order food online at Golden Pita, Ancaster with Tripadvisor: See 53 unbiased reviews of Golden Pita, ranked #11 on Tripadvisor among 71 restaurants in Ancaster.",
+        "title": "Golden Pita, Ancaster - Menu, Prices &amp; Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g499248-d4702326-Reviews-Golden_Pita-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Golden Pita, Ancaster: See 53 unbiased reviews of Golden Pita, rated 4.5 of 5 on Tripadvisor and ranked #11 of 71 restaurants in Ancaster.",
+        "title": "GOLDEN PITA, Ancaster - Menu, Prices &amp; Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g499248-d4702326-r424749110-Golden_Pita-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Golden Pita: Golden Pita, Ancaster - See 53 traveler reviews, 7 candid photos, and great deals for Ancaster, Canada, at Tripadvisor.",
+        "title": "Golden Pita, Ancaster - Review of Golden Pita, Ancaster ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.skipthedishes.com/golden-pita-ancaster",
+        "snippet": "Golden Pita takes great caution when preparing meals with allergy and dietary restrictions. Please note &#39;gluten free&#39; and/or &#39;dairy free&#39; in the special instructions area of the items you are ordering. Be advised that this could result in your item arriving with slight modifications from the online description.",
+        "title": "Golden Pita Ancaster (1172 Wilson Street West, Ancaster ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g499248-d4702326-oa150-Golden_Pita-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Restaurants near Golden Pita, Ancaster on Tripadvisor: Find traveler reviews and candid photos of dining near Golden Pita in Ancaster, Ontario.",
+        "title": "THE 10 BEST Restaurants Near Golden Pita in Ancaster ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://hamilton.cdncompanies.com/restaurant/golden-pita-hamilton/",
+        "snippet": "Golden Pita, Restaurant in Hamilton, Ontario, 1172 Wilson Street West, Hamilton, ON L9G 3K9 – Hours of Operation &amp; Customer Reviews.",
+        "title": "Golden Pita - Hours &amp; Reviews - 1172 Wilson Street West ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/hamilton-on/golden-pita-ancaster-hamilton",
+        "snippet": "Golden Pita Ancaster Hamilton; Golden Pita Ancaster, Hamilton; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Golden Pita Ancaster Restaurant on Zomato",
+        "title": "Golden Pita Ancaster, Hamilton, Hamilton - Urbanspoon/Zomato",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.in/ShowUserReviews-g499248-d4702326-r405057552-Golden_Pita-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Golden Pita: Fabulous - See 53 traveler reviews, 7 candid photos, and great deals for Ancaster, Canada, at Tripadvisor.",
+        "title": "Fabulous - Reviews, Photos - Golden Pita - Tripadvisor",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "123445": {
+    "url": "https://www.yelp.com/biz/tim-hortons-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eOAFgfW5hA1xmzGHqFWFRA/o.jpg",
+    "name": "Tim Horton's",
+    "alias": "tim-hortons-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, Breakfast & Brunch, ",
+    "rating": 4.0,
+    "price": "$",
+    "address": "370 Wilson Street E",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 4S4",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053044242",
+    "review_count": 1,
+    "snippets": []
+  },
+  "135029": {
+    "url": "https://www.yelp.com/biz/jerome-brothers-potatoes-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Jerome Brothers Potatoes",
+    "alias": "jerome-brothers-potatoes-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fruits & Veggies, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "14 Garner Road E",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 2J8",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056486584",
+    "review_count": 1,
+    "snippets": []
+  },
+  "147399": {
+    "url": "https://www.yelp.com/biz/mezza-caffe-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/50bPGmyIHe6TXzB7FQeXmA/o.jpg",
+    "name": "Mezza Caffe",
+    "alias": "mezza-caffe-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Desserts, Coffee & Tea, ",
+    "rating": 3.5,
+    "price": "$$$",
+    "address": "1142 Wilson Street W",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056484646",
+    "review_count": 5,
+    "snippets": []
+  },
+  "152543": {
+    "url": "https://www.yelp.com/biz/pho-dui-bo-hamilton-3?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RDVC6I5MB5MVzjsUzOFZ1g/o.jpg",
+    "name": "Pho Dui Bo",
+    "alias": "pho-dui-bo-hamilton-3",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Vietnamese, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "53 Wilson Street W",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9G 1N1",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "",
+    "review_count": 3,
+    "snippets": [
+      {
+        "url": "http://phoduibo.com/phodaubo_menu_soups1.html",
+        "snippet": "Pho Dau Bo was voted Hamilton&#39;s Number One Vietnamese Restaurant by the readers of View Magazine for Six Years in a Row! We are proud to offer fabulous noodle, rice and stir fry dishes, plus tasty treats such as traditional beef noodle soup, mango salad, and special desserts. With two locations in the greater Hamilton area.",
+        "title": "Pho Dui Bo - Voted Hamilton&#39;s #1 Vietnamese Restaurant - Soups",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.phoduibo.com/phodaubo_menu_rice.html",
+        "snippet": "Pho Dau Bo was voted Hamilton&#39;s Number One Vietnamese Restaurant by the readers of View Magazine for Six Years in a Row! We are proud to offer fabulous noodle, rice and stir fry dishes, plus tasty treats such as traditional beef noodle soup, mango salad, and special desserts. With two locations in the greater Hamilton area.",
+        "title": "Pho Dui Bo - Voted Hamilton&#39;s #1 Vietnamese Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g499248-d15119903-Reviews-Pho_du_bo-Ancaster_Hamilton_Ontario.html",
+        "snippet": "53 Wilson St W, Ancaster, Hamilton, Ontario L9G 1N1 Canada. Website +1 289-239-9892. Improve this listing. Is this restaurant a hidden gem or off-the-beaten path? Yes No Unsure. ... Pho Dui Bo is a new Vietnamese restaurant that seems to have opened recently in the Food Basics plaza across Fortinos.",
+        "title": "PHO DU BO, Ancaster - Menu, Prices &amp; Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/PhoDuiBoAncaster",
+        "snippet": "Pho Dui Bo - Ancaster, Hamilton, Ontario. 37 likes · 2 talking about this · 52 were here. -Vietnamese Cuisine- The best beef noodle soup!",
+        "title": "Pho Dui Bo - Ancaster - Home - Hamilton, Ontario - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g154990-d8685607-Reviews-or10-Pho_Dui_Bo-Hamilton_Ontario.html",
+        "snippet": "Order food online at Pho Dui Bo, Hamilton with Tripadvisor: See 30 unbiased reviews of Pho Dui Bo, ranked #491 on Tripadvisor among 1,355 restaurants in Hamilton.",
+        "title": "Pho Dui Bo, Hamilton - Menu, Prices &amp; Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.doordash.com/store/pho-dui-bo-hamilton-212973/en-US",
+        "snippet": "Get delivery from Pho Dui Bo super-fast to your door. Order online and track your order live. No delivery fee on your first order.",
+        "title": "Pho Dui Bo Delivery in Hamilton - Delivery Menu - DoorDash",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g154990-d8685607-r416966780-Pho_Dui_Bo-Hamilton_Ontario.html",
+        "snippet": "Pho Dui Bo: best pho - See 30 traveler reviews, 11 candid photos, and great deals for Hamilton, Canada, at Tripadvisor.",
+        "title": "best pho - Review of Pho Dui Bo, Hamilton, Ontario ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g154990-d8685607-r418237291-Pho_Dui_Bo-Hamilton_Ontario.html",
+        "snippet": "Pho Dui Bo: Love this place! - See 30 traveler reviews, 11 candid photos, and great deals for Hamilton, Canada, at Tripadvisor.",
+        "title": "Love this place! - Review of Pho Dui Bo, Hamilton, Ontario ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g154990-d8685607-r473457165-Pho_Dui_Bo-Hamilton_Ontario.html",
+        "snippet": "Pho Dui Bo: Good food zero service - See 30 traveler reviews, 11 candid photos, and great deals for Hamilton, Canada, at Tripadvisor.",
+        "title": "Good food zero service - Review of Pho Dui Bo, Hamilton ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g154990-d778213-Reviews-Pho_Dau_Bo-Hamilton_Ontario.html",
+        "snippet": "Pho Dau Bo, Hamilton: See 121 unbiased reviews of Pho Dau Bo, rated 4 of 5 on Tripadvisor and ranked #181 of 1,354 restaurants in Hamilton. Flights Vacation Rentals Restaurants Things to do ... Pho Dui Bo, and a &quot;Pho Pas&quot; Tried the new Pho Dui Bo.",
+        "title": "PHO DAU BO, Hamilton - 15 Cannon St E, Downtown Hamilton ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "157593": {
+    "url": "https://www.yelp.com/biz/tim-hortons-ancaster-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tGdfMlcvIiRQxCBhRoISVA/o.jpg",
+    "name": "Tim Horton's",
+    "alias": "tim-hortons-ancaster-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, Bakeries, ",
+    "rating": 5.0,
+    "price": "$",
+    "address": "1180 Highway",
+    "city_from_postal": "Hamilton",
+    "city": "Ancaster",
+    "zip_code": "L8S 4K5",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056485222",
+    "review_count": 4,
+    "snippets": [
+      {
+        "url": "https://locations.timhortons.com/ca/on/ancaster/977-golf-links-rd.html",
+        "snippet": "Located at 977 Golf Links Rd, Ancaster, ON, Tim Hortons is the perfect place to go for great-tasting, freshly brewed coffee. Our coffee is made with 100% Arabica beans, sourced from the world&#39;s most renowned growing regions.",
+        "title": "Tim Hortons in 977 Golf Links Rd Ancaster, ON | Coffee ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://locations.timhortons.com/ca/on/ancaster/370-wilson-st.html",
+        "snippet": "Located at 370 Wilson St, Ancaster, ON, Tim Hortons is the perfect place to go for great-tasting, freshly brewed coffee. Our coffee is made with 100% Arabica beans, sourced from the world&#39;s most renowned growing regions.",
+        "title": "Tim Hortons in 370 Wilson St Ancaster, ON | Coffee ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://locations.timhortons.com/ca/on/ancaster/777-garner-rd-e.html",
+        "snippet": "Located at 777 Garner Rd E, Ancaster, ON, Tim Hortons is the perfect place to go for great-tasting, freshly brewed coffee. Our coffee is made with 100% Arabica beans, sourced from the world&#39;s most renowned growing regions.",
+        "title": "Tim Hortons in 777 Garner Rd E Ancaster, ON | Coffee ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g499248-d5772112-Reviews-Tim_Hortons-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Tim Hortons, Ancaster: Se 25 objektive anmeldelser av Tim Hortons, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 41 av 71 restauranter i Ancaster.",
+        "title": "Tim Hortons, Ancaster - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://locations.timhortons.com/ca/on/ancaster/95-portia-drive.html",
+        "snippet": "Located at 95 Portia Drive, Ancaster, ON, Tim Hortons is the perfect place to go for great-tasting, freshly brewed coffee. Our coffee is made with 100% Arabica beans, sourced from the world&#39;s most renowned growing regions.",
+        "title": "Tim Hortons in 95 Portia Drive Ancaster, ON | Coffee ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g499248-d5772112-Reviews-Tim_Hortons-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Tim Hortons, Ancaster: See 25 unbiased reviews of Tim Hortons, rated 3.5 of 5 on Tripadvisor and ranked #41 of 71 restaurants in Ancaster.",
+        "title": "TIM HORTONS, Ancaster - 977 Golf Links Rd - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.thespec.com/news-story/9618156-video-step-inside-tim-hortons-roastery-in-ancaster/",
+        "snippet": "VIDEO: Step inside Tim Hortons roastery in Ancaster The 75,000 square foot facility, tucked into an industrial area off Tradewind Drive, opened ten years ago in November of 2009.",
+        "title": "VIDEO: Step inside Tim Hortons roastery in Ancaster ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yellowpages.ca/search/si/1/Tim-Hortons/Ancaster+ON",
+        "snippet": "Locate and compare Tim-Hortons in Ancaster ON, Yellow Pages Local Listings. Find useful information, the address and the phone number of the local business you are looking for.",
+        "title": "Tim-Hortons in Ancaster ON | YellowPages.ca™",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g499248-d5772112-Reviews-or10-Tim_Hortons-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Tim Hortons, Ancaster: See 24 unbiased reviews of Tim Hortons, rated 3.5 of 5 on TripAdvisor and ranked #37 of 68 restaurants in Ancaster.",
+        "title": "Tim Hortons, Ancaster - 977 Golf Links Rd - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g499248-d15260763-Reviews-Tim_Hortons-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Tim Hortons, Ancaster: See 5 unbiased reviews of Tim Hortons, rated 4 of 5 on Tripadvisor and ranked #32 of 71 restaurants in Ancaster.",
+        "title": "Tim Hortons, Ancaster - 370 Wilson St - Menu, Prices ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "182263": {
+    "url": "https://www.yelp.com/biz/the-brassie-pub-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EBZFdHawlMb5_Ni9sV9bkw/o.jpg",
+    "name": "The Brassie Pub",
+    "alias": "the-brassie-pub-ancaster",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, ",
+    "rating": 3.5,
+    "price": "$$",
+    "address": "73 Wilson Street W",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 1N1",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053048935",
+    "review_count": 12,
+    "snippets": []
+  },
+  "207244": {
+    "url": "https://www.yelp.com/biz/india-village-restaurant-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/315joD4hXnRSeoYzKFQpOw/o.jpg",
+    "name": "India Village Restaurant",
+    "alias": "india-village-restaurant-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Indian, ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": "370 Wilson Street E",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 2C2",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053041213",
+    "review_count": 18,
+    "snippets": []
+  },
+  "242623": {
+    "url": "https://www.yelp.com/biz/starbucks-dundas-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/P26CPeB7Bu5qiImLy3inQw/o.jpg",
+    "name": "Starbucks",
+    "alias": "starbucks-dundas-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, ",
+    "rating": 3.0,
+    "price": "$$",
+    "address": "46 King Street W",
+    "city_from_postal": "Ancaster",
+    "city": "Dundas",
+    "zip_code": "L9K 1L5",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "",
+    "review_count": 8,
+    "snippets": []
+  },
+  "260213": {
+    "url": "https://www.yelp.com/biz/pub-fiction-gasbar-and-grill-hamilton?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/teIXxfMdvtKqAEkNKTyZRA/o.jpg",
+    "name": "Pub Fiction Gasbar & Grill",
+    "alias": "pub-fiction-gasbar-and-grill-hamilton",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "American (Traditional), ",
+    "rating": 2.5,
+    "price": "$$",
+    "address": "1242 Garner Road W",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053049990",
+    "review_count": 8,
+    "snippets": [
+      {
+        "url": "https://pubfiction.ca/",
+        "snippet": "Pub Fiction is now open every Wednesday &amp; Saturday for preordered pick up &amp; take away only! We’ll have rotating themed menus paired with weekly features, and a variety of Beer, Wine, &amp; Spirits for home PLUS 10% OFF FOR ALL E-TRANSFERS OR CASH PAYMENTS. Curb side hand off also available(ask us how) Debit &amp; credit",
+        "title": "Pub Fiction - Book",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g499248-d7338569-Reviews-Pub_Fiction_Gasbar_and_Grill-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Pub Fiction Gasbar and Grill, Ancaster: See 90 unbiased reviews of Pub Fiction Gasbar and Grill, rated 3.5 of 5 on Tripadvisor and ranked #27 of 71 restaurants in Ancaster.",
+        "title": "Pub Fiction Gasbar and Grill, Ancaster - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g499248-d7338569-Reviews-Pub_Fiction_Gasbar_and_Grill-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Pub Fiction Gasbar and Grill, Ancaster: See 90 unbiased reviews of Pub Fiction Gasbar and Grill, rated 3.5 of 5 on Tripadvisor and ranked #27 of 71 restaurants in Ancaster.",
+        "title": "PUB FICTION GASBAR AND GRILL, Ancaster - Updated 2020 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pubfiction.ca/aboutus",
+        "snippet": "PUB FICTION OPENS Ancaster&#39;s newest restaurant, Pub Fiction, ... Mark Hodge &amp; Jimmy Nielsen-Owners of Pub Fiction. Pub Fiction Gasbar &amp; Grill is a new addition to the Ancaster and Hamilton area. Serving traditional fare with a modern twist. 19 beers on tap;",
+        "title": "About Us - Pub Fiction",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g499248-d7338569-Reviews-or30-Pub_Fiction_Gasbar_and_Grill-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Pub Fiction Gasbar and Grill, Ancaster: See 90 unbiased reviews of Pub Fiction Gasbar and Grill, rated 3.5 of 5 on Tripadvisor and ranked #27 of 71 restaurants in Ancaster.",
+        "title": "Pub Fiction Gasbar and Grill, Ancaster - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pubfictionancaster",
+        "snippet": "Pub Fiction, Ancaster, Ontario. 2.4K likes. A brand new concept gastro bar and grill located in Ancaster, Ontario with a modern twist on classic foods.",
+        "title": "Pub Fiction - Home - Ancaster, Ontario - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g499248-d7338569-r387509111-Pub_Fiction_Gasbar_and_Grill-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Pub Fiction Gasbar and Grill: Pub fiction - See 90 traveler reviews, 34 candid photos, and great deals for Ancaster, Canada, at Tripadvisor.",
+        "title": "Pub fiction - Review of Pub Fiction Gasbar and Grill ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/hamilton-on/pub-fiction-gasbar-grill-ancaster/menu",
+        "snippet": "Pub Fiction Gasbar &amp; Grill Ancaster Menu - View the Menu for Pub Fiction Gasbar &amp; Grill Hamilton on Zomato for Delivery, Dine-out or Takeaway, Pub Fiction Gasbar &amp; Grill menu and prices. Pub Fiction Gasbar &amp; Grill Menu",
+        "title": "Pub Fiction Gasbar &amp; Grill Menu - Urbanspoon/Zomato",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g499248-d7338569-r259345075-Pub_Fiction_Gasbar_and_Grill-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Pub Fiction Gasbar and Grill: Can it be? - See 88 traveler reviews, 34 candid photos, and great deals for Ancaster, Canada, at TripAdvisor.",
+        "title": "Can it be? - Review of Pub Fiction Gasbar and Grill ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/hamilton-on/pub-fiction-gasbar-grill-ancaster/reviews",
+        "snippet": "Related to Pub Fiction Gasbar &amp; Grill, Hamilton Restaurants in Hamilton, Hamilton Restaurants, Hamilton restaurants, Best Hamilton restaurants, Hamilton restaurants, Bar Food Restaurants in Hamilton, Ontario, Bar Food near me, Bar Food Restaurants in Hamilton Restaurants around Hamilton Frequent searches leading to this page",
+        "title": "Pub Fiction Gasbar &amp; Grill Reviews, User Reviews for Pub ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "271644": {
+    "url": "https://www.yelp.com/biz/wimpys-diner-hamilton-3?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/83VYMWvB2IRHO6Zasx-WVw/o.jpg",
+    "name": "Wimpy's Diner",
+    "alias": "wimpys-diner-hamilton-3",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Diners, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "1075 Wilson Street  W",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056482002",
+    "review_count": 3,
+    "snippets": [
+      {
+        "url": "https://wimpysdiner.ca/",
+        "snippet": "Wimpy&#39;s Diner is a chain of 50&#39;s &amp; 60&#39;s style family restaurants with a full serve menu. Serving breakfast, lunch and dinner. Good Food and Friendly People.",
+        "title": "WIMPY&#39;S DINER | HOME",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://wimpysdiner.ca/menu/",
+        "snippet": "Attention Wimpy’s Diner Customers, Together, we are facing a truly unprecedented situation. The global pandemic is affecting all of our families, our businesses, our communities, and our way of life. Our hearts go out to anyone who&#39;s been impacted by the virus, either directly or indirectly.",
+        "title": "WIMPY&#39;S DINER | MENU",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g154990-d3428777-Reviews-Wimpy_s_Diner-Hamilton_Ontario.html",
+        "snippet": "Order food online at Wimpy&#39;s Diner, Hamilton with Tripadvisor: See 76 unbiased reviews of Wimpy&#39;s Diner, ranked #269 on Tripadvisor among 1,354 restaurants in Hamilton. Flights ... The Wimpys Diner on Main St in Hamilton is such a fun place to dine.",
+        "title": "Wimpy&#39;s Diner, Hamilton - 405 Main St W - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g154990-d10335978-Reviews-Wimpy_s_Diner-Hamilton_Ontario.html",
+        "snippet": "Order takeaway and delivery at Wimpy&#39;s Diner, Hamilton with Tripadvisor: See 18 unbiased reviews of Wimpy&#39;s Diner, ranked #497 on Tripadvisor among 1,354 restaurants in Hamilton.",
+        "title": "WIMPY&#39;S DINER, Hamilton - 989 Fennell Ave E - Updated 2020 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Wimpys-Diner-132099553478921/",
+        "snippet": "Wimpy&#39;s Diner. 175 likes · 2,213 were here. Welcome to Wimpy&#39;s Diner! Where fun atmosphere meets blast from the past, great food meets amazing guests and exceptional service always comes with smiles!",
+        "title": "Wimpy&#39;s Diner - Home - Hamilton, Ontario - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.skipthedishes.com/wimpys-diner-fennell-hamilton",
+        "snippet": "Order food delivery and take out online from Wimpy&#39;s Diner (989 Fennell Avenue East, Hamilton, ON, Canada). Browse their menu and store hours. Order food delivery and take out online from Wimpy&#39;s Diner (989 Fennell Avenue East, Hamilton, ON, Canada). Browse their menu and store hours. Start Your Order ... SkipTheDishes is not involved with food ...",
+        "title": "Wimpy&#39;s Diner (989 Fennell Avenue East, Hamilton, ON ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g154990-d5078883-Reviews-Wimpy_s_Diner-Hamilton_Ontario.html",
+        "snippet": "Wimpy&#39;s Diner, Hamilton: Se 31 objektive anmeldelser av Wimpy&#39;s Diner, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 417 av 1 353 restauranter i Hamilton.",
+        "title": "Wimpy&#39;s Diner, Hamilton - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://wimpysdiner.ca/location/hamilton-771-queenston-rd/",
+        "snippet": "Address: 771 Queenston Rd. Share This Story, Choose Your Platform! Facebook Twitter LinkedIn Reddit Google+ Pinterest Vk",
+        "title": "WIMPY&#39;S DINER | Hamilton - 771 Queenston Rd",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/hamilton-on/wimpys-diner-hamilton/menu",
+        "snippet": "Wimpy&#39;s Diner Hamilton Menu - View the Menu for Wimpy&#39;s Diner Hamilton on Zomato for Delivery, Dine-out or Takeaway, Wimpy&#39;s Diner menu and prices. Wimpy&#39;s Diner Menu",
+        "title": "Wimpy&#39;s Diner Menu, Menu for Wimpy&#39;s Diner, Hamilton ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://wimpysdiner.ca/location/hamilton-405-main-st-w/",
+        "snippet": "Attention Wimpy’s Diner Customers, Together, we are facing a truly unprecedented situation. The global pandemic is affecting all of our families, our businesses, our communities, and our way of life.",
+        "title": "WIMPY&#39;S DINER | Hamilton - 405 Main St W",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "277598": {
+    "url": "https://www.yelp.com/biz/orangetheory-fitness-ancaster-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ay4nYLNJaoNWBKruSpIiaA/o.jpg",
+    "name": "Orangetheory Fitness Ancaster",
+    "alias": "orangetheory-fitness-ancaster-ancaster",
+    "main_category": "Active Life",
+    "sub_categories": "Gyms, Trainers, Cardio Classes, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "1191 Wilson St West",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053048300",
+    "review_count": 3,
+    "snippets": []
+  },
+  "279668": {
+    "url": "https://www.yelp.com/biz/barburrito-ancaster-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_bF4_IyNBDp2GbHmH0HpYw/o.jpg",
+    "name": "BarBurrito - Ancaster",
+    "alias": "barburrito-ancaster-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fast Food, Mexican, ",
+    "rating": 2.5,
+    "price": null,
+    "address": "1183 Wilson St W",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056481138",
+    "review_count": 3,
+    "snippets": []
+  },
+  "290772": {
+    "url": "https://www.yelp.com/biz/the-purple-pony-hamilton?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qih77wZk92HhG5pLmHv8TA/o.jpg",
+    "name": "The Purple Pony",
+    "alias": "the-purple-pony-hamilton",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Ice Cream & Frozen Yogurt, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "346 Wilson Street E",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9G 2C2",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19059281110",
+    "review_count": 4,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g499248-d12793328-Reviews-The_Purple_Pony-Ancaster_Hamilton_Ontario.html",
+        "snippet": "The Purple Pony, Ancaster: See 8 unbiased reviews of The Purple Pony, rated 4.5 of 5 on Tripadvisor and ranked #23 of 71 restaurants in Ancaster.",
+        "title": "The Purple Pony, Ancaster - Restaurant Reviews &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.purplepony.ca/",
+        "snippet": "We are an Ice Cream Shop located in Ancaster Ontario. Now Closed For The Season. See You In The Spring. ? by @Beauxmondes",
+        "title": "The Purple Pony Ice Cream Shop",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.fyple.ca/company/the-purple-pony-3tis5xd/",
+        "snippet": "The Purple Pony in Hamilton (ON) reviews, contact details, photos, open hours and map directions.",
+        "title": "The Purple Pony in Hamilton, ON - fyple.ca",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g499248-d12793328-r621402287-The_Purple_Pony-Ancaster_Hamilton_Ontario.html",
+        "snippet": "The Purple Pony: Fun local spot - See 8 traveler reviews, candid photos, and great deals for Ancaster, Canada, at Tripadvisor.",
+        "title": "Fun local spot - Review of The Purple Pony, Ancaster ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g499248-d12793328-r571799809-The_Purple_Pony-Ancaster_Hamilton_Ontario.html",
+        "snippet": "The Purple Pony: Hidden gem for ice located in the center of the village - See 8 traveler reviews, candid photos, and great deals for Ancaster, Canada, at Tripadvisor.",
+        "title": "Hidden gem for ice located in the... - The Purple Pony",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.au/Restaurant_Review-g499248-d12793328-Reviews-The_Purple_Pony-Ancaster_Hamilton_Ontario.html",
+        "snippet": "The Purple Pony, Ancaster: See 8 unbiased reviews of The Purple Pony, rated 4.5 of 5 on Tripadvisor and ranked #23 of 69 restaurants in Ancaster.",
+        "title": "THE PURPLE PONY, Ancaster - Updated 2020 Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g499248-d12793328-r644040782-The_Purple_Pony-Ancaster_Hamilton_Ontario.html",
+        "snippet": "The Purple Pony: Ice Cream - See 8 traveler reviews, candid photos, and great deals for Ancaster, Canada, at Tripadvisor.",
+        "title": "Ice Cream - Review of The Purple Pony, Ancaster, Ontario ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g499248-d12793328-r613940267-The_Purple_Pony-Ancaster_Hamilton_Ontario.html",
+        "snippet": "The Purple Pony: Good selection. - See 8 traveler reviews, candid photos, and great deals for Ancaster, Canada, at Tripadvisor.",
+        "title": "Good selection. - Review of The Purple Pony, Ancaster ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-purple-pony-hamilton",
+        "snippet": "4 reviews of The Purple Pony &quot;Such a unique little ice-cream shop in Ancaster. They serve Kawartha Dairy, so if you are a fan you know what to expect. The appeal for us was mainly to satisfy our 3 year old. They have purple rocking horses/moose…",
+        "title": "The Purple Pony - Hamilton, ON, Canada - Yelp",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://urbanicity.com/hamilton/place/the-purple-pony/",
+        "snippet": "Our specialty is classic scooped hard ice cream. We are Taren and Kirby, sisters and the proud owners of The Purple Pony Ice Cream Shop. Open since 2006, we are committed to only selling high quality ice cream treats sourced from a local Ontario family owned dairy. We can surely satisfy your cravings with over 30 flavours…",
+        "title": "The Purple Pony - Urbanicity",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "296467": {
+    "url": "https://www.yelp.com/biz/the-great-canadian-gift-company-ancaster-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LSoGaWb6y2t1FrJN2vdZIA/o.jpg",
+    "name": "The Great Canadian Gift Company",
+    "alias": "the-great-canadian-gift-company-ancaster-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Specialty Food, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "601 Tradewind Dr",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 4V5",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+18667252750",
+    "review_count": 2,
+    "snippets": []
+  },
+  "304450": {
+    "url": "https://www.yelp.com/biz/cineplex-cinemas-ancaster-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/caVkqjaMLb4wetXuatjmyQ/o.jpg",
+    "name": "Cineplex Cinemas Ancaster",
+    "alias": "cineplex-cinemas-ancaster-ancaster",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Cinema, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "771 Golf Links Road",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053045888",
+    "review_count": 5,
+    "snippets": []
+  },
+  "310763": {
+    "url": "https://www.yelp.com/biz/shell-select-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Shell Select",
+    "alias": "shell-select-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Convenience Stores, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "10 Legend Crt",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9K 1J3",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053048558",
+    "review_count": 1,
+    "snippets": []
+  },
+  "312153": {
+    "url": "https://www.yelp.com/biz/goodlife-fitness-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9R-QzPSNjxzDfkLkBPlXqQ/o.jpg",
+    "name": "GoodLife Fitness",
+    "alias": "goodlife-fitness-ancaster",
+    "main_category": "Active Life",
+    "sub_categories": "Gyms, Sports Clubs, Trainers, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "1096 Wilson Street W",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053043924",
+    "review_count": 1,
+    "snippets": []
+  },
+  "315198": {
+    "url": "https://www.yelp.com/biz/booster-juice-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Booster Juice",
+    "alias": "booster-juice-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Shopping, Health Markets, ",
+    "rating": 3.0,
+    "price": "$$$",
+    "address": "737 Golf Links Road",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9K 1L5",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053040120",
+    "review_count": 1,
+    "snippets": []
+  },
+  "316080": {
+    "url": "https://www.yelp.com/biz/sunset-grill-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8uqiNSD1PcB2vDkmOQ6T0w/o.jpg",
+    "name": "Sunset Grill",
+    "alias": "sunset-grill-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Diners, Breakfast & Brunch, Canadian (New), ",
+    "rating": 5.0,
+    "price": null,
+    "address": "1179 Wilson St W",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 0E8",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056480121",
+    "review_count": 1,
+    "snippets": []
+  },
+  "345313": {
+    "url": "https://www.yelp.com/biz/wine-kitz-ancaster-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Wine Kitz Ancaster",
+    "alias": "wine-kitz-ancaster-ancaster",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Wineries, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "1090 Wilson Street W",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053044338",
+    "review_count": 1,
+    "snippets": []
+  },
+  "346828": {
+    "url": "https://www.yelp.com/biz/lookout-sports-lounge-hamilton?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hvtPYd94ae2WYfWzz2mqng/o.jpg",
+    "name": "Lookout Sports Lounge",
+    "alias": "lookout-sports-lounge-hamilton",
+    "main_category": "Nightlife",
+    "sub_categories": "Sports Bars, ",
+    "rating": 5.0,
+    "price": "$$",
+    "address": "710 Mountain Brow Boulevard",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9K 1R7",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053188881",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://thelookoutlounge.com/hamilton/",
+        "snippet": "Celebrate your latest win and take your team to Look Out Sports Lounge at the Hamilton Quad Pad for party platters and pitchers of beer. Book today!",
+        "title": "Sports Bar in the Hamilton Quad Pad - Lookout Sports Lounge",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g154990-d12160680-Reviews-Lookout_Sports_Lounge-Hamilton_Ontario.html",
+        "snippet": "Order takeaway and delivery at Lookout Sports Lounge, Hamilton with Tripadvisor: See 4 unbiased reviews of Lookout Sports Lounge, ranked #994 on Tripadvisor among 1,350 restaurants in Hamilton.",
+        "title": "LOOKOUT SPORTS LOUNGE, Hamilton - 710 Mountain Brow Blvd ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://thelookoutlounge.com/",
+        "snippet": "Lookout Sports Lounge - Sports Bar &amp; Grill in Hamilton (Quad Pad), Brantford (Wayne Gretzky Centre) and St. Catharines (Seymour-Hannah Sports Centre)",
+        "title": "Lookout Sports Lounge - Hamilton, St. Catharines, Brantford",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/LookoutSportsLoungeHamilton",
+        "snippet": "Lookout Sports Lounge Hamilton, Hamilton, Ontario. 117 likes · 1 talking about this · 17 were here. The LOOKOUT SPORTS LOUNGE is a full service bar and restaurant, located in the Mohawk 4Ice Center,...",
+        "title": "Lookout Sports Lounge Hamilton - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://thelookoutlounge.com/hamilton/menu/",
+        "snippet": "Check out the Menu at the Hamilton Lookout Sports Lounge which includes suitable choices for families, kids, party platters for teams and leagues.",
+        "title": "Check out the Menu at our Hamilton ... - Lookout Sports Lounge",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/lookout-sports-lounge-hamilton",
+        "snippet": "1 review of Lookout Sports Lounge &quot;Since this place looks like a great sports bar then I would like to come here for the first time be like one of the regulars, watch sports on tv and be treated real friendly!!! #hamilton #thehammer #steeltown&quot;",
+        "title": "Lookout Sports Lounge - Hamilton, ON, Canada - Yelp",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.thelookoutbar.co.nz/",
+        "snippet": "With views &#39;looking out&#39; toward the Hakarimata ranges, our balcony is the ideal place to take in the scenery or if you&#39;d prefer a cosy spot indoors there are three seating areas to choose from, two with large flat-screen tv&#39;s for the sports fanatics. For small get-together&#39;s and celebrations talk to us about The Terrace.",
+        "title": "The Lookout Bar NZ",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Lookout-Sports-Lounge-190682411817402/",
+        "snippet": "Lookout Sports Lounge, Hamilton. 14 likes. Restaurant",
+        "title": "Lookout Sports Lounge - Restaurant - Hamilton, Ontario ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g154990-d12160680-r333005215-Lookout_Sports_Lounge-Hamilton_Ontario.html",
+        "snippet": "Lookout Sports Lounge: Gotta love this palce and watching your kid play hockey or practice - See 4 traveler reviews, 15 candid photos, and great deals for Hamilton, Canada, at Tripadvisor.",
+        "title": "Gotta love this palce and watching your... - Lookout ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g154990-d12160680-Reviews-Lookout_Sports_Lounge-Hamilton_Ontario.html",
+        "snippet": "Order food online at Lookout Sports Lounge, Hamilton with Tripadvisor: See 4 unbiased reviews of Lookout Sports Lounge, ranked #994 on Tripadvisor among 1,350 restaurants in Hamilton.",
+        "title": "Lookout Sports Lounge, Hamilton - 710 Mountain Brow Blvd ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "355458": {
+    "url": "https://www.yelp.com/biz/the-hostess-frito-lay-company-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "The Hostess Frito-Lay Company",
+    "alias": "the-hostess-frito-lay-company-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "533 Tradewind Drive",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 4V5",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053049723",
+    "review_count": 1,
+    "snippets": []
+  },
+  "358481": {
+    "url": "https://www.yelp.com/biz/bennetts-apples-and-cider-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cCpYTMsQHg-obBaM0ER4kA/o.jpg",
+    "name": "Bennett's Apples & Cider",
+    "alias": "bennetts-apples-and-cider-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fruits & Veggies, ",
+    "rating": 4.0,
+    "price": "$",
+    "address": "944 Garner Road E",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056486878",
+    "review_count": 9,
+    "snippets": []
+  },
+  "359741": {
+    "url": "https://www.yelp.com/biz/buffalo-wild-wing-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BN8eULU2xwwxjJ9LSSaTRA/o.jpg",
+    "name": "Buffalo Wild Wing",
+    "alias": "buffalo-wild-wing-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, Sandwiches, ",
+    "rating": 3.5,
+    "price": "$$",
+    "address": "",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9K 1L6",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "",
+    "review_count": 7,
+    "snippets": []
+  },
+  "371085": {
+    "url": "https://www.yelp.com/biz/knollwood-golf-club-new-course-ancaster-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aGlO8WpKayK024l882dM-w/o.jpg",
+    "name": "Knollwood Golf Club-New Course",
+    "alias": "knollwood-golf-club-new-course-ancaster-2",
+    "main_category": "Active Life",
+    "sub_categories": "Golf, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "914 Book Road W",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3L1",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056488285",
+    "review_count": 1,
+    "snippets": []
+  },
+  "373551": {
+    "url": "https://www.yelp.com/biz/ancaster-mill-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZCATxQL_Lj8Bva0A4i3bEg/o.jpg",
+    "name": "Ancaster Mill",
+    "alias": "ancaster-mill-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Canadian (New), Venues & Event Spaces, ",
+    "rating": 4.0,
+    "price": "$$$",
+    "address": "548 Old Dundas Road",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3J4",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056481828",
+    "review_count": 54,
+    "snippets": []
+  },
+  "380049": {
+    "url": "https://www.yelp.com/biz/lindley-farm-and-market-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Lindley Farm & Market",
+    "alias": "lindley-farm-and-market-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fruits & Veggies, Farms, ",
+    "rating": 1.0,
+    "price": "$",
+    "address": "900 Fiddler's Green Road",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3L1",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056484212",
+    "review_count": 2,
+    "snippets": []
+  },
+  "380248": {
+    "url": "https://www.yelp.com/biz/eagle-classic-golf-centre-at-southcote-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dx6TeXpOl2QtOWRQVdbx9w/o.jpg",
+    "name": "Eagle Classic Golf Centre At Southcote",
+    "alias": "eagle-classic-golf-centre-at-southcote-ancaster",
+    "main_category": "Active Life",
+    "sub_categories": "Golf, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "618 Garner Road E",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056489880",
+    "review_count": 2,
+    "snippets": []
+  },
+  "380824": {
+    "url": "https://www.yelp.com/biz/jungle-jam-hamilton?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uO4DFgDsBAFsjpxODiARRg/o.jpg",
+    "name": "Jungle Jam",
+    "alias": "jungle-jam-hamilton",
+    "main_category": "Active Life",
+    "sub_categories": "Recreation Centers, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "680 Tradewind Drive",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9G 4V5",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056482662",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "http://www.junglejam.ca/",
+        "snippet": "Jungle Jam Indoor Playground offers birthday for parties for children, kids and toddlers. Our massive play park is a great Hamilton Amusement and attraction. Jungle Jam offers birthday parties, school trips, day care trips, private parties and food.",
+        "title": "Jungle Jam Indoor Playground",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Attraction_Review-g499248-d1382988-Reviews-Jungle_Jam_Indoor_Playground-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Jungle Jam Indoor Playground, Ancaster: See 29 reviews, articles, and photos of Jungle Jam Indoor Playground, ranked No.6 on Tripadvisor among 15 attractions in Ancaster.",
+        "title": "Jungle Jam Indoor Playground (Ancaster) - All You Need to ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://junglejam.ca/parties.html",
+        "snippet": "We host fun birthday parties for kids, children and toddlers from Hamilton, Ancaster, Dundas, Stoney Creek, Caledonia, Burlington, Brantford, Waterdown, Flamborough ...",
+        "title": "Birthday Parties for kids, children and toddlers.",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://junglejam.ca/admission.html",
+        "snippet": "Visit our playground for some cheap family fun. Kids and parents will love our playground and what better way to celebrate your kid&#39;s next birthday party than with us.",
+        "title": "Visit Jungle Jam Indoor Playground for cheap family fun.",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g499248-d1382988-Reviews-Jungle_Jam_Indoor_Playground-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Hotels near Jungle Jam Indoor Playground: (1.72 mi) Serenity Ranch Bed and Breakfast (6.21 mi) Homestead House Bed &amp; Breakfast (6.49 mi) Osler House (9.36 mi) The Bear&#39;s Inn (11.81 mi) Two Roses B and B; View all hotels near Jungle Jam Indoor Playground on Tripadvisor",
+        "title": "Jungle Jam Indoor Playground (Ancaster) - 2020 All You ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.junglejam.ca/photos.html",
+        "snippet": "We are the largest indoor playground in Hamilton. Photos- Jungle Jam Indoor Playground, Ancaster, Ontario PLEASE NOTE: SOCKS MANDATORY FOR ALL CHILDREN AND ADULTS!",
+        "title": "See our Indoor Playground.",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://junglejam.ca/activities.html",
+        "snippet": "Jungle Jam has slides, rock climbing, tubes crawl and tunnels for kids. A great family or tourist destination for parents and children. Use our facility to host your child&#39;s next Brithday Party.",
+        "title": "Jungle Jam offers things to do for kids in Hamilton and ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.ca/biz/jungle-jam-hamilton",
+        "snippet": "1 review of Jungle Jam &quot;Went there today for the first time. It was clean and the staff were nice. The concession is reasonably priced. It&#39;s not very big but for under two hours it was enough fun for my four year old.&quot;",
+        "title": "Jungle Jam - Hamilton, ON - Yelp",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.localgymsandfitness.com/TT/Port-of-Spain/277260289313333/Jungle-Jam-TT",
+        "snippet": "Jungle Jam is pleased to partner with our friends from Dingole Ltd again this summer!! Our first camp for the vacation! Does your child have an interest in innovation and business? Let us help to build that foundation in our Biz Start Kids Summer Camp! By Entrepreneurs for our future Entrepreneurs!!!",
+        "title": "Jungle Jam TT, 20 Hamilton Holder Street, Woodbrock, Port ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g499248-d1382988-Jungle_Jam_Indoor_Playground-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Restaurants near Jungle Jam Indoor Playground, Ancaster on Tripadvisor: Find traveler reviews and candid photos of dining near Jungle Jam Indoor Playground in Ancaster, Ontario.",
+        "title": "THE 10 BEST Restaurants Near Jungle Jam Indoor Playground ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "382855": {
+    "url": "https://www.yelp.com/biz/jack-astors-bar-and-grill-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oRGN_BjnWGCw01PwsmQ0Ig/o.jpg",
+    "name": "Jack Astor's Bar & Grill",
+    "alias": "jack-astors-bar-and-grill-ancaster",
+    "main_category": "Nightlife",
+    "sub_categories": "Sports Bars, Burgers, Canadian (New), ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "839 Golf Links Rd.",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9K 1L5",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053041721",
+    "review_count": 14,
+    "snippets": []
+  },
+  "384251": {
+    "url": "https://www.yelp.com/biz/mcdonalds-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/H6gaHrZJrU5LT9k-ognMvA/o.jpg",
+    "name": "McDonald's",
+    "alias": "mcdonalds-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fast Food, Burgers, Coffee & Tea, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "1015 Golf Links Rd",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9K 1L6",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056487915",
+    "review_count": 8,
+    "snippets": []
+  },
+  "385702": {
+    "url": "https://www.yelp.com/biz/september-seventh-entertainment-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "September Seventh Entertainment",
+    "alias": "september-seventh-entertainment-ancaster",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Arts & Entertainment, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "386 Wilson Street E",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 2C2",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053048008",
+    "review_count": 1,
+    "snippets": []
+  },
+  "395680": {
+    "url": "https://www.yelp.com/biz/montfort-grill-house-hamilton?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CH3Jzc7TgZO9rDiXQDzrgg/o.jpg",
+    "name": "Montfort Grill House",
+    "alias": "montfort-grill-house-hamilton",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 3.5,
+    "price": "$$",
+    "address": "35 Stone Church Rd",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9K 1S5",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056486900",
+    "review_count": 17,
+    "snippets": [
+      {
+        "url": "https://www.yelp.com/biz/montfort-grill-house-hamilton",
+        "snippet": "Specialties: The Ancaster location for Montfort Grill House, conveniently located on the corner of Stone Church and Golf Links right off the highway, specializes in consistently providing delicious food, always of the best quality to our…",
+        "title": "Montfort Grill House - Hamilton, ON, Canada",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yellowpages.ca/bus/Ontario/Hamilton/Montfort-Grill-House/6249499.html",
+        "snippet": "Montfort Grill House - Hamilton - phone number, website, address &amp; opening hours - ON - Restaurants, Mediterranean Restaurants.",
+        "title": "Montfort Grill House - Restaurants - Hamilton - YellowPages.ca",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g499248-d7239566-Reviews-Montfort_Grill_House-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Montfort Grill House has been a favorite of ours for years. We usually order the mixed grill for takeout, and it&#39;s consistently delicious. The menu is actually quite varied, and everything looks amazing. You can&#39;t go wrong, here. Highly recommended.",
+        "title": "Montfort Grill House, Ancaster - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/MontfortGrill/",
+        "snippet": "Montfort Grill House. 101 likes. Enjoy delicious Mediterranean cuisine in an elegant yet relaxed atmosphere. Locations in Hamilton, Burlington, Ancaster &amp; Waterdown.",
+        "title": "Montfort Grill House - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.montfortrestaurant.ca/lunch-menu",
+        "snippet": "We are pleased to serve you at the following two locations but with our modified express menu for your convenience. ‍",
+        "title": "Lunch Menu - Montfort Restaurant",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g499248-d7239566-Reviews-or10-Montfort_Grill_House-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Order food online at Montfort Grill House, Ancaster with Tripadvisor: See 26 unbiased reviews of Montfort Grill House, ranked #39 on Tripadvisor among 71 restaurants in Ancaster.",
+        "title": "Montfort Grill House, Ancaster - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.mapquest.com/canada/ontario/montfort-grill-house-359310387",
+        "snippet": "Get directions, reviews and information for Montfort Grill House in Hamilton, ON. Montfort Grill House 6 Clappison Ave Hamilton ON L8B. Reviews (905) 690-2500 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...",
+        "title": "Montfort Grill House 6 Clappison Ave Hamilton, ON ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.ca/biz/montfort-grill-house-hamilton-2",
+        "snippet": "3 reviews of Montfort Grill House &quot;I write this review as a long-time customer of the Montfort chain (but not long for this particular location). We ordered food for pick-up, and were told &quot;20 minutes&quot;. We showed up 25 minutes later, but ended up…",
+        "title": "Montfort Grill House - Hamilton, ON - Yelp",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/hamilton-on/montfort-grill-house-hamilton",
+        "snippet": "Montfort Grill House Hamilton; Montfort Grill House, Hamilton; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Montfort Grill House Restaurant on Zomato",
+        "title": "Montfort Grill House, Hamilton, Hamilton - Urbanspoon/Zomato",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://montfortrestaurants.ca/",
+        "snippet": "Montfort Grill House (Brant Street) Montfort Grill House 796 Brant Street , Burlington , ON (905) 632-1232 Expand Menu YP Dine Twitter Yelp Instagram TripAdvisor Zomato Home",
+        "title": "Montfort Grill House (Brant Street) | Burlington, ON ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "420199": {
+    "url": "https://www.yelp.com/biz/zoom-zooms-indoor-playground-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Zoom Zoom's Indoor Playground",
+    "alias": "zoom-zooms-indoor-playground-ancaster",
+    "main_category": "Active Life",
+    "sub_categories": "Party & Event Planning, Recreation Centers, Playgrounds, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "665 Tradewind Drive",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 4V5",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056487133",
+    "review_count": 1,
+    "snippets": []
+  },
+  "425205": {
+    "url": "https://www.yelp.com/biz/sammys-bar-and-grill-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LLJUPdXvVlAV1hL5x0b3Nw/o.jpg",
+    "name": "Sammy's Bar and Grill",
+    "alias": "sammys-bar-and-grill-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Breakfast & Brunch, Bars, American (Traditional), ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": "2 Cameron Drive",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 2L3",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056486756",
+    "review_count": 12,
+    "snippets": []
+  },
+  "451549": {
+    "url": "https://www.yelp.com/biz/wendys-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/L_zIUnenEYrH4sUXmoz8BA/o.jpg",
+    "name": "Wendy's",
+    "alias": "wendys-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fast Food, Burgers, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "977 Golf Links Road",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9K 1K1",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056487963",
+    "review_count": 1,
+    "snippets": []
+  },
+  "457101": {
+    "url": "https://www.yelp.com/biz/the-egg-and-i-restaurants-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/a4pqRmL2OdmVKi8i70tQdQ/o.jpg",
+    "name": "The Egg and I Restaurants",
+    "alias": "the-egg-and-i-restaurants-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Breakfast & Brunch, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "1242 Garner Rd W",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056480344",
+    "review_count": 15,
+    "snippets": []
+  },
+  "461891": {
+    "url": "https://www.yelp.com/biz/tim-horton-donuts-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7KXl6oHZZV-6CUp6wylvtA/o.jpg",
+    "name": "Tim Horton Donuts",
+    "alias": "tim-horton-donuts-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, Breakfast & Brunch, Sandwiches, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "977 Golf Links Road",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053043355",
+    "review_count": 1,
+    "snippets": []
+  },
+  "463678": {
+    "url": "https://www.yelp.com/biz/sobeys-ancaster-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Sobeys",
+    "alias": "sobeys-ancaster-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Seafood Markets, Grocery, ",
+    "rating": 3.5,
+    "price": "$$",
+    "address": "977 Golf Links Road",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9K 1K1",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056483534",
+    "review_count": 3,
+    "snippets": []
+  },
+  "466511": {
+    "url": "https://www.yelp.com/biz/pita-pit-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GwG6VDHa-X5cKCs6YwZsTQ/o.jpg",
+    "name": "Pita Pit",
+    "alias": "pita-pit-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Sandwiches, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "1096 Wilson Street W",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053049993",
+    "review_count": 2,
+    "snippets": []
+  },
+  "477765": {
+    "url": "https://www.yelp.com/biz/ancaster-pizza-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eXvdzNSbGIzFNBIArqEeZQ/o.jpg",
+    "name": "Ancaster Pizza",
+    "alias": "ancaster-pizza-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Chicken Wings, ",
+    "rating": 2.5,
+    "price": "$$",
+    "address": "240 Wilson Street E",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 2B7",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053043131",
+    "review_count": 5,
+    "snippets": []
+  },
+  "503206": {
+    "url": "https://www.yelp.com/biz/swiss-chalet-rotisserie-and-grill-ancaster-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DXOGqlVD426k2J8zLKNsTQ/o.jpg",
+    "name": "Swiss Chalet Rotisserie & Grill",
+    "alias": "swiss-chalet-rotisserie-and-grill-ancaster-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Comfort Food, American (Traditional), ",
+    "rating": 3.0,
+    "price": null,
+    "address": "1000 Golf Links Road",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053041885",
+    "review_count": 6,
+    "snippets": []
+  },
+  "520208": {
+    "url": "https://www.yelp.com/biz/evolution-martial-art-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Evolution Martial Art",
+    "alias": "evolution-martial-art-ancaster",
+    "main_category": "Active Life",
+    "sub_categories": "Martial Arts, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "1240 Richards Street",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 4V5",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+16046832446",
+    "review_count": 1,
+    "snippets": []
+  },
+  "540139": {
+    "url": "https://www.yelp.com/biz/john-savidis-lean-and-fit-elite-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/p-OsyIdjh6FcAFKWx-qtTA/o.jpg",
+    "name": "John Savidis Lean & Fit Elite",
+    "alias": "john-savidis-lean-and-fit-elite-ancaster",
+    "main_category": "Active Life",
+    "sub_categories": "Trainers, Weight Loss Centers, Physical Therapy, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "821 Golf Links Rd",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9K 1L5",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053855326",
+    "review_count": 3,
+    "snippets": []
+  },
+  "554465": {
+    "url": "https://www.yelp.com/biz/wine-rack-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2qzT0EkDwT_PJP_M3Azm6A/o.jpg",
+    "name": "Wine Rack",
+    "alias": "wine-rack-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Beer, Wine & Spirits, ",
+    "rating": 1.0,
+    "price": "$$$",
+    "address": "32 Wilson St W",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 1N2",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053041884",
+    "review_count": 2,
+    "snippets": []
+  },
+  "566468": {
+    "url": "https://www.yelp.com/biz/thai-tamarind-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uW3KsAsBJI6XsteF0nW24g/o.jpg",
+    "name": "Thai Tamarind",
+    "alias": "thai-tamarind-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Thai, ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": "1654 Wilson Street W",
+    "city_from_postal": "Ontario",
+    "city": "Ancaster",
+    "zip_code": "L0R 1R0",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056489488",
+    "review_count": 17,
+    "snippets": []
+  },
+  "569114": {
+    "url": "https://www.yelp.com/biz/southcote-53-tap-and-grill-hamilton?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nlszVstGJ2EnslcaVwvW0g/o.jpg",
+    "name": "Southcote 53 Tap & Grill",
+    "alias": "southcote-53-tap-and-grill-hamilton",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "American (Traditional), Pubs, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "534 Garner Road E",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+12892398888",
+    "review_count": 5,
+    "snippets": [
+      {
+        "url": "https://southcote53.ca/",
+        "snippet": "Southcote 53 Tap And Grill In Ancaster, In Faloney&#39;s Former Location.",
+        "title": "Southcote 53 Tap &amp; Grill - Ancaster, Hamilton",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://southcote53.ca/menu.html",
+        "snippet": "SOUTHCOTE BURGERS. All burgers come with lettuce, tomato and onions on a brioche bun. Served with a side of Fries, Soup of the Day or Fiddlers Green salad Substitute: Caesar Salad ~2, Sweet Potato Fries ~3, French Onion Soup ~3.5, Gorgonzola Spinach Salad ~3",
+        "title": "MENUS - Southcote 53 Tap &amp; Grill - Ancaster, Hamilton",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://southcote53.ca/about.html",
+        "snippet": "Southcote 53 Tap And Grill In Ancaster, In Faloney&#39;s Former Location. ABOUT US. A pub menu with flair best describes the food selection at Southcote 53, and it won&#39;t take you long to see what this means. &quot;We are dedicated to provide our customers with tasteful experiences ...",
+        "title": "About Us - Southcote 53 Tap &amp; Grill, Ancaster, Hamilton",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://southcote53.ca/events.html",
+        "snippet": "Southcote 53 Tap And Grill In Ancaster, In Faloney&#39;s Former Location.",
+        "title": "EVENTS - Southcote 53 Tap &amp; Grill, Ancaster, Hamilton",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g499248-d6903582-Reviews-Southcote_53_Tap_Grill-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Southcote 53 Tap &amp; Grill, Ancaster: See 204 unbiased reviews of Southcote 53 Tap &amp; Grill, rated 3.5 of 5 on Tripadvisor and ranked #20 of 71 restaurants in Ancaster.",
+        "title": "SOUTHCOTE 53 TAP &amp; GRILL, Ancaster - Updated 2020 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g499248-d6903582-Reviews-or50-Southcote_53_Tap_Grill-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Southcote 53 Tap &amp; Grill, Ancaster: See 204 unbiased reviews of Southcote 53 Tap &amp; Grill, rated 3.5 of 5 on Tripadvisor and ranked #20 of 71 restaurants in Ancaster.",
+        "title": "SOUTHCOTE 53 TAP &amp; GRILL, Ancaster - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g499248-d6903582-r545557484-Southcote_53_Tap_Grill-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Southcote 53 Tap &amp; Grill: Great Brunch - See 204 traveler reviews, 23 candid photos, and great deals for Ancaster, Canada, at Tripadvisor.",
+        "title": "Great Brunch - Review of Southcote 53 Tap &amp; Grill ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g499248-d6903582-r359033615-Southcote_53_Tap_Grill-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Southcote 53 Tap &amp; Grill: Very Popular - See 204 traveler reviews, 23 candid photos, and great deals for Ancaster, Canada, at Tripadvisor.",
+        "title": "Very Popular - Review of Southcote 53 Tap &amp; Grill ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g499248-d6903582-r320744928-Southcote_53_Tap_Grill-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Southcote 53 Tap &amp; Grill: Much Better!! - See 204 traveler reviews, 23 candid photos, and great deals for Ancaster, Canada, at Tripadvisor.",
+        "title": "Much Better!! - Review of Southcote 53 Tap &amp; Grill ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g499248-d6903582-r539689713-Southcote_53_Tap_Grill-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Southcote 53 Tap &amp; Grill: Local Family Restaurant - See 204 traveler reviews, 23 candid photos, and great deals for Ancaster, Canada, at Tripadvisor.",
+        "title": "Local Family Restaurant - Southcote 53 Tap &amp; Grill",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "576035": {
+    "url": "https://www.yelp.com/biz/starbucks-ancaster-3?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/y97hGEH6jtvwhGRKmcnczQ/o.jpg",
+    "name": "Starbucks",
+    "alias": "starbucks-ancaster-3",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, ",
+    "rating": 2.5,
+    "price": "$$",
+    "address": "737 Golf Links Road",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9K 1L5",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053047070",
+    "review_count": 3,
+    "snippets": []
+  },
+  "592222": {
+    "url": "https://www.yelp.com/biz/fortinos-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Fortinos",
+    "alias": "fortinos-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 4.0,
+    "price": "$$$",
+    "address": "54 Wilson Street W",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 1N2",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053045740",
+    "review_count": 4,
+    "snippets": []
+  },
+  "615824": {
+    "url": "https://www.yelp.com/biz/my-thai-restaurant-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/L4S9uvlaXtIZ6o43x0wxfA/o.jpg",
+    "name": "My-Thai Restaurant",
+    "alias": "my-thai-restaurant-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Thai, ",
+    "rating": 3.5,
+    "price": "$$$",
+    "address": "42 Wilson Street W",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 1N2",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053048424",
+    "review_count": 13,
+    "snippets": []
+  },
+  "617408": {
+    "url": "https://www.yelp.com/biz/starbucks-ancaster-4?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ku74UX-4WBXqagmICubCgw/o.jpg",
+    "name": "Starbucks",
+    "alias": "starbucks-ancaster-4",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "1100 Wilson Street West",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053048494",
+    "review_count": 2,
+    "snippets": []
+  },
+  "637710": {
+    "url": "https://www.yelp.com/biz/royal-pho-hamilton?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wqNsmrK4aAJC7f2Hx1nXuw/o.jpg",
+    "name": "Royal Pho",
+    "alias": "royal-pho-hamilton",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Vietnamese, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "1100 Golf Links",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9K 1J8",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056489900",
+    "review_count": 13,
+    "snippets": [
+      {
+        "url": "https://www.yelp.ca/biz/royal-pho-hamilton",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "www.yelp.ca",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g499248-d4280637-Reviews-Royal_Pho-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Royal Pho, Ancaster: See 60 unbiased reviews of Royal Pho, rated 3.5 of 5 on Tripadvisor and ranked #24 of 71 restaurants in Ancaster.",
+        "title": "Royal Pho, Ancaster - Restaurant Reviews, Photos &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g499248-d4280637-Reviews-Royal_Pho-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Royal Pho, Ancaster: See 60 unbiased reviews of Royal Pho, rated 3.5 of 5 on Tripadvisor and ranked #24 of 71 restaurants in Ancaster.",
+        "title": "ROYAL PHO, Ancaster - Updated 2020 Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/hamilton-on/royal-pho-ancaster/menu",
+        "snippet": "Royal Pho Ancaster Menu - View the Menu for Royal Pho Hamilton on Zomato for Delivery, Dine-out or Takeaway, Royal Pho menu and prices. Royal Pho Menu. Serves Thai, Vietnamese. Products for Businesses We&#39;re hiring. Hamilton, Ontario.",
+        "title": "Royal Pho Menu, Menu for Royal Pho, Hamilton, Hamilton ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/hamilton-on/royal-pho-ancaster",
+        "snippet": "Excellent food. We go to Royal Pho at least once a month - the food is excellent, the service is quick, the staff is friendly and the prices are very reasonable. We have eaten at several other restaurants with similar menus but always come back to Royal Pho.",
+        "title": "Royal Pho, Ancaster, Hamilton - Urbanspoon/Zomato",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/ShowUserReviews-g499248-d4280637-r555661009-Royal_Pho-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Royal Pho: pho - See 60 traveler reviews, 5 candid photos, and great deals for Ancaster, Canada, at Tripadvisor.",
+        "title": "pho - Royal Pho, Ancaster Traveller Reviews - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g499248-d4280637-r171870964-Royal_Pho-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Royal Pho: Another disappointment in Ancaster - See 60 traveler reviews, 5 candid photos, and great deals for Ancaster, Canada, at Tripadvisor.",
+        "title": "Another disappointment in Ancaster - Review of Royal Pho ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://hamilton.cdncompanies.com/restaurant/royal-pho-hamilton/",
+        "snippet": "Royal Pho – Restaurant in Hamilton, ON – 1100 Golf Links Road, Hamilton, Ontario. Read verified and trustworthy customer reviews for Royal Pho or write your own review.",
+        "title": "Royal Pho - Hours &amp; Reviews - 1100 Golf Links Road ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://usarestaurants.info/explore/canada/ontario/hamilton-division/hamilton/royal-pho-905-648-9900.htm",
+        "snippet": "Royal Pho is located in Hamilton Division of Ontario state. On the street of Golf Links Road and street number is 1100. To communicate or ask something with the place, the Phone number is (905) 648-9900. You can get more information from their website.",
+        "title": "Royal Pho - Restaurant | 1100 Golf Links Rd, Ancaster, ON ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://urbanicity.com/hamilton/place/royal-pho/",
+        "snippet": "We are proud to be one of the best Vietnamese/Thai restaurants serving Ancaster and the Hamilton mountain area. If you’re here for the first time, be sure to order the Royal Pho (Special Beef noodle soup) which can be found as item P01 on the menu. We also have very tasty Rice Vermicelli and Steamed…",
+        "title": "Royal Pho - urbanicity.com",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "640982": {
+    "url": "https://www.yelp.com/biz/sweetness-bakery-hamilton?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UdUtN1i2M8S3IwQIJrakmg/o.jpg",
+    "name": "Sweetness Bakery",
+    "alias": "sweetness-bakery-hamilton",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, ",
+    "rating": 5.0,
+    "price": "$$",
+    "address": "240 Wilson Street E",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9G 2B8",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056488500",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.zomato.com/hamilton-on/sweetness-bakery-ancaster",
+        "snippet": "Okay so after such a bad experience at the Sweetness Barkery we tried the one in Burlington and they were delicious. Actually we did a cupcake taste off between all the cupcake places in Hamilton, Burlington and Waterdown and Sweetness Bakery in Burlington was the clear winner.-----04 Feb, 2012-----I was really disappointed with these cupcakes.",
+        "title": "Sweetness Bakery, Ancaster, Hamilton - Urbanspoon/Zomato",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g499248-d13362705-Reviews-Sweetness_Bakery-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Sweetness Bakery, Ancaster: See 7 unbiased reviews of Sweetness Bakery, rated 3.5 of 5 on Tripadvisor and ranked #46 of 71 restaurants in Ancaster.",
+        "title": "SWEETNESS BAKERY, Ancaster - Restaurant Reviews &amp; Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.ca/biz/sweetness-bakery-hamilton",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "Toronto Restaurants, Dentists, Bars, Beauty Salons ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/SweetnessBakeryCanada",
+        "snippet": "See posts, photos and more on Facebook.",
+        "title": "Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g499248-d13362705-r602183260-Sweetness_Bakery-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Sweetness Bakery: Gluten free cupcakes - See 7 traveler reviews, 10 candid photos, and great deals for Ancaster, Canada, at Tripadvisor.",
+        "title": "Gluten free cupcakes - Review of Sweetness Bakery ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://hamilton.cdncompanies.com/bakery/sweetness-bakery-ancaster-hamilton/",
+        "snippet": "Sweetness Bakery Ancaster, Bakery in Hamilton, Ontario, 240 Wilson Street East, Hamilton, ON L9G 2B7 – Hours of Operation &amp; Customer Reviews.",
+        "title": "Sweetness Bakery Ancaster - hamilton.cdncompanies.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/hamilton-on/sweetness-bakery-ancaster/reviews",
+        "snippet": "Okay so after such a bad experience at the Sweetness Barkery we tried the one in Burlington and they were delicious. Actually we did a cupcake taste off between all the cupcake places in Hamilton, Burlington and Waterdown and Sweetness Bakery in Burlington was the clear winner.-----04 Feb, 2012-----I was really disappointed with these cupcakes.",
+        "title": "Sweetness Bakery - Hamilton, Ontario - Zomato United States",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://bysweetness.com/",
+        "snippet": "Specializing in printed, branded sugar cookies, lollipops and macarons. Stand out against the competition and use for corporate gifting, trade shows, events, parties. Print your logo, image and say thank you to clients, staff &amp; customers. Subscribe for macarons and cookies delivered to your door!",
+        "title": "Sweetness YEG - Customized Branded Confections",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://hamilton-on.where-food-ca.com/sweetness-bakery-ancaster/",
+        "snippet": "Sweetness Bakery Ancaster - bakery based at 240 Wilson Street East, Ancaster, Hamilton, ON L9G 2B7. Opening hours, address and phone number, driving directions and customer reviews.",
+        "title": "Sweetness Bakery Ancaster — Bakery in 240 Wilson Street ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/ShowUserReviews-g499248-d13362705-r654798480-Sweetness_Bakery-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Sweetness Bakery: Sweetness ;) - See 7 traveler reviews, 10 candid photos, and great deals for Ancaster, Canada, at Tripadvisor.",
+        "title": "Sweetness ;) - Sweetness Bakery, Ancaster Traveller ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "664071": {
+    "url": "https://www.yelp.com/biz/joes-pizza-ancaster-3?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FkpQj1TSoDQ4OhIGPm1zOg/o.jpg",
+    "name": "Joe's Pizza",
+    "alias": "joes-pizza-ancaster-3",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, Sandwiches, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "E-21 Panabaker Drive",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 0A4",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053044008",
+    "review_count": 3,
+    "snippets": []
+  },
+  "665371": {
+    "url": "https://www.yelp.com/biz/symposium-cafe-restaurant-and-lounge-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bJzXM2BBzoB-Hg-_6hk2LA/o.jpg",
+    "name": "Symposium Cafe Restaurant & Lounge",
+    "alias": "symposium-cafe-restaurant-and-lounge-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Breakfast & Brunch, Lounges, Cafes, ",
+    "rating": 2.5,
+    "price": "$$",
+    "address": "1146 Wilson St W",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053046226",
+    "review_count": 6,
+    "snippets": []
+  },
+  "670506": {
+    "url": "https://www.yelp.com/biz/quiznos-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Quiznos",
+    "alias": "quiznos-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Sandwiches, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "1100 Golf Links Rd",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9K 1J8",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053047821",
+    "review_count": 2,
+    "snippets": []
+  },
+  "673899": {
+    "url": "https://www.yelp.com/biz/kelseys-original-roadhouse-ancaster?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tIoijOKeVBUJ1T8qLMerXA/o.jpg",
+    "name": "Kelseys Original Roadhouse",
+    "alias": "kelseys-original-roadhouse-ancaster",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Canadian (New), Comfort Food, Bars, ",
+    "rating": 2.0,
+    "price": "$$",
+    "address": "771 Golf Links Road",
+    "city_from_postal": "Ancaster",
+    "city": "Ancaster",
+    "zip_code": "L9G 3K9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053045100",
+    "review_count": 11,
+    "snippets": []
+  },
+  "698505": {
+    "url": "https://www.yelp.com/biz/coach-and-lantern-hamilton?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/L-Q5dkWuzm77N7et4vuPZQ/o.jpg",
+    "name": "Coach & Lantern",
+    "alias": "coach-and-lantern-hamilton",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "British, Desserts, Wine Bars, ",
+    "rating": 3.5,
+    "price": "$$",
+    "address": "384 WIlson Street E",
+    "city_from_postal": "Ancaster",
+    "city": "Hamilton",
+    "zip_code": "L9G 2B9",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19053047822",
+    "review_count": 15,
+    "snippets": [
+      {
+        "url": "http://www.coachandlantern.ca/",
+        "snippet": "Proudly served at the Coach and Lantern! ... View details » About the Coach. Located in Ancaster&#39;s Village in a 200 year old stone building, this wonderful pub can hardly be duplicated. It&#39;s a true British pub with great food, great beer and great people! It&#39;s no wonder we are chosen as the Best Pub by Reader&#39;s Choice.",
+        "title": "Home | Coach and Lantern",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g499248-d703422-Reviews-Coach_Lantern-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Coach &amp; Lantern, Ancaster: See 272 unbiased reviews of Coach &amp; Lantern, rated 4 of 5 on Tripadvisor and ranked #3 of 71 restaurants in Ancaster. Flights ... Home-made coach crisps loaded w/ two cheeses, bacon, roasted corn, ... I found myself in Hamilton for 10 days on family business and tried different restaurants or bars every day.",
+        "title": "COACH &amp; LANTERN, Ancaster - Updated 2020 Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.coachandlantern.ca/about.html",
+        "snippet": "About the Coach. Welcome to the Coach &amp; Lantern, home of great food, great beers, friendly staff and the best live entertainment in the Hamilton area. This building was built in the late 1700′s. It later burned and was re-built around 1823. It is the 3rd oldest building in Ancaster!",
+        "title": "About Us | Coach and Lantern",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g499248-d703422-Reviews-Coach_Lantern-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Coach &amp; Lantern, Ancaster: See 272 unbiased reviews of Coach &amp; Lantern, rated 4 of 5 on Tripadvisor and ranked #3 of 71 restaurants in Ancaster. Flights ... Home-made coach crisps loaded w/ two cheeses, bacon, ... I found myself in Hamilton for 10 days on family business and tried different restaurants or bars every day.",
+        "title": "Coach &amp; Lantern, Ancaster - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://coachandlantern.ca/entertainment.html",
+        "snippet": "About the Coach. Located in Ancaster&#39;s Village in a 200 year old stone building, this wonderful pub can hardly be duplicated. It&#39;s a true British pub with great food, great beer and great people! It&#39;s no wonder we are chosen as the Best Pub by Reader&#39;s Choice. Learn more",
+        "title": "Entertainment | Coach and Lantern",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://coachandlantern.ca/contact.html",
+        "snippet": "About the Coach. Located in Ancaster&#39;s Village in a 200 year old stone building, this wonderful pub can hardly be duplicated. It&#39;s a true British pub with great food, great beer and great people! It&#39;s no wonder we are chosen as the Best Pub by Reader&#39;s Choice. Learn more",
+        "title": "Contact Us | Coach and Lantern",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.coachandlantern.ca/images/menus/menu.pdf",
+        "snippet": "Coach &amp; Lantern Pub sit long – talk much – laugh often CAESAR SALAD – Crisp romaine, bacon and croutons tossed in our creamy garlic dressing, topped with parmesan and fresh lemon. $13 | Small $10 COBB SALAD – Grilled chicken breast, crisp bacon, fresh tomato, sliced egg, old cheddar and our guacamole served over crisp romaine tossed in citrus chive vinaigrette. $19",
+        "title": "Coach &amp; Lantern Pub",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://restaurantguru.com/Coach-and-Lantern-Hamilton",
+        "snippet": "All info on Coach &amp; Lantern in Hamilton - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.",
+        "title": "Coach &amp; Lantern in Hamilton - Restaurant menu and reviews",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g499248-d703422-r408998727-Coach_Lantern-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Coach &amp; Lantern: VERY FRIENDLY STAFF - See 272 traveler reviews, 32 candid photos, and great deals for Ancaster, Canada, at Tripadvisor.",
+        "title": "VERY FRIENDLY STAFF - Review of Coach &amp; Lantern, Ancaster ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g499248-d703422-r604459017-Coach_Lantern-Ancaster_Hamilton_Ontario.html",
+        "snippet": "Coach &amp; Lantern: Could be great - See 272 traveler reviews, 32 candid photos, and great deals for Ancaster, Canada, at Tripadvisor.",
+        "title": "Could be great - Review of Coach &amp; Lantern, Ancaster ...",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

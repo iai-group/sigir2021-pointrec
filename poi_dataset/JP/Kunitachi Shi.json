@@ -1,0 +1,21 @@
+{
+  "336022": {
+    "url": "https://www.yelp.com/biz/%E3%82%B1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF-%E3%83%A0%E3%83%BC%E3%83%B3-%E5%9B%BD%E7%AB%8B%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIM",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tLgfT59KmsFmAp5Xj1bp3A/o.jpg",
+    "name": "Celtic moon",
+    "alias": "ケルティック-ムーン-国立市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Irish, Cafes, ",
+    "rating": 5.0,
+    "price": "￥￥",
+    "address": "東1-15-20",
+    "city_from_postal": "Kunitachi Shi",
+    "city": "Kunitachi",
+    "zip_code": "186-0002",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81425059103",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "380633": {
+    "url": "https://www.yelp.com/biz/de-sluis-eefde?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "de Sluis",
+    "alias": "de-sluis-eefde",
+    "main_category": "Nightlife",
+    "sub_categories": "Nightlife, Gastropubs, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Schoolstraat 70",
+    "city_from_postal": "Lochem",
+    "city": "Eefde",
+    "zip_code": "7211 BD",
+    "country_code": "NL",
+    "state_code": "GE",
+    "phone": "+31575547773",
+    "review_count": 1,
+    "snippets": []
+  }
+}

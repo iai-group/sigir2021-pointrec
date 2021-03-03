@@ -1,0 +1,21 @@
+{
+  "518935": {
+    "url": "https://www.yelp.com/biz/chocolats-favoris-l%C3%A9vis?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bWGSfVnVmSHs86NV2ckr6g/o.jpg",
+    "name": "Chocolats Favoris",
+    "alias": "chocolats-favoris-lévis",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Ice Cream & Frozen Yogurt, Chocolatiers & Shops, ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": "32 Avenue Bégin",
+    "city_from_postal": "Chaudière-Appalaches",
+    "city": "Lévis",
+    "zip_code": "G6Y 4B8",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188332287",
+    "review_count": 31,
+    "snippets": []
+  }
+}

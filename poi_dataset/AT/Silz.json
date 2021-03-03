@@ -1,0 +1,21 @@
+{
+  "561550": {
+    "url": "https://www.yelp.com/biz/pizzeria-da-bruno-k%C3%BChtai?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/g3LbltSipnJ9m9ah9RvOqg/o.jpg",
+    "name": "Pizzeria Da Bruno",
+    "alias": "pizzeria-da-bruno-kühtai",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Bars, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Kühtai 43",
+    "city_from_postal": "Silz",
+    "city": "Kühtai",
+    "zip_code": "6183",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+4352395207",
+    "review_count": 2,
+    "snippets": []
+  }
+}

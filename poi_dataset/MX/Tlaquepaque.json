@@ -1,0 +1,40 @@
+{
+  "559451": {
+    "url": "https://www.yelp.com/biz/las-carmelitas-puerto-vallarta-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BZgbhN1hZWyBdCBGYifD4Q/o.jpg",
+    "name": "Las Carmelitas",
+    "alias": "las-carmelitas-puerto-vallarta-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Mexican, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Camino a La Aguacatera Km 1.2",
+    "city_from_postal": "Tlaquepaque",
+    "city": "Puerto Vallarta,",
+    "zip_code": "45580",
+    "country_code": "MX",
+    "state_code": "JAL",
+    "phone": "+523222933112",
+    "review_count": 2,
+    "snippets": []
+  },
+  "672945": {
+    "url": "https://www.yelp.com/biz/claudios-place-jarretaderas?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/n1nM1hyIVvwvZMdsn0SeMA/o.jpg",
+    "name": "Claudio's Place",
+    "alias": "claudios-place-jarretaderas",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Mexican, ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": "Prolongación Benito Juárez 120",
+    "city_from_postal": "Tlaquepaque",
+    "city": "Jarretaderas",
+    "zip_code": "45597",
+    "country_code": "MX",
+    "state_code": "NAY",
+    "phone": "+523222976037",
+    "review_count": 19,
+    "snippets": []
+  }
+}

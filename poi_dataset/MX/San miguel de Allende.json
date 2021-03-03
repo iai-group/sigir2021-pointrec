@@ -1,0 +1,21 @@
+{
+  "361635": {
+    "url": "https://www.yelp.com/biz/helados-dolphy-san-miguel-de-allende?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qqBkM9uX5k_mIyP6JfrTjA/o.jpg",
+    "name": "Helados Dolphy",
+    "alias": "helados-dolphy-san-miguel-de-allende",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Ice Cream & Frozen Yogurt, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "San Francisco N° 24",
+    "city_from_postal": "San miguel de Allende",
+    "city": "San Miguel de Allende",
+    "zip_code": "37700",
+    "country_code": "MX",
+    "state_code": "GUA",
+    "phone": "",
+    "review_count": 2,
+    "snippets": []
+  }
+}

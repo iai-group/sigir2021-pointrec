@@ -1,0 +1,21 @@
+{
+  "706256": {
+    "url": "https://www.yelp.com/biz/blue-ridge-parkway-waynesboro?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o2fAfuRIlMRl3jy_XFy4PA/o.jpg",
+    "name": "Blue Ridge Parkway",
+    "alias": "blue-ridge-parkway-waynesboro",
+    "main_category": "Active Life",
+    "sub_categories": "Parks, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "",
+    "city_from_postal": "Waynesboro (city)",
+    "city": "Waynesboro",
+    "zip_code": "22980",
+    "country_code": "US",
+    "state_code": "VA",
+    "phone": "",
+    "review_count": 6,
+    "snippets": []
+  }
+}

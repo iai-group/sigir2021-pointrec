@@ -1,0 +1,21 @@
+{
+  "280144": {
+    "url": "https://www.yelp.com/biz/claudia-johanna-kober-hohenzell?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CfnjZ-G8SOsqtiwJVOgZ2A/o.jpg",
+    "name": "Claudia Johanna Kober",
+    "alias": "claudia-johanna-kober-hohenzell",
+    "main_category": "Professional Services",
+    "sub_categories": "Life Coach, Meditation Centers, Yoga, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Gadering 53/4",
+    "city_from_postal": "Hohenzell",
+    "city": "Hohenzell",
+    "zip_code": "4921",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+436769288022",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "519821": {
+    "url": "https://www.yelp.com/biz/asianbite-doetinchem?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gcfkJp2qx-1F11ISQJtk7Q/o.jpg",
+    "name": "Asianbite",
+    "alias": "asianbite-doetinchem",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Asian Fusion, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Rozengaardseweg 3",
+    "city_from_postal": "Doetinchem",
+    "city": "Doetinchem",
+    "zip_code": "7001 DN",
+    "country_code": "NL",
+    "state_code": "GE",
+    "phone": "",
+    "review_count": 2,
+    "snippets": []
+  }
+}

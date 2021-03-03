@@ -1,0 +1,40 @@
+{
+  "148060": {
+    "url": "https://www.yelp.com/biz/%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E6%9D%91-%E6%A8%AA%E6%B5%9C%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cXEZZA4nfavXBF8c_icD3g/o.jpg",
+    "name": "Furusato-mura",
+    "alias": "ふるさと村-横浜市",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Farms, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "青葉区寺家町880",
+    "city_from_postal": "Aoba Ku",
+    "city": "Yokohama",
+    "zip_code": "227-0031",
+    "country_code": "JP",
+    "state_code": "14",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "290451": {
+    "url": "https://www.yelp.com/biz/%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7-%E3%82%AC%E3%82%B9%E3%83%88%E3%83%AD-%E3%83%90%E3%83%BC-%E6%96%B0%E5%AE%BF%E5%8C%BA-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_busines",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/irr1-1YcXK4VyXnhboD57w/o.jpg",
+    "name": "MUSTACHE GASTRO BAR",
+    "alias": "ムスターチェ-ガストロ-バー-新宿区-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Latin American, Mexican, Gastropubs, ",
+    "rating": 5.0,
+    "price": "￥￥",
+    "address": "高田馬場1-25-29",
+    "city_from_postal": "Aoba Ku",
+    "city": "Shinjuku",
+    "zip_code": "227-0043",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81363803557",
+    "review_count": 2,
+    "snippets": []
+  }
+}

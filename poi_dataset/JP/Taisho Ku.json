@@ -1,0 +1,1346 @@
+{
+  "6321": {
+    "url": "https://www.yelp.com/biz/%E3%81%8F%E3%82%8D%E3%81%97%E3%81%8A%E3%82%92-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%A4%A7%E6%AD%A3%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Ba",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4P68xcjCZdOFmPRaLT41_A/o.jpg",
+    "name": "くろしおを",
+    "alias": "くろしおを-大阪市-大正区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Sushi Bars, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "三軒家西1-17-2",
+    "city_from_postal": "Taisho Ku",
+    "city": "大阪市 大正区",
+    "zip_code": "551-0001",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665537999",
+    "review_count": 1,
+    "snippets": []
+  },
+  "14352": {
+    "url": "https://www.yelp.com/biz/%E3%83%A4%E3%82%BF%E3%83%A9%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%A4%A7%E6%AD%A3%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/v0G2ajMH--3De9BceeW9MQ/o.jpg",
+    "name": "Yatara Spice",
+    "alias": "ヤタラスパイス-大阪市-大正区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Indian, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "三軒屋東1-2-5",
+    "city_from_postal": "Taisho Ku",
+    "city": "大阪市 大正区",
+    "zip_code": "551-0002",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81675025990",
+    "review_count": 1,
+    "snippets": []
+  },
+  "26650": {
+    "url": "https://www.yelp.com/biz/%E3%82%89%E3%83%BC%E3%82%81%E3%82%93-%E3%82%B3%E3%83%BC%E3%81%95%E3%82%93-%E5%A4%A7%E6%AD%A3%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Ba",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mxwX02E4aSaBbwJ3R6rlSg/o.jpg",
+    "name": "Ramen Kousan Honten",
+    "alias": "らーめん-コーさん-大正区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Chinese, Ramen, Dumplings, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "千島3-4-1",
+    "city_from_postal": "Taisho Ku",
+    "city": "大正区",
+    "zip_code": "551-0003",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665528682",
+    "review_count": 1,
+    "snippets": []
+  },
+  "59463": {
+    "url": "https://www.yelp.com/biz/%E5%A4%A7%E6%AD%A3%E3%83%A1%E3%83%83%E3%82%BB-%E5%A4%A7%E6%AD%A3%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Taishō messe",
+    "alias": "大正メッセ-大正区",
+    "main_category": "Active Life",
+    "sub_categories": "Soccer, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "千鳥1ー1ー41",
+    "city_from_postal": "Taisho Ku",
+    "city": "大正区",
+    "zip_code": "551-0003",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665513966",
+    "review_count": 1,
+    "snippets": []
+  },
+  "82059": {
+    "url": "https://www.yelp.com/biz/%E5%8D%83%E5%B3%B6%E5%85%AC%E5%9C%92-%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A7%E6%AD%A3%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/korizf8xB64tr080ELqhtQ/o.jpg",
+    "name": "CHISHIMA PARK",
+    "alias": "千島公園-大阪市大正区",
+    "main_category": "Active Life",
+    "sub_categories": "Parks, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "千島2-7",
+    "city_from_postal": "Taisho Ku",
+    "city": "大阪市大正区",
+    "zip_code": "551-0003",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "",
+    "review_count": 3,
+    "snippets": []
+  },
+  "97629": {
+    "url": "https://www.yelp.com/biz/%E6%98%AD%E5%92%8C%E5%B1%B1-%E5%A4%A7%E9%98%AA%E5%B8%82-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_pMf-HKzefhCq9a38dtCNw/o.jpg",
+    "name": "Showa Mountain",
+    "alias": "昭和山-大阪市-2",
+    "main_category": "Active Life",
+    "sub_categories": "Active Life, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "大正区千島2-7",
+    "city_from_postal": "Taisho Ku",
+    "city": "Osaka",
+    "zip_code": "551-0003",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "",
+    "review_count": 4,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g298566-d7443606-i193711024-Showa-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Showa, Osaka Picture: 店舗正面入口 - Check out Tripadvisor members&#39; 50,310 candid photos and videos of Showa. Osaka. Osaka Tourism Osaka Hotels Osaka Bed and Breakfast Osaka Vacation Rentals Osaka Vacation Packages Flights to Osaka Osaka Restaurants Things to Do in Osaka Osaka Shopping",
+        "title": "店舗正面入口 - Picture of Showa, Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7443622-Reviews-Showa_Yatai_Hinode-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Showa Yatai Hinode, Osaka: See unbiased reviews of Showa Yatai Hinode, one of 37,666 Osaka restaurants listed on Tripadvisor.",
+        "title": "Showa Yatai Hinode, Osaka - Restaurant Reviews &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_mountains_and_hills_of_Japan_by_height",
+        "snippet": "List of mountains and hills of Japan by height Jump to ... Jump to navigation Jump to search. The following is a list of the mountains and hills of Japan, ordered by height. Wikimedia Commons has media related to Mountains of Japan Mountains over 3000 ... As the generally accepted definition of a mountain (versus a hill) ...",
+        "title": "List of mountains and hills of Japan by height - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=URjCOrTPpyo",
+        "snippet": "I went to the Dontonbori area of Osaka Japan and tried out the delicious street food there. This is where takoyaki was orignated and the home to osaka&#39;s vers...",
+        "title": "Osaka Japan Street Food Tour! Dotonbori Food Guide - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d9687535-Reviews-Gosakudon_Showa_Cho-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Gosakudon Showa-Cho, Osaka: See 3 unbiased reviews of Gosakudon Showa-Cho, rated 4.5 of 5 on Tripadvisor and ranked #6,816 of 37,881 restaurants in Osaka.",
+        "title": "Gosakudon Showa-Cho, Osaka - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d3835777-Reviews-Showa_cafe_salon_Saikarou-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Showa cafe salon Saikarou, Osaka: See unbiased reviews of Showa cafe salon Saikarou, one of 37,912 Osaka restaurants listed on Tripadvisor.",
+        "title": "Showa cafe salon Saikarou, Osaka - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d9902776-Reviews-Showa_Yokocho_Utsuruhashi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Showa Yokocho Utsuruhashi, Osaka: See unbiased reviews of Showa Yokocho Utsuruhashi, one of 37,920 Osaka restaurants listed on Tripadvisor.",
+        "title": "Showa Yokocho Utsuruhashi, Osaka - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sh%C5%8Dwa_Day",
+        "snippet": "Shōwa Day (昭和の日, Shōwa no Hi) is a Japanese annual holiday held on April 29. It honors the birthday of Emperor Shōwa (), the reigning emperor from 1926 to 1989. Shō (昭) means “shining” or “bright”, and wa (和) means “peace”, signifying the &quot;enlightened peace&quot; that citizens receive.",
+        "title": "Shōwa Day - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kansai_International_Airport",
+        "snippet": "It is the international gateway for Japan&#39;s Kansai region, which contains the major cities of Kyoto, Kobe, and Osaka. Other Kansai domestic flights fly from the older but more conveniently located Osaka International Airport in Itami, or from the newer Kobe Airport. The airport had been deeply in debt, losing $560 million in interest every year.",
+        "title": "Kansai International Airport - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=x_UdFZKtDJA",
+        "snippet": "Tennis star Naomi Osaka revealed her celebrity crush is Michael B. Jordan, so Ellen tried to play matchmaker for the two. Plus, the 20-year-old opened up about her recent U.S. Open win and the ...",
+        "title": "Ellen Plays Matchmaker for U.S. Open Champion Naomi Osaka ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "130774": {
+    "url": "https://www.yelp.com/biz/%E3%82%BF%E3%82%AB%E3%83%A9%E3%83%96%E3%83%8D-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%A4%A7%E6%AD%A3%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Ba",
+    "image_url": "",
+    "name": "タカラブネ",
+    "alias": "タカラブネ-大阪市-大正区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Desserts, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "泉尾5丁目2―7",
+    "city_from_postal": "Taisho Ku",
+    "city": "大阪市 大正区",
+    "zip_code": "551-0031",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665547247",
+    "review_count": 1,
+    "snippets": []
+  },
+  "206159": {
+    "url": "https://www.yelp.com/biz/%E5%A4%A7%E6%AD%A3%E6%A9%8B%E5%85%AC%E5%9C%92-%E5%A4%A7%E6%AD%A3%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Taishobashi Park",
+    "alias": "大正橋公園-大正区",
+    "main_category": "Active Life",
+    "sub_categories": "Parks, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "三軒家東1-1",
+    "city_from_postal": "Taisho Ku",
+    "city": "大正区",
+    "zip_code": "551-0002",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "216268": {
+    "url": "https://www.yelp.com/biz/%E3%82%A6%E3%83%9F%E3%83%A4-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xfoVLVcDQkfYOiPdlQBVfw/o.jpg",
+    "name": "UMIYA",
+    "alias": "ウミヤ-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Gastropubs, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "大正区三軒家東1-7-18",
+    "city_from_postal": "Taisho Ku",
+    "city": "Osaka",
+    "zip_code": "551-0002",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665550028",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d9664874-Reviews-Umiya-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Umiya, Osaka: See unbiased reviews of Umiya, rated 4 of 5 on Tripadvisor and ranked #15,121 of 37,868 restaurants in Osaka.",
+        "title": "Umiya, Osaka - Restaurant Reviews &amp; Phone Number - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7439443-Reviews-Umiya_Beach_Cafe-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Umiya Beach Cafe, Osaka: See unbiased reviews of Umiya Beach Cafe, one of 37,872 Osaka restaurants listed on Tripadvisor.",
+        "title": "Umiya Beach Cafe, Osaka - Restaurant Reviews &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d12653982-Reviews-Umiya_Shokudo_Tanimachi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Umiya Shokudo Tanimachi, Osaka: See 3 unbiased reviews of Umiya Shokudo Tanimachi, rated 3.5 of 5 on Tripadvisor and ranked #8,831 of 37,694 restaurants in Osaka.",
+        "title": "Umiya Shokudo Tanimachi, Osaka - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d13058260-Reviews-Umiya_Main_Store-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Umiya Main Store, Osaka: See unbiased reviews of Umiya Main Store, one of 37,859 Osaka restaurants listed on Tripadvisor.",
+        "title": "Umiya Main Store, Osaka - 1-1-23 Ebie Fukushima-Ku ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7439632-Reviews-Okonomiyaki_Kenkyujo_Umiya-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Okonomiyaki Kenkyujo Umiya, Osaka: See unbiased reviews of Okonomiyaki Kenkyujo Umiya, one of 37,921 Osaka restaurants listed on Tripadvisor.",
+        "title": "Okonomiyaki Kenkyujo Umiya, Osaka - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.au/Restaurant_Review-g298566-d9664907-Reviews-Umiya_Goofy-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Umiya Goofy, Osaka: See unbiased reviews of Umiya Goofy, one of 37,636 Osaka restaurants listed on TripAdvisor.",
+        "title": "UMIYA GOOFY, Osaka - Restaurant Reviews &amp; Phone Number ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270201/27010307/",
+        "snippet": "ウミヤ ハワイアン カフェ/UMIYA Hawaiian Cafe (心斎橋/ダイニングバー)の店舗情報は食べログでチェック！シュラスコ＆牛肉寿司＆パンケーキあり！リゾート感たっぷりの空間でハワイ気分♪ 【個室あり / 分煙 / 飲み放題あり / 食べ放題あり / クーポンあり / ネット予約可】口コミや評価、写真など ...",
+        "title": "ウミヤ ハワイアン カフェ （UMIYA Hawaiian Cafe） - 心斎橋/ダイニングバー [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270202/27007982/",
+        "snippet": "≪月～木曜日限定≫ 平日が断然お得！！歓送迎会に最適プラン！ 全150品食べ飲み放題！ UMIYAのFood&amp;Drink150種が食べ放題、飲み放題OK！！！ 女性は2700円♪男性は3200円♪とお得な価格で食べて飲んで大満足です☆ 平日から満腹な夜をお楽しみ下さいませ。",
+        "title": "UMIYA CAFE westpoint （ウミヤ カフェ ウエストポイント） - なんば（大阪メトロ）/ダイニング ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270202/27051564/",
+        "snippet": "umiyaで不動の人気、とろける旨さの絶品！ ≪和牛寿司≫も味わえます♪また夜のコースは、【飲放付】《ウニ×黑毛和牛×和牛寿司》Sコースが、なんとクーポン利用で『3500円』と超破格！",
+        "title": "UMIYA ROCK CLUB （【旧店名】アメリカンダイニングROCK CLUB） - 大阪難波/ダイニングバー ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270401/27007980/",
+        "snippet": "ウミヤ/umiya (大正/ダイニングバー)の店舗情報は食べログでチェック！ 【飲み放題あり / クーポンあり】口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理メニューなどの詳細情報も充実。",
+        "title": "ウミヤ （UMIYA） - 大正/ダイニングバー [食べログ]",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "262532": {
+    "url": "https://www.yelp.com/biz/%E3%82%88%E3%81%97%E3%82%84-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wUsAtcO4NGwNNJEKV396kg/o.jpg",
+    "name": "Yoshiya",
+    "alias": "よしや-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Candy Stores, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "泉尾3-13-4",
+    "city_from_postal": "Taisho Ku",
+    "city": "Osaka",
+    "zip_code": "551-0031",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665565567",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d6181074-Reviews-Yoshiya-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Yoshiya, Osaka: See unbiased reviews of Yoshiya, one of 37,912 Osaka restaurants listed on Tripadvisor.",
+        "title": "Yoshiya, Osaka - 3-2-1 Chishima Taisho-Ku - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://yoshiya-osaka.jp/",
+        "snippet": "会社の慰安旅行、趣味の同好会、お客様の御招待旅行 等々 の内容に対応可能な品質自慢のメニューを取り揃えております。",
+        "title": "株式会社 よしや TOP画面",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Attraction_Review-g298566-d12152958-Reviews-Yoshiya_Bridge-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Yoshiya Bridge, Osaka: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Yoshiya Bridge i Osaka, Japan på Tripadvisor.",
+        "title": "Yoshiya Bridge (Osaka, Japan) - Anmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298564-d3642475-Reviews-Yoshiya-Kyoto_Kyoto_Prefecture_Kinki.html",
+        "snippet": "Yoshiya, Kyoto: See 21 unbiased reviews of Yoshiya, rated 4.5 of 5 on Tripadvisor and ranked #1,005 of 15,614 restaurants in Kyoto.",
+        "title": "Yoshiya, Kyoto - 188 Umenokicho Zaimokumachi Nakagyouku ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7639209-Reviews-Yoshiya-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Yoshiya, Osaka: See unbiased reviews of Yoshiya, rated 4 of 5 on Tripadvisor and ranked #13,770 of 37,921 restaurants in Osaka.",
+        "title": "Yoshiya, Osaka - 1-6-20 Kujo Minami Nishi-Ku - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7441919-Reviews-Yoshiya-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Yoshiya, Osaka: See unbiased reviews of Yoshiya, one of 37,915 Osaka restaurants listed on Tripadvisor.",
+        "title": "Yoshiya, Osaka - 4-11-12 Shin Imazato Ikuno-Ku ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Hotel_Review-g298566-d1082910-Reviews-Business_Hotel_Yoshiya-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Business Hotel Yoshiya, Osaka: Se reiseanmeldelser, bilder og gode tilbud for Business Hotel Yoshiya, vurdert som nr. 421 av 485 hotell i Osaka og vurdert til 2 av 5 på Tripadvisor.",
+        "title": "BUSINESS HOTEL YOSHIYA (Osaka, Japan) - Hotell ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d13058550-Reviews-Yoshiya_Shinsaibashi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Yoshiya Shinsaibashi, Osaka: See unbiased reviews of Yoshiya Shinsaibashi, one of 37,603 Osaka restaurants listed on TripAdvisor.",
+        "title": "Yoshiya Shinsaibashi, Osaka - Restaurant Reviews &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.yoshiya-osaka.jp/dantairyoko.html",
+        "snippet": "皆様のご希望に沿うように豊富なメニューを揃えておりますが、表示以外にもご相談により、対応させていただきます。",
+        "title": "株式会社 よしや ★ 団体旅行 ★",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pl.tripadvisor.com/Restaurant_Review-g298566-d6181074-Reviews-Yoshiya-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Posiłek w Osaka: Zobacz recenzje podróżników Tripadvisor (0) 37 872 restauracji w Osaka i wyszukuj wg kuchni, ceny, lokalizacji i innych.",
+        "title": "Yoshiya, Osaka - recenzje restauracji - Tripadvisor",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "297275": {
+    "url": "https://www.yelp.com/biz/%E3%82%B5%E3%83%9C%E3%82%A4-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/R7QUWX2BLgjxFMpzEZrWMw/o.jpg",
+    "name": "SAVOY",
+    "alias": "サボイ-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "平尾5-2-1",
+    "city_from_postal": "Taisho Ku",
+    "city": "Osaka",
+    "zip_code": "551-0012",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665523993",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270102/27012381/",
+        "snippet": "バー・サヴォイ 大阪/バー・サヴォイ オオサカ (肥後橋/バー)の店舗情報は食べログでチェック！ 【喫煙可】口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理メニューなどの詳細情報も充実。",
+        "title": "バー・サヴォイ 大阪 （バー・サヴォイ オオサカ） - 肥後橋/バー [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298566-d13020663-Reviews-Savoy_Osaka-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Osaka Bed and Breakfast; Osaka Vacation Rentals; Osaka Vacation Packages; Flights to Osaka; Osaka Restaurants; Things to Do in Osaka; Osaka Shopping; Osaka Travel Forum; Osaka Photos; Osaka Map; Osaka Travel Guide; All Osaka Hotels; Osaka Hotel Deals; Last Minute Hotels in Osaka; By Hotel Type. Osaka Motels; Osaka Hostels; Osaka Campgrounds ...",
+        "title": "Savoy Osaka (Japan): Address, Phone Number - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/HotelsNear-g298566-d13020663-Savoy_Osaka-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Hotels near Savoy Osaka, Osaka on Tripadvisor: Find 7,925 traveler reviews, 62,602 candid photos, and prices for 30 hotels near Savoy Osaka in Osaka, Japan.",
+        "title": "THE 10 CLOSEST Hotels to Savoy Osaka - Tripadvisor - Find ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.sg/HotelsNear-g298566-d13020663-Savoy_Osaka-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Hotels near Savoy Osaka, Osaka on Tripadvisor: Find 7,929 traveller reviews, 62,764 candid photos, and prices for 30 hotels near Savoy Osaka in Osaka, Japan.",
+        "title": "Best Hotels Near Savoy Osaka - TripAdvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/groups/177486589457891/",
+        "snippet": "Osaka Savoy Style Swing has 437 members. とても楽しいスイングダンスに興味のある方大募集しています!! 週末の夜に一緒に踊りませんか？ 初心者でも全く問題御座いません!! ...",
+        "title": "Osaka Savoy Style Swing Public Group | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.jp/Attraction_Review-g298566-d13020663-Reviews-Savoy_Osaka-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "savoy osaka(大阪市)に行くならトリップアドバイザーで口コミ(0件）、写真（0枚）、地図をチェック！savoy osakaは大阪市で274位(564件中)の観光名所です。",
+        "title": "2020年 SAVOY OSAKAへ行く前に！見どころをチェック - トリップアドバイザー",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.au/HotelsNear-g298566-d13020663-Savoy_Osaka-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Hotels near Savoy Osaka, Osaka on Tripadvisor: Find 7,868 traveller reviews, 50,287 candid photos, and prices for 30 hotels near Savoy Osaka in Osaka, Japan.",
+        "title": "THE 10 CLOSEST Hotels to Savoy Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.tw/HotelsNear-g298566-d13020663-Savoy_Osaka-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Savoy Osaka附近飯店：查看 Tripadvisor 上與日本大阪飯店及民宿的旅客評價、真實旅客照片以及飯店房價優惠。",
+        "title": "Top 10 Savoy Osaka附近最佳飯店 - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.jp/HotelsNear-g298566-d13020663-Savoy_Osaka-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "savoy osaka周辺ホテル、口コミやランキングなど旅行や出張に便利なホテル情報が満載、大阪市の中で一番お得なホテルを探すのに便利、大阪市にあるホテルの7,936件の口コミ、ホテルの写真をご用意しています。",
+        "title": "2020 SAVOY OSAKAに至近のホテル・旅館10選【トリップアドバイザー】",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://cn.tripadvisor.com/HotelsNear-g298566-d13020663-Savoy_Osaka-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Tripadvisor 上Savoy Osaka(大阪市)附近的酒店：查看日本大阪市酒店的旅行者点评、真实照片与优惠房价。",
+        "title": "Savoy Osaka附近的 10 大酒店 - Tripadvisor",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "298857": {
+    "url": "https://www.yelp.com/biz/%E4%BA%94%E8%89%B2%E5%B1%8B-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vewP74MHFRzrUUEL_NvrTQ/o.jpg",
+    "name": "Goshikiya",
+    "alias": "五色屋-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Japanese Sweets, Patisserie/Cake Shop, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "大正区平尾3丁目22-18",
+    "city_from_postal": "Taisho Ku",
+    "city": "Osaka",
+    "zip_code": "551-0012",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665515184",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.yelp.com/biz/%E4%BA%94%E8%89%B2%E5%B1%8B-%E5%A4%A7%E9%98%AA%E5%B8%82",
+        "snippet": "五色屋 in Osaka, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Osaka and beyond. Goshikiya - Japanese Sweets - 大正区平尾3丁目22-18, 大正区, Osaka, 大阪府, Japan - Phone Number - Yelp",
+        "title": "Goshikiya - Japanese Sweets - 大正区平尾3丁目22-18, 大正区, Osaka ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/en/osaka/A2701/A270406/27045588/",
+        "snippet": "GoshikiyaCheck out the information about Japanese sweets restaurants in Nishinari-ku at Tabelog! It&#39;s full of real information like reviews, ratings, and photos posted by users! It also has enough detailed information like maps and menus.",
+        "title": "Goshikiya - Nishinari-ku/Japanese sweets [Tabelog]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/cn/osaka/A2701/A270406/27045588/",
+        "snippet": "在食べログ确认Goshikiya (西成区/日式点心)的店铺资讯！有感想、评价与照片等，有来自使用者的真实资讯！也有关于地图及餐点菜单的详细资讯。（简体中文）",
+        "title": "Goshikiya - 西成区/日式点心 [食べログ]（简体中文）",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/tw/osaka/A2701/A270406/27045588/",
+        "snippet": "在食べログ確認Goshikiya (西成區/日式點心)的店鋪資訊！有感想、評價與照片等，有來自使用者的真實資訊！也有關於地圖及餐點菜單的詳細資訊。（繁體中文）",
+        "title": "Goshikiya - 西成區/日式點心 [食べログ]（繁體中文）",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/kr/osaka/A2701/A270406/27045588/",
+        "snippet": "Goshikiya (니시나리 구 /화과자)의 점포 정보는 타베로그로 체크! 입소문이나 평판, 사진 등 유저에 의한 리얼한 정보가 듬뿍 담겨 있어요! 지도나 요리 메뉴 등 상세 정보도 충실합니다.",
+        "title": "Goshikiya - 니시나리 구 /화과자 [타베로그]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/en/osaka/A2701/A270406/27105465/",
+        "snippet": "TakarabuneCheck out the information about Cake restaurants in Nishinari-ku at Tabelog! It&#39;s full of real information like reviews, ratings, and photos posted by users! It also has enough detailed information like maps and menus.",
+        "title": "Takarabune - Nishinari-ku/Cake [Tabelog]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ivrpa.org/forums/topic/360-photo-before-and-after-renovation-in-one-360-combined-photo/",
+        "snippet": "At a fixed location I made a photo before renovation. I also took a photo at the same location after the renovation. Is there a possibility to edit these two photos into one 360 photo where if you turn your head you see on the left side the old situation and on the right side the new situation ?",
+        "title": "Topic: 360 photo before and after renovation in one 360 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/en/osaka/A2701/A270406/27097679/",
+        "snippet": "TorianonyougashitenCheck out the information about Cake restaurants in Nishinari-ku at Tabelog! It&#39;s full of real information like reviews, ratings, and photos posted by users! It also has enough detailed information like maps and menus.",
+        "title": "Torianonyougashiten - Nishinari-ku/Cake [Tabelog]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/en/osaka/A2701/A270406/27058502/",
+        "snippet": "ChiborianCheck out the information about Cake restaurants in Nishinari-ku at Tabelog! It&#39;s full of real information like reviews, ratings, and photos posted by users! It also has enough detailed information like maps and menus.",
+        "title": "Chiborian - Nishinari-ku/Cake [Tabelog]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/en/osaka/A2701/A270406/27065762/",
+        "snippet": "RekkusuCheck out the information about Cake restaurants in Nishinari-ku at Tabelog! It&#39;s full of real information like reviews, ratings, and photos posted by users! It also has enough detailed information like maps and menus.",
+        "title": "Rekkusu - Nishinari-ku/Cake [Tabelog]",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "326630": {
+    "url": "https://www.yelp.com/biz/%E8%90%AC%E6%AD%B3%E9%A4%85-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%A4%A7%E6%AD%A3%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "萬歳餅",
+    "alias": "萬歳餅-大阪市-大正区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Desserts, Japanese, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "北村1丁目1111",
+    "city_from_postal": "Taisho Ku",
+    "city": "大阪市 大正区",
+    "zip_code": "551-0032",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665512859",
+    "review_count": 1,
+    "snippets": []
+  },
+  "337745": {
+    "url": "https://www.yelp.com/biz/%E4%BA%95%E5%B0%BB%E7%8F%88%E7%90%B2%E7%84%99%E7%85%8E%E6%89%80-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/64P-GxeRCI-93WsnNUt_Pw/o.jpg",
+    "name": "Ijiri Coffe Baisensho",
+    "alias": "井尻珈琲焙煎所-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee Roasteries, ",
+    "rating": 5.0,
+    "price": "￥￥",
+    "address": "大正区三軒家東1-4-11",
+    "city_from_postal": "Taisho Ku",
+    "city": "Osaka",
+    "zip_code": "551-0002",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81675035782",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.yelp.com/biz/%E4%BA%95%E5%B0%BB%E7%8F%88%E7%90%B2%E7%84%99%E7%85%8E%E6%89%80-%E5%A4%A7%E9%98%AA%E5%B8%82",
+        "snippet": "井尻珈琲焙煎所 in Osaka, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Osaka and beyond. Ijiri Coffe Baisensho - 22 Photos - Coffee Roasteries - 大正区三軒家東1-4-11, 大正区, Osaka, 大阪府, Japan - Phone Number - Yelp",
+        "title": "Ijiri Coffe Baisensho - Taisho Ward - Osaka, 大阪府, Japan",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/ijiricoffee",
+        "snippet": "井尻珈琲焙煎所, 大阪市. 1.7K likes. 大阪のディープタウン大正区の駅前で焙煎所&amp;喫茶店をやってます。 音楽と本とそこにある時間と共にゆっくりと珈琲を淹れております。",
+        "title": "井尻珈琲焙煎所 - 2,763 Photos - 26 Reviews - Coffee Shop - 大正区三軒家 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/about-us-coffee-%E4%BA%AC%E9%83%BD%E5%B8%82",
+        "snippet": "1 review of ABOUT US COFFEE &quot;When I go somewhere new, I always look up the local coffee scene so I can try out a new coffee shop. About us coffee is a very cute shop with really good lattes. The service was really good and their atmosphere was…",
+        "title": "ABOUT US COFFEE - 11 Photos - Coffee Roasteries ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.ca/search?cflt=coffeeroasteries&find_loc=%E5%A4%A7%E9%98%AA%E5%BA%9C%E6%9E%9A%E6%96%B9%E5%B8%82",
+        "snippet": "Best Coffee Roasteries in Hirakata, 大阪府, Japan - ABOUT US COFFEE, ANY B&amp;B+Coffee, ガルーダコーヒー, リロ コーヒー ロースターズ, ハイクコーヒーロースターズ, 北浜ポート焙煎所, マック・コーヒー・ロースターズうつぼ公園店, Cafe Matin Specialty Coffee Beans, UMEMIDAI COFFEE &amp; Roaster, 神戸 萩原珈琲店 梅田店 ...",
+        "title": "THE BEST 10 Coffee Roasteries in Hirakata, 大阪府, Japan ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr.yelp.ca/biz/%E3%83%94%E3%83%BC%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC-%E5%A4%A7%E9%98%AA%E5%B8%82",
+        "snippet": "ピークローストコーヒー à Osaka, avis rédigés par de vraies personnes. Yelp permet un moyen facile et amusant pour trouver, recommander et discuter des endroits, que vous aimez ou pas à Osaka et ses alentours.",
+        "title": "Peak Roast Coffee - 中央区 - Osaka, 大阪府, Japon",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.ca/search?cflt=coffeeroasteries&find_loc=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%9B%9B%E6%A2%9D%E7%95%B7%E5%B8%82",
+        "snippet": "Best Coffee Roasteries in Shijonawate, 大阪府, Japan - ANY B&amp;B+Coffee, ABOUT US COFFEE, リロ コーヒー ロースターズ, ガルーダコーヒー, ハイクコーヒーロースターズ, 北浜ポート焙煎所, マック・コーヒー・ロースターズうつぼ公園店, UMEMIDAI COFFEE &amp; Roaster, ウィークエンダーズコーヒー富小路, 井尻珈琲焙煎所, 神戸 ...",
+        "title": "THE BEST 10 Coffee Roasteries in Shijonawate, 大阪府, Japan ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/ijiricoffee/posts/1976595105798705",
+        "snippet": ". 2020.04.24.fri . 深く、深く。もっと、深く。 . 今日もすこぶる調子が良い。 . ブレンド「四月」もボチボチ終わりやな。 . . それでは、本日もゆるりゆるりと。 . . ☑︎コロナ感染拡大防止の為、咳や喉の痛み、風邪に似た症状のある方のご来店はご遠慮願います。 . ☑︎当面の間は座席数を ...",
+        "title": "井尻珈琲焙煎所 - . 2020.04.24.fri . 深く、深く。もっと、深く。 . 今日もすこぶる調子が良い ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.thedenizenco.com/journal/city-guide-10-osaka-cafes-that-we-love",
+        "snippet": "Known mainly for its thriving comedy scene and all-things-fried soul food, Osaka also offers a variety of lesser-known cafes that are off-the-beaten path from neighboring Kyoto. We have compiled 10 Osaka-based cafés for the weary traveler with noteworthy coffee &amp; tea offerings and thoughtfully designed interiors, beloved by locals and visitors alike.",
+        "title": "City Guide: 10 Osaka Cafes That We Love — The Denizen Co.",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/jp/granvia-osaka.de.html",
+        "snippet": "Das Hotel Granvia Osaka liegt direkt über dem JR-Bahnhof Osaka. Freuen Sie sich auf 8 gastronomische Einrichtungen, eine gute Anbindung an die öffentlichen Verkehrsmittel sowie komfortable Zimmer mit Stadtblick und kostenfreiem WLAN. Die Zimmer im Osaka Granvia verfügen alle über eine schlichte Eleganz, einen Kühlschrank und ein eigenes Bad.",
+        "title": "Hotel Granvia Osaka-JR Hotel Group (Japan Osaka) - Booking.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ja-jp.facebook.com/ijiricoffee",
+        "snippet": "井尻珈琲焙煎所 - 〒551-0002 大阪市大正区三軒家東1-4-11 - 「大正駅からほんの数秒、喧騒から隔絶された、純喫茶がそこにあります。 ...」レビューレビュー26件件に基づく評価: 4.9",
+        "title": "井尻珈琲焙煎所 - 写真2,790件 - レビュー26件 - 喫茶店 - 〒551-0002 大阪市大正区三軒家東1 ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "342506": {
+    "url": "https://www.yelp.com/biz/%E3%82%B8%E3%83%A7%E3%83%AA%E3%83%BC%E3%83%91%E3%82%B9%E3%82%BF-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%A4%A7%E6%AD%A3%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mAOUY89PrZ09UNHKNkpmVw/o.jpg",
+    "name": "Jolly-Pasta",
+    "alias": "ジョリーパスタ-大阪市-大正区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, Diners, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "千島1丁目23-83",
+    "city_from_postal": "Taisho Ku",
+    "city": "大阪市 大正区",
+    "zip_code": "551-0003",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665545155",
+    "review_count": 1,
+    "snippets": []
+  },
+  "408832": {
+    "url": "https://www.yelp.com/biz/antaga%E5%A4%A7%E6%AD%A3-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Antaga大正",
+    "alias": "antaga大正-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Noodles, Ramen, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "大正区三軒家東1-2-4",
+    "city_from_postal": "Taisho Ku",
+    "city": "Osaka",
+    "zip_code": "551-0002",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270401/27068607/",
+        "snippet": "Antaga大正 (大正/ラーメン)の店舗情報は食べログでチェック！ 【禁煙】口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理メニューなどの詳細情報も充実。",
+        "title": "【閉店】Antaga大正 - 大正/ラーメン [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270401/27068607/dtlrvwlst/",
+        "snippet": "Antaga大正 (大正/ラーメン)への口コミです。日本最大級のグルメサイト「食べログ」では、Antaga大正の口コミ74件を掲載中。",
+        "title": "口コミ一覧 : 【閉店】Antaga大正 - 大正/ラーメン [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270401/27068607/dtlrvwlst/B65195320/",
+        "snippet": "大阪府大阪市大正区三軒家東にある、『麺組 Antaga大正』へ 行って来ました。 JR環状線・地下鉄長堀鶴見緑地線「大正駅」から 徒歩約2分の場所にあります。 京セラドーム大阪近くにある、ラーメン店。 濃厚鶏麺（800円）、鶏つけ麺（800円）",
+        "title": "『麺組 Antaga大正（大阪）』by 神戸の金庫屋のバカ息子 : 【閉店】Antaga大正 - 大正/ラーメン ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270401/27068607/dtlmap/",
+        "snippet": "Antaga大正 (大正/ラーメン)の地図です。 リクエスト予約 希望条件をお店に申し込み、お店からの確定の連絡をもって、予約が成立します。. 1 予約の申し込み. ご希望の条件を当サイトよりご入力ください。",
+        "title": "地図 : 【閉店】Antaga大正 - 大正/ラーメン [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270401/27068607/dtlrvwlst/B90463299/",
+        "snippet": "Antaga大正 (大正/ラーメン)へのこった@大阪市内さんの口コミです。 新型コロナウイルス拡大における対応のお願い 大正駅付近の濃厚らーめん : Antaga大正",
+        "title": "『大正駅付近の濃厚らーめん』by こった@大阪市内 : 【閉店】Antaga大正 - 大正/ラーメン [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270401/27068607/dtlratings/",
+        "snippet": "リクエスト予約 希望条件をお店に申し込み、お店からの確定の連絡をもって、予約が成立します。. 1 予約の申し込み. ご希望の条件を当サイトよりご入力ください。 2 お店からのメール. ご予約が承れるか、お店からの返信メールが届きます。",
+        "title": "評価分布 : 【閉店】Antaga大正 - 大正/ラーメン [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270401/27068607/dtlrvwlst/B191005917/",
+        "snippet": "大正区では一番の呼び声高いAntaga大正さんに初訪問です 大正駅から徒歩2分ほど。カレーで大正一のヤタラスパイスさんの並びですね 居酒屋の老舗クラスノさんもご近所で、一等地となりつつあります 店内に入ると威勢の良い掛け声。",
+        "title": "『Antaga大将です』by Mikutama : 【閉店】Antaga大正 - 大正/ラーメン [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270401/27068607/dtlrvwlst/B124878306/",
+        "snippet": "Antaga大正 (大正/ラーメン)への求夢洞さんの口コミです。 新型コロナウイルス拡大における対応のお願い 麺組Antaga大正＠大阪市大正区三軒家東 : Antaga大正",
+        "title": "『麺組Antaga大正＠大阪市大正区三軒家東』by 求夢洞 : 【閉店】Antaga大正 - 大正/ラーメン [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://map.goo.ne.jp/place/27004591571/",
+        "snippet": "[最寄駅]大正(大阪)駅 ドーム前駅 [住所]大阪府大阪市大正区三軒家東1丁目2付近 [ジャンル]restaurant. ... Antaga大正 ラーメン ...",
+        "title": "Antaga大正 ラーメン - 大正(大阪) / restaurant - goo地図",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.ugblog.xyz/article/post-1074.html",
+        "snippet": "antaga大正ラーメン店主が大麻所持容疑で逮捕された模様。antaga大正ラーメン店は人気店で、話題になっています。どのような経緯で逮捕されたのでしょうか？ antaga大正ラーメン店主逮捕 どんな...",
+        "title": "antaga大正ラーメン店主逮捕どんな店？10月5日",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "426207": {
+    "url": "https://www.yelp.com/biz/%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E8%B1%8A%E5%A4%A2-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "キッチン豊夢",
+    "alias": "キッチン豊夢-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "大阪市大正区泉尾3-14-10",
+    "city_from_postal": "Taisho Ku",
+    "city": "Osaka",
+    "zip_code": "551-0031",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270406/27048670/",
+        "snippet": "キッチン豊夢 (木津川/カフェ・喫茶（その他）)の店舗情報は食べログでチェック！ 【喫煙可】口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理メニューなどの詳細情報も充実。",
+        "title": "キッチン豊夢 - 木津川/カフェ・喫茶（その他） [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270406/27048670/dtlrvwlst/",
+        "snippet": "キッチン豊夢 (木津川/カフェ・喫茶（その他）)への口コミです。日本最大級のグルメサイト「食べログ」では、キッチン豊夢の口コミ1件を掲載中。",
+        "title": "口コミ一覧 : キッチン豊夢 - 木津川/カフェ・喫茶（その他） [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270406/27048670/dtlphotolst/3/smp2/",
+        "snippet": "キッチン豊夢 (木津川/カフェ・喫茶（その他）)の投稿された内観写真です。日本最大級のグルメサイト「食べログ」では、キッチン豊夢の内観写真1件を掲載中。",
+        "title": "内観写真 : キッチン豊夢 - 木津川/カフェ・喫茶（その他） [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270406/27048670/dtlmap/",
+        "snippet": "キッチン豊夢 (木津川/カフェ・喫茶（その他）)の地図です。",
+        "title": "地図 : キッチン豊夢 - 木津川/カフェ・喫茶（その他） [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://hitosara.com/tlog_27048670/",
+        "snippet": "大阪府の大正/住之江 カフェの[キッチン豊夢:06-6551-2868]の人気料理情報",
+        "title": "キッチン豊夢[カフェ/大阪府大正/住之江/06-6551-2868]のおすすめ料理情報 | ヒトサラ",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.ekiten.jp/shop_5699121/",
+        "snippet": "キッチン豊夢. 電話で予約・お問い合わせ 06-6551-2868 お問い合わせの際は「エキテンを見た」とお伝えください。 エキテン ...",
+        "title": "キッチン豊夢/大阪市大正区泉尾｜エキテン",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://loco.yahoo.co.jp/place/g-mDEA40H4BwQ/",
+        "snippet": "キッチン豊夢(大阪府大阪市大正区泉尾/カフェ)の店舗詳細情報です。施設情報、口コミ、写真、地図など、グルメ ...",
+        "title": "キッチン豊夢(大阪府大阪市大正区泉尾/カフェ) - Yahoo!ロコ",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://loco.yahoo.co.jp/place/g-mDEA40H4BwQ/map/",
+        "snippet": "キッチン豊夢(大阪府大阪市大正区泉尾/カフェ)の地図（マップ）とアクセス情報です。施設情報、口コミ、写真など ...",
+        "title": "キッチン豊夢(大阪府大阪市大正区泉尾/カフェ) - Yahoo!ロコ",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://p-kachi.com/store/detail/id/169055",
+        "snippet": "キッチン豊夢. キッチン豊夢. tel.06-6551-2868 ※お問合せの際は「ピーカチ」を見たと言うとスムーズです。",
+        "title": "キッチン豊夢 - 大阪府/お好み焼き・もんじゃ・鉄板焼き [ピーカチ.com]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.hotpepper.jp/strJ000753104/",
+        "snippet": "キッチン豊夢（大正/洋食/洋食全般）の店舗情報・予約なら、お得なクーポン満載【ホットペッパーグルメ】！キッチン豊 ...",
+        "title": "キッチン豊夢(大正/洋食) | ホットペッパーグルメ",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "431623": {
+    "url": "https://www.yelp.com/biz/t-n-t-craft-beer-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bjfAEj3q96IXmEJlbRXQXw/o.jpg",
+    "name": "T.N.T Craft Beer",
+    "alias": "t-n-t-craft-beer-大阪市",
+    "main_category": "Nightlife",
+    "sub_categories": "Beer Bar, Pubs, ",
+    "rating": 4.0,
+    "price": "￥",
+    "address": "大正区三軒家東1-2-5",
+    "city_from_postal": "Taisho Ku",
+    "city": "Osaka",
+    "zip_code": "551-0002",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+815052806592",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.mymola.com/5-spots-for-craft-beer-in-osaka-japan/",
+        "snippet": "The popularity of craft beer has exploded in Osaka, with so many brewers and beer bars you need a map to find them all, literally. Here are 5 breweries to get you started. - 5 Spots for Craft Beer in Osaka Japan",
+        "title": "5 Spots for Craft Beer in Osaka Japan | My Mola",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/t-n-t-craft-beer-%E5%A4%A7%E9%98%AA%E5%B8%82",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "www.yelp.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d8754632-Reviews-TNT_Craft_Beer_Pub_and_Bottle_Shop-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "TNT Craft Beer Pub and Bottle Shop, Osaka: See 9 unbiased reviews of TNT Craft Beer Pub and Bottle Shop, rated 5 of 5 on Tripadvisor and ranked #2,098 of 37,882 restaurants in Osaka.",
+        "title": "TNT Craft Beer Pub and Bottle Shop, Osaka - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/craft.beer.pub.tnt",
+        "snippet": "TNT Craft Beer Pub - 大正区 三軒屋東 1丁目-2-5 飛鳥ビル 1階, Osaka 551-0002 - Rated 4.8 based on 43 Reviews &quot;Good staff and an amazing selection make this bar a...",
+        "title": "TNT Craft Beer Pub - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://untappd.com/v/t-n-t-craft-beer-and-bottle-shop/3246903",
+        "snippet": "Find out what&#39;s popular at T.N.T CRAFT BEER and BOTTLE SHOP in 大阪市, 大阪府 in real-time and see activity",
+        "title": "T.N.T CRAFT BEER and BOTTLE SHOP - 大阪市, 大阪府 - Untappd",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.ratebeer.com/places/city/osaka/0/105/",
+        "snippet": "Osaka Beer Guide: Osaka area beer bars, brewpubs, breweries and more.",
+        "title": "Osaka Beer Guide: Your Osaka guide to beer, beer bars ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://theculturetrip.com/asia/japan/articles/the-best-bars-for-craft-beer-in-osaka/",
+        "snippet": "Beer Belly is a craft beer pub owned by the international award-winning Minoh Beer, based just outside of Osaka. So, while this bar only sells craft beer from one brewery, it still provides a delicious and diverse selection – there are always fifteen types of Minoh Beer on tap, from their pilsner to pale ale.",
+        "title": "The Best Bars for Craft Beer in Osaka",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://beerfes.jp/index_beerfes_osa_e.html",
+        "snippet": "&quot;Great Japan Beer Festival&quot; which is known as &quot;BeerFes&quot; has being held every year in Tokyo from 1998, in Osaka from 2003, in Yokohama from 2006, in Nagoya from 2011 and in Okinawa from 2014. It is known widely and become the largest beer festival in Japan.",
+        "title": "BeerFes Osaka 2019",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/gulp.pablojikesso/",
+        "snippet": "Craft Beer GULP - 中央区難波2-4-6, Osaka 542-0076 - Rated 4.8 based on 34 Reviews &quot;Great place, awesome beers on tap with great staff and food. Recommended if...",
+        "title": "Craft Beer GULP - Pub - Osaka - 34 Reviews - 440 Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://untappd.com/v/t-n-t-craft-beer-and-bottle-shop/3246903/beers",
+        "snippet": "Find out what&#39;s popular at T.N.T CRAFT BEER and BOTTLE SHOP in 大阪市, 大阪府 in real-time and see activity.",
+        "title": "T.N.T CRAFT BEER and BOTTLE SHOP - 大阪市, 大阪府 - Venue - Untappd",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "444422": {
+    "url": "https://www.yelp.com/biz/%E6%B2%A2%E5%BF%97%E5%95%86%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%A4%A7%E6%AD%A3%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ID1SSAhDwB8Ddq-QOKtMMA/o.jpg",
+    "name": "SAWASHI SHOP",
+    "alias": "沢志商店-大阪市-大正区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "平尾3丁目15-19",
+    "city_from_postal": "Taisho Ku",
+    "city": "大阪市 大正区",
+    "zip_code": "551-0012",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665526121",
+    "review_count": 1,
+    "snippets": []
+  },
+  "445838": {
+    "url": "https://www.yelp.com/biz/%E9%A6%99%E6%B8%AF-%E5%A4%A7%E6%AD%A3%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/U8oo-W80elVlN5o9wZ1hzA/o.jpg",
+    "name": "香港",
+    "alias": "香港-大正区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Chinese, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "北村2-12-25",
+    "city_from_postal": "Taisho Ku",
+    "city": "大正区",
+    "zip_code": "551-0032",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665519616",
+    "review_count": 1,
+    "snippets": []
+  },
+  "483355": {
+    "url": "https://www.yelp.com/biz/%E5%AF%BF%E5%8F%B8%E6%96%87-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%A4%A7%E6%AD%A3%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2HMb8r4jQmAjy9Zgdzx3RQ/o.jpg",
+    "name": "sushibun",
+    "alias": "寿司文-大阪市-大正区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Sushi Bars, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "三軒家東1丁目3-13",
+    "city_from_postal": "Taisho Ku",
+    "city": "大阪市 大正区",
+    "zip_code": "551-0002",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665535760",
+    "review_count": 1,
+    "snippets": []
+  },
+  "490941": {
+    "url": "https://www.yelp.com/biz/%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%86%E3%83%8B%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF-%E5%8C%97%E6%9D%91-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%A4%A7%E6%AD%A3%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_mediu",
+    "image_url": "",
+    "name": "マリンテニスパーク・北村",
+    "alias": "マリンテニスパーク-北村-大阪市-大正区",
+    "main_category": "Active Life",
+    "sub_categories": "Tennis, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "北村3丁目3-70",
+    "city_from_postal": "Taisho Ku",
+    "city": "大阪市 大正区",
+    "zip_code": "551-0032",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665556161",
+    "review_count": 1,
+    "snippets": []
+  },
+  "544475": {
+    "url": "https://www.yelp.com/biz/%E3%83%95%E3%83%83%E3%83%88%E3%83%A1%E3%83%83%E3%82%BB-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZW3KbcK29JdYkv6sK2iMng/o.jpg",
+    "name": "Fut-mess",
+    "alias": "フットメッセ-大阪市",
+    "main_category": "Active Life",
+    "sub_categories": "Soccer, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "大正区千島1-1-41",
+    "city_from_postal": "Taisho Ku",
+    "city": "Osaka",
+    "zip_code": "551-0003",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665513966",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.fut-messe.com/%E7%94%9F%E9%87%8E/",
+        "snippet": "messe osaka u-12・u-11. ラモス瑠偉messeスクール関西各校（大正・天下茶屋・生野・鶴見緑地・海老江）の選抜選手達によるチーム活動です。",
+        "title": "FUT MESSE生野 総合トップページ - フットメッセ",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/user/orionkaratedo",
+        "snippet": "Skip navigation Sign in. Search",
+        "title": "orionkaratedo - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.fut-messe.com/tengachaya/",
+        "snippet": "大阪市西成区の全天候型、屋内・屋根付き3面フットサル専用スポーツコートスタジアム。アクセス抜群、提携駐車場もあり、天下茶屋駅から徒歩3分の場所にあるフットサル場です。大阪でフットサル、レンタルコート・大会出るならフットメッセ天下茶屋へ。個人参加・クリニックも開催して ...",
+        "title": "FUT MESSE天下茶屋 - フットメッセ",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.fut-messe.com/j%EF%BD%92-school-1/",
+        "snippet": "全国で開校されているラモス瑠偉messeスクールのご案内。4歳から12歳までのジュニアスクールで、抜群の練習環境で、経験豊かなコーチ陣が、お子様の成長・スキルアップをサポートいたします。中学生対象のフットサル専門ジュニアユースクラブも設立し、積極的に活動を行っています。",
+        "title": "ラモス瑠偉MESSEジュニアスクール - フットメッセ",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.fut-messe.com/ebie/",
+        "snippet": "大阪市福島区海老江 屋外3面フットサル施設。最寄り駅から徒歩3分。駐車場も併設しております。レンタルコート・大会・個人プログラム等、様々ご用意させていただいております。是非この機会に一度ご来店、ご利用ください。犬の幼稚園も併設しております。",
+        "title": "FUT MESSE海老江 - フットメッセ",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLDAKI0jViDERk1BGmOki4_e_n_XC85lh5",
+        "snippet": "Skip navigation",
+        "title": "Over Heaven - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLgebzHmuNgtyTQNms0rTkeIrW5-8KPHTH",
+        "snippet": "Skip navigation Sign in. Search",
+        "title": "Baladas - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Vaj_OdLw6zU",
+        "snippet": "ラテンデュオとして結成されたクリスティーナ三田とナルキータ 本格的ラテンをお楽しみいただけます",
+        "title": "クリスティーナ三田 森の里クリスマスコンサート エルパストール - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.giftly.com/soccer-gift-cards/%E5%A4%A7%E9%98%AA%E5%B8%82-27",
+        "snippet": "Buy a gift card to any Soccer in 大阪市, 27. Send by email or mail, or print at home. Deliver in a personalized greeting card. The perfect last minute gift. 100% satisfaction guaranteed. Buy 大阪市, 27 Soccer gift cards online.",
+        "title": "大阪市 Soccer Gift Cards | Giftly",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tempodebolero.blogspot.com/2011/05/se-paro-el-corazon-loco-de-johnny.html#!",
+        "snippet": "Para cualquier músico del mundo sería una locura aceptar presentarse sin apenas ensayos como primera voz del trío Los Panchos en su mejor época, pero no para Jonny Albino, pues no solo conocía sobradamente todos los bolero que cantaban entonces Los Panchos, sino que se atrevió a darles una vuelta más y mejorara aún más la calidad que hasta entonces le había dado el gran trío ...",
+        "title": "Se paró el corazón loco de Johnny Albino | ProBoCa ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "574272": {
+    "url": "https://www.yelp.com/biz/%E5%8D%97%E6%B3%89%E5%B0%BE%E5%85%AC%E5%9C%92-%E5%A4%A7%E6%AD%A3%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/x7ARGe8w1sMmifaUX9UgeQ/o.jpg",
+    "name": "Minami izuo koen",
+    "alias": "南泉尾公園-大正区",
+    "main_category": "Active Life",
+    "sub_categories": "Parks, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "千島1-6-7",
+    "city_from_postal": "Taisho Ku",
+    "city": "大正区",
+    "zip_code": "551-0003",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "607244": {
+    "url": "https://www.yelp.com/biz/%E3%82%A2%E3%82%B2%E3%82%A4%E3%83%B3-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/obfcL-YQBmhMtVbREMEBzQ/o.jpg",
+    "name": "Again",
+    "alias": "アゲイン-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, Okinawan, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "大正区小林東3-16-11",
+    "city_from_postal": "Taisho Ku",
+    "city": "Osaka",
+    "zip_code": "551-0011",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+817069218761",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270101/27083271/",
+        "snippet": "again/アゲイン (北新地/串揚げ・串かつ)の店舗情報は食べログでチェック！ 【個室あり / 禁煙】口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理メニューなどの詳細情報も充実。",
+        "title": "again （アゲイン） - 北新地/串揚げ・串かつ [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=LWdQD8GCEpE",
+        "snippet": "Hi guys!! Wonderland family is back to Japan again, but this time we went to Osaka Japan!!! Were supposed to go to the states but we realized that the kids will just get tired and not enjoy the ...",
+        "title": "BACK TO JAPAN AGAIN OSAKA - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g298566-d9763976-Reviews-Again-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Again, Osaka: See 6 unbiased reviews of Again, rated 4.5 of 5 on Tripadvisor and ranked #3,122 of 37,877 restaurants in Osaka.",
+        "title": "AGAIN, Osaka - Updated 2020 Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Naomi_Osaka",
+        "snippet": "Naomi Osaka (大坂 なおみ Japanese pronunciation: [o̞ːsäkä näo̞mʲi], Ōsaka Naomi, born October 16, 1997) is a professional tennis player who represents Japan. Osaka has been ranked No. 1 by the Women&#39;s Tennis Association (WTA), and is the first Asian player to hold the",
+        "title": "Naomi Osaka - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g298566-d9763976-i171449692-Again-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Again, Osaka Picture: Entrance - Check out Tripadvisor members&#39; 50,279 candid photos and videos of Again",
+        "title": "Entrance - Picture of Again, Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Ml5smnK5Taw",
+        "snippet": "Watch Osaka Osaka Official Full Song Video from the Movie Vanakkam Chennai Song - Osaka Osaka Film - Vanakkam Chennai Singer - Anirudh Ravichandher, Pragathi Music - Anirudh Ravichander Lyrics ...",
+        "title": "Vanakkam Chennai - Osaka Osaka Video | Shiva, Priya Anand ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Osaka",
+        "snippet": "Osaka was traditionally considered Japan&#39;s economic hub. By the Kofun period (300–538) it had developed into an important regional port, and in the 7th and 8th centuries, it served briefly as the imperial capital. Osaka continued to flourish during the Edo period (1603–1867) and became",
+        "title": "Osaka - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/LocationPhotoDirectLink-g298566-i22453744-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Osaka, Osaka (prefektur) Bilde: Horse meat. Yes you heard me right. Chewy but tasty. Ticked off, wont go there again though.... - Se Tripadvisor-medlemmers 50 184 objektive bilder og videoer av Osaka",
+        "title": "Horse meat. Yes you heard me right. Chewy but tasty ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.at/Restaurant_Review-g298566-d9763976-Reviews-Again-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Again, Osaka: 6 Bewertungen - bei Tripadvisor auf Platz 3.124 von 37.924 von 37.924 Osaka Restaurants; mit 4,5/5 von Reisenden bewertet.",
+        "title": "Again, Osaka - Restaurant Bewertungen, Telefonnummer ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.theguardian.com/sport/2019/sep/02/belinda-bencic-naomi-osaka-us-open-match-report",
+        "snippet": "Belinda Bencic reserves her best again for Naomi Osaka at US Open ... Osaka and Bencic were born in 1997 but it is difficult to think of two more different paths to this moment.",
+        "title": "Belinda Bencic reserves her best again for Naomi Osaka at ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "612631": {
+    "url": "https://www.yelp.com/biz/%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%8B%E3%83%BC-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%A4%A7%E6%AD%A3%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_b",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FWLJbgBIxBI4ILPqDDbTfQ/o.jpg",
+    "name": "カラオケティファニー",
+    "alias": "カラオケティファニー-大阪市-大正区",
+    "main_category": "Nightlife",
+    "sub_categories": "Karaoke, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "泉尾5丁目1-9",
+    "city_from_postal": "Taisho Ku",
+    "city": "大阪市 大正区",
+    "zip_code": "551-0031",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665537022",
+    "review_count": 1,
+    "snippets": []
+  },
+  "620843": {
+    "url": "https://www.yelp.com/biz/swan-%E5%A4%A7%E6%AD%A3%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "SWAN",
+    "alias": "swan-大正区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bistros, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "三軒家西2ー1ー17",
+    "city_from_postal": "Taisho Ku",
+    "city": "大正区",
+    "zip_code": "551-0002",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665555551",
+    "review_count": 1,
+    "snippets": []
+  },
+  "626731": {
+    "url": "https://www.yelp.com/biz/%E3%81%84%E3%81%A1%E3%82%83%E3%82%8A%E3%81%B0-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RLxukfZsvE3x91bzSL9ZxQ/o.jpg",
+    "name": "Ichariba",
+    "alias": "いちゃりば-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Okinawan, ",
+    "rating": 4.5,
+    "price": "￥￥",
+    "address": "大正区三軒家東1-9-11",
+    "city_from_postal": "Taisho Ku",
+    "city": "Osaka",
+    "zip_code": "551-0002",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81665527868",
+    "review_count": 3,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d1679886-Reviews-Ichariba-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Ichariba, Osaka: See 17 unbiased reviews of Ichariba, rated 4 of 5 on Tripadvisor and ranked #2,435 of 37,912 restaurants in Osaka.",
+        "title": "Ichariba, Osaka - Restaurant Reviews, Photos &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g298566-d1679886-i176814604-Ichariba-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Ichariba, Osaka Picture: ラフテー - Check out Tripadvisor members&#39; 50,268 candid photos and videos of Ichariba",
+        "title": "ラフテー - Picture of Ichariba, Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g14127621-d1679886-Reviews-Ichariba-Taisho_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Ichariba, Taisho: See 17 unbiased reviews of Ichariba, rated 4 of 5 on TripAdvisor and ranked #2 of 161 restaurants in Taisho.",
+        "title": "Ichariba, Taisho - Restaurant Reviews, Photos &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.mx/Restaurant_Review-g298566-d1679886-Reviews-Ichariba-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Ichariba, Osaka: Consulta 17 opiniones sobre Ichariba con puntuación 4 de 5 y clasificado en Tripadvisor N.°2,425 de 37,872 restaurantes en Osaka.",
+        "title": "ICHARIBA, Osaka - Fotos, Número de Teléfono y Restaurante ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.se/Restaurant_Review-g14127621-d1679886-Reviews-Ichariba-Taisho_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Ichariba, Taisho: Se 17 objektiva omdömen av Ichariba, som fått betyg 4 av 5 på TripAdvisor och rankas som nummer2 av 161 restauranger i Taisho.",
+        "title": "ICHARIBA, Taisho - Omdömen om restauranger - TripAdvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/icharibaosaka/",
+        "snippet": "いちゃりば大阪. 101 likes. 金城幸政ファンの大阪コミュニティーです。",
+        "title": "いちゃりば大阪 - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d9664874-Reviews-Umiya-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Umiya, Osaka: See unbiased reviews of Umiya, rated 4 of 5 on Tripadvisor and ranked #15,121 of 37,868 restaurants in Osaka.",
+        "title": "Umiya, Osaka - Restaurant Reviews &amp; Phone Number - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/en/osaka/A2701/A270401/27002656/",
+        "snippet": "IcharibaCheck out the information about Okinawan Cuisine restaurants in Bentencho, Nishikujo, Osaka Dome at Tabelog! It&#39;s full of real information like reviews, ratings, and photos posted by users! It also has enough detailed information like maps and menus.",
+        "title": "Ichariba - Bentencho, Nishikujo, Osaka Dome/Okinawan ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.jp/Restaurant_Review-g298566-d1679886-Reviews-Ichariba-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "いちゃりば(大阪市)に行くならトリップアドバイザーで口コミ、地図や写真を事前にチェック！いちゃりばは大阪市で2,445位(37,921件中)、4点の評価を受けています。",
+        "title": "いちゃりば (大阪市) の口コミ17件 - トリップアドバイザー",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.agoda.com/ichariba/hotel/okinawa-main-island-jp.html",
+        "snippet": "When visiting Okinawa, you&#39;ll feel right at home at ichariba, which offers quality accommodation and great service.From here, guests can enjoy easy access to all that the lively city has to offer. With its convenient location, the hotel offers easy access to the city&#39;s must-see destinations.",
+        "title": "ichariba | Okinawa Main island 2020 UPDATED DEALS, HD ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "666344": {
+    "url": "https://www.yelp.com/biz/%E5%B0%8F%E6%9E%97%E5%85%AC%E5%9C%92-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_vXWmbUc9f6mnRtnl42etw/o.jpg",
+    "name": "kobayashi park",
+    "alias": "小林公園-大阪市",
+    "main_category": "Active Life",
+    "sub_categories": "Parks, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "大正区小林東2-6",
+    "city_from_postal": "Taisho Ku",
+    "city": "Osaka",
+    "zip_code": "551-0011",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1023534-d13017102-Reviews-Kobayashi_Art_Museum-Takaishi_Osaka_Prefecture_Kinki.html",
+        "snippet": "Hotels near Kobayashi Art Museum: (0.16 mi) Hotel Route-Inn Osaka roTakaishi Hagoromo Ekimae (3.21 mi) Hotel Kirara Resort Kanku (3.46 mi) Daiwa Roynet Hotel Sakai Higashi (0.50 mi) Osaka International Youth Hostel (2.77 mi) Yayoi no Sato Onsen; View all hotels near Kobayashi Art Museum on Tripadvisor",
+        "title": "Kobayashi Art Museum (Takaishi) - 2020 All You Need to ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d9935261-Reviews-Kobayashi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Kobayashi, Osaka: See 2 unbiased reviews of Kobayashi, rated 3.5 of 5 on Tripadvisor and ranked #12,351 of 37,881 restaurants in Osaka.",
+        "title": "Kobayashi, Osaka - 1-46-8 Hannancho Abeno-Ku - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7440098-Reviews-Kobayashi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Kobayashi, Osaka: See unbiased reviews of Kobayashi, rated 4 of 5 on Tripadvisor and ranked #14,601 of 37,921 restaurants in Osaka.",
+        "title": "Kobayashi, Osaka - 3-14-15 Nishikujo Konohana-Ku ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attractions-g298566-Activities-c57-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "“Very Beautiful park at the Osaka Castle yard very fresh air and many areas to look around it is surrounding the castle which was amazing it may require 3-4 hours tour around but must to visit Loved it Manal Oman”",
+        "title": "THE 10 BEST Parks &amp; Nature Attractions in Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7439540-Reviews-Obanzai_Kobayashi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Obanzai Kobayashi, Osaka: See unbiased reviews of Obanzai Kobayashi, one of 37,915 Osaka restaurants listed on Tripadvisor.",
+        "title": "Obanzai Kobayashi, Osaka - Restaurant Reviews &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Attractions-g298566-Activities-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Nature Walk på Minoo Park, den beste naturen og fossen i Osaka. 2 anmeldelser. USD 77,10 per voksen. Billetter til attraksjoner. Umeda Sky Building KUCHU-TEIEN OBSERVATORY. 4 anmeldelser. USD 13,76 per voksen. Billetter til attraksjoner. Umeda Sky Building Kuchu Teien Observatory Adgangskort.",
+        "title": "DE 10 BESTE ting å gjøre i Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Attraction_Review-g1023473-d3875125-Reviews-Ichizo_Kobayashi_Memorial_Museum-Ikeda_Osaka_Prefecture_Kinki.html",
+        "snippet": "Ichizo Kobayashi Memorial Museum, Ikeda: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Ichizo Kobayashi Memorial Museum i Ikeda, Japan på Tripadvisor.",
+        "title": "Ichizo Kobayashi Memorial Museum (Ikeda, Japan) - Anmeldelser",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://kobayashi-osaka.jp/",
+        "snippet": "心斎橋のイノベーティブレストラン、kobayashi。革新的な料理とワイン。元日本大使公邸料理人が作る、革新的な料理。こだわりの食材、体験したことのない料理。料理はエンターテイメントになる。心斎橋駅、長堀橋駅から徒歩3分と便利。",
+        "title": "心斎橋のイノベーティブレストラン「KOBAYASHI」｜こだわりの料理とワイン。",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://travelingthepnw.com/2015/04/30/kobayashi-park-a-hidden-gem/",
+        "snippet": "The confluence of Chambers Creek and Leach Creek in Kobayashi Park in University Place. But if you are looking to get away from the crowds that descend on the park surrounding the golf course every time there is a speck of sunshine, or the temperature soars above 50 degrees, then head just a bit east for a hidden gem called Kobayashi Park.",
+        "title": "Kobayashi Park: A hidden gem – Traveling the PNW",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.kobayashi.co.jp/english/",
+        "snippet": "This is the Global Website of KOBAYASHI Pharmaceutical. Corporate Information, Our Mission are introduced.",
+        "title": "KOBAYASHI Pharmaceutical Co.,Ltd.",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

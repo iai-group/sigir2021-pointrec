@@ -1,0 +1,21 @@
+{
+  "492378": {
+    "url": "https://www.yelp.com/biz/kfc-bridgend?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "KFC",
+    "alias": "kfc-bridgend",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fast Food, Chicken Shop, Chicken Wings, ",
+    "rating": 2.5,
+    "price": "££",
+    "address": "Hernston Retail Park",
+    "city_from_postal": "Bridgend",
+    "city": "Bridgend",
+    "zip_code": "CF31 3ND",
+    "country_code": "GB",
+    "state_code": "BGE",
+    "phone": "+441656667180",
+    "review_count": 4,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "128202": {
+    "url": "https://www.yelp.com/biz/cercle-de-la-voile-de-moisson-lavacourt-moisson?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Cercle de la Voile de Moisson-Lavacourt",
+    "alias": "cercle-de-la-voile-de-moisson-lavacourt-moisson",
+    "main_category": "Active Life",
+    "sub_categories": "Sailing, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Promenade Claude Monet Lavacourt",
+    "city_from_postal": "Arrondissement de Mantes-la-Jolie",
+    "city": "Moisson",
+    "zip_code": "78840",
+    "country_code": "FR",
+    "state_code": "78",
+    "phone": "+33134793846",
+    "review_count": 1,
+    "snippets": []
+  },
+  "509025": {
+    "url": "https://www.yelp.com/biz/paradise-park-8-flins-sur-seine?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/sJOT-ADiqXk7WLRpU6oVtg/o.jpg",
+    "name": "Paradise Park 8",
+    "alias": "paradise-park-8-flins-sur-seine",
+    "main_category": "Active Life",
+    "sub_categories": "Paintball, Stadiums & Arenas, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Route Départementale D14",
+    "city_from_postal": "Arrondissement de Mantes-la-Jolie",
+    "city": "Flins sur Seine",
+    "zip_code": "78410",
+    "country_code": "FR",
+    "state_code": "78",
+    "phone": "+33673474171",
+    "review_count": 3,
+    "snippets": []
+  }
+}

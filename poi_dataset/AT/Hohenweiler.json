@@ -1,0 +1,21 @@
+{
+  "188273": {
+    "url": "https://www.yelp.com/biz/l%C3%A4ndle-metzgerei-d%C3%BCr-hohenweiler?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Ländle Metzgerei Dür",
+    "alias": "ländle-metzgerei-dür-hohenweiler",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Meat Shops, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Leutenhofen 21",
+    "city_from_postal": "Hohenweiler",
+    "city": "Hohenweiler",
+    "zip_code": "6914",
+    "country_code": "AT",
+    "state_code": "8",
+    "phone": "+43557382226",
+    "review_count": 1,
+    "snippets": []
+  }
+}

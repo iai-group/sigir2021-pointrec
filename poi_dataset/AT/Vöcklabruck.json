@@ -1,0 +1,40 @@
+{
+  "365405": {
+    "url": "https://www.yelp.com/biz/delta-sportpark-v%C3%B6cklabruck-betriebsges-v%C3%B6cklabruck?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Delta Sportpark Vöcklabruck, Betriebsges.",
+    "alias": "delta-sportpark-vöcklabruck-betriebsges-vöcklabruck",
+    "main_category": "Active Life",
+    "sub_categories": "Tennis, Yoga, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Robert Kunz-Str. 2a",
+    "city_from_postal": "Vöcklabruck",
+    "city": "Vöcklabruck",
+    "zip_code": "4840",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+43767277600",
+    "review_count": 1,
+    "snippets": []
+  },
+  "465374": {
+    "url": "https://www.yelp.com/biz/hallenbad-v%C3%B6cklabruck-und-sauna-freizeitpark-v%C3%B6cklabruck-v%C3%B6cklabruck?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Hallenbad Vöcklabruck und Sauna Freizeitpark Vöcklabruck,",
+    "alias": "hallenbad-vöcklabruck-und-sauna-freizeitpark-vöcklabruck-vöcklabruck",
+    "main_category": "Beauty & Spas",
+    "sub_categories": "Tanning, Swimming Pools, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Hausruckstr. 25",
+    "city_from_postal": "Vöcklabruck",
+    "city": "Vöcklabruck",
+    "zip_code": "4840",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+43767224074",
+    "review_count": 1,
+    "snippets": []
+  }
+}

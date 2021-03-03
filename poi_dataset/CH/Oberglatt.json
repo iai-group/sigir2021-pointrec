@@ -1,0 +1,21 @@
+{
+  "331899": {
+    "url": "https://www.yelp.com/biz/bens-kamelfarm-oberglatt?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Zj_L2PJIhH7JmXlr_VMpUw/o.jpg",
+    "name": "Ben's Kamelfarm",
+    "alias": "bens-kamelfarm-oberglatt",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Attraction Farms, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Im Hof 20",
+    "city_from_postal": "Oberglatt",
+    "city": "Oberglatt",
+    "zip_code": "8154",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41526203283",
+    "review_count": 1,
+    "snippets": []
+  }
+}

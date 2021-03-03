@@ -1,0 +1,40 @@
+{
+  "39973": {
+    "url": "https://www.yelp.com/biz/india-way-leiden?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "India Way",
+    "alias": "india-way-leiden",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Diners, Pakistani, Indian, ",
+    "rating": 2.5,
+    "price": null,
+    "address": "Vrouwenkerkkoorstraat 7",
+    "city_from_postal": "Leiden",
+    "city": "Leiden",
+    "zip_code": "2312 WP",
+    "country_code": "NL",
+    "state_code": "ZH",
+    "phone": "+31715149017",
+    "review_count": 3,
+    "snippets": []
+  },
+  "398292": {
+    "url": "https://www.yelp.com/biz/la-cubanita-leiden?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0LFDZyJDN33SK1Tj7PmOrw/o.jpg",
+    "name": "La Cubanita",
+    "alias": "la-cubanita-leiden",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cuban, Tapas Bars, Cocktail Bars, ",
+    "rating": 3.0,
+    "price": "€€€",
+    "address": "Noordeinde 19",
+    "city_from_postal": "Leiden",
+    "city": "Leiden",
+    "zip_code": "2311 CA",
+    "country_code": "NL",
+    "state_code": "ZH",
+    "phone": "+31715121134",
+    "review_count": 1,
+    "snippets": []
+  }
+}

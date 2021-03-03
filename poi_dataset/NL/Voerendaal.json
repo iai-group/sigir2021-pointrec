@@ -1,0 +1,40 @@
+{
+  "128027": {
+    "url": "https://www.yelp.com/biz/grandcaf%C3%A9-klumme-klimmen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6KJTb2S0Tj4BvmR40ecwyA/o.jpg",
+    "name": "Grandcafé Klumme",
+    "alias": "grandcafé-klumme-klimmen",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Klimmenderstraat 8",
+    "city_from_postal": "Voerendaal",
+    "city": "Klimmen",
+    "zip_code": "6343 AC",
+    "country_code": "NL",
+    "state_code": "LI",
+    "phone": "+31458881522",
+    "review_count": 1,
+    "snippets": []
+  },
+  "311048": {
+    "url": "https://www.yelp.com/biz/restaurant-de-leuf-voerendaal?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Aqs95AuG8hRzbOG7Wl11pQ/o.jpg",
+    "name": "Restaurant De Leuf",
+    "alias": "restaurant-de-leuf-voerendaal",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 5.0,
+    "price": "€€€€",
+    "address": "Dalstraat 2",
+    "city_from_postal": "Voerendaal",
+    "city": "Voerendaal",
+    "zip_code": "6367 JS",
+    "country_code": "NL",
+    "state_code": "LI",
+    "phone": "+31455750226",
+    "review_count": 3,
+    "snippets": []
+  }
+}

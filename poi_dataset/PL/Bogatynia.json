@@ -1,0 +1,21 @@
+{
+  "687850": {
+    "url": "https://www.yelp.com/biz/restauracja-dom-zegarmistrza-bogatynia?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qEhli1AQv1GhHtPBcgUfTA/o.jpg",
+    "name": "Restauracja  Dom Zegarmistrza",
+    "alias": "restauracja-dom-zegarmistrza-bogatynia",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Polish, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "al. Żytawska 17-18",
+    "city_from_postal": "Bogatynia",
+    "city": "Bogatynia",
+    "zip_code": "59-920",
+    "country_code": "PL",
+    "state_code": "DS",
+    "phone": "+48505092241",
+    "review_count": 1,
+    "snippets": []
+  }
+}

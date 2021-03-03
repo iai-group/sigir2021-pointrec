@@ -1,0 +1,40 @@
+{
+  "109757": {
+    "url": "https://www.yelp.com/biz/naast-de-joffer-delft-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tHNSjW_U7Ehgjp7QrXmtiQ/o.jpg",
+    "name": "Naast De Joffer",
+    "alias": "naast-de-joffer-delft-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cajun/Creole, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "Nieuwstraat 18",
+    "city_from_postal": "Delft",
+    "city": "Delft",
+    "zip_code": "2611 HK",
+    "country_code": "NL",
+    "state_code": "ZH",
+    "phone": "+31152136083",
+    "review_count": 2,
+    "snippets": []
+  },
+  "523791": {
+    "url": "https://www.yelp.com/biz/atithi-delft?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5JpfiyVWTehJagzottdjkQ/o.jpg",
+    "name": "Atithi",
+    "alias": "atithi-delft",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Indian, Fast Food, Vegetarian, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Rijksweg A13 202",
+    "city_from_postal": "Delft",
+    "city": "Delft",
+    "zip_code": "2629 HA",
+    "country_code": "NL",
+    "state_code": "ZH",
+    "phone": "+31687570745",
+    "review_count": 2,
+    "snippets": []
+  }
+}

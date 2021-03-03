@@ -1,0 +1,40 @@
+{
+  "203067": {
+    "url": "https://www.yelp.com/biz/los-pepes-matalasca%C3%B1as?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8uRgVzyNa5VsySrNrRyV0g/o.jpg",
+    "name": "Los Pepes",
+    "alias": "los-pepes-matalascañas",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Galician, Spanish, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Paseo Maritimo",
+    "city_from_postal": "Almonte",
+    "city": "Matalascañas",
+    "zip_code": "21760",
+    "country_code": "ES",
+    "state_code": "H",
+    "phone": "+34959441064",
+    "review_count": 2,
+    "snippets": []
+  },
+  "350691": {
+    "url": "https://www.yelp.com/biz/mes%C3%B3n-gallego-matalasca%C3%B1as?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4CsQlChXqGMrMxvkCI381A/o.jpg",
+    "name": "Mesón Gallego",
+    "alias": "mesón-gallego-matalascañas",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Galician, ",
+    "rating": 4.5,
+    "price": "€",
+    "address": "Plaza Caño Guerrero",
+    "city_from_postal": "Almonte",
+    "city": "Matalascañas",
+    "zip_code": "21760",
+    "country_code": "ES",
+    "state_code": "H",
+    "phone": "+34660572108",
+    "review_count": 3,
+    "snippets": []
+  }
+}

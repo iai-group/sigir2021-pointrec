@@ -1,0 +1,21 @@
+{
+  "339448": {
+    "url": "https://www.yelp.com/biz/pizza-hut-attalla-7?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ubFtvPfNzlWC0YSU-lqM5g/o.jpg",
+    "name": "Pizza Hut",
+    "alias": "pizza-hut-attalla-7",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, Chicken Wings, ",
+    "rating": 1.0,
+    "price": "$",
+    "address": "620 Cleveland Ave",
+    "city_from_postal": "Etowah",
+    "city": "Attalla",
+    "zip_code": "35954",
+    "country_code": "US",
+    "state_code": "AL",
+    "phone": "+12565381234",
+    "review_count": 3,
+    "snippets": []
+  }
+}

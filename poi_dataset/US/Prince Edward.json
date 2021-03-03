@@ -1,0 +1,21 @@
+{
+  "557288": {
+    "url": "https://www.yelp.com/biz/appomattox-river-company-farmville?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aedzH1Z2inrPny6OSSdeOQ/o.jpg",
+    "name": "Appomattox River Company",
+    "alias": "appomattox-river-company-farmville",
+    "main_category": "Active Life",
+    "sub_categories": "Outdoor Gear, Rafting/Kayaking, Paddleboarding, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "614 N Main St",
+    "city_from_postal": "Prince Edward",
+    "city": "Farmville",
+    "zip_code": "23901",
+    "country_code": "US",
+    "state_code": "VA",
+    "phone": "+14343926645",
+    "review_count": 2,
+    "snippets": []
+  }
+}

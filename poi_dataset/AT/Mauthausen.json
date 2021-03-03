@@ -1,0 +1,21 @@
+{
+  "88577": {
+    "url": "https://www.yelp.com/biz/kz-gedenkst%C3%A4tte-mauthausen-mauthausen-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TIogNp29r_vp31YICNM-9Q/o.jpg",
+    "name": "KZ-Gedenkstätte Mauthausen",
+    "alias": "kz-gedenkstätte-mauthausen-mauthausen-2",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Erinnerungsstr. 1",
+    "city_from_postal": "Mauthausen",
+    "city": "Mauthausen",
+    "zip_code": "4310",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+43723822690",
+    "review_count": 7,
+    "snippets": []
+  }
+}

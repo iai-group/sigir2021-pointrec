@@ -1,0 +1,21 @@
+{
+  "106113": {
+    "url": "https://www.yelp.com/biz/%E9%8B%B8%E5%B1%B1-%E5%AF%8C%E6%B4%A5%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CMC9OIs-0mL2OU2HLICQsw/o.jpg",
+    "name": "Nokogiriyama ",
+    "alias": "鋸山-富津市",
+    "main_category": "Active Life",
+    "sub_categories": "Landmarks & Historical Buildings, Hiking, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "金谷",
+    "city_from_postal": "Futtsu Shi",
+    "city": "Futtsu",
+    "zip_code": "299-1861",
+    "country_code": "JP",
+    "state_code": "12",
+    "phone": "",
+    "review_count": 2,
+    "snippets": []
+  }
+}

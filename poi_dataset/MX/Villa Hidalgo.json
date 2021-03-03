@@ -1,0 +1,21 @@
+{
+  "364357": {
+    "url": "https://www.yelp.com/biz/marys-villa-hidalgo?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_p8Zo59uvff93UvhLT0sOA/o.jpg",
+    "name": "Mary's",
+    "alias": "marys-villa-hidalgo",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Mexican, ",
+    "rating": 4.5,
+    "price": "$",
+    "address": "Av. Revolucion 70",
+    "city_from_postal": "Villa Hidalgo",
+    "city": "Villa Hidalgo",
+    "zip_code": "47250",
+    "country_code": "MX",
+    "state_code": "JAL",
+    "phone": "",
+    "review_count": 79,
+    "snippets": []
+  }
+}

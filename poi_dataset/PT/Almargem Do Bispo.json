@@ -1,0 +1,779 @@
+{
+  "176444": {
+    "url": "https://www.yelp.com/biz/restaurante-o-caneira-negrais?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9mLtb_UJeEfWg45HIOViKQ/o.jpg",
+    "name": "Restaurante O Caneira",
+    "alias": "restaurante-o-caneira-negrais",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 4.5,
+    "price": "€€",
+    "address": "Av. General Barnabé António Ferreira, 171",
+    "city_from_postal": "Almargem Do Bispo",
+    "city": "Negrais",
+    "zip_code": "2715-315",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219670905",
+    "review_count": 4,
+    "snippets": []
+  },
+  "184470": {
+    "url": "https://www.yelp.com/biz/cervejaria-trindade-lisboa?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_0oAti8_RGf57MNi23znGA/o.jpg",
+    "name": "Cervejaria Trindade",
+    "alias": "cervejaria-trindade-lisboa",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 3.0,
+    "price": "€€",
+    "address": "R. Nova da Trindade, 20 C",
+    "city_from_postal": "Almargem Do Bispo",
+    "city": "Lisbon",
+    "zip_code": "2715-311",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351213423506",
+    "review_count": 66,
+    "snippets": [
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g189158-d794412-Reviews-Cervejaria_Trindade-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Cervejaria Trindade, Lisboa: Se 3 801 objektive anmeldelser av Cervejaria Trindade, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 1 398 av 5 020 restauranter i Lisboa.",
+        "title": "Cervejaria Trindade, Lisboa - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189158-d794412-Reviews-Cervejaria_Trindade-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Reserve a table at Cervejaria Trindade, Lisbon on Tripadvisor: See 3,801 unbiased reviews of Cervejaria Trindade, rated 3.5 of 5 on Tripadvisor and ranked #1,395 of 5,025 restaurants in Lisbon.",
+        "title": "Cervejaria Trindade, Lisbon - Chiado &amp; Carmo - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.cervejariatrindade.pt/",
+        "snippet": "Cervejaria Trindade",
+        "title": "Cervejaria Trindade",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://lisbonguide.org/cervejaria-trindade-restaurant/",
+        "snippet": "Spanish. The history behind Cervejaria Trindade goes back from 1294, when the convent of the Holy Trinity (Santissima Trindade) was built by three monks. Later on after the massive earthquake was rebuilt as a beer factory (cervejaria), and used the old monk dinning rooms, like we see today.",
+        "title": "Cervejaria Trindade Restaurant - Best Lisbon Travel Guide ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/cervejaria-trindade-chiado-lisboa",
+        "snippet": "Cervejaria Trindade Lisboa; Cervejaria Trindade, Chiado; Encontra menus, contactos, telefone, localização, fotos, opiniões e muito mais para Cervejaria Trindade na Zomato",
+        "title": "Cervejaria Trindade, Chiado, Lisboa - zomato.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.thefork.com/restaurant/cervejaria-trindade-r432821",
+        "snippet": "Book a table at Cervejaria Trindade in Lisbon. Find restaurant reviews, menu, prices, and hours of operation for Cervejaria Trindade on TheFork.",
+        "title": "Cervejaria Trindade in Lisbon - Restaurant Reviews, Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g189158-d794412-Reviews-Cervejaria_Trindade-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Cervejaria Trindade, Lisboa: Veja 3.801 dicas e avaliações imparciais de Cervejaria Trindade, com classificação Nº 3,5 de 5 no Tripadvisor e classificado como Nº 1.394 de 5.026 restaurantes em Lisboa.",
+        "title": "CERVEJARIA TRINDADE, Lisboa - Comentários de restaurantes ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.ph/ShowUserReviews-g189158-d794412-r514585328-Cervejaria_Trindade-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Cervejaria Trindade: Cervejaria Trindade / Lisbon - See 3,801 traveler reviews, 1,499 candid photos, and great deals for Lisbon, Portugal, at Tripadvisor.",
+        "title": "Cervejaria Trindade / Lisbon - Review of Cervejaria ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.nz/Restaurant_Review-g189158-d794412-Reviews-Cervejaria_Trindade-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Cervejaria Trindade, Lisbon: See 3,801 unbiased reviews of Cervejaria Trindade, rated 3.5 of 5 on Tripadvisor and ranked #1,396 of 5,024 restaurants in Lisbon.",
+        "title": "Cervejaria Trindade, Lisbon - Chiado &amp; Carmo - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g189158-d2703366-Reviews-Cervejaria_Ramiro-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Cervejaria Ramiro, Lisboa: Se 9 914 objektive anmeldelser av Cervejaria Ramiro, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 450 av 5 020 restauranter i Lisboa.",
+        "title": "Cervejaria Ramiro, Lisboa - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "187577": {
+    "url": "https://www.yelp.com/biz/o-sim%C3%B5es-da-aldeia-sintra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "O Simões da Aldeia",
+    "alias": "o-simões-da-aldeia-sintra",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Largo Combatentes do Ultramar, 19",
+    "city_from_postal": "Almargem Do Bispo",
+    "city": "Sintra",
+    "zip_code": "2715-260",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219624324",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g189164-d12201757-Reviews-O_Simoes_da_Aldeia-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "O Simões da Aldeia, Sintra: Veja 22 dicas e avaliações imparciais de O Simões da Aldeia, com classificação Nº 4,5 de 5 no Tripadvisor e classificado como Nº 131 de 298 restaurantes em Sintra.",
+        "title": "O SIMÕES DA ALDEIA, Sintra - Comentários de restaurantes ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189164-d12201757-Reviews-O_Simoes_da_Aldeia-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "O Simoes da Aldeia, Sintra: See 22 unbiased reviews of O Simoes da Aldeia, rated 4.5 of 5 on Tripadvisor and ranked #131 of 298 restaurants in Sintra.",
+        "title": "O Simoes da Aldeia, Sintra - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/O-Sim%C3%B5es-da-Aldeia-279835955463498/",
+        "snippet": "O Simões da Aldeia - Largo Combatentes do Ultramar nº19, Vale de Lobos, 2715-405 Sintra, Portugal - Rated 4.8 based on 44 Reviews &quot;Excellent food,...",
+        "title": "O Simões da Aldeia - Home - Sintra, Portugal - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/o-simes-da-aldeia-almargem-do-bispo",
+        "snippet": "O Simões da Aldeia Lisboa; O Simões da Aldeia, Almargem do Bispo; Encontra menus, contactos, telefone, localização, fotos, opiniões e muito mais para O Simões da Aldeia na Zomato",
+        "title": "O Simões da Aldeia, Almargem do Bispo, Lisboa - Zomato ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g189164-d12201757-r560207613-O_Simoes_da_Aldeia-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "O Simoes da Aldeia: We love it - See 22 traveler reviews, 11 candid photos, and great deals for Sintra, Portugal, at Tripadvisor.",
+        "title": "We love it - Review of O Simoes da Aldeia, Sintra ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pt-br.facebook.com/O-Sim%C3%B5es-da-Aldeia-279835955463498/",
+        "snippet": "O Simões da Aldeia - Largo Combatentes do Ultramar nº19, Vale de Lobos, 2715-405 Sintra - Classificação de 4.8 baseada em 43 avaliações &quot;Atendimento...",
+        "title": "O Simões da Aldeia - Página inicial - Sintra - Avaliações ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.sg/Restaurant_Review-g189164-d12201757-Reviews-O_Simoes_da_Aldeia-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "O Simoes da Aldeia, Sintra: See 22 unbiased reviews of O Simoes da Aldeia, rated 4.5 of 5 on Tripadvisor and ranked #131 of 298 restaurants in Sintra.",
+        "title": "O Simoes da Aldeia, Sintra - Restaurant Reviews, Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/ShowUserReviews-g189164-d12201757-r543147395-O_Simoes_da_Aldeia-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "O Simões da Aldeia: Almoço - Veja 22 avaliações de viajantes 11 fotos reais e ótimas ofertas para Sintra, Portugal no Tripadvisor.",
+        "title": "Almoço - Avaliações de viajantes - O Simões da Aldeia ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g189164-d12201757-Reviews-O_Simoes_da_Aldeia-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "O Simões da Aldeia, Sintra: Consulta 22 opiniones sobre O Simões da Aldeia con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°131 de 298 restaurantes en Sintra.",
+        "title": "O SIMÕES DA ALDEIA, Sintra - Fotos, Número de Teléfono y ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/ShowUserReviews-g189164-d12201757-r560207613-O_Simoes_da_Aldeia-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "O Simoes da Aldeia: We love it - See 22 traveller reviews, 11 candid photos, and great deals for Sintra, Portugal, at Tripadvisor.",
+        "title": "We love it - O Simoes da Aldeia, Sintra Traveller Reviews ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "187951": {
+    "url": "https://www.yelp.com/biz/bar-o-pirata-lisboa?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YsJogS4jb4RrMr5fI6hngA/o.jpg",
+    "name": "Bar o Pirata",
+    "alias": "bar-o-pirata-lisboa",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Praça dos Restauradores, 16",
+    "city_from_postal": "Almargem Do Bispo",
+    "city": "Lisbon",
+    "zip_code": "2715-311",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351213427869",
+    "review_count": 4,
+    "snippets": [
+      {
+        "url": "https://www.yelp.com/biz/bar-o-pirata-lisboa",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "www.yelp.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pages/Bar-Pirata/107281509360331",
+        "snippet": "Bar o pirata , com as suas famosas bebidas, pirata e perna de pau de volta a Lisboa Angela Conveniente is feeling amused with Carlos Duarte and 2 others at Bar Pirata . November 1, 2016 · Lisbon, Portugal ·",
+        "title": "Bar Pirata - Lisbon, Portugal - Food &amp; Beverage | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Attraction_Review-g189158-d10673742-Reviews-Cais_do_Pirata-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Cais do Pirata, Lisboa: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Cais do Pirata i Lisboa, Portugal på Tripadvisor.",
+        "title": "Cais do Pirata (Lisboa, Portugal) - Anmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g189158-d3932430-i115301758-Pirata-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Pirata, Lisbon Picture: Bar Pirata - Check out Tripadvisor members&#39; 50,040 candid photos and videos of Pirata. Lisbon. Lisbon Tourism Lisbon Hotels Lisbon Bed and Breakfast Lisbon Vacation Rentals Lisbon Vacation Packages Flights to Lisbon Lisbon Restaurants Things to Do in Lisbon Lisbon Travel Forum",
+        "title": "Bar Pirata - Picture of Pirata, Lisbon - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Pirata-Restaurante-Bar-617880491978536/",
+        "snippet": "See more of Pirata - Restaurante, Bar on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Pirata - Restaurante, Bar. Fast Food Restaurant in Lisbon, Portugal. 5. 5 out of 5 stars. Community See All. 175 people like this. 178 people follow this. 19 check-ins. About See All. Rua Morais Soares nº95 (5,118.58 mi) Lisbon, Portugal ...",
+        "title": "Pirata - Restaurante, Bar - Home - Lisbon, Portugal - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g189158-d3932430-r326875297-Pirata-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Pirata: Outside Street Cafe/Bar - See 33 traveler reviews, 21 candid photos, and great deals for Lisbon, Portugal, at Tripadvisor.",
+        "title": "Outside Street Cafe/Bar - Review of Pirata, Lisbon ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://wego.here.com/portugal/lisbon/going-out/bar-o-pirata--620eyckp-a69f968096c44fb1ab6a1b8e59218c3c",
+        "snippet": "Bar O Pirata Praça Restauradores Lisbon - Going Out Portuguese. Drive, bike, walk, public transport directions on map to Bar O Pirata - HERE WeGo. Bar O Pirata Praça Restauradores Lisbon - Going Out Portuguese.",
+        "title": "Bar O Pirata - Going Out - Lisbon - HERE WeGo",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.timeout.pt/lisboa/pt/noticias/o-mitico-pirata-dos-restauradores-esta-de-volta-012318",
+        "snippet": "Mas o Pirata não se deu por vencido e atracou agora no número 95 da Rua Morais Soares. A segunda vida deste velho lobo do bar tem os mesmos argumentos de sempre: refeições rápidas e os míticos cocktails pirata (vinho generoso com gás) e perna de pau (vinho generoso, gás e ginjinha).",
+        "title": "O mítico Pirata dos Restauradores está de volta",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Tourism-g189158-Lisbon_Lisbon_District_Central_Portugal-Vacations.html",
+        "snippet": "Museene i Lisboa hyller den omfattende historien og kulturen til denne portugisiske hovedstaden.Sjøfartsmuseet er ypperlig for barn (og voksne!) som forguder alt som har med sjøfart å gjøre, mens Casa-Museu Dr. Anastácio Gonçalves er en skjult perle av fargerikt kunstarbeid.For å kunne nyte byens dramatiske steinarkitektur til fulle, kan du bli med på en byvandring eller tilpasse din ...",
+        "title": "Besøk Lisboa i 2020: Det beste innen Lisboa, Portugal ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.de/Restaurant_Review-g189113-d4830021-Reviews-Restaurante_Bar_O_Pirata-Armacao_de_Pera_Faro_District_Algarve.html",
+        "snippet": "Restaurante Bar O Pirata, Armacao de Pera: 33 Bewertungen von Restaurante Bar O Pirata sehen, mit 3 von 5 bewertet und eines der 119 Restaurants in Armacao de Pera bei TripAdvisor.",
+        "title": "Restaurante Bar O Pirata, Armacao de Pera - Restaurant ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "194052": {
+    "url": "https://www.yelp.com/biz/tia-alice-negrais?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qUm_M0IMwUI2Mz8ygKyr-w/o.jpg",
+    "name": "Tia Alice",
+    "alias": "tia-alice-negrais",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "Largo do Rossio, 16",
+    "city_from_postal": "Almargem Do Bispo",
+    "city": "Negrais",
+    "zip_code": "2715-341",
+    "country_code": "PT",
+    "state_code": "20",
+    "phone": "+351219279467",
+    "review_count": 1,
+    "snippets": []
+  },
+  "200994": {
+    "url": "https://www.yelp.com/biz/o-sopinhas-lisboa-3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4F8FPBMVzsZ8YDeXvXzZOQ/o.jpg",
+    "name": "O Sopinhas",
+    "alias": "o-sopinhas-lisboa-3",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "R. da Madalena, 50",
+    "city_from_postal": "Almargem Do Bispo",
+    "city": "Lisbon",
+    "zip_code": "2715-311",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351218862633",
+    "review_count": 9,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189158-d3814231-Reviews-O_Sopinhas-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Reserve a table at O Sopinhas, Lisbon on Tripadvisor: See 242 unbiased reviews of O Sopinhas, rated 4.5 of 5 on Tripadvisor and ranked #373 of 5,026 restaurants in Lisbon.",
+        "title": "O Sopinhas, Lisbon - Baixa, Rossio &amp; Restauradores - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g189158-d3814231-Reviews-O_Sopinhas-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "O Sopinhas, Lisboa: Se 242 objektive anmeldelser av O Sopinhas, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 369 av 5 015 restauranter i Lisboa.",
+        "title": "O Sopinhas, Lisboa - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g189158-d3814231-Reviews-O_Sopinhas-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Reserve a table at O Sopinhas, Lisbon on Tripadvisor: See 242 unbiased reviews of O Sopinhas, rated 4.5 of 5 on Tripadvisor and ranked #366 of 5,012 restaurants in Lisbon.",
+        "title": "O SOPINHAS, Lisbon - Baixa, Rossio &amp; Restauradores ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.de/Restaurant_Review-g189158-d3814231-Reviews-O_Sopinhas-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "O Sopinhas, Lissabon: 242 Bewertungen - bei Tripadvisor auf Platz 372 von 5.024 von 5.024 Lissabon Restaurants; mit 4,5/5 von Reisenden bewertet. ... Lisbon Serviced Apartments - Baixa Castelo. 85 Bewertungen . 0,16 km Entfernung . Die besten Restaurants in der Umgebung Alle anzeigen. Gelato Therapy.",
+        "title": "O Sopinhas, Lissabon - Baixa, Rossio &amp; Restauradores ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.thefork.com/restaurant/o-sopinhas-r415645",
+        "snippet": "-30% off the &quot;à la carte&quot; menu!. Book a table at O Sopinhas in Lisbon. Find restaurant reviews, menu, prices, and hours of operation for O Sopinhas on TheFork.",
+        "title": "O Sopinhas in Lisbon - Restaurant Reviews, Menu and Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.fr/Restaurant_Review-g189158-d3814231-Reviews-O_Sopinhas-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Réserver une table O Sopinhas, Lisbonne sur Tripadvisor : consultez 242 avis sur O Sopinhas, noté 4,5 sur 5 sur Tripadvisor et classé #373 sur 5 026 restaurants à Lisbonne.",
+        "title": "O Sopinhas, Lisbonne - Baixa, Rossio et place des ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.se/Restaurant_Review-g189158-d3814231-Reviews-O_Sopinhas-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "O Sopinhas, Lissabon: Se 242 objektiva omdömen av O Sopinhas, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer373 av 5 026 restauranger i Lissabon.",
+        "title": "O SOPINHAS, Lissabon - Omdömen om restauranger - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g189158-d3814231-Reviews-O_Sopinhas-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Reserva O Sopinhas, Lisboa en Tripadvisor: Consulta 242 opiniones sobre O Sopinhas con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°366 de 5.006 restaurantes en Lisboa.",
+        "title": "O SOPINHAS, Lisboa - Baixa, Rossio y Restauradores - Menú ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.in/Restaurant_Review-g189158-d3814231-Reviews-O_Sopinhas-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "O Sopinhas, Lisbon: See 227 unbiased reviews of O Sopinhas, rated 4.5 of 5 on TripAdvisor and ranked #260 of 4,927 restaurants in Lisbon.",
+        "title": "O Sopinhas, Lisbon - Baixa, Rossio &amp; Restauradores - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/RestaurantsNear-g189158-d3814231-O_Sopinhas-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Restaurants near O Sopinhas, Lisbon on Tripadvisor: Find traveller reviews and candid photos of dining near O Sopinhas in Lisbon, Portugal.",
+        "title": "The 10 Best Restaurants Near O Sopinhas, Lisbon - Tripadvisor",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "270389": {
+    "url": "https://www.yelp.com/biz/restaurante-o-pal%C3%A1cio-dos-leit%C3%B5es-sintra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurante o Palácio dos Leitões",
+    "alias": "restaurante-o-palácio-dos-leitões-sintra",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "R. dos Serradinhos, 26",
+    "city_from_postal": "Almargem Do Bispo",
+    "city": "Sintra",
+    "zip_code": "2715-343",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219674393",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g4074769-d5959791-Reviews-Palacio_Dos_Leitoes-Negrais_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Palácio dos Leitões, Negrais: Veja 102 dicas e avaliações imparciais de Palácio dos Leitões, com classificação Nº 4 de 5 no Tripadvisor e classificado como Nº 3 de 6 restaurantes em Negrais.",
+        "title": "PALÁCIO DOS LEITÕES, Negrais - Comentários de restaurantes ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g4074769-d5959791-Reviews-Palacio_Dos_Leitoes-Negrais_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Palacio Dos Leitoes, Negrais: See 102 unbiased reviews of Palacio Dos Leitoes, rated 4 of 5 on Tripadvisor and ranked #3 of 6 restaurants in Negrais.",
+        "title": "Palacio Dos Leitoes, Negrais - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g4074769-d5001850-Reviews-Afonso_dos_Leitoes-Negrais_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Afonso dos Leitoes, Negrais: Veja 270 dicas e avaliações imparciais de Afonso dos Leitoes, com classificação Nº 3,5 de 5 no Tripadvisor e classificado como Nº 4 de 6 restaurantes em Negrais.",
+        "title": "AFONSO DOS LEITOES, Negrais - Comentários de restaurantes ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/PalaciodosLeitoes",
+        "snippet": "Palacio dos Leitões - Rua Serradinhos 26, 2715-343 Negrais, Lisboa, Portugal - Rated 4.5 based on 59 Reviews &quot;Great Suckling Pig, took us 25mins to drive...",
+        "title": "Palacio dos Leitões - Home - Negrais, Lisboa, Portugal ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.fr/Restaurant_Review-g4074769-d5959791-Reviews-Palacio_Dos_Leitoes-Negrais_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Palacio Dos Leitoes, Negrais : consultez 102 avis sur Palacio Dos Leitoes, noté 4 sur 5 sur Tripadvisor et classé #3 sur 6 restaurants à Negrais.",
+        "title": "Palacio Dos Leitoes, Negrais - Restaurant Avis, Numéro de ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g4074769-d5959791-Palacio_Dos_Leitoes-Negrais_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Restaurants near Palacio Dos Leitoes, Negrais on Tripadvisor: Find traveler reviews and candid photos of dining near Palacio Dos Leitoes in Negrais, Portugal.",
+        "title": "THE 10 BEST Restaurants Near Palacio Dos Leitoes in ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g4074769-d5959791-Reviews-Palacio_Dos_Leitoes-Negrais_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Palacio Dos Leitoes, Negrais: See 102 unbiased reviews of Palacio Dos Leitoes, rated 4 of 5 on Tripadvisor and ranked #3 of 6 restaurants in Negrais.",
+        "title": "PALACIO DOS LEITOES, Negrais - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/pal%C3%A1cio-dos-leit%C3%B5es-negrais-lisboa",
+        "snippet": "Palácio dos Leitões Lisboa; Palácio dos Leitões, Negrais; Encontra menus, contactos, telefone, localização, fotos, opiniões e muito mais para Palácio dos Leitões na Zomato",
+        "title": "Palácio dos Leitões, Negrais, Lisboa - Zomato Portugal",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://codigopostal.ciberforma.pt/dir/0/restaurante-palacio-dos-leitoes/",
+        "snippet": "A entidade Restaurante Palácio dos Leitões tem sede em Sintra, na Rua Serradinhos, telefone 219674.... O seu código de atividade económica é 56101. Consulte a ficha completa para mais detalhes.",
+        "title": "Restaurante Palácio dos Leitões em Sintra",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pt-pt.facebook.com/PalaciodosLeitoes",
+        "snippet": "Palacio dos Leitões, Almargem do Bispo, Portugal, 1,3 mil gostos. Restaurante Palacio dos Leitões, receita tradicional de leitão de Negrais",
+        "title": "Palacio dos Leitões - Página inicial - Negrais, Lisboa ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "317776": {
+    "url": "https://www.yelp.com/biz/servejaria-lisboa-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/u84OMqHJMbo3I23YV99yOA/o.jpg",
+    "name": "Servejaria",
+    "alias": "servejaria-lisboa-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Brasseries, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "Rua Pimenta 15, Parque das Nações",
+    "city_from_postal": "Almargem Do Bispo",
+    "city": "Lisbon",
+    "zip_code": "2715-311",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351218957041",
+    "review_count": 3,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189158-d2703366-Reviews-Cervejaria_Ramiro-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Cervejaria Ramiro, Lisbon: See 9,916 unbiased reviews of Cervejaria Ramiro, rated 4.5 of 5 on Tripadvisor and ranked #447 of 5,026 restaurants in Lisbon.",
+        "title": "Cervejaria Ramiro, Lisbon - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g189158-d2703366-Reviews-Cervejaria_Ramiro-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Cervejaria Ramiro, Lisboa: Se 9 914 objektive anmeldelser av Cervejaria Ramiro, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 450 av 5 020 restauranter i Lisboa.",
+        "title": "Cervejaria Ramiro, Lisboa - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189158-d1526295-Reviews-Restaurante_Cervejaria_Lisboa_Portugal-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Restaurante Cervejaria Lisboa Portugal, Lisbon: See 273 unbiased reviews of Restaurante Cervejaria Lisboa Portugal, rated 3.5 of 5 on Tripadvisor and ranked #2,775 of 5,020 restaurants in Lisbon.",
+        "title": "Restaurante Cervejaria Lisboa Portugal, Lisbon - Baixa ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g189158-d2703366-Reviews-Cervejaria_Ramiro-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Cervejaria Ramiro, Lisbon: See 9,916 unbiased reviews of Cervejaria Ramiro, rated 4.5 of 5 on Tripadvisor and ranked #447 of 5,026 restaurants in Lisbon.",
+        "title": "CERVEJARIA RAMIRO, Lisbon - Updated 2020 Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g189158-d794412-Reviews-Cervejaria_Trindade-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Cervejaria Trindade, Lisboa: Se 3 801 objektive anmeldelser av Cervejaria Trindade, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 1 398 av 5 020 restauranter i Lisboa.",
+        "title": "Cervejaria Trindade, Lisboa - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tivolihotels.com/en/tivoli-avenida-liberdade-lisboa/restaurants/cervejaria-liberdade",
+        "snippet": "Tivoli Avenida Liberdade invites you to savour the finest seafood in Lisbon at Cervejaria Liberdade. A unique blend of flavours to delight your palate.",
+        "title": "Restaurant Cervejaria Liberdade | Tivoli Avenida Liberdade ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g189158-d1500681-Reviews-Cervejaria_Liberdade-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Cervejaria Liberdade, Lisbon: See 500 unbiased reviews of Cervejaria Liberdade, rated 4.5 of 5 on Tripadvisor and ranked #394 of 5,026 restaurants in Lisbon.",
+        "title": "CERVEJARIA LIBERDADE, Lisbon - Updated 2020 Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g189158-d7255567-Reviews-Cervejaria_do_Bairro-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Cervejaria do Bairro, Lisboa: Veja 1.161 dicas e avaliações imparciais de Cervejaria do Bairro, com classificação Nº 4,5 de 5 no Tripadvisor e classificado como Nº 301 de 5.027 restaurantes em Lisboa.",
+        "title": "CERVEJARIA DO BAIRRO, Lisboa - Comentários de restaurantes ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://restaurantguru.com/Cervejaria-Ramiro-Lisbon",
+        "snippet": "Cervejaria Ramiro, #6 among Lisbon restaurants: 21098 reviews by visitors and 24 detailed photos. This restaurant received 4.4 on Google and has three Frommer&#39;s stars. This place provides food for 21-40 €. Find on the map and call to book a table.",
+        "title": "Cervejaria Ramiro restaurant, Lisbon, Av. Alm. Reis nº1 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.de/Restaurant_Review-g189158-d2703366-Reviews-Cervejaria_Ramiro-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Cervejaria Ramiro, Lissabon: 9.913 Bewertungen - bei Tripadvisor auf Platz 451 von 5.018 von 5.018 Lissabon Restaurants; mit 4,5/5 von Reisenden bewertet.",
+        "title": "Cervejaria Ramiro, Lissabon - Restaurant Bewertungen ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "364636": {
+    "url": "https://www.yelp.com/biz/pra%C3%A7a-lu%C3%ADs-de-cam%C3%B5es-lisboa?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/n979JCU44JqX-Nu4CjA0iQ/o.jpg",
+    "name": "Praça Luís de Camões",
+    "alias": "praça-luís-de-camões-lisboa",
+    "main_category": "Active Life",
+    "sub_categories": "Public Plazas, Landmarks & Historical Buildings, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Praça Luís de Camões",
+    "city_from_postal": "Almargem Do Bispo",
+    "city": "Lisbon",
+    "zip_code": "2715-311",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "",
+    "review_count": 5,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g189158-d8874604-Reviews-Praca_Luis_de_Camoes-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Praça Luís de Camões, interchangeably referred to as Largo do Camoes, the both words translated as &quot;square&quot;, the location may not strike you by its sheer scale, for it lacks the grandeur and historical significance of both Rossio and Praça do Comércio, but its more intimate and, …",
+        "title": "Praca Luis de Camoes (Lisbon) - 2020 All You Need to Know ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.lisbonlux.com/lisbon/largo-do-camoes.html",
+        "snippet": "A Praça Luís de Camões, também conhecida por Largo do Camões, é a fronteira entre o Chiado e o Bairro Alto. Tem ao centro uma estátua em bronze do poeta Luís de Camões, inaugurada em 1867, rodeada de oito estátuas mais pequenas representando outras personalidades da literatura portuguesa.",
+        "title": "PRAÇA LUÍS DE CAMÕES, Lisboa (Largo do ... - Lisbon Lux",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Attraction_Review-g189158-d8874604-Reviews-Praca_Luis_de_Camoes-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Book your tickets online for Praca Luis de Camoes, Lisbon: See 188 reviews, articles, and 239 photos of Praca Luis de Camoes, ranked No.104 on Tripadvisor among 702 attractions in Lisbon.",
+        "title": "Praca Luis de Camoes (Lisbon) - All You Need to Know ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Attraction_Review-g189158-d8874604-Reviews-Praca_Luis_de_Camoes-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Vi anbefaler å bestille turer i Praça Luís de Camões på forhånd for å sikre deg en plass. Om du bestiller med Tripadvisor, kan du avbestille opptil 24 timer før turen begynner for å få full refusjon. Se alle turer 36 Praça Luís de Camões på Tripadvisor",
+        "title": "Praça Luís de Camões (Lisboa, Portugal) - Anmeldelser",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.de/Attraction_Review-g189158-d8874604-Reviews-Praca_Luis_de_Camoes-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Wir empfehlen Ihnen, Touren für Praça Luís de Camões frühzeitig zu buchen, um sich einen Platz zu sichern. Wenn Sie auf Tripadvisor buchen, können Sie bis zu 24 Stunden vor Beginn der Tour gegen vollständige Rückerstattung stornieren. Sehen Sie sich alle 36 Touren für Praça Luís de Camões auf Tripadvisor an.",
+        "title": "Praça Luís de Camões (Lissabon) - Aktuelle 2020 - Lohnt es ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g189158-d8874604-Reviews-or5-Praca_Luis_de_Camoes-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "A busy and popular public square named after the great Portuguese poet Luís de Camões, where there&#39;s also a monument in his honour. Like many European public squares, this also have cafes and restaurants to sit and watch the world go by. Actually, the bakery Manteigaria is on …",
+        "title": "Praca Luis de Camoes (Lisbon) - 2020 All You Need to Know ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.golisbon.com/sight-seeing/camoes-square.html",
+        "snippet": "Camões Square Lisbon&#39;s Meeting Place. T his small square is the transition zone between Chiado and Bairro Alto. In its center is a monumental statue of 16th-century epic poet Luis de Camões standing on a pedestal with other smaller statues of classical Portuguese authors.",
+        "title": "CAMÕES SQUARE in Chiado, Lisbon",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.aportugueseaffair.com/praca-luis-de-camoes/",
+        "snippet": "On Your Travel List: Lisbon’s Praça Luís de Camões. November 29, 2017 ... The Praça Luís de Camões is in an ideal location for shopping, wining &amp; dining, and sight-seeing. Without having to go far, you will find two huge churches facing each other on one end of the square.",
+        "title": "On Your Travel List: Lisbon&#39;s Praça Luís de Camões • A ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Ct6trwEUGAc",
+        "snippet": "We will begin this walk in Lisbon in the Alfama area on the Miradouro da Senhora do Monte and go through Miradouro da Graça, ... Praça Dom Pedro IV and end at Praça Luís de Camões. ...",
+        "title": "Walk around Lisbon Porugal 4K. Miradouro da Senhora do ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.au/Attraction_Review-g189158-d8874604-Reviews-Praca_Luis_de_Camoes-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Book your tickets online for Praca Luis de Camoes, Lisbon: See 191 reviews, articles, and 239 photos of Praca Luis de Camoes, ranked No.103 on Tripadvisor among 703 attractions in Lisbon.",
+        "title": "Praca Luis de Camoes, Lisbon: Address, Praca Luis de ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "462009": {
+    "url": "https://www.yelp.com/biz/taberna-maria-do-correio-lisboa?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/M2Z79y6VbzDpRegMF5ONdA/o.jpg",
+    "name": "Taberna Maria do Correio",
+    "alias": "taberna-maria-do-correio-lisboa",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, Tapas Bars, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Rua Acácio de Paiva 5",
+    "city_from_postal": "Almargem Do Bispo",
+    "city": "Lisbon",
+    "zip_code": "2715-311",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351214060970",
+    "review_count": 4,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189158-d2195010-Reviews-Taberna_Maria_do_Correio-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Taberna Maria do Correio, Lisbon: See 37 unbiased reviews of Taberna Maria do Correio, rated 4 of 5 on Tripadvisor and ranked #2,383 of 5,017 restaurants in Lisbon.",
+        "title": "Taberna Maria do Correio, Lisbon - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Taberna-Maria-do-Correio-122799167778637/",
+        "snippet": "Taberna Maria do Correio, Lisbon, Portugal. 3,399 likes · 416 were here. Taberna Maria do Correio - Cozinha Tradicional Transmontana. Posta e Alheira Mirandesa. Menus de almoço 7,5€. Saladas e...",
+        "title": "Taberna Maria do Correio - Home - Lisbon, Portugal - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g189158-d2195010-Reviews-Taberna_Maria_do_Correio-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Taberna Maria do Correio, Lisbon: See 37 unbiased reviews of Taberna Maria do Correio, rated 4 of 5 on Tripadvisor and ranked #2,384 of 5,014 restaurants in Lisbon.",
+        "title": "TABERNA MARIA DO CORREIO, Lisbon - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/taberna-maria-do-correio-alvalade-lisboa",
+        "snippet": "Taberna Maria do Correio Lisboa; Taberna Maria do Correio, Alvalade ... Lisboa, Alvalade restaurantes, Melhores restaurantes de Alvalade, Lisboa restaurantes, Restaurantes Portuguesa em Greater Lisbon, Portuguesa à minha volta, Restaurantes Portuguesa em Lisboa, Restaurantes Portuguesa em Alvalade, Refeições casuais em Greater Lisbon ...",
+        "title": "Taberna Maria do Correio, Alvalade, Lisboa",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g189158-d2195010-r539416209-Taberna_Maria_do_Correio-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Taberna Maria do Correio: Simple lunch for two in Lisbon - See 37 traveler reviews, 2 candid photos, and great deals for Lisbon, Portugal, at Tripadvisor.",
+        "title": "Simple lunch for two in Lisbon - Taberna Maria do Correio",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.timeout.com/lisbon/restaurants/taberna-maria-do-correio",
+        "snippet": "This place serves dainty (and cheap) portions of hearty dishes from Trás-os-Montes in north-eastern Portugal: entremeada de coentrada (spare ribs in coriander s",
+        "title": "Taberna Maria do Correio | Restaurants in Alvalade, Lisbon",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Taberna-Tasca-Maria-do-Correio-122799167778637/",
+        "snippet": "Taberna Maria do Correio, Lisbon, Portugal. 3,411 likes · 1 talking about this · 418 were here. Taberna Maria do Correio - Cozinha Tradicional Transmontana. Posta e Alheira Mirandesa. Menus de almoço...",
+        "title": "Taberna Maria do Correio - Home - Lisbon, Portugal - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.de/Restaurant_Review-g189158-d2195010-Reviews-Taberna_Maria_do_Correio-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Taberna Maria do Correio, Lissabon: 37 Bewertungen - bei Tripadvisor auf Platz 2.387 von 5.020 von 5.020 Lissabon Restaurants; mit 4/5 von Reisenden bewertet.",
+        "title": "Taberna Maria do Correio, Lissabon - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/ShowUserReviews-g189158-d2195010-r525382901-Taberna_Maria_do_Correio-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Taberna Maria do Correio: Restaurante transmontano - Veja 37 avaliações de viajantes 2 fotos reais e ótimas ofertas para Lisboa, Portugal no Tripadvisor.",
+        "title": "Taberna Maria do Correio - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g189158-d2195010-Reviews-Taberna_Maria_do_Correio-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Taberna Maria do Correio, Lisboa: Veja 37 dicas e avaliações imparciais de Taberna Maria do Correio, com classificação Nº 4 de 5 no Tripadvisor e classificado como Nº 2.387 de 5.020 restaurantes em Lisboa.",
+        "title": "TABERNA MARIA DO CORREIO, Lisboa - Comentários de ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "582471": {
+    "url": "https://www.yelp.com/biz/mwangol%C3%A9-lisboa?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hnSmfNwvdmuYiCqF7lEbnw/o.jpg",
+    "name": "Mwangolé",
+    "alias": "mwangolé-lisboa",
+    "main_category": "Nightlife",
+    "sub_categories": "Dance Clubs, Bars, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Rua Maria Luísa Holstein 15",
+    "city_from_postal": "Almargem Do Bispo",
+    "city": "Lisbon",
+    "zip_code": "2715-311",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351967425733",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.discotecamwangole.com/en",
+        "snippet": "Mwangolé is an Angolan nightclub located in Alcantara, Lisbon. Inaugurated on May 30, 2013 this nightclub has gained prominence and visibility among the visitors, currently being considered one of the best Angolan clubs of Lisbon. Here, the decor is appealing, the music hot and the fun guaranteed!",
+        "title": "Bares em Lisboa - Discoteca Mwangolé",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/mwangolelisboaoficial",
+        "snippet": "Discoteca Mwangolé - Rua Maria Luisa Holstein nº 13, 1300-388 Alcântara, Lisboa, Portugal - Rated 4.8 based on 29 Reviews &quot;Excelente música, bom ambiente...",
+        "title": "Discoteca Mwangolé - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.discotecamwangole.com/en/nightclub",
+        "snippet": "Mwangoléis an Angolan nightclub located in Alcantara. Considered by many the best Angolan nightclub of Lisbon, Mwangolé currently has two rooms and 3 bars at your disposal. The space adapts depending on the needs of each event and the fun is guaranteed! Come with your group of friends and enjoy an unforgettable night!",
+        "title": "Discoteca Mwangolé - Lisboa - Discoteca",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=_UOvhdxURcg",
+        "snippet": "Kizomba Party in Mwangole in Lissabon am 24.09.2018 Merke: keine &quot;crazy steps&quot;, wenn die Tanzfläche voll ist ;-) DSGVO konformes Video :-) man erkennt kein G...",
+        "title": "Mwangole in Lisboa - 24.09.2018 - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.discotecamwangole.com/en/gallery",
+        "snippet": "&quot;Mwangolé nightclub is waiting for you, and you, are waiting for a night like this!!&quot; Have you visited the Angolan nightclub of Lisbon? Get to know our gallery and find pictures of your evening!",
+        "title": "Discoteca Mwangolé - Lisboa - Galeria",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=QYXpwt4dSNc",
+        "snippet": "Um breve preview do que foi a atuação de DJ CESAR AMORIM em Lisboa (Portugal), na discoteca MWANGOLÉ A brief preview about the dj acting of DJ CESAR AMORIM in Lisbon (Portugal) at the MWANGOLÉ ...",
+        "title": "DJ Cesar Amorim - Lisboa - Discoteca Mwangolé (Preview ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=fZfK2jQ2K88",
+        "snippet": "Night club# Top 10 Night Club In Lisbon# night life #Night Club Near Me # Top Night Club In Portugal - Duration: 8:25. CROWD EUROPE Recommended for you",
+        "title": "Discoteca Mwangolê com Kelly Silva (Lisboa) - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/mwangolelisboaoficial/photos/a.293719820821882/1283563515170836/",
+        "snippet": "Discoteca Mwangolé. 1,645 likes · 24 talking about this · 89 were here. Discoteca Africana",
+        "title": "Discoteca Mwangolé | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=SprH4NLaAaQ",
+        "snippet": "Kyaku Kyadaff live in Lisbon at Discoteca Mwangolé - Reticências The Best Kizomba Disco of Europe: Discoteca Mwangolé Rua Maria Luisa Holstein 13, Alcantara, Lisboa, Portugal.",
+        "title": "Kyaku Kyadaff live in Lisbon at Discoteca Mwangolé ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/mwangole-discoteca-alc%C3%A2ntara-lisboa",
+        "snippet": "Avaliação: 2.8/5 — Alcântara, Greater Lisbon — Cozinha: Só bebidas — As festas africanas e o ritmos quentes de Angola — 20 € para duas pessoas (aprox.)&amp;nbsp;com bebidas alcoólicas",
+        "title": "Mwangole Discoteca, Alcântara, Lisboa - Zomato Portugal",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "648623": {
+    "url": "https://www.yelp.com/biz/kai-fu-s%C3%A3o-domingos-de-rana?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SiB2HsEFrna9qAG32mDiHw/o.jpg",
+    "name": "Kai Fu",
+    "alias": "kai-fu-são-domingos-de-rana",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Chinese, Sushi Bars, Vegetarian, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Rua Feliciano Moreira, 28",
+    "city_from_postal": "Almargem Do Bispo",
+    "city": "São Domingos de Rana",
+    "zip_code": "2715-311",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351964591080",
+    "review_count": 1,
+    "snippets": []
+  }
+}

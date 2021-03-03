@@ -1,0 +1,40 @@
+{
+  "427344": {
+    "url": "https://www.yelp.com/biz/landgasthof-hard-zunzgen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3tmoRdvgDZCCQFd_Az_vuQ/o.jpg",
+    "name": "Landgasthof Hard",
+    "alias": "landgasthof-hard-zunzgen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, Salad, Gluten-Free, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Alte Landstrasse 8",
+    "city_from_postal": "Zunzgen",
+    "city": "Zunzgen",
+    "zip_code": "4455",
+    "country_code": "CH",
+    "state_code": "BL",
+    "phone": "+41619719590",
+    "review_count": 2,
+    "snippets": []
+  },
+  "635644": {
+    "url": "https://www.yelp.com/biz/timeout-fitness-zunzgen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bfeQHFBC2-DnzXqlHV4CIA/o.jpg",
+    "name": "TimeOut Fitness",
+    "alias": "timeout-fitness-zunzgen",
+    "main_category": "Active Life",
+    "sub_categories": "Gyms, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Hauptstrasse 15",
+    "city_from_postal": "Zunzgen",
+    "city": "Zunzgen",
+    "zip_code": "4455",
+    "country_code": "CH",
+    "state_code": "BL",
+    "phone": "+41619719191",
+    "review_count": 3,
+    "snippets": []
+  }
+}

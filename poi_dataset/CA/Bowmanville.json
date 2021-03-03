@@ -1,0 +1,21 @@
+{
+  "561044": {
+    "url": "https://www.yelp.com/biz/alan-strike-aquatic-and-squash-centre-bowmanville-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XtLmkmpXad6yVh31VPKByg/o.jpg",
+    "name": "Alan Strike Aquatic and Squash Centre",
+    "alias": "alan-strike-aquatic-and-squash-centre-bowmanville-2",
+    "main_category": "Active Life",
+    "sub_categories": "Community Centers, Swimming Pools, Squash, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "49 Liberty St N",
+    "city_from_postal": "Bowmanville",
+    "city": "Bowmanville",
+    "zip_code": "L1C 2L8",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19056233392",
+    "review_count": 1,
+    "snippets": []
+  }
+}

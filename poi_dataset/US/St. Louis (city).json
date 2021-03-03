@@ -1,0 +1,21 @@
+{
+  "472020": {
+    "url": "https://www.yelp.com/biz/body-love-yoga-st-louis-3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IlYNFFS-6S-tsdLDWwTMVg/o.jpg",
+    "name": "Body Love Yoga",
+    "alias": "body-love-yoga-st-louis-3",
+    "main_category": "Active Life",
+    "sub_categories": "Yoga, ",
+    "rating": 5.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "St. Louis (city)",
+    "city": "St. Louis",
+    "zip_code": "63102",
+    "country_code": "US",
+    "state_code": "MO",
+    "phone": "+17074992616",
+    "review_count": 6,
+    "snippets": []
+  }
+}

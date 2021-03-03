@@ -1,0 +1,21 @@
+{
+  "466865": {
+    "url": "https://www.yelp.com/biz/burger-king-hollywood-7?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7H-mkk9epFE_yKap73b45Q/o.jpg",
+    "name": "Burger King",
+    "alias": "burger-king-hollywood-7",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, Fast Food, ",
+    "rating": 2.0,
+    "price": "$",
+    "address": "2319 North Federal Hwy",
+    "city_from_postal": "Broward",
+    "city": "Hollywood",
+    "zip_code": "33020",
+    "country_code": "US",
+    "state_code": "FL",
+    "phone": "",
+    "review_count": 74,
+    "snippets": []
+  }
+}

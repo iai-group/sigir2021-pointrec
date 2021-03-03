@@ -1,0 +1,21 @@
+{
+  "687950": {
+    "url": "https://www.yelp.com/biz/gluten-free-bakery-girl-saint-michaels?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/G4cwK5LE_zqnJsDcGoDxXg/o.jpg",
+    "name": "Gluten Free Bakery Girl",
+    "alias": "gluten-free-bakery-girl-saint-michaels",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, Desserts, Gluten-Free, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "116 N Talbot St",
+    "city_from_postal": "Talbot",
+    "city": "Saint Michaels",
+    "zip_code": "21663",
+    "country_code": "US",
+    "state_code": "MD",
+    "phone": "+14106931153",
+    "review_count": 14,
+    "snippets": []
+  }
+}

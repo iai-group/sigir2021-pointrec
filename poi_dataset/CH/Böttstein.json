@@ -1,0 +1,40 @@
+{
+  "291164": {
+    "url": "https://www.yelp.com/biz/pizzakurier-da-pino-kleind%C3%B6ttingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Pizzakurier da Pino",
+    "alias": "pizzakurier-da-pino-kleindöttingen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, Food Delivery Services, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Rainstrasse 3",
+    "city_from_postal": "Böttstein",
+    "city": "Kleindöttingen",
+    "zip_code": "5314",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41562501010",
+    "review_count": 2,
+    "snippets": []
+  },
+  "551480": {
+    "url": "https://www.yelp.com/biz/landgasthof-schloss-b%C3%B6ttstein-b%C3%B6ttstein?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/X4f6XHq5u1yORdL1_moivg/o.jpg",
+    "name": "Landgasthof Schloss Böttstein",
+    "alias": "landgasthof-schloss-böttstein-böttstein",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Schlossweg 20",
+    "city_from_postal": "Böttstein",
+    "city": "Böttstein",
+    "zip_code": "5315",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41562691616",
+    "review_count": 2,
+    "snippets": []
+  }
+}

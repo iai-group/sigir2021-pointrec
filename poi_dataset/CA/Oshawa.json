@@ -1,0 +1,21 @@
+{
+  "540941": {
+    "url": "https://www.yelp.com/biz/nebs-fun-world-oshawa?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tYH5BXTdD4bYP2OP37-czg/o.jpg",
+    "name": "NEB's Fun World",
+    "alias": "nebs-fun-world-oshawa",
+    "main_category": "Active Life",
+    "sub_categories": "Bowling, Go Karts, Arcades, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "1300 Wilson Road N",
+    "city_from_postal": "Oshawa",
+    "city": "Oshawa",
+    "zip_code": "L1K 2B8",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+19057232631",
+    "review_count": 10,
+    "snippets": []
+  }
+}

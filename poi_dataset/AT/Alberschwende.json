@@ -1,0 +1,40 @@
+{
+  "501681": {
+    "url": "https://www.yelp.com/biz/wirtshaus-zur-taube-alberschwende-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lPGh3aXluPniiHa1CbK-AQ/o.jpg",
+    "name": "Wirtshaus zur Taube",
+    "alias": "wirtshaus-zur-taube-alberschwende-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "German, Venues & Event Spaces, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Hof 9",
+    "city_from_postal": "Alberschwende",
+    "city": "Alberschwende",
+    "zip_code": "6861",
+    "country_code": "AT",
+    "state_code": "8",
+    "phone": "+4355794202",
+    "review_count": 2,
+    "snippets": []
+  },
+  "531434": {
+    "url": "https://www.yelp.com/biz/alpengasthof-br%C3%BCggele-alberschwende?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Alpengasthof Brüggele",
+    "alias": "alpengasthof-brüggele-alberschwende",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "German, ",
+    "rating": 5.0,
+    "price": "€€",
+    "address": "Brüggele 332",
+    "city_from_postal": "Alberschwende",
+    "city": "Alberschwende",
+    "zip_code": "6861",
+    "country_code": "AT",
+    "state_code": "8",
+    "phone": "+436649750855",
+    "review_count": 1,
+    "snippets": []
+  }
+}

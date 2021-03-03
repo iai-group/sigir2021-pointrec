@@ -1,0 +1,21 @@
+{
+  "459847": {
+    "url": "https://www.yelp.com/biz/%E3%83%9E%E3%82%A4%E3%82%A2%E3%83%9F%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3-%E6%B5%85%E8%8D%89%E5%BA%97-%E5%8F%B0%E6%9D%B1?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5mvxm95XciTPSSfSGlJiRA/o.jpg",
+    "name": "Miami Garden Asakusa",
+    "alias": "マイアミガーデン-浅草店-台東",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Pasta Shops, Italian, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "区浅草1-2-1",
+    "city_from_postal": "Takatsu Ku",
+    "city": "台東",
+    "zip_code": "213-0001",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81338456395",
+    "review_count": 2,
+    "snippets": []
+  }
+}

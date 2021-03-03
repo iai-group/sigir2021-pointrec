@@ -1,0 +1,21 @@
+{
+  "338880": {
+    "url": "https://www.yelp.com/biz/pizza-hut-harrisburg-30?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hjLlw6H-RBWyoW1I359aqw/o.jpg",
+    "name": "Pizza Hut",
+    "alias": "pizza-hut-harrisburg-30",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, Pizza, Chicken Wings, ",
+    "rating": 4.0,
+    "price": "$",
+    "address": "5462 Blairs Forest Way",
+    "city_from_postal": "Cabarrus",
+    "city": "Harrisburg",
+    "zip_code": "28075",
+    "country_code": "US",
+    "state_code": "NC",
+    "phone": "+17044547100",
+    "review_count": 3,
+    "snippets": []
+  }
+}

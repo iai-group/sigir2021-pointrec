@@ -1,0 +1,40 @@
+{
+  "329115": {
+    "url": "https://www.yelp.com/biz/bbc-butterbarcafe-gossau?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "BBC butterbarcafe",
+    "alias": "bbc-butterbarcafe-gossau",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, Bars, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "Güterschuppen",
+    "city_from_postal": "Gossau (SG)",
+    "city": "Gossau",
+    "zip_code": "9200",
+    "country_code": "CH",
+    "state_code": "SG",
+    "phone": "+41713834801",
+    "review_count": 1,
+    "snippets": []
+  },
+  "375162": {
+    "url": "https://www.yelp.com/biz/freibad-gossau-sg?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Freibad",
+    "alias": "freibad-gossau-sg",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Arts & Entertainment, Public Services & Government, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Sportstrasse",
+    "city_from_postal": "Gossau (SG)",
+    "city": "Gossau Sg",
+    "zip_code": "9200",
+    "country_code": "CH",
+    "state_code": "SG",
+    "phone": "+41713851632",
+    "review_count": 1,
+    "snippets": []
+  }
+}

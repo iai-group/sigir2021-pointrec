@@ -1,0 +1,21 @@
+{
+  "582381": {
+    "url": "https://www.yelp.com/biz/%E9%8A%80%E5%BA%A7-%E9%AE%A8%E6%AD%A3-%E4%B8%AD%E5%A4%AE%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YUxUCwTMD85HYaajpyZ8FQ/o.jpg",
+    "name": "ginzasushimasa",
+    "alias": "銀座-鮨正-中央区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Sushi Bars, ",
+    "rating": 5.0,
+    "price": "￥￥￥￥",
+    "address": "銀座5-14-5",
+    "city_from_postal": "Kokubunji Shi",
+    "city": "Chūō",
+    "zip_code": "185-0034",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81335415882",
+    "review_count": 2,
+    "snippets": []
+  }
+}

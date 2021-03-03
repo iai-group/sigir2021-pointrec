@@ -1,0 +1,40 @@
+{
+  "182560": {
+    "url": "https://www.yelp.com/biz/sportanlage-gheid-buchs?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6niW_U6qLqvhmE6dZpE4UQ/o.jpg",
+    "name": "Sportanlage Gheid",
+    "alias": "sportanlage-gheid-buchs",
+    "main_category": "Active Life",
+    "sub_categories": "Recreation Centers, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Gheidstrasse 25",
+    "city_from_postal": "Buchs (ZH)",
+    "city": "Buchs",
+    "zip_code": "8107",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "616999": {
+    "url": "https://www.yelp.com/biz/pferdesportstall-sigg-buchs?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Pferdesportstall Sigg",
+    "alias": "pferdesportstall-sigg-buchs",
+    "main_category": "Active Life",
+    "sub_categories": "Horseback Riding, Tours, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Im Ried",
+    "city_from_postal": "Buchs (ZH)",
+    "city": "Buchs",
+    "zip_code": "8107",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41448442242",
+    "review_count": 1,
+    "snippets": []
+  }
+}

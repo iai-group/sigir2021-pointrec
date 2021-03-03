@@ -1,0 +1,21 @@
+{
+  "65531": {
+    "url": "https://www.yelp.com/biz/restaurant-beizli-zum-nassberg-villigen?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Restaurant Beizli zum Nassberg",
+    "alias": "restaurant-beizli-zum-nassberg-villigen",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Nassberg",
+    "city_from_postal": "Villigen",
+    "city": "Villigen",
+    "zip_code": "5234",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41562841720",
+    "review_count": 1,
+    "snippets": []
+  }
+}

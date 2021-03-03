@@ -1,0 +1,40 @@
+{
+  "477031": {
+    "url": "https://www.yelp.com/biz/il-pizzaiollo-alverca-do-ribatejo?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YmDFxiopM0rqbpZVmXZ4OQ/o.jpg",
+    "name": "Il Pizzaiollo",
+    "alias": "il-pizzaiollo-alverca-do-ribatejo",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, Pizza, ",
+    "rating": 3.0,
+    "price": "€",
+    "address": "Praça Cooperação, 1",
+    "city_from_postal": "Alverca Do Ribatejo",
+    "city": "Alverca do Ribatejo",
+    "zip_code": "2615-276",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219575365",
+    "review_count": 2,
+    "snippets": []
+  },
+  "524218": {
+    "url": "https://www.yelp.com/biz/museu-do-ar-vila-franca-de-xira?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Museu Do Ar",
+    "alias": "museu-do-ar-vila-franca-de-xira",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, ",
+    "rating": 4.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Alverca Do Ribatejo",
+    "city": "Vila Franca de Xira",
+    "zip_code": "2615-174",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219582782",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "209733": {
+    "url": "https://www.yelp.com/biz/jennys%E3%82%B9%E3%83%8A%E3%83%83%E3%82%AF%E3%83%90%E3%83%BC-%E5%8E%9A%E6%9C%A8%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jf6_vJFffN-TSeOZ6nc3Kw/o.jpg",
+    "name": "Jenny's Snack Bar",
+    "alias": "jennysスナックバー-厚木市",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Filipino, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "中町4-15-6",
+    "city_from_postal": "Atsugi Shi",
+    "city": "Atsugi",
+    "zip_code": "243-0018",
+    "country_code": "JP",
+    "state_code": "14",
+    "phone": "+81462049217",
+    "review_count": 1,
+    "snippets": []
+  }
+}

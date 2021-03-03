@@ -1,0 +1,40 @@
+{
+  "229784": {
+    "url": "https://www.yelp.com/biz/restaurant-alpenr%C3%B6sli-w%C3%BCrenlos-w%C3%BCrenlos?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Alpenrösli Würenlos ",
+    "alias": "restaurant-alpenrösli-würenlos-würenlos",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Arts & Entertainment, Public Services & Government, Restaurants, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Schulstrasse 25",
+    "city_from_postal": "Würenlos",
+    "city": "Würenlos",
+    "zip_code": "5436",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41564242119",
+    "review_count": 1,
+    "snippets": []
+  },
+  "328093": {
+    "url": "https://www.yelp.com/biz/zu-den-zwei-raben-unterengstringen-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IRTJH89ict3Jnc5eQeO09A/o.jpg",
+    "name": "Zu den Zwei Raben",
+    "alias": "zu-den-zwei-raben-unterengstringen-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Chlosterstrasse",
+    "city_from_postal": "Würenlos",
+    "city": "Unterengstringen",
+    "zip_code": "8109",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41447500101",
+    "review_count": 5,
+    "snippets": []
+  }
+}

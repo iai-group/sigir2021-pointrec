@@ -1,0 +1,40 @@
+{
+  "223309": {
+    "url": "https://www.yelp.com/biz/het-sportpark-almelo?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Het Sportpark",
+    "alias": "het-sportpark-almelo",
+    "main_category": "Active Life",
+    "sub_categories": "Sports Clubs, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Sluiskade Noordzijde 126",
+    "city_from_postal": "Almelo",
+    "city": "Almelo",
+    "zip_code": "7603 XZ",
+    "country_code": "NL",
+    "state_code": "OV",
+    "phone": "+31546863636",
+    "review_count": 1,
+    "snippets": []
+  },
+  "696770": {
+    "url": "https://www.yelp.com/biz/erve-asito-almelo?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Erve Asito",
+    "alias": "erve-asito-almelo",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Stadiums & Arenas, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Stadionlaan 1",
+    "city_from_postal": "Almelo",
+    "city": "Almelo",
+    "zip_code": "7606 JZ",
+    "country_code": "NL",
+    "state_code": "OV",
+    "phone": "+31546817070",
+    "review_count": 1,
+    "snippets": []
+  }
+}

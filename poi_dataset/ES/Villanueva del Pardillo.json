@@ -1,0 +1,162 @@
+{
+  "250591": {
+    "url": "https://www.yelp.com/biz/chocolate-y-nata-madrid?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EkYqKLL8xEbCX68FptFuDQ/o.jpg",
+    "name": "Chocolate y Nata",
+    "alias": "chocolate-y-nata-madrid",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, Breakfast & Brunch, Cafeteria, ",
+    "rating": 3.5,
+    "price": "€€",
+    "address": "Paseo de San Francisco de Sales, 21",
+    "city_from_postal": "Villanueva del Pardillo",
+    "city": "Madrid",
+    "zip_code": "28229",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34915447364",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.yelp.com/biz/chocolate-y-nata-madrid",
+        "snippet": "Chocolate y Nata in Madrid, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Madrid and beyond.",
+        "title": "Chocolate y Nata - Chamberí - Madrid, Spain - Yelp",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Chocolate-y-nata-110953258936962/",
+        "snippet": "Chocolate y nata - Pº. San Francisco de Sales,21, 28003 Madrid, Spain - Rated 4 based on 1 Review &quot;Os invito a visitar &quot;chocolate y nata&quot; es un sitio...",
+        "title": "Chocolate y nata - Home - Madrid, Spain - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pages/Chocolate-y-nata/110953258936962",
+        "snippet": "Chocolate y nata - Pº. San Francisco de Sales,21, 28003 Madrid, Spain - Rated 4 based on 1 Review &quot;Os invito a visitar &quot;chocolate y nata&quot; es un sitio...",
+        "title": "Chocolate y nata - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://es-es.facebook.com/Chocolate-y-nata-110953258936962/",
+        "snippet": "Chocolate y nata - Pº. San Francisco de Sales,21, 28003 Madrid - Ha calificado 4 según 1 opinión &quot;Os invito a visitar &quot;chocolate y nata&quot; es un sitio...",
+        "title": "Chocolate y nata - Inicio - Madrid - Menú, precios ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://chocolatmadrid.com/",
+        "snippet": "El Chocolate – Nuestra receta secreta en Chocolat Madrid (Chocolatería en Madrid). La elaboración de nuestro famoso Chocolate es totalmente artesanal, cada mañana lo elaboramos con delicadeza y esmero, dandole la máxima importancia a la pureza y espesor.",
+        "title": "Chocolatería en Madrid - Barrio de las Letras Chocolat",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g187514-d4154124-i151195754-Creperie_Ma_Bretagne-Madrid.html",
+        "snippet": "Creperie Ma Bretagne, Madrid Picture: Chocolate y nata. - Check out Tripadvisor members&#39; 53,439 candid photos and videos of Creperie Ma Bretagne",
+        "title": "Chocolate y nata. - Picture of Creperie Ma Bretagne, Madrid",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Chocolate-y-nata-110953258936962/about/",
+        "snippet": "Chocolate y nata - Pº. San Francisco de Sales,21, 28003 Madrid, Spain - Rated 4 based on 1 Review &quot;Os invito a visitar &quot;chocolate y nata&quot; es un sitio...",
+        "title": "Chocolate y nata - About - Madrid, Spain - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://foursquare.com/v/chocolate-y-nata/4e82e4f76c250277a8b96ce8",
+        "snippet": "See 6 photos and 11 tips from 86 visitors to Chocolate Y Nata. &quot;Excellent baked good and pastries&quot;",
+        "title": "Chocolate Y Nata - Vallehermoso - 11 tips from 86 visitors",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=15boP0QYrx8",
+        "snippet": "En esta ocasión te recomiendo un postre fácil y muy tradicional, se trata de unas copas de ganache de chocolate y nata, no te pierdas esta receta paso a paso ya que seguro que te van a encantar ...",
+        "title": "Copa de chocolate y nata receta fácil paso a paso - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g187514-d6717402-i118309652-Bellamia_Heladeria-Madrid.html",
+        "snippet": "Bellamia Heladeria, Madrid Picture: Gofre con chocolate y nata - Check out Tripadvisor members&#39; 53,272 candid photos and videos of Bellamia Heladeria",
+        "title": "Gofre con chocolate y nata - Picture of Bellamia Heladeria ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "400573": {
+    "url": "https://www.yelp.com/biz/quirico-madrid?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/25P7noO22e8Y0HtsK6OFRA/o.jpg",
+    "name": "Quirico",
+    "alias": "quirico-madrid",
+    "main_category": "Nightlife",
+    "sub_categories": "Dive Bars, Tapas Bars, ",
+    "rating": 4.5,
+    "price": "€€",
+    "address": "Calle de San Francisco de Sales, 28",
+    "city_from_postal": "Villanueva del Pardillo",
+    "city": "Madrid",
+    "zip_code": "28229",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "",
+    "review_count": 5,
+    "snippets": [
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g187514-d8560617-Reviews-Quirico-Madrid.html",
+        "snippet": "Quirico, Madrid: Se 14 objektive anmeldelser av Quirico, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 4 352 av 11 649 restauranter i Madrid.",
+        "title": "Quirico, Madrid - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g187514-d8560617-Reviews-Quirico-Madrid.html",
+        "snippet": "Quirico, Madrid: Consulta 15 opiniones sobre Quirico con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°4.351 de 11.659 restaurantes en Madrid.",
+        "title": "QUIRICO, Madrid - Chamberí - Fotos y Restaurante Opiniones ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g187514-d8560617-Reviews-Quirico-Madrid.html",
+        "snippet": "Quirico, Madrid: See 14 unbiased reviews of Quirico, rated 4.5 of 5 on Tripadvisor and ranked #4,341 of 11,638 restaurants in Madrid.",
+        "title": "Quirico, Madrid - Chamberi - Restaurant Reviews &amp; Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://restaurantguru.com/Quirico-Madrid",
+        "snippet": "All info on Quirico in Madrid - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.",
+        "title": "Quirico in Madrid - Restaurant reviews",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://madridenlos70.blogspot.com/",
+        "snippet": "madrid en los 70 Un niño en el madrid de los 70.Nostalgia de un mundo q se fue y ya no existe; mirando hacia atras..con ternura",
+        "title": "madrid en los 70",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.fr/Restaurant_Review-g187514-d8560617-Reviews-Quirico-Madrid.html",
+        "snippet": "Quirico, Madrid : consultez 14 avis sur Quirico, noté 4,5 sur 5 sur Tripadvisor et classé #4 340 sur 11 639 restaurants à Madrid.",
+        "title": "Quirico, Madrid - Chamberí - Restaurant Avis &amp; Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://blogs.elconfidencial.com/espana/desde-san-quirico/2/",
+        "snippet": "&gt; Desde San Quirico. Madrid Cataluña Andalucía Comunidad Valenciana País Vasco Galicia. No pido perdón Han pasado los años y, al ver la actuación de algunos, pienso que en el mundo se ha ...",
+        "title": "Blog de Leopoldo Abadía - Desde San Quirico",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.it/Restaurant_Review-g187514-d8560617-Reviews-Quirico-Madrid.html",
+        "snippet": "Quirico, Madrid: su Tripadvisor trovi 15 recensioni imparziali su Quirico, con punteggio 4,5 su 5 e al n.4.351 su 11.659 ristoranti a Madrid.",
+        "title": "QUIRICO, Madrid - Chamberí - Ristorante Recensioni &amp; Foto ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.laslibreriasrecomiendan.com/kirico/",
+        "snippet": "23 de enero, 2020 | Por kirico. Los libros de ficción infantil y juvenil más vendidos de 2019 Si hace unos días dábamos a conocer la lista de los 15 libros ilustrados más vendidos de 2019, hoy os...",
+        "title": "Kirico - Las Librerías Recomiendan",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.ca/biz/quirico-madrid",
+        "snippet": "5 reviews of Quirico &quot;I go here at least once a week with my friends and the staff here are some of the kindest people ever. We often go with more than 6 people and they are always so accommodating. Every drink comes with free tapas and you can…",
+        "title": "Quirico - Chamberí - Madrid, Spain - Yelp",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

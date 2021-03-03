@@ -1,0 +1,497 @@
+{
+  "19394": {
+    "url": "https://www.yelp.com/biz/josef-schober-salzburg-gnigl?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Josef Schober",
+    "alias": "josef-schober-salzburg-gnigl",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, Coffee & Tea, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Bachstr. 26",
+    "city_from_postal": "Koppl",
+    "city": "Salzburg-Gnigl",
+    "zip_code": "5023",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+43662660870",
+    "review_count": 1,
+    "snippets": []
+  },
+  "138952": {
+    "url": "https://www.yelp.com/biz/pension-wonnebauer-koppl?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Pension Wonnebauer",
+    "alias": "pension-wonnebauer-koppl",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Arts & Entertainment, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "B null 158",
+    "city_from_postal": "Koppl",
+    "city": "Koppl",
+    "zip_code": "5321",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "326165": {
+    "url": "https://www.yelp.com/biz/gasthaus-rangierbahnhof-salzburg-gnigl?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OGNucC8IDOhi1z8dfGntKA/o.jpg",
+    "name": "Gasthaus Rangierbahnhof",
+    "alias": "gasthaus-rangierbahnhof-salzburg-gnigl",
+    "main_category": "Event Planning & Services",
+    "sub_categories": "Hotels, Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Schillinghofstr. 14",
+    "city_from_postal": "Koppl",
+    "city": "Salzburg-Gnigl",
+    "zip_code": "5023",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+43662642228",
+    "review_count": 1,
+    "snippets": []
+  },
+  "361893": {
+    "url": "https://www.yelp.com/biz/spiceworld-salzburg-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CFBjFiReYz4dccv3_EyIlQ/o.jpg",
+    "name": "Spiceworld",
+    "alias": "spiceworld-salzburg-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Herbs & Spices, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Hannakstr. 3",
+    "city_from_postal": "Koppl",
+    "city": "Salzburg",
+    "zip_code": "5023",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+43662890919",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.spiceworld.at/mein-konto/",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "www.spiceworld.at",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.stayspiced.com/shop/",
+        "snippet": "Liebe zum Detail, ein Gespür für beste Gewürze und die Passion für die beste Verarbeitung der Kräuter &amp; Rohgewürze – das macht eine gute Gewürzmanufaktur aus. Bei Spiceworld - der Heimat von STAY SPICED! - wird jede Dose, die von Hand befüllt und etikettiert wird, noch mit unserer Extraportion Leidenschaft versehen.",
+        "title": "STAY SPICED ! | STAY SPICED! by SPICEWORLD",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.sn.at/wiki/Spiceworld_Gew%C3%BCrzmanufaktur",
+        "snippet": "Die SPICEWORLD Gewürzmanufaktur ist ein Unternehmen aus Salzburg, das sich auf hochwertige Gewürze und Gewürzmischungen ohne Zusatzstoffe, ohne Glutamate und ohne künstliche Aromen spezialisiert hat. Die Spiceworld Gewürzmanufaktur legt neben dem lokalen Gewürzshop den Fokus auf den Online-Verkauf von Gewürzen und Gewürzmischungen für Endverbraucher und Gastronomie.",
+        "title": "Spiceworld Gewürzmanufaktur – Salzburgwiki",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/STAYSPICEDcom/",
+        "snippet": "Stay Spiced by Spiceworld, Salzburg, Austria. 21K likes. STAY SPICED ! by SPICEWORLD Neues Design, neue Verpackung – da wirst du Augen machen! Hier findest du alle Details: www.stayspiced.com...",
+        "title": "Stay Spiced by Spiceworld - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.firmenabc.at/spiceworld-gmbh_IBZA",
+        "snippet": "Zu SPICEWORLD GmbH in Salzburg finden Sie E-Mail Telefonnummer Adresse Fax Homepage sowie Firmeninfos wie UID-Nummer, Firmenbuchnummer, Mitarbeiterzahl, Bankverbindung, Import-Quote, Gesellschafter, Geschäftsführer ‒ eingetragen unter Getränke und Nahrungsmittel / Großhandel, Lebensmittel, Gewürze / Großhandel in Salzburg",
+        "title": "SPICEWORLD GmbH, Salzburg, Salzburg - FirmenABC.at",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.spiceworks.com/spiceworld/",
+        "snippet": "Since 2008, SpiceWorld is where thousands of IT pros and hundreds of tech brands have come to connect, learn from IT experts, and help each other tackle their day. Join us for three days of how-to sessions, networking with peers, and hands-on experiences with the latest IT products and solutions. You&#39;ll ...",
+        "title": "Home - SpiceWorld",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zupermar.com/AT/Salzburg/122527147761115/Stay-Spiced-by-Spiceworld",
+        "snippet": "STAY SPICED ! by SPICEWORLD Neues Design, neue Verpackung – da wirst du Augen machen! Hier findest du alle Details: www.stayspiced.com #stayspiced ? #STAYSPICED – Roland Trettl for SPICEWORLD ? Wie genial ist das denn!?! ? Spitzenkoch, TV-Star &amp; Geschmacks-Experte – das alles verkörpert Roland Trettl.",
+        "title": "Stay Spiced by Spiceworld, Hannakstraße 1, Salzburg (2020)",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.a-list.at/salzburg/essen-trinken/l/spiceworld-gewuerze-shop.html",
+        "snippet": "Die Salzburger Gewürzmanufaktur Spiceworld hat hunderte kreative Reingewürze und Mischungen im Angebot. Ohne künstliche Aromen, Konservierungsmittel und Glutamat. Dafür mit TV-Koch Roland Trettl. von Michael Simmer / 22.01.2019. Willi Pichler hat eine Schwäche für alte Feuerwehrautos und Gewürze.",
+        "title": "Spiceworld Salzburg: Gewürzparadies mit Spitzenkoch - A-List",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.stayspiced.com/",
+        "snippet": "ROLAND TRETTL – In unserer Gewürzmanufaktur in Salzburg werden viele Schritte der Gewürzveredelung per Hand erledigt. So haben wir über die gesamte Produktionskette immer einen Blick auf die herausragende Gewürzqualität!",
+        "title": "STAY SPICED ! by SPICEWORLD &amp; Roland Trettl",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.onleihe.com/salzburg/frontend/welcome%2C51-0-0-100-0-0-1-0-0-0-0.html",
+        "snippet": "Willkommen in der digitalen Stadtbibliothek Salzburg . Wir freuen uns, Ihnen mit der digitalen Stadtbibliothek einen neuen Service zur Ausleihe von elektronischen Medien wie e-books, e-papers, e-audios, e-music und e-videos zu ermöglichen.",
+        "title": "die Virtuelle Bibliothek Salzburg. Startseite",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "422718": {
+    "url": "https://www.yelp.com/biz/gnigler-stubn-salzburg?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TqOZ3HePGzhtCBs-ccg8mA/o.jpg",
+    "name": "Gnigler Stubn",
+    "alias": "gnigler-stubn-salzburg",
+    "main_category": "Event Planning & Services",
+    "sub_categories": "Hotels, Food, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "Linzer Bundesstr. 50a",
+    "city_from_postal": "Koppl",
+    "city": "Salzburg",
+    "zip_code": "5023",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.facebook.com/pages/Gnigler-Stubn/172277009578849",
+        "snippet": "Gnigler Stubn, Salzburg, Austria. 7 likes. Tea Room. Sign up for Facebook today to discover local businesses near you.",
+        "title": "Gnigler Stubn - Salzburg, Austria - Tea Room | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/gnigler-stubn-salzburg",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "www.yelp.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://distancefromnormal.com/2020/03/25/gnigler-stubn-salzburg/",
+        "snippet": "Gnigler Stub’n, Salzburg. Into Salzburg. We get to the Innsbruck station and the train is 137 euros to Salzburg. Faaaaaawk me. It’s only 2 hours from here. Guess these two places are popular. We check on the bus and it’s 87 bucks which is mildly better but it takes over 6 hours.",
+        "title": "Gnigler Stub’n, Salzburg – Distance from Normal",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.gws.at/de/Kompetenzen/Gastronomie",
+        "snippet": "Genau das haben wir an unserem Standort in Salzburg Stadt! Im 1. Stock der GWS befindet sich unsere hauseigene Betriebsküche – der „Gnigler-Kochtopf&quot;. Kochen aus Leidenschaft, mit Spaß und Liebe wird in unserer Betriebsküche großgeschrieben.",
+        "title": "Hervorragendes Mittagessen in Salzburg Gnigl | gws.at",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.herold.at/gelbe-seiten/salzburg/BSrMd/gnigler-st%C3%BCberl/",
+        "snippet": "Gnigler Stüberl in Salzburg - Gasthaus u Gasthof: geprüfte Bewertungen aktuelle Kontaktdaten Öffnungszeiten Anfahrtsweg Ausstattung. Cookies &amp; Websitedaten Diese Website verwendet Cookies - nähere Informationen dazu und zu Ihren Rechten als Benutzer finden Sie in unserer Datenschutzerklärung.",
+        "title": "Gnigler Stüberl in Salzburg | Bewertungen &amp; Infos | HEROLD",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.gnigler-apotheke.at/",
+        "snippet": "Leberfasten nach Dr. Worm. Abnehmen war gestern! Abspecken ist angesagt! Gerade das Fett in der Leber, welches durch zu viele Kohlenhydrate wie Kartoffeln, Reis, Nudeln, Obstsäfte, Smoothies, Süßspeisen etc. entsteht, schädigt unsere Gesundheit.",
+        "title": "gnigler apotheke - natürlich gut beraten | natürlich gut ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=cMQqbclEeac",
+        "snippet": "Salzburg Heute schaut hinter die Kulissen des 43. Gnigler Krampuslaufes, eine der größten Krampusveranstaltungen im Land Salzburg. Die seit 1966 bestehende A...",
+        "title": "Gnigler Krampuslauf - Salzburg Heute 26.11.2016 - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=BJF8RlR9Pi4",
+        "snippet": "46.Gnigler Krampuslauf in Gnigl /Salzburg am 30.11.2019.",
+        "title": "Gnigler Krampuslauf | 2019 | Perchtenlauf | Salzburg - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/goesser.stubn.salzburg",
+        "snippet": "Gösser Stub&#39;n Salzburg, salzburg. 359 likes. die Gösser Stub&#39;n ist das bierige Gasthaus in der Nachbarschaft zur Salzburger Altstadt, Maxglan,...",
+        "title": "Gösser Stub&#39;n Salzburg - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g190441-d2239736-Reviews-Paul_Stube-Salzburg_Austrian_Alps.html",
+        "snippet": "Paul Stube, Salzburg: See 309 unbiased reviews of Paul Stube, rated 4.5 of 5 on Tripadvisor and ranked #42 of 671 restaurants in Salzburg.",
+        "title": "Paul Stube, Salzburg - Menu, Prices &amp; Restaurant Reviews ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "457510": {
+    "url": "https://www.yelp.com/biz/frequency-festival-08-hof-bei-salzburg?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1KOLpuiiQzpZmdu1eylGOw/o.jpg",
+    "name": "frequency festival '08",
+    "alias": "frequency-festival-08-hof-bei-salzburg",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Arts & Entertainment, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Salzburgring",
+    "city_from_postal": "Koppl",
+    "city": "Hof bei Salzburg",
+    "zip_code": "5321",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "",
+    "review_count": 3,
+    "snippets": []
+  },
+  "468314": {
+    "url": "https://www.yelp.com/biz/country-saloon-salzburg?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Country Saloon",
+    "alias": "country-saloon-salzburg",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Schillinghofstr. 19",
+    "city_from_postal": "Koppl",
+    "city": "Salzburg",
+    "zip_code": "5023",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+436644051736",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.facebook.com/pages/Country-Saloon/200937339937273",
+        "snippet": "Country Saloon, Salzburg, Austria. 1.8K likes. American Restaurant. wir vergeben hier 5 Sterne mit Gemütlichkeitsfaktor..... sehr gutes Essen in urig-zeitloser Lokation bei aufmerksamen , flinken und",
+        "title": "Country Saloon - Salzburg, Austria - American Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://restaurant.info/restaurant/country-saloon",
+        "snippet": "Alle Infos zum Restaurant &quot;Country Saloon&quot;, Restaurant in Salzburg, Österreich. Inklusive Beschreibung, Daten, Bilder und Bewertungen.",
+        "title": "Country Saloon | Restaurant in Salzburg",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.at/Restaurant_Review-g190441-d13397950-Reviews-Country_Saloon-Salzburg_Austrian_Alps.html",
+        "snippet": "Country Saloon, Salzburg: 10 Bewertungen - bei Tripadvisor auf Platz 272 von 671 von 671 Salzburg Restaurants; mit 5/5 von Reisenden bewertet. ... Der urig eingerichtetet Country Saloon ist ein super Lokal zum gemütlichen zusammentreffen. Es gibt tolle Steaks, Burger, Salate uvm.",
+        "title": "Country Saloon, Salzburg - Restaurant Bewertungen ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g190441-d13397950-Reviews-Country_Saloon-Salzburg_Austrian_Alps.html",
+        "snippet": "Country Saloon, Salzburg: See 10 unbiased reviews of Country Saloon, rated 5 of 5 on Tripadvisor and ranked #273 of 672 restaurants in Salzburg.",
+        "title": "Country Saloon, Salzburg - Restaurant Reviews &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.salzburg.info/en/travel-info/infos/country-saloon_az_9827",
+        "snippet": "&#39;Country Saloon&#39; scores with a cool location, nice service and a wide range of international dishes.",
+        "title": "Country Saloon : salzburg.info",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://country-saloon.eu/",
+        "snippet": "Country Saloon Řípec je rodinná restaurace, jenž se nachází při hlavní silnici E55. Najdete ji mezi městy Soběslav a Veselí nad Lužnicí. Od 1. března. 2005, kdy byla tato stylová hospůdka otevřena, Vám v ní můžeme nabídnout příjemné posezení, ...",
+        "title": "Country Saloon Řípec - stylová country restaurace",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.oeffnungszeitenbuch.de/filiale/Salzburg-Country%2520Saloon-522276M.html",
+        "snippet": "Heute geöffnet? ÖFFNUNGSZEITEN von „Country Saloon“ in Salzburg Öffnungszeiten heute ☎ Telefonnummer Kontaktdaten Anfahrt ★ Bewertungen. Jetzt ansehen!",
+        "title": "ᐅ Öffnungszeiten „Country Saloon“ | Schillinghofstraße 19 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.ripperl.at/spareribs/spareribs-essen-in-salzburg/country-saloon/",
+        "snippet": "Schillinghofstraße 19 5020 Salzburg Es begab sich, daß ich von freundlichen Kollegen in die Outskirts von Salzburg verschleppt wurde. Dort trifft man völlig unerwartet mitten in der Salzburger Vorstadt auf einen derart waschechten Saloon, nike air max chaussure daß man sein Auto gleich vor dem Lokal an den Pflock binden möchte und ihm Benzin in die Tränke schütten will.",
+        "title": "ripperl.at » Country Saloon",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.tripwolf.com/de/guide/show/138838/Osterreich/Salzburg/Country-Saloon",
+        "snippet": "Country Saloon, Bar in Salzburg, Österreich mit den besten Bewertungen und Fotos für Country Saloon.",
+        "title": "Country Saloon Bar in Salzburg, Österreich Reiseführer ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.at/ShowUserReviews-g190441-d13397950-r689221018-Country_Saloon-Salzburg_Austrian_Alps.html",
+        "snippet": "Country Saloon: Tolles Lokal, ausgezeichnetes Essen - Auf Tripadvisor finden Sie 10 Bewertungen von Reisenden, authentische Reisefotos und Top Angebote für Salzburg, Österreich.",
+        "title": "Tolles Lokal, ausgezeichnetes Essen - Country Saloon ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "470636": {
+    "url": "https://www.yelp.com/biz/sigmund-hofmann-salzburg-gnigl?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Sigmund Hofmann",
+    "alias": "sigmund-hofmann-salzburg-gnigl",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Meat Shops, Bed & Breakfast, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Grazer Bundesstr. 26",
+    "city_from_postal": "Koppl",
+    "city": "Salzburg-Gnigl",
+    "zip_code": "5023",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+43662640687",
+    "review_count": 1,
+    "snippets": []
+  },
+  "616119": {
+    "url": "https://www.yelp.com/biz/d-und-s-salzburg-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "D&S",
+    "alias": "d-und-s-salzburg-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, ",
+    "rating": 3.0,
+    "price": "€",
+    "address": "Langmoosweg  3",
+    "city_from_postal": "Koppl",
+    "city": "Salzburg",
+    "zip_code": "5023",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+436766001454",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g190441-d3411061-Reviews-D_S-Salzburg_Austrian_Alps.html",
+        "snippet": "D&amp;S, Salzburg: Se 21 objektive anmeldelser av D&amp;S, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 302 av 671 restauranter i Salzburg.",
+        "title": "D&amp;S, Salzburg - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://dianaundstephan.com/",
+        "snippet": "Pizzeria D&amp;S • Langmoosweg 3 • A 5023 Salzburg Sam • +43 676 6001454 • dspizzeria@hotmail.com cms by siteuptodate ...",
+        "title": "D&amp;S Pizzeria • Salzburg - Sam",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g190441-d3411061-Reviews-D_S-Salzburg_Austrian_Alps.html",
+        "snippet": "D&amp;S, Salzburg: See 21 unbiased reviews of D&amp;S, rated 4 of 5 on Tripadvisor and ranked #302 of 671 restaurants in Salzburg.",
+        "title": "D&amp;S, Salzburg - Menu, Prices &amp; Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.de/Restaurant_Review-g190441-d3411061-Reviews-D_S-Salzburg_Austrian_Alps.html",
+        "snippet": "D&amp;S, Salzburg: 21 Bewertungen - bei Tripadvisor auf Platz 304 von 672 von 672 Salzburg Restaurants; mit 4/5 von Reisenden bewertet.",
+        "title": "D&amp;S, Salzburg - Menü, Preise &amp; Restaurant Bewertungen ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g190441-d3411061-i59042442-D_S-Salzburg_Austrian_Alps.html",
+        "snippet": "D&amp;S, Salzburg Picture: D&amp;S - Check out Tripadvisor members&#39; 51,085 candid photos and videos of D&amp;S",
+        "title": "D&amp;S - Picture of D&amp;S, Salzburg - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.se/Restaurant_Review-g190441-d3411061-Reviews-D_S-Salzburg_Austrian_Alps.html",
+        "snippet": "D&amp;S, Salzburg: Se 21 objektiva omdömen av D&amp;S, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer304 av 672 restauranger i Salzburg.",
+        "title": "D&amp;S, Salzburg - Omdömen om restauranger - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.dk/Restaurant_Review-g190441-d3411061-Reviews-D_S-Salzburg_Austrian_Alps.html",
+        "snippet": "D&amp;S, Salzburg: Se 21 objektive anmeldelser af D&amp;S, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 302 af 671 restauranter i Salzburg.",
+        "title": "D&amp;S, Salzburg - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pl.tripadvisor.com/Restaurant_Review-g190441-d3411061-Reviews-D_S-Salzburg_Austrian_Alps.html",
+        "snippet": "D&amp;S, Salzburg: zobacz bezstronne recenzje (21 ) na temat D&amp;S, z oceną 4 na 5 w serwisie Tripadvisor, na pozycji 302 z 671 restauracji w Salzburgu.",
+        "title": "D&amp;S, Salzburg - recenzje restauracji - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/dsasia.salzburg/",
+        "snippet": "D&#39;s Asia, Salzburg. 445 likes · 1 talking about this. Salzburg bekommt einen neuen Foodtruck! Ab Führling 2019! Stay tuned!",
+        "title": "D&#39;s Asia - Food Truck - Salzburg, Austria | Facebook - 74 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.sg/LocationPhotoDirectLink-g190441-d3411061-i319463100-D_S-Salzburg_Austrian_Alps.html",
+        "snippet": "D&amp;S, Salzburg Picture: D&amp;S - Check out Tripadvisor members&#39; 51,395 candid photos and videos.",
+        "title": "D&amp;S - Picture of D&amp;S, Salzburg - Tripadvisor",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "624640": {
+    "url": "https://www.yelp.com/biz/pizzeria-rangie-salzburg?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oQW2InfXYqKTaN6wAicycQ/o.jpg",
+    "name": "Pizzeria Rangie",
+    "alias": "pizzeria-rangie-salzburg",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Seafood, Austrian, Italian, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Schillinghofstr. 14",
+    "city_from_postal": "Koppl",
+    "city": "Salzburg",
+    "zip_code": "5023",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+43662642498",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "http://rangie-sbg.at/",
+        "snippet": "Pizzeria Rangie. Herzlich Willkommen in der Trattoria-Pizzeria Rangie! Schillinghofstraße 14, 5023 Salzburg Geschäftsführer Mustafic Fikret",
+        "title": "Pizzeria Rangie Salzburg",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pages/Pizzeria-Rangie/186570451381310",
+        "snippet": "Pizzeria Rangie, Salzburg, Austria. 112 likes. Italian Restaurant",
+        "title": "Pizzeria Rangie - Salzburg, Austria - Italian Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pizzariarangie/",
+        "snippet": "Pizzeria Rangie, Salzburg. 53 likes · 39 talking about this · 40 were here. Steinofenpizza Pasta Mediterrane Küche Hausmannskost Fischspezialitäten Italienische Desserts alle Speisen auch zum mitnehmen",
+        "title": "Pizzeria Rangie - Italian Restaurant - Salzburg, Austria ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurants-g190441-c31-Salzburg_Austrian_Alps.html",
+        "snippet": "Best Pizza in Salzburg, Salzburg Region: Find Tripadvisor traveler reviews of Salzburg Pizza places and search by price, location, and more.",
+        "title": "THE 10 BEST Pizza Places in Salzburg - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.at/Restaurant_Review-g190441-d2660054-Reviews-Rangie-Salzburg_Austrian_Alps.html",
+        "snippet": "Rangie, Salzburg: 52 Bewertungen - bei Tripadvisor auf Platz 209 von 672 von 672 Salzburg Restaurants; mit 4/5 von Reisenden bewertet.",
+        "title": "Rangie, Salzburg - Restaurant Bewertungen, Telefonnummer ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g190441-d2660054-Reviews-or10-Rangie-Salzburg_Austrian_Alps.html",
+        "snippet": "Rangie, Salzburg: See 52 unbiased reviews of Rangie, rated 4 of 5 on Tripadvisor and ranked #209 of 671 restaurants in Salzburg.",
+        "title": "Rangie, Salzburg - Restaurant Reviews, Photos &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.sn.at/wiki/Pizzeria_Rangie",
+        "snippet": "Die Pizzeria Rangie (ehemals Gasthaus Rangierbahnhof) ist eine Pizzeria im Salzburger Stadtteil Gnigl. Sie befindet sich in der Schillinghofstraße, unmittelbar neben dem Rangierbahnhof Gnigl. Inhaltsverzeichnis. Geschichte. Auf einem Bild aus dem Jahr 1904 nennt sich der Wirt schon Gasthaus zum Rangierbahnhof.",
+        "title": "Pizzeria Rangie – Salzburgwiki - Salzburger Nachrichten",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.cylex.at/firma-home/pizzeria+rangie-7565475.html",
+        "snippet": "Pizzeria Rangie SCHILLINGHOFSTR. 14 in Salzburg, ☎ Telefon 0662 642498 mit ⌚ Öffnungszeiten und Anfahrtsplan",
+        "title": "Pizzeria Rangie, Salzburg, SCHILLINGHOFSTR. 14",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.herold.at/gelbe-seiten/salzburg/nPWTb/pizzeria-rangie/",
+        "snippet": "Pizzeria Rangie - Pizzeria in 5023 Salzburg Telefonnummer, Öffnungszeiten, Adresse, Webseite, E-Mail &amp; mehr auf HEROLD.at. Cookies &amp; Websitedaten Diese Website verwendet Cookies - nähere Informationen dazu und zu Ihren Rechten als Benutzer finden Sie in unserer Datenschutzerklärung.",
+        "title": "&quot;Pizzeria Rangie&quot;, &quot;5023 Salzburg&quot;, &quot;Pizzeria&quot; | HEROLD",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://rangie-sbg.at/tag/pizzeria/",
+        "snippet": "Das ehemalige Gasthaus Rangierbahnhof ist heute eine Pizzeria. Seit über 10 Jahren führen wir unseren Familienbetrieb mit Herz und Seele. Genießen Sie mit Ihrer Familie und Freunden unsere frisch zugebereiteten Gerichte in gemütlicher und angenehmer Atmosphäre.",
+        "title": "Pizzeria Archives | Rangie",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

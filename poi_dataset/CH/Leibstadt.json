@@ -1,0 +1,40 @@
+{
+  "82512": {
+    "url": "https://www.yelp.com/biz/rheinkraftwerk-dogern-leibstadt-leibstadt?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/waMH88MNO9bOQJ4VTnOXVQ/o.jpg",
+    "name": "Rheinkraftwerk Dogern/Leibstadt",
+    "alias": "rheinkraftwerk-dogern-leibstadt-leibstadt",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Arts & Entertainment, ",
+    "rating": 4.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Leibstadt",
+    "city": "Leibstadt",
+    "zip_code": "5325",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "555565": {
+    "url": "https://www.yelp.com/biz/pizzeria-l-isola-che-non-c%C3%A8-leibstadt-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Pizzeria L'isola che non c'è",
+    "alias": "pizzeria-l-isola-che-non-cè-leibstadt-2",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Bahnhofstrasse 33",
+    "city_from_postal": "Leibstadt",
+    "city": "Leibstadt",
+    "zip_code": "5325",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41562470138",
+    "review_count": 1,
+    "snippets": []
+  }
+}

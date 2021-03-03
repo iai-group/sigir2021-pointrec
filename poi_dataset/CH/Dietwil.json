@@ -1,0 +1,21 @@
+{
+  "595470": {
+    "url": "https://www.yelp.com/biz/paintballfarm-dietwil?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Lch4jHAS50bSmPx7PXDB3A/o.jpg",
+    "name": "Paintballfarm",
+    "alias": "paintballfarm-dietwil",
+    "main_category": "Active Life",
+    "sub_categories": "Paintball, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Eien 1",
+    "city_from_postal": "Dietwil",
+    "city": "Dietwil",
+    "zip_code": "6042",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41417872233",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "78466": {
+    "url": "https://www.yelp.com/biz/auberge-communale-du-grand-donzel-vessy?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GNVknvzyOw-LbQXb_FSlaw/o.jpg",
+    "name": "Auberge Communale Du Grand Donzel",
+    "alias": "auberge-communale-du-grand-donzel-vessy",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bistros, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Route Antoine Martin 21",
+    "city_from_postal": "Veyrier",
+    "city": "Vessy",
+    "zip_code": "1234",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41227842655",
+    "review_count": 1,
+    "snippets": []
+  }
+}

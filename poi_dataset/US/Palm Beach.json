@@ -1,0 +1,40 @@
+{
+  "404721": {
+    "url": "https://www.yelp.com/biz/jasminj-astrology-palm-beach-garden?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sQOddfYyCrt6U9XkzsaLPw/o.jpg",
+    "name": "JasminJ Astrology",
+    "alias": "jasminj-astrology-palm-beach-garden",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Astrologers, ",
+    "rating": 5.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Palm Beach",
+    "city": "Palm Beach Garden",
+    "zip_code": "33418",
+    "country_code": "US",
+    "state_code": "FL",
+    "phone": "+14759885720",
+    "review_count": 1,
+    "snippets": []
+  },
+  "666829": {
+    "url": "https://www.yelp.com/biz/man-must-wak-oakland-3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tM3LPPXWMr6hZzbb7steFg/o.jpg",
+    "name": "Man Must Wak",
+    "alias": "man-must-wak-oakland-3",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 3.5,
+    "price": "$$",
+    "address": "547 8th St",
+    "city_from_postal": "Palm Beach",
+    "city": "Oakland",
+    "zip_code": "33401",
+    "country_code": "US",
+    "state_code": "CA",
+    "phone": "+15104442841",
+    "review_count": 27,
+    "snippets": []
+  }
+}

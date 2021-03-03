@@ -1,0 +1,21 @@
+{
+  "426333": {
+    "url": "https://www.yelp.com/biz/african-lion-safari-cambridge-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ewdkUPSBfCN2alh-M9Ll9A/o.jpg",
+    "name": "African Lion Safari",
+    "alias": "african-lion-safari-cambridge-2",
+    "main_category": "Active Life",
+    "sub_categories": "Zoos, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "1386 Cooper Road",
+    "city_from_postal": "Cambridge",
+    "city": "Cambridge",
+    "zip_code": "N1R 5S2",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+15196232620",
+    "review_count": 72,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "321534": {
+    "url": "https://www.yelp.com/biz/wildparkwirt-altenfelden?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zUzAwVg0LPsbgXfnlmEtjQ/o.jpg",
+    "name": "Wildparkwirt",
+    "alias": "wildparkwirt-altenfelden",
+    "main_category": "Active Life",
+    "sub_categories": "Zoos, Parks, Hotels, ",
+    "rating": 2.0,
+    "price": "€€",
+    "address": "Atzesberg 7",
+    "city_from_postal": "Altenfelden",
+    "city": "Altenfelden",
+    "zip_code": "4121",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4372825586x0",
+    "review_count": 1,
+    "snippets": []
+  },
+  "653749": {
+    "url": "https://www.yelp.com/biz/wildpark-altenfelden-altenfelden?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DYOGaHbSGqISP0br4D09PA/o.jpg",
+    "name": "Wildpark Altenfelden",
+    "alias": "wildpark-altenfelden-altenfelden",
+    "main_category": "Active Life",
+    "sub_categories": "Zoos, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Atzesberg 8",
+    "city_from_postal": "Altenfelden",
+    "city": "Altenfelden",
+    "zip_code": "4121",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4372825590",
+    "review_count": 1,
+    "snippets": []
+  }
+}

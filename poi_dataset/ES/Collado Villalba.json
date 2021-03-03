@@ -1,0 +1,21 @@
+{
+  "254480": {
+    "url": "https://www.yelp.com/biz/stroganov-collado-villalba?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hM0Iku2ffxtfMB8d6bjRYQ/o.jpg",
+    "name": "Stroganov",
+    "alias": "stroganov-collado-villalba",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Russian, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Calle Islas Cies, 2",
+    "city_from_postal": "Collado Villalba",
+    "city": "Collado Villalba",
+    "zip_code": "28400",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34918510159",
+    "review_count": 1,
+    "snippets": []
+  }
+}

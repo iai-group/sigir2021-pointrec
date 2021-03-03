@@ -1,0 +1,1205 @@
+{
+  "18848": {
+    "url": "https://www.yelp.com/biz/restaurant-au-vieux-duluth-qu%C3%A9bec-6?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BGAWCU6hBZ82dOeP_UahyA/o.jpg",
+    "name": "Restaurant Au Vieux Duluth",
+    "alias": "restaurant-au-vieux-duluth-québec-6",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "French, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "5079 Boul Wilfrid-Hamel",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "Quebec City",
+    "zip_code": "G2E 5G3",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188717070",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g155033-d953096-Reviews-Au_Vieux_Duluth-Quebec_City_Quebec.html",
+        "snippet": "Au Vieux Duluth, Quebec City: See 63 unbiased reviews of Au Vieux Duluth, rated 3.5 of 5 on Tripadvisor and ranked #469 of 1,426 restaurants in Quebec City.",
+        "title": "AU VIEUX DULUTH, Quebec City - 5079 boul Wilfrid-Hamel ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d14989519-Reviews-Au_Vieux_Duluth-Quebec_City_Quebec.html",
+        "snippet": "Order food online at Au Vieux Duluth, Quebec City with Tripadvisor: See 3 unbiased reviews of Au Vieux Duluth, ranked #773 on Tripadvisor among 1,426 restaurants in Quebec City.",
+        "title": "Au Vieux Duluth, Quebec City - 5401 Boulevard Des Galeries ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g155033-d953096-Au_Vieux_Duluth-Quebec_City_Quebec.html",
+        "snippet": "Restaurants near Au Vieux Duluth, Quebec City on Tripadvisor: Find traveler reviews and candid photos of dining near Au Vieux Duluth in Quebec City, Quebec.",
+        "title": "Restaurants Near Au Vieux Duluth, Quebec City - TripAdvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/RestaurantsNear-g155033-d953096-Au_Vieux_Duluth-Quebec_City_Quebec.html",
+        "snippet": "Restaurants near Au Vieux Duluth, Quebec City on Tripadvisor: Find traveller reviews and candid photos of dining near Au Vieux Duluth in Quebec City, Quebec.",
+        "title": "The 10 Best Restaurants Near Au Vieux Duluth, Quebec City ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g155033-d4873760-Reviews-Restaurant_Au_Vieux_Duluth-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Au Vieux Duluth, Quebec City: See 14 unbiased reviews of Restaurant Au Vieux Duluth, rated 3.5 of 5 on Tripadvisor and ranked #680 of 1,427 restaurants in Quebec City.",
+        "title": "RESTAURANT AU VIEUX DULUTH, Quebec City - 371 Rue Soumande ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://auvieuxduluth.com/en/",
+        "snippet": "Au Vieux Duluth, the best Bring your own wine (BYOW) or beer Greek restaurants. The restaurant chain operate in Quebec and Ontario.",
+        "title": "Best Greek Restaurants | Bring Your Own Wine - Au Vieux Duluth",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://auvieuxduluth.com/menu-quebec-apportez-votre-vin/",
+        "snippet": "Au Vieux Duluth, le menu du meilleur restaurant grec Apportez votre vin ou votre bière au Québec. Venez déguster nos grillades et fruits de mer en famille ou entre amis!",
+        "title": "Menu Québec - Restaurant Au Vieux Duluth",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.se/Restaurant_Review-g155033-d953096-Reviews-Au_Vieux_Duluth-Quebec_City_Quebec.html",
+        "snippet": "Au Vieux Duluth, Quebec: Se 63 objektiva omdömen av Au Vieux Duluth, som fått betyg 3,5 av 5 på Tripadvisor och rankas som nummer469 av 1 427 restauranger i Quebec.",
+        "title": "AU VIEUX DULUTH, Quebec - Omdömen om restauranger ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pl.tripadvisor.com/Restaurant_Review-g155033-d953096-Reviews-Au_Vieux_Duluth-Quebec_City_Quebec.html",
+        "snippet": "Au Vieux Duluth, Quebec: zobacz bezstronne recenzje (63 ) na temat Au Vieux Duluth, z oceną 3,5 na 5 w serwisie Tripadvisor, na pozycji 469 z 1 428 restauracji w Quebecu.",
+        "title": "Au Vieux Duluth, Quebec - recenzje restauracji - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.dk/RestaurantsNear-g155033-d953096-Au_Vieux_Duluth-Quebec_City_Quebec.html",
+        "snippet": "Restauranter i nærheden af Au Vieux Duluth i Quebec City på Tripadvisor: Find anmeldelser fra rejsende og personlige billeder af spisesteder i nærheden af Au Vieux Duluth i Quebec City, Canada.",
+        "title": "Restauranter i nærheden af Au Vieux Duluth på 5079 boul ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "25000": {
+    "url": "https://www.yelp.com/biz/castello-l-ancienne-lorette?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nxtkvSMzkIZ4sRlKHvd3ow/o.jpg",
+    "name": "Castello",
+    "alias": "castello-l-ancienne-lorette",
+    "main_category": "Active Life",
+    "sub_categories": "Toy Stores, Playgrounds, ",
+    "rating": 5.0,
+    "price": "$$",
+    "address": "1263, Avenue Jules-Verne",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "L'Ancienne-Lorette",
+    "zip_code": "G2E 6L6",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14183804666",
+    "review_count": 1,
+    "snippets": []
+  },
+  "117855": {
+    "url": "https://www.yelp.com/biz/centre-hyperactif-qu%C3%A9bec?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uvwhBIDdH5gxjwzjBKfbew/o.jpg",
+    "name": "Centre Hyperactif",
+    "alias": "centre-hyperactif-québec",
+    "main_category": "Active Life",
+    "sub_categories": "Gyms, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "1400 Avenue Saint Jean Baptiste",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "Quebec City",
+    "zip_code": "G2E 5B7",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14189535720",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://centrehyperactif.com/",
+        "snippet": "Le Centre Hyperactif n’est pas un gym auquel on s’inscrit pour se donner bonne conscience et où on va en traînant les pieds : c’est le lieu de rencontre des athlètes confirmés et des sportifs du dimanche qui ont en commun une volonté de se dépasser et de faire compter chaque minute d’entraînement.",
+        "title": "Centre Hyperactif — Votre Gym à Québec",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.quebec-cite.com/en",
+        "snippet": "Québec City is totally transformed by the changing seasons, so it depends what kind of experience you’re looking for. Spring, summer, fall, winter: each brings its vibe and its own activities.",
+        "title": "Québec City Tourism Website | All the Best Things to Do",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.ville.quebec.qc.ca/en/",
+        "snippet": "Quebec City - Official Quebec City Website COVID-19 - Suivez l&#39;état de situation concernant les services municipaux et les consignes aux citoyens. Plus d&#39;informations",
+        "title": "Quebec City - Official Quebec City Website",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/ca/bw-city-centre.html",
+        "snippet": "Best Western Plus Centre-ville/City Centre Québec This neighborhood is a great choice for travelers interested in city walks, architecture and old-town exploration – Check location 330 Rue de la Couronne, Saint-Roch, G1K6E6 Quebec City, Canada – This neighborhood is a great choice for travelers interested in city walks, architecture and old-town exploration – Check location Great ...",
+        "title": "Hotel Plus City Centre, Quebec City, Canada - Booking.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Islamic_Cultural_Centre_of_Quebec_City",
+        "snippet": "History. The Islamic Cultural Centre of Quebec City was founded in 1985 at Université Laval.Its stated mission is &quot;to work proactively to help the Muslim community grow and flourish spiritually, socially, and economically as well as to provide services that properly consider the specific Muslim identity of its members and promote their integration into Quebec society.&quot;",
+        "title": "Islamic Cultural Centre of Quebec City - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.ville.quebec.qc.ca/en/touristes/index.aspx",
+        "snippet": "Québec City Tourism. Find comprehensive Québec City and area tourist information on the Québec City Tourism website. or at 1-877-783-1608. Free wireless Internet connection. Thanks to ZAP Québec, the Québec region has several access points throughout the city. Promo. Discover many sides of Québec City.",
+        "title": "Ville de Québec - Tourists - Quebec City",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.quebec-cite.com/en/old-quebec-city",
+        "snippet": "The ultimate guide to discover Old Québec, a UNESCO World Heritage treasure. Find out what to do and where to go in the only fortified city north…",
+        "title": "Explore Old Québec City | All the Best Things to Do",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/HotelsList-Quebec_City-Downtown-Hotels-zfp10838239.html",
+        "snippet": "Downtown Quebec City Hotels: Find 48714 traveller reviews, candid photos, and the top ranked City Center Hotels in Quebec City on Tripadvisor. Flights ... “ Along the route to the city centre are some major tourist attractions including the Plains of Abraham, ...",
+        "title": "The 10 Best Downtown Quebec City Hotels 2020 (with UPDATED ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/List_of_population_centres_in_Quebec",
+        "snippet": "A municipality may also not be classified as a population centre at all, but may simply be part of another municipality&#39;s population centre. Accordingly, do not confuse this list with List of municipalities in Quebec, which lists all municipalities by their actual municipal populations.",
+        "title": "List of population centres in Quebec - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Hotels-g155033-Quebec_City_Quebec-Hotels.html",
+        "snippet": "Book the Best Quebec City Hotels on Tripadvisor: Find 46,648 traveller reviews, 24,791 candid photos, and prices for hotels in Quebec City, Quebec, Canada.",
+        "title": "THE 10 BEST Hotels in Quebec City for 2020 (from C$66 ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "168309": {
+    "url": "https://www.yelp.com/biz/centre-d-amusement-carie-factory-l-ancienne-lorette?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Centre d'amusement Carie Factory",
+    "alias": "centre-d-amusement-carie-factory-l-ancienne-lorette",
+    "main_category": "Active Life",
+    "sub_categories": "Playgrounds, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "1345 Rte de l'Aéroport",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "L'Ancienne-Lorette",
+    "zip_code": "G2E",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14183801010",
+    "review_count": 1,
+    "snippets": []
+  },
+  "201678": {
+    "url": "https://www.yelp.com/biz/mcdonalds-l-ancienne-lorette?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zqv6oP_VbyADpJDiSSiLEQ/o.jpg",
+    "name": "McDonald's",
+    "alias": "mcdonalds-l-ancienne-lorette",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fast Food, Burgers, Coffee & Tea, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "6565, Boul Wilfrid-Hamel",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "L'Ancienne-Lorette",
+    "zip_code": "G2E 5W3",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188715866",
+    "review_count": 1,
+    "snippets": []
+  },
+  "226780": {
+    "url": "https://www.yelp.com/biz/chez-victor-ville-de-qu%C3%A9bec?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eyv83ZKHwF_C2_UygJK4Bw/o.jpg",
+    "name": "Chez Victor",
+    "alias": "chez-victor-ville-de-québec",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Canadian (New), Burgers, Poutineries, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "5050 Boulevard Wilfrid-Hamel",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "Ville de Québec",
+    "zip_code": "G2E 5X5",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14186518187",
+    "review_count": 7,
+    "snippets": []
+  },
+  "244686": {
+    "url": "https://www.yelp.com/biz/motel-le-luxembourg-enr-l-ancienne-lorette?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Motel Le Luxembourg Enr",
+    "alias": "motel-le-luxembourg-enr-l-ancienne-lorette",
+    "main_category": "Nightlife",
+    "sub_categories": "Hotels, Nightlife, ",
+    "rating": 3.0,
+    "price": "$$",
+    "address": "6001 Boul Wilfrid-Hamel",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "L'ancienne-Lorette",
+    "zip_code": "G2E 2H3",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188725078",
+    "review_count": 1,
+    "snippets": []
+  },
+  "292325": {
+    "url": "https://www.yelp.com/biz/tim-hortons-l-ancienne-lorette?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HC5zQvFe1cI_9UNS4dO8SA/o.jpg",
+    "name": "Tim Hortons",
+    "alias": "tim-hortons-l-ancienne-lorette",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, Donuts, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "1225 Aut Duplessis",
+    "city_from_postal": "Quebec",
+    "city": "L'Ancienne-Lorette",
+    "zip_code": "G2G 2B4",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188770989",
+    "review_count": 2,
+    "snippets": []
+  },
+  "318183": {
+    "url": "https://www.yelp.com/biz/r%C3%A9cr%C3%A9ofun-l-ancienne-lorette?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yeWKSE2dGSNNrtKuuhtRtg/o.jpg",
+    "name": "RécréOFUN",
+    "alias": "récréofun-l-ancienne-lorette",
+    "main_category": "Active Life",
+    "sub_categories": "Indoor Playcentre, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "1289 Avenue Jules-Verne",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "L'Ancienne-Lorette",
+    "zip_code": "G2E 6L6",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14189776386",
+    "review_count": 1,
+    "snippets": []
+  },
+  "327423": {
+    "url": "https://www.yelp.com/biz/club-de-golf-metropolitain-qu%C3%A9bec-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Club de Golf Metropolitain",
+    "alias": "club-de-golf-metropolitain-québec-2",
+    "main_category": "Active Life",
+    "sub_categories": "Golf, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "5136 Boulevard Chauveau O",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "Quebec City",
+    "zip_code": "G2E 1A2",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188729292",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.golfmetropolitain.com/",
+        "snippet": "Golf Metropolitain Québec à quelques minutes du centre ville. Étant donné la situation de la COVID- 19, nous sommes dans l&#39;obligation de suspendre temporairement nos activités.",
+        "title": "Golf Metropolitain Québec",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g155032-d556652-oa30-Club_de_Golf_Metropolitain-Montreal_Quebec.html",
+        "snippet": "Restaurants near Club de Golf Metropolitain, Montreal on Tripadvisor: Find traveler reviews and candid photos of dining near Club de Golf Metropolitain in Montreal, Quebec.",
+        "title": "Restaurants Near Club de Golf Metropolitain, Montreal, Quebec",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.golfmetropolitainanjou.com/",
+        "snippet": "© Copyright - Club de Golf Metropolitain Anjou - Website by Chronogolf. Facebook; Instagram; Scroll to top",
+        "title": "Club de Golf Metropolitain Anjou",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/golf-courses/club-de-golf-le-montmorency-12838171",
+        "snippet": "Club de golf Le Montmorency. This golf club was founded in 1963 on a portion of the former Québec Golf Club site. The property straddles the Rivière Montmorency. One course built on the site of a",
+        "title": "Club de golf Le Montmorency - Québec City - Québec Original",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.ca/biz/club-de-golf-metropolitain-qu%C3%A9bec-2",
+        "snippet": "Club de Golf Metropolitain in Quebec City, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Quebec City and beyond.",
+        "title": "Club de Golf Metropolitain - Quebec City, QC - yelp.ca",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.golfmetropolitainanjou.com/contact/",
+        "snippet": "Club de Golf Métropolitain Anjou 9555, boulevard du Golf Anjou, Quebec H1J 2Y2. ... Golf Course. Gaétan Cloutier, Superintendent. Opening Hours. Administration: Monday to Thursday from 8 :00 a.m. to 5:00 p.m. ... Club de Golf Metropolitain Anjou - Website by Chronogolf. Facebook;",
+        "title": "Contact – Club de Golf Metropolitain Anjou",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.golfmetropolitainanjou.com/fr/",
+        "snippet": "© Copyright - Club de Golf Metropolitain Anjou - Site Internet par Chronogolf. Facebook; Faire défiler vers le haut",
+        "title": "Club de Golf Metropolitain Anjou",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/golf-courses/club-de-golf-metropolitain-9308336",
+        "snippet": "Club de golf Métropolitain. These magnificent courses—a nine-hole, par 36 and a nine-hole, par 27-along with a practice range, are just 10 minutes from downtown Québec City.Course: 9 holes - 2 890",
+        "title": "Club de golf Métropolitain - Québec City | Golf courses ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.golfmetropolitain.com/tarifs",
+        "snippet": "Étant donné le contexte de la covid 19, nos opérations sont suspendues jusqu&#39;à nouvel ordre du gouvernement. Nous sommes en contact régulier avec notre association de golf et nous vous communiqueront les nouvelles procédures et dates d&#39;ouvertures prochainement..",
+        "title": "Tarifs | golf - Golf Metropolitain Québec",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.quebecoriginal.com/en-us/listing/things-to-do/sports-and-nature/golf-courses/club-de-golf-orleans-9267137",
+        "snippet": "Club de golf Orléans. Play golf in an enchanting site, a few kilometres away from Québec City, in what may have been the oldest golf course in North America. Open to the public by reservation.Course:",
+        "title": "Club de golf Orléans - Sainte-Pétronille | Golf courses ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "353117": {
+    "url": "https://www.yelp.com/biz/royal-24-restaurant-qu%C3%A9bec?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kzEUOoSUw9e3yRTAvicP1A/o.jpg",
+    "name": "Royal 24 Restaurant",
+    "alias": "royal-24-restaurant-québec",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Canadian (New), ",
+    "rating": 3.5,
+    "price": "$$",
+    "address": "5237 Boulevad Wilfrid-Hamel",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "Quebec City",
+    "zip_code": "G2E 5M7",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188721221",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.restaurantroyal24.com/",
+        "snippet": "Au Restaurant Royal 24, nous nous engageons à offrir à la population locale et aux visiteurs de Québec la cuisine italienne la plus mémorable! Notre mission est d’offrir des repas frais exceptionnels qui regorgent de saveur! Afin de vous livrer des plats aussi frais et savoureux, ...",
+        "title": "Restaurant Royal 24 | Meilleur restaurant italien à Québec",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g155033-d980504-r148941257-Restaurant_Royal_24-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Royal 24: Royal 24, you rock! - See 12 traveler reviews, candid photos, and great deals for Quebec City, Canada, at Tripadvisor.",
+        "title": "Royal 24, you rock! - Review of Restaurant Royal 24 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr.tripadvisor.ca/Restaurant_Review-g155033-d980504-Reviews-Restaurant_Royal_24-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Royal 24, Québec (ville) : consultez 12 avis sur Restaurant Royal 24, noté 4 sur 5 sur Tripadvisor et classé #703 sur 1 426 restaurants à Québec (ville).",
+        "title": "Restaurant Royal 24, Québec (ville) - Avis restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr.tripadvisor.ca/ShowUserReviews-g155033-d980504-r120935280-Restaurant_Royal_24-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Royal 24: Manger à bon prix avec un sevice remarquable - consultez 12 avis de voyageurs, photos, les meilleures offres et comparez les prix pour Québec (ville), Canada sur Tripadvisor.",
+        "title": "Manger à bon prix avec un sevice... - Restaurant Royal 24",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ville-de-quebec.cdncompanies.com/restaurant/restaurant-royal-24-ville-de-quebec/",
+        "snippet": "Restaurant Royal 24, Restaurant in Ville de Québec, Québec, 5237 Boulevard Wilfrid-Hamel, Ville de Québec, QC G2E 2H2 – Hours of Operation &amp; Customer Reviews.",
+        "title": "Restaurant Royal 24 - Hours &amp; Reviews - 5237 Boulevard ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurants-g155033-Quebec_City_Quebec.html",
+        "snippet": "Dining in Quebec City, Quebec: See 122,358 Tripadvisor traveller reviews of 1,486 Quebec City restaurants and search by cuisine, price, location, and more.",
+        "title": "THE 10 BEST Restaurants in Quebec City Updated April 2020 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Hotel_Review-g155033-d263220-Reviews-Hotel_Palace_Royal-Quebec_City_Quebec.html",
+        "snippet": "Luxurious setting filled with contemporary accents, central courtyard with swimming pool, indoor parking lot, Restaurant Beffroi Steak House within the hotel, privileged location right next to the d’Youville Place and the St. Jean Door, and more: Hotel Palace Royal provides an ideal setting for a fulfilling stay in Quebec City.",
+        "title": "Hotel Palace Royal, Quebec/Quebec City - TripAdvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Hotel_Review-g155033-d1165043-Reviews-L_Hotel_Port_Royal-Quebec_City_Quebec.html",
+        "snippet": "Now $90 (Was $̶1̶5̶3̶) on Tripadvisor: L&#39;Hotel Port-Royal, Quebec. See 1,094 traveler reviews, 555 candid photos, and great deals for L&#39;Hotel Port-Royal, ranked #25 of 104 hotels in Quebec and rated 4 of 5 at Tripadvisor.",
+        "title": "L&#39;Hotel Port-Royal, Quebec/Quebec City - TripAdvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d1140130-Reviews-Restaurant_Beffroi_Steak_House-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Beffroi Steak House, Quebec City: See 347 unbiased reviews of Restaurant Beffroi Steak House, rated 4 of 5 on Tripadvisor and ranked #192 of 1,426 restaurants in Quebec City.",
+        "title": "Restaurant Beffroi Steak House, Quebec City - Downtown ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yellowpages.ca/search/si/1/Restaurant-Royal-24/Quebec+QC",
+        "snippet": "Locate and compare Restaurant-Royal-24 in Quebec QC, Yellow Pages Local Listings. Find useful information, the address and the phone number of the local business you are looking for.",
+        "title": "Restaurant-Royal-24 in Quebec QC | YellowPages.ca™",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "362730": {
+    "url": "https://www.yelp.com/biz/restaurant-thien-kim-2002-l-ancienne-lorette?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8RWZ-fIFtB6iWYelfJS7ZQ/o.jpg",
+    "name": "Restaurant Thien Kim 2002",
+    "alias": "restaurant-thien-kim-2002-l-ancienne-lorette",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Vietnamese, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "1579 Rue Notre-Dame",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "L'ancienne-Lorette",
+    "zip_code": "G2E 3B4",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188726889",
+    "review_count": 1,
+    "snippets": []
+  },
+  "373331": {
+    "url": "https://www.yelp.com/biz/le-bif-steakhouse-qu%C3%A9bec-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/v_Q1vXkTAZrJ3QQKWpn4pg/o.jpg",
+    "name": "Le Bif Steakhouse",
+    "alias": "le-bif-steakhouse-québec-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Steakhouses, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "5050, Boul. Wilfrid-Hamel",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "Quebec City",
+    "zip_code": "G2E 5X5",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188711717",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://fr.yelp.ca/biz/le-bif-steakhouse-qu%C3%A9bec-2",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "fr.yelp.ca",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurants-g155033-c37-Quebec_City_Quebec.html",
+        "snippet": "Best Steakhouses in Quebec City, Quebec: Find Tripadvisor traveler reviews of Quebec City Steakhouses and search by cuisine, price, location, and more.",
+        "title": "THE 10 BEST Steakhouses in Quebec City - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g155033-d1140130-Reviews-Restaurant_Beffroi_Steak_House-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Beffroi Steak House, Quebec City: See 347 unbiased reviews of Restaurant Beffroi Steak House, rated 4 of 5 on Tripadvisor and ranked #189 of 1,426 restaurants in Quebec City. ... Les_Hotels_JARO, Responsable des relations clients at Restaurant Beffroi Steak House, ...",
+        "title": "RESTAURANT BEFFROI STEAK HOUSE, Quebec City - Downtown ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurants-g155033-c37-Quebec_City_Quebec.html",
+        "snippet": "Best Steakhouses in Quebec City, Quebec: Find Tripadvisor traveller reviews of Quebec City Steakhouses and search by price, location, and more. Quebec City. Quebec City Tourism Quebec City Hotels ... Restaurant Beffroi Steak House. 347 reviews Closed Now. Steakhouse, Canadian $$$$ Menu",
+        "title": "THE 10 BEST Steakhouses in Quebec City, Updated April 2020 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d703153-Reviews-Charbon_Steakhouse-Quebec_City_Quebec.html",
+        "snippet": "Charbon Steakhouse, Quebec City: See 412 unbiased reviews of Charbon Steakhouse, rated 4 of 5 on Tripadvisor and ranked #126 of 1,427 restaurants in Quebec City. ... We had dinner here 1 night, it is located inside the Via rail station not far from the Hotel Le Saint Paul.",
+        "title": "Charbon Steakhouse, Quebec City - Downtown Quebec City ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.beffroisteakhouse.com/grillades.php",
+        "snippet": "Situé à quelques pas de la porte Saint-Jean et en plein cœur du Vieux-Québec, le Restaurant Beffroi Steak House maîtrise l&#39;art de la cuisson sur charbon de bois d&#39;érable et comble les amateurs de grillades et de fruits de mer depuis plusieurs années. En effet, notre restaurant s&#39;est vu décerner plusieurs mentions telles que «Prix du public» et «Grande Distinction» au Gala de la ...",
+        "title": "Restaurant Beffroi Steak House - Grillades",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://labete.ca/",
+        "snippet": "Le Steakhouse authentique . Depuis 10 ans, La Bête est le repère des amateurs de viande de la ville de Québec et d’ailleurs. Animé par des artisans bouchers et passionnés de gastronomie, le Steakhouse offre une carte impressionnante pour les carnivores connaisseurs. Notre motto : qualité, goût, opulence et convivialité.",
+        "title": "La Bête Bar-Steakhouse | Viandes vieillies de qualité AAA",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr.tripadvisor.ca/Restaurants-g155033-c37-Quebec_City_Quebec.html",
+        "snippet": "Restaurants - cuisine Steakhouse à Québec (ville), Québec : lisez sur Tripadvisor des avis sur Québec (ville) restaurants, recherchez par prix, quartier, etc.",
+        "title": "10 Meilleurs steakhouses à Québec (ville) sur Tripadvisor ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g155033-d1895973-Reviews-La_Bete_Bar_Steakhouse-Quebec_City_Quebec.html",
+        "snippet": "La Bete Bar Steakhouse, Quebec by: Se 291 objektive anmeldelser av La Bete Bar Steakhouse, vurdert til 4 av 5 på TripAdvisor og vurdert som nr. 84 av 1 418 restauranter i Quebec by.",
+        "title": "La Bete Bar Steakhouse, Quebec by - TripAdvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://charbonsteakhouse.com/",
+        "snippet": "Chers clients, Le restaurant Charbon Steakhouse étant fermé temporairement en raison de la crise de la Covid19, nous tenons à vous aviser que la Boucherie du Charbon demeure ouverte au 5700, boulevard des Galeries dans le quartier Lebourgneuf.De plus, nous sommes, maintenant ouverts le mercredi de 10h à 18h.",
+        "title": "Charbon Steakhouse - Grillades à Québec | Restaurant",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "397447": {
+    "url": "https://www.yelp.com/biz/normandin-qu%C3%A9bec-8?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/i2kxGFv0ieIv9ReE8rk-0w/o.jpg",
+    "name": "Normandin",
+    "alias": "normandin-québec-8",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Sandwiches, Fast Food, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "5146 Boulevard Wilfrid-Hamel",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "Quebec City",
+    "zip_code": "G2E 2G9",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188771192",
+    "review_count": 4,
+    "snippets": [
+      {
+        "url": "https://hotelnormandin.com/en/",
+        "snippet": "Located only a five-minute drive from the Old City and from the Parc de la Chute-Montmorency, the N Hôtel Québec offers you affordable and comfortable accommodation. In addition to discover renovated rooms without carpet, get a 20% breakfast discount at the Restaurant Normandin’ located on the hotel’s site.",
+        "title": "Les Hôtels Normandin | 2 hotels in Québec City and 1 hotel ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://restaurantnormandin.com/",
+        "snippet": "Pour un déjeuner en famille ou une soirée au bar pour un match de sport, les restaurants Normandin offrent un menu varié et un rapport qualité-prix. Un menu varié, un service amical et un rapport qualité / prix, sont les principaux ingrédients qui font le succès de Normandin.",
+        "title": "Pizza, restaurant familial et bar sportif | Normandin - Nbar",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d5110225-Reviews-Normandin-Quebec_City_Quebec.html",
+        "snippet": "Normandin, Quebec City: See 82 unbiased reviews of Normandin, rated 3.5 of 5 on Tripadvisor and ranked #415 of 1,426 restaurants in Quebec City.",
+        "title": "Normandin, Quebec City - 5146 Wilfrid-Hamel Ouest ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://hotelnormandin.com/en/home-hotel-et-suites-normandin-quebec/",
+        "snippet": "Centrally located near Les Galeries de la Capitale, the Videotron Centre and Old Québec, the Hôtel &amp; Suites Normandin Québec City offers you 136 cozy rooms and suites. For your business meetings, multiple small well-equipped meeting rooms are also available. Enjoy a delicious meal at the restaurant Normandin open 24 hours, on the hotel’s site.",
+        "title": "Hôtel et suites Normandin | Hotel in Quebec City",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g155033-d10674426-Reviews-Normandin-Quebec_City_Quebec.html",
+        "snippet": "Normandin, Quebec by: Se 12 objektive anmeldelser av Normandin, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 1 126 av 1 426 restauranter i Quebec by.",
+        "title": "Normandin, Quebec by - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Hotel_Review-g155033-d186661-Reviews-Hotel_Suites_Normandin_Quebec-Quebec_City_Quebec.html",
+        "snippet": "Book Hotel &amp; Suites Normandin Quebec, Quebec City on Tripadvisor: See 793 traveller reviews, 269 candid photos, and great deals for Hotel &amp; Suites Normandin Quebec, ranked #22 of 104 hotels in Quebec City and rated 4.5 of 5 at Tripadvisor.",
+        "title": "Hotel &amp; Suites Normandin Quebec - UPDATED 2020 Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d10674426-Reviews-Normandin-Quebec_City_Quebec.html",
+        "snippet": "Normandin, Quebec City: See 12 unbiased reviews of Normandin, rated 3 of 5 on Tripadvisor and ranked #1,126 of 1,426 restaurants in Quebec City.",
+        "title": "Normandin, Quebec City - 2600 Boulevard Laurier - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Normandin,_Quebec",
+        "snippet": "Normandin is a city located on the west side of Lac Saint-Jean in the Canadian province of Quebec.. Normandin is named after the surveyor Joseph-Laurent Normandin. Its history of European-Canadian settlement began in 1878 when the first pioneers arrived. Alphonse Laliberté was elected as Normandin&#39;s first mayor in 1890.",
+        "title": "Normandin, Quebec - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/ca/suites-normandin-qc.en-gb.html",
+        "snippet": "Only 15 minutes&#39; drive to Old Québec, this hotel is located in the center of Québec City, close to many area motorways. Free WiFi is provided. A flat-screen TV, fridge and coffee machine are included in all rooms. With a free continental breakfast and a modern fitness centre, every stay at the Normandin is sure to be enjoyable.",
+        "title": "Hôtel &amp; Suites Normandin Québec, Quebec City – Updated ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://restaurantnormandin.com/en/",
+        "snippet": "Normandin Hotels are renowned for their unbeatable value and an unforgettable getaway in Québec City. Discover. Foundation Normand Brie. The Foundation’s mission is to support motivated people to surpass themselves—despite all obstacles.",
+        "title": "Pizza, family restaurant and sports bar | Normandin - Nbar",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "397882": {
+    "url": "https://www.yelp.com/biz/tim-hortons-qu%C3%A9bec-11?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Tim Hortons",
+    "alias": "tim-hortons-québec-11",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Donuts, Coffee & Tea, ",
+    "rating": 2.0,
+    "price": "$$",
+    "address": "4142 Blvd Chauveau Ouest",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "Quebec City",
+    "zip_code": "G2E 5A6",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188618585",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://locations.timhortons.com/ca/qc/quebec-city.html",
+        "snippet": "Browse all Tim Hortons - Temporarily Closed in Quebec City for great-tasting, freshly-brewed coffee. Try our lattes, cappuccinos, espresso, hot chocolate and tea.",
+        "title": "Tim Hortons All Locations in Quebec City",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d5260111-Reviews-Tim_Hortons-Quebec_City_Quebec.html",
+        "snippet": "Tim Hortons, Quebec City: See 124 unbiased reviews of Tim Hortons, rated 4 of 5 on Tripadvisor and ranked #220 of 1,428 restaurants in Quebec City. ... This Tim Horton&#39;s was steps from our hotel so it was easy getting our morning coffee and pastry. Also had one of their breakfast sandwiches - good.",
+        "title": "Tim Hortons, Quebec City - 48 Cote-Du-Palais - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://locations.timhortons.com/ca/qc/quebec.html",
+        "snippet": "Browse all Tim Hortons - Temporarily Closed in Quebec for great-tasting, freshly-brewed coffee. Try our lattes, cappuccinos, espresso, hot chocolate and tea.",
+        "title": "All Tim Hortons - Temporarily Closed Locations in Quebec ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://locations.timhortons.com/ca/qc/quebec-city/2377-ch-ste-foy.html",
+        "snippet": "Located at 2377 Ch Ste-foy, Quebec City, QC, Tim Hortons is the perfect place to go for great-tasting, freshly brewed coffee. Our coffee is made with 100% Arabica beans, sourced from the world&#39;s most renowned growing regions.",
+        "title": "Tim Hortons in 2377 Ch Ste-foy Quebec City, QC | Coffee ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://locations.timhortons.com/ca/qc/quebec/48--cote-du-palais.html",
+        "snippet": "Located at 48, Cote Du Palais, Quebec, QC, Tim Hortons is the perfect place to go for great-tasting, freshly brewed coffee. Our coffee is made with 100% Arabica beans, sourced from the world&#39;s most renowned growing regions.",
+        "title": "Tim Hortons in 48, Cote Du Palais Quebec, QC | Coffee ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://locations.timhortons.com/ca/qc/quebec-city/2010-av-industrielle.html",
+        "snippet": "Located at 2010 Av Industrielle, Quebec City, QC, Tim Hortons is the perfect place to go for great-tasting, freshly brewed coffee. Our coffee is made with 100% Arabica beans, sourced from the world&#39;s most renowned growing regions.",
+        "title": "Tim Hortons in 2010 Av Industrielle Quebec City, QC ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d7986667-Reviews-Tim_Hortons_Aeroport_de_Quebec-Quebec_City_Quebec.html",
+        "snippet": "Tim Hortons Aeroport de Quebec, Quebec City: See 19 unbiased reviews of Tim Hortons Aeroport de Quebec, rated 3 of 5 on Tripadvisor and ranked #1,067 of 1,426 restaurants in Quebec City.",
+        "title": "Tim Hortons Aeroport de Quebec, Quebec City - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d4869698-Reviews-Tim_Hortons-Quebec_City_Quebec.html",
+        "snippet": "Tim Hortons, Quebec City: See 25 unbiased reviews of Tim Hortons, rated 3.5 of 5 on TripAdvisor and ranked #518 of 1,415 restaurants in Quebec City.",
+        "title": "Tim Hortons, Quebec City - 150 Rene-levesque East - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d4403648-Reviews-Tim_Hortons-Quebec_City_Quebec.html",
+        "snippet": "Tim Hortons, Quebec City: See 20 unbiased reviews of Tim Hortons, rated 4 of 5 on Tripadvisor and ranked #502 of 1,428 restaurants in Quebec City.",
+        "title": "Tim Hortons, Quebec City - 750 Rue Bouvier - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d4871680-Reviews-Tim_Hortons-Quebec_City_Quebec.html",
+        "snippet": "Tim Hortons, Quebec City: See 3 unbiased reviews of Tim Hortons, rated 2.5 of 5 on Tripadvisor and ranked #1,109 of 1,428 restaurants in Quebec City.",
+        "title": "Tim Hortons, Quebec City - 9485 Boul Henri-bourrassa ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "401370": {
+    "url": "https://www.yelp.com/biz/cabaret-le-folichon-l-ancienne-lorette?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Cabaret Le Folichon",
+    "alias": "cabaret-le-folichon-l-ancienne-lorette",
+    "main_category": "Nightlife",
+    "sub_categories": "Nightlife, ",
+    "rating": 4.5,
+    "price": "$$$",
+    "address": "6300 Boul Wilfrid-Hamel",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "L'ancienne-Lorette",
+    "zip_code": "G2E 2H8",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188711477",
+    "review_count": 3,
+    "snippets": []
+  },
+  "409005": {
+    "url": "https://www.yelp.com/biz/stratos-pizzeria-l-ancienne-lorette-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eSwGGxCn-zfvOKV5oWli_A/o.jpg",
+    "name": "Stratos Pizzeria",
+    "alias": "stratos-pizzeria-l-ancienne-lorette-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "1914 Rue Notre-Dame",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "L'ancienne-Lorette",
+    "zip_code": "G2E 4T2",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188712222",
+    "review_count": 3,
+    "snippets": []
+  },
+  "492604": {
+    "url": "https://www.yelp.com/biz/chez-ashton-l-ancienne-lorette?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AVH7FYft1r5Z8TA5U85paA/o.jpg",
+    "name": "Chez Ashton",
+    "alias": "chez-ashton-l-ancienne-lorette",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, Hot Dogs, Poutineries, ",
+    "rating": 4.0,
+    "price": "$",
+    "address": "6380 Boulevard Wilfrid-Hamel",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "L'ancienne-Lorette",
+    "zip_code": "G2E 2H9",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188724044",
+    "review_count": 7,
+    "snippets": []
+  },
+  "509190": {
+    "url": "https://www.yelp.com/biz/rascal-qu%C3%A9bec?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Df4mdXFVohFIB7rxAp0ffw/o.jpg",
+    "name": "Rascal",
+    "alias": "rascal-québec",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Barbeque, Seafood, Steakhouses, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "5050 Boulevard Wilfrid-Hamel",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "Quebec City",
+    "zip_code": "G2E 5X5",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14186543644",
+    "review_count": 5,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d708336-Reviews-Restaurant_Rascal-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Rascal, Quebec City: See 169 unbiased reviews of Restaurant Rascal, rated 3.5 of 5 on Tripadvisor and ranked #267 of 1,426 restaurants in Quebec City.",
+        "title": "Restaurant Rascal, Quebec City - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://lerascal.ca/",
+        "snippet": "En groupe Conférences &amp; réunions. Pour des réunions d’affaires, de familles ou entre amis, le Rascal vous offre une multitude de possibilités grâce à ses trois salons privés et sa grande salle de réception aménageable : conférence, banquet, théâtre, école, cocktail dînatoire, etc.",
+        "title": "Le Rascal | Accueil - Restaurant Steakhouse, grillades et ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g155033-d708336-r500279059-Restaurant_Rascal-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Rascal: Rascal&#39;s Quebec City - See 168 traveler reviews, 30 candid photos, and great deals for Quebec City, Canada, at Tripadvisor.",
+        "title": "Rascal&#39;s Quebec City - Review of Restaurant Rascal, Quebec ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g155033-d708336-Reviews-Restaurant_Rascal-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Rascal, Quebec by: Se 169 objektive anmeldelser av Restaurant Rascal, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 267 av 1 427 restauranter i Quebec by.",
+        "title": "Restaurant Rascal, Quebec by - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g155033-d708336-Restaurant_Rascal-Quebec_City_Quebec.html",
+        "snippet": "Restaurants near Restaurant Rascal, Quebec City on Tripadvisor: Find traveler reviews and candid photos of dining near Restaurant Rascal in Quebec City, Quebec.",
+        "title": "Restaurants Near Restaurant Rascal, Quebec City - TripAdvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g155033-d708336-i80549590-Restaurant_Rascal-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Rascal, Quebec City Picture: Le Rascal, Québec. - Check out Tripadvisor members&#39; 49,304 candid photos and videos of Restaurant Rascal",
+        "title": "Le Rascal, Québec. - Picture of Restaurant Rascal, Quebec City",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr.tripadvisor.ca/Restaurant_Review-g155033-d708336-Reviews-Restaurant_Rascal-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Rascal, Québec (ville) : consultez 169 avis sur Restaurant Rascal, noté 3,5 sur 5 sur Tripadvisor et classé #268 sur 1 426 restaurants à Québec (ville).",
+        "title": "Restaurant Rascal, Québec (ville) - Menu, prix et avis ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/LocationPhotoDirectLink-g155033-d708336-i80747885-Restaurant_Rascal-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Rascal, Quebec City Picture: Le Rascal, Québec - Check out Tripadvisor members&#39; 49,304 candid photos and videos.",
+        "title": "Le Rascal, Québec - Picture of Restaurant Rascal, Quebec City",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/quebec-city-qc/le-rascal-quebec-city",
+        "snippet": "Le Rascal Quebec City; Le Rascal, Quebec City; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Le Rascal Restaurant on Zomato",
+        "title": "Le Rascal, Quebec City, Quebec City - Urbanspoon/Zomato",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/ShowUserReviews-g155033-d708336-r500279059-Restaurant_Rascal-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Rascal: Rascal&#39;s Quebec City - See 169 traveler reviews, 30 candid photos, and great deals for Quebec City, Canada, at Tripadvisor.",
+        "title": "Rascal&#39;s Quebec City - Restaurant Rascal, Quebec City ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "510086": {
+    "url": "https://www.yelp.com/biz/ben-and-florentine-l-ancienne-lorette?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/l80GoH0A4tRATEPi2UcEVg/o.jpg",
+    "name": "Ben & Florentine",
+    "alias": "ben-and-florentine-l-ancienne-lorette",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Breakfast & Brunch, Coffee & Tea, Sandwiches, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "1291 Avenue Jules-Verne",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "L'Ancienne-Lorette",
+    "zip_code": "G2E 6L6",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+15817425223",
+    "review_count": 2,
+    "snippets": []
+  },
+  "524370": {
+    "url": "https://www.yelp.com/biz/les-dieux-du-ciel-qu%C3%A9bec?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uFfjIL2FwMftxGFjKAOJsg/o.jpg",
+    "name": "les dieux du ciel",
+    "alias": "les-dieux-du-ciel-québec",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Rue Villemure 259",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "Quebec City",
+    "zip_code": "G2E",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14504363438",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.yelp.com/biz/les-dieux-du-ciel-qu%C3%A9bec",
+        "snippet": "les dieux du ciel in Quebec City, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Quebec City and beyond.",
+        "title": "les dieux du ciel - Quebec City, QC, Canada",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g155032-d806031-Reviews-Dieu_du_Ciel-Montreal_Quebec.html",
+        "snippet": "Dieu du Ciel, Montreal: Hours, Address ... that covers both. Through your guide’s commentary, come to understand the history, culture, and architecture of the city. Highlights include the ... stout charcuterie board craft brews mile end food tour bagels visit montreal hibiscus microbreweries hipster neighborhood trek quebec canada ...",
+        "title": "Dieu du Ciel (Montreal) - 2020 All You Need to Know BEFORE ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/historiatv/videos/1056269041088064/",
+        "snippet": "Chaque été, de véritables artistes de l&#39;aviation, dont les fameux «Snowbirds», volent de ville en ville au Canada et aux États-Unis. Les dieux du ciel,...",
+        "title": "Historia (Québec) - Les dieux du ciel dès le 2 juin ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://cielbistrobar.com/",
+        "snippet": "Ciel! Bistro-Bar est le seul restaurant tournant de la ville de Québec. Un resto qui vous en mettra plein la vue !",
+        "title": "Ciel! Bistro-Bar tournant",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.beeradvocate.com/beer/profile/1141/",
+        "snippet": "Brasserie Dieu du Ciel! in Montréal, QC, Canada. Beers, ratings, reviews, styles and another beer geek info.",
+        "title": "Brasserie Dieu du Ciel! | Montréal, QC, Canada | Beers ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.fr/Restaurant_Review-g155033-d7159293-Reviews-Ciel_Bistro_Bar-Quebec_City_Quebec.html",
+        "snippet": "restaurants vietnamiens pour les familles à Downtown Quebec City; Guides de voyage; ... Un superbe endroit, où le ciel fait tout ! ... TripAdvisor LLC n&#39;est pas responsable du contenu d&#39;autres sites internet. Les taxes et frais ne sont pas inclus dans les offres.",
+        "title": "Ciel Bistro-Bar, Québec (ville) - Menu, Prix &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr-ca.facebook.com/historiatv/videos/1056269041088064/",
+        "snippet": "Les dieux du ciel dès le 2 juin! Historia (Québec) 22 mai 2016 · Chaque été, de véritables artistes de l&#39;aviation, dont les fameux «Snowbirds», volent de ville en ville au Canada et aux États-Unis. Les dieux du ciel, une nouveauté à voir dès le 2 juin 21h30! Vidéos connexes.",
+        "title": "Historia (Québec) - Les dieux du ciel dès le 2 juin ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g155033-d7159293-Reviews-Ciel_Bistro_Bar-Quebec_City_Quebec.html",
+        "snippet": "Ciel Bistro-Bar, Quebec City: ... top floor, L&#39;Astral had long turned heads before being taken over by the Groupe Restos Plaisirs (Cochon Dingue, Café du Monde, Paris Grill, Lapin Sauté ... It is the revolving restaurant on the top floor of the Hotel Le Concorde, Quebec. The staff was very friendly and attentive. My husband and I wanted a ...",
+        "title": "CIEL BISTRO-BAR, Quebec City - Updated 2020 Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d10497296-Reviews-Microbrasserie_Le_Secret_des_Dieux-Quebec_City_Quebec.html",
+        "snippet": "Microbrasserie Le Secret des Dieux, Quebec City: See 31 unbiased reviews of Microbrasserie Le Secret des Dieux, rated 4.5 of 5 on Tripadvisor and ranked #333 of 1,427 restaurants in Quebec City.",
+        "title": "Microbrasserie Le Secret des Dieux, Quebec City ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://dieuduciel.com/en/",
+        "snippet": "2004-2006. Moving forward into the new millennium, the brewery is running at full steam with a fast-rising reputation for exceptional brews. The demand greatly exceeds the small Montreal operation’s 800-hectoliter per-year capacity, and so Dieu Du Ciel! decides to open a second location to bottle and export their products.",
+        "title": "Microbrasserie Dieu du ciel | Accueil",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "594378": {
+    "url": "https://www.yelp.com/biz/coras-l-ancienne-lorette?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qTW630m20CscPxcLzUHZOg/o.jpg",
+    "name": "Cora's",
+    "alias": "coras-l-ancienne-lorette",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Breakfast & Brunch, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "1333 Route De l'Aéroport",
+    "city_from_postal": "Quebec",
+    "city": "L'Ancienne-Lorette",
+    "zip_code": "G2G 1G5",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "621993": {
+    "url": "https://www.yelp.com/biz/resto-richard-l-ancienne-lorette?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6d3J5N16SS9mahqquoAP-A/o.jpg",
+    "name": "Resto Richard",
+    "alias": "resto-richard-l-ancienne-lorette",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, Hot Dogs, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "1616 Rue Notre-Dame",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "L'ancienne-Lorette",
+    "zip_code": "G2E 3B5",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+15817410908",
+    "review_count": 3,
+    "snippets": []
+  },
+  "634965": {
+    "url": "https://www.yelp.com/biz/tim-hortons-qu%C3%A9bec-22?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_7HgqH4l2KM2WYOCP5kWrQ/o.jpg",
+    "name": "Tim Hortons",
+    "alias": "tim-hortons-québec-22",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, Donuts, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "5050 Boul Wilfrid-Hamel",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "Quebec City",
+    "zip_code": "G2E 5X5",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188771232",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://locations.timhortons.com/ca/qc/quebec-city.html",
+        "snippet": "Browse all Tim Hortons - Temporarily Closed in Quebec City for great-tasting, freshly-brewed coffee. Try our lattes, cappuccinos, espresso, hot chocolate and tea.",
+        "title": "Tim Hortons All Locations in Quebec City",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d5260111-Reviews-Tim_Hortons-Quebec_City_Quebec.html",
+        "snippet": "Tim Hortons, Quebec City: See 124 unbiased reviews of Tim Hortons, rated 4 of 5 on Tripadvisor and ranked #220 of 1,428 restaurants in Quebec City. ... This Tim Horton&#39;s was steps from our hotel so it was easy getting our morning coffee and pastry. Also had one of their breakfast sandwiches - good.",
+        "title": "Tim Hortons, Quebec City - 48 Cote-Du-Palais - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://locations.timhortons.com/ca/qc/quebec.html",
+        "snippet": "Browse all Tim Hortons - Temporarily Closed in Quebec for great-tasting, freshly-brewed coffee. Try our lattes, cappuccinos, espresso, hot chocolate and tea.",
+        "title": "All Tim Hortons - Temporarily Closed Locations in Quebec ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://locations.timhortons.com/ca/qc/quebec-city/2377-ch-ste-foy.html",
+        "snippet": "Located at 2377 Ch Ste-foy, Quebec City, QC, Tim Hortons is the perfect place to go for great-tasting, freshly brewed coffee. Our coffee is made with 100% Arabica beans, sourced from the world&#39;s most renowned growing regions.",
+        "title": "Tim Hortons in 2377 Ch Ste-foy Quebec City, QC | Coffee ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://locations.timhortons.com/ca/qc/quebec/48--cote-du-palais.html",
+        "snippet": "Located at 48, Cote Du Palais, Quebec, QC, Tim Hortons is the perfect place to go for great-tasting, freshly brewed coffee. Our coffee is made with 100% Arabica beans, sourced from the world&#39;s most renowned growing regions.",
+        "title": "Tim Hortons in 48, Cote Du Palais Quebec, QC | Coffee ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://locations.timhortons.com/ca/qc/quebec-city/2010-av-industrielle.html",
+        "snippet": "Located at 2010 Av Industrielle, Quebec City, QC, Tim Hortons is the perfect place to go for great-tasting, freshly brewed coffee. Our coffee is made with 100% Arabica beans, sourced from the world&#39;s most renowned growing regions.",
+        "title": "Tim Hortons in 2010 Av Industrielle Quebec City, QC ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d7986667-Reviews-Tim_Hortons_Aeroport_de_Quebec-Quebec_City_Quebec.html",
+        "snippet": "Tim Hortons Aeroport de Quebec, Quebec City: See 19 unbiased reviews of Tim Hortons Aeroport de Quebec, rated 3 of 5 on Tripadvisor and ranked #1,067 of 1,426 restaurants in Quebec City.",
+        "title": "Tim Hortons Aeroport de Quebec, Quebec City - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d4869698-Reviews-Tim_Hortons-Quebec_City_Quebec.html",
+        "snippet": "Tim Hortons, Quebec City: See 25 unbiased reviews of Tim Hortons, rated 3.5 of 5 on TripAdvisor and ranked #518 of 1,415 restaurants in Quebec City.",
+        "title": "Tim Hortons, Quebec City - 150 Rene-levesque East - Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d4403648-Reviews-Tim_Hortons-Quebec_City_Quebec.html",
+        "snippet": "Tim Hortons, Quebec City: See 20 unbiased reviews of Tim Hortons, rated 4 of 5 on Tripadvisor and ranked #502 of 1,428 restaurants in Quebec City.",
+        "title": "Tim Hortons, Quebec City - 750 Rue Bouvier - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d4871680-Reviews-Tim_Hortons-Quebec_City_Quebec.html",
+        "snippet": "Tim Hortons, Quebec City: See 3 unbiased reviews of Tim Hortons, rated 2.5 of 5 on Tripadvisor and ranked #1,109 of 1,428 restaurants in Quebec City.",
+        "title": "Tim Hortons, Quebec City - 9485 Boul Henri-bourrassa ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "666762": {
+    "url": "https://www.yelp.com/biz/tomas-tam-qu%C3%A9bec-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7thtIr1dz9WMXu0w2Qw2pg/o.jpg",
+    "name": "Tomas Tam",
+    "alias": "tomas-tam-québec-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Chinese, Breakfast & Brunch, Buffets, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "5233 Boulevard Wilfrid-Hamel",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "Quebec City",
+    "zip_code": "G2E 2H1",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188718182",
+    "review_count": 5,
+    "snippets": [
+      {
+        "url": "http://tomastam.com/fr/",
+        "snippet": "Restaurant de style buffet aux saveurs du monde, Tomas Tam est le premier buffet offrant plus que de la nourriture chinoise à Québec. Les restaurants Tomas Tam ont deux points de vente à Québec : 325 rue Marais et 5233, boulevard Hamel Ouest.",
+        "title": "Buffets chinois | Restaurants Tomas Tam",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g155033-d980575-Reviews-Restaurant_Tomas_Tam-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Tomas Tam, Quebec City: See 113 unbiased reviews of Restaurant Tomas Tam, rated 3 of 5 on Tripadvisor and ranked #1,103 of 1,428 restaurants in Quebec City.",
+        "title": "Restaurant Tomas Tam, Quebec City - 5233 Boul Hamel ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g155033-d980575-Reviews-Restaurant_Tomas_Tam-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Tomas Tam, Quebec City: See 113 unbiased reviews of Restaurant Tomas Tam, rated 3 of 5 on Tripadvisor and ranked #1,104 of 1,426 restaurants in Quebec City.",
+        "title": "RESTAURANT TOMAS TAM, Quebec City - 5233 Boul Hamel ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.quebec-cite.com/en/businesses/restaurants/tomas-tam-restaurant-quebec/",
+        "snippet": "Tomas Tam has one of the largest gourmet buffets in the city. Vast choice of all-you-can-eat Oriental, Canadian and Italian foods, seafood, salads, desserts, bread bar, soups and grilled dishes at very competitive prices. Sushi bar on weekends only. ...",
+        "title": "Tomas Tam Restaurant - Québec | Restaurants | Quebec City ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://tomastam.com/en/",
+        "snippet": "Buffet style restaurant with flavors of the world, Tomas Tam is the first buffet offering more than Chinese food in Quebec City. Tomas Tam restaurants have two outlets in Quebec City: 325 rue Marais and 5233, boulevard Hamel Ouest.",
+        "title": "Tomas Tam - Taste of the world",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g155033-d980575-i149577963-Restaurant_Tomas_Tam-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Tomas Tam, Quebec City Picture: Restaurant Tomas Tam - Check out Tripadvisor members&#39; 49,339 candid photos and videos of Restaurant Tomas Tam",
+        "title": "Restaurant Tomas Tam - Picture of Restaurant Tomas Tam ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr.tripadvisor.ca/Restaurant_Review-g155033-d5267250-Reviews-Restaurant_Tomas_Tam-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Tomas Tam, Québec (ville) : consultez 59 avis sur Restaurant Tomas Tam, noté 3 sur 5 sur Tripadvisor et classé #1 106 sur 1 426 restaurants à Québec (ville).",
+        "title": "Restaurant Tomas Tam, Québec (ville) - 325 rue Marais ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yellowpages.ca/bus/Quebec/Quebec/Restaurant-Tomas-Tam/8076842.html",
+        "snippet": "Restaurant Tomas Tam - Québec - phone number, website &amp; address - QC - Italian Restaurants, American Restaurants, Restaurants, Vegetarian Restaurants, Chinese Food Restaurants, Pizza &amp; Pizzerias, Buffets, Breakfast Restaurants, Seafood Restaurants, Dinner Theatre Shows.",
+        "title": "Restaurant Tomas Tam - 325, rue du Marais, Québec, QC",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.quebec-cite.com/en/businesses/restaurants/tomas-tam-restaurant-vanier/",
+        "snippet": "The most complete gourmet buffet menu in town. All you can eat from a huge selection of Oriental, Canadian or Italian dishes, seafood plates, salads, desserts, bread bars, soups and grilled meat cuts. Sushi bar, weekends only. Prices well below any ...",
+        "title": "Tomas Tam Restaurant - Vanier | Restaurants | Quebec City ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g155033-d5267250-Reviews-Restaurant_Tomas_Tam-Quebec_City_Quebec.html",
+        "snippet": "Restaurant Tomas Tam, Quebec City: See 59 unbiased reviews of Restaurant Tomas Tam, rated 3 of 5 on Tripadvisor and ranked #1,106 of 1,426 restaurants in Quebec City.",
+        "title": "RESTAURANT TOMAS TAM, Quebec City - 325 rue Marais ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "668503": {
+    "url": "https://www.yelp.com/biz/la-cage-l-ancienne-lorette?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4peKpKjERmHYHjgLGD0LqQ/o.jpg",
+    "name": "La Cage",
+    "alias": "la-cage-l-ancienne-lorette",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Chicken Wings, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "6476 Boulevard Wilfrid-Hamel O",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "L'Ancienne-Lorette",
+    "zip_code": "G2E 2J1",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188723000",
+    "review_count": 2,
+    "snippets": []
+  },
+  "675514": {
+    "url": "https://www.yelp.com/biz/dairy-queen-l-ancienne-lorette?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FPje4su-ZO1t8kfzjV4lVQ/o.jpg",
+    "name": "Dairy Queen",
+    "alias": "dairy-queen-l-ancienne-lorette",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fast Food, Ice Cream & Frozen Yogurt, ",
+    "rating": 3.5,
+    "price": "$",
+    "address": "6390 Wilfrid-Hamel Boul",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "L'Ancienne-Lorette",
+    "zip_code": "G2E 2H9",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188719080",
+    "review_count": 3,
+    "snippets": []
+  },
+  "696733": {
+    "url": "https://www.yelp.com/biz/complexe-sportif-multidisciplinaire-de-l-ancienne-lorette-l-ancienne-lorette?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SswHz2T9887VMVlTC5mtng/o.jpg",
+    "name": "Complexe Sportif Multidisciplinaire de l'Ancienne-Lorette",
+    "alias": "complexe-sportif-multidisciplinaire-de-l-ancienne-lorette-l-ancienne-lorette",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Stadiums & Arenas, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "1311 Rue des Loisirs E",
+    "city_from_postal": "L'Ancienne-Lorette",
+    "city": "L'Ancienne-Lorette",
+    "zip_code": "G2E 0A5",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14188773000",
+    "review_count": 3,
+    "snippets": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "226723": {
+    "url": "https://www.yelp.com/biz/zombie-bar-praha?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GfRPsodzOWYSncDnvoR3wA/o.jpg",
+    "name": "Zombie Bar",
+    "alias": "zombie-bar-praha",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": "Václavské náměstí 29",
+    "city_from_postal": "Jihlava",
+    "city": "Prague",
+    "zip_code": "588 65",
+    "country_code": "CZ",
+    "state_code": "PR",
+    "phone": "+420777662001",
+    "review_count": 3,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g274707-d7835857-Reviews-Zombie_Bar-Prague_Bohemia.html",
+        "snippet": "Zombie Bar, Prague: See 25 unbiased reviews of Zombie Bar, rated 4 of 5 on Tripadvisor and ranked #2,187 of 5,900 restaurants in Prague.",
+        "title": "ZOMBIE BAR, Prague - Nové Město (New Town) - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g274707-d7835857-Reviews-Zombie_Bar-Prague_Bohemia.html",
+        "snippet": "Zombie Bar, Prague: See 25 unbiased reviews of Zombie Bar, rated 4 of 5 on Tripadvisor and ranked #2,188 of 5,900 restaurants in Prague.",
+        "title": "Zombie Bar, Prague - Nove Mesto (New Town) - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Zombie-Bar-171828049576891/",
+        "snippet": "Zombie Bar - Václavské náměstí 29, 110 00 Prague, Czech Republic - Rated 4.4 based on 95 Reviews &quot;Great bar. Spent some very happy times here. The guys...",
+        "title": "Zombie Bar - Dive Bar - Prague, Czech Republic | Facebook ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g274707-d7835857-i170574446-Zombie_Bar-Prague_Bohemia.html",
+        "snippet": "Zombie Bar, Prague Picture: Wooooow - Check out Tripadvisor members&#39; 50,063 candid photos and videos of Zombie Bar",
+        "title": "Wooooow - Picture of Zombie Bar, Prague - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g274707-d7835857-r413491200-Zombie_Bar-Prague_Bohemia.html",
+        "snippet": "Zombie Bar: Don&#39;t miss it! - See 25 traveler reviews, 7 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.",
+        "title": "Don&#39;t miss it! - Review of Zombie Bar, Prague, Czech ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.de/Restaurant_Review-g274707-d7835857-Reviews-Zombie_Bar-Prague_Bohemia.html",
+        "snippet": "Ich habe in Prag ab 15 Mal, gehen in der Regel einmal oder zweimal im Jahr. Zombie empfehlen entdeckt Bar im Oktober 2009 und gehen Sie zu jeder Zeit bin ich dort. Die Leute erinnern sich immer wieder an mich, sind sehr herzlich, freundlich und... machen Sie hervorragende Cocktails.",
+        "title": "Zombie Bar, Prag - Nové Město (Neustadt) - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g274707-d7835857-r517754067-Zombie_Bar-Prague_Bohemia.html",
+        "snippet": "Zombie Bar: Fav pub in Prague! - See 25 traveler reviews, 7 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.",
+        "title": "Fav pub in Prague! - Review of Zombie Bar, Prague, Czech ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.se/Restaurant_Review-g274707-d7835857-Reviews-Zombie_Bar-Prague_Bohemia.html",
+        "snippet": "Zombie Bar, Prag: Se 25 objektiva omdömen av Zombie Bar, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer2 186 av 5 898 restauranger i Prag.",
+        "title": "ZOMBIE BAR, Prag - Omdömen om restauranger - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Zombie-Bar-171828049576891/timeline/",
+        "snippet": "Zombie Bar - Václavské náměstí 29, 110 00 Prague, Czech Republic - Rated 4.3 based on 98 Reviews &quot;We... 11 middle aged English ladies went in here as...",
+        "title": "Zombie Bar - Bar - Prague, Czech Republic | Facebook - 98 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/ShowUserReviews-g274707-d7835857-r465411697-Zombie_Bar-Prague_Bohemia.html",
+        "snippet": "Zombie Bar: best bar in prague - See 25 traveller reviews, 7 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.",
+        "title": "best bar in prague - Zombie Bar, Prague Traveller Reviews ...",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

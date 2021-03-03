@@ -1,0 +1,276 @@
+{
+  "75503": {
+    "url": "https://www.yelp.com/biz/carrefour-san-fernando-de-hen%C3%A1res?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/v6me_YJwcQojfj5PS6KB1A/o.jpg",
+    "name": "Carrefour",
+    "alias": "carrefour-san-fernando-de-henáres",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 3.0,
+    "price": "€€",
+    "address": "Carretera Nacional ll, Km 16",
+    "city_from_postal": "San Fernando de Henares",
+    "city": "San Fernando de Henáres",
+    "zip_code": "28830",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34916602300",
+    "review_count": 1,
+    "snippets": []
+  },
+  "80769": {
+    "url": "https://www.yelp.com/biz/la-brujula-san-fernando-de-henares?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-FMi8CTZ6sxYuVlQAsGBkg/o.jpg",
+    "name": "La Brujula",
+    "alias": "la-brujula-san-fernando-de-henares",
+    "main_category": "Active Life",
+    "sub_categories": "Kids Activities, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Calle de la Sierra de Guadarrama, 3",
+    "city_from_postal": "San Fernando de Henares",
+    "city": "San Fernando de Henares",
+    "zip_code": "28830",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34913839119",
+    "review_count": 1,
+    "snippets": []
+  },
+  "127111": {
+    "url": "https://www.yelp.com/biz/la-br%C3%BAjula-san-fernando-de-henares-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HHn1KCgn_Taj_VanZJuWzg/o.jpg",
+    "name": "La Brújula",
+    "alias": "la-brújula-san-fernando-de-henares-2",
+    "main_category": "Active Life",
+    "sub_categories": "Swimming Lessons/Schools, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Centro Empresarial de San Fernando",
+    "city_from_postal": "San Fernando de Henares",
+    "city": "San Fernando de Henares",
+    "zip_code": "28830",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34913839119",
+    "review_count": 1,
+    "snippets": []
+  },
+  "127306": {
+    "url": "https://www.yelp.com/biz/garcia-casta%C3%B1o-felix-san-fernando-de-henares-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5tH07KbioPyaHwVPvr6XWw/o.jpg",
+    "name": "Garcia Castaño Felix",
+    "alias": "garcia-castaño-felix-san-fernando-de-henares-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafeteria, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Calle de la Sierra Morena, 65",
+    "city_from_postal": "San Fernando de Henares",
+    "city": "San Fernando de Henares",
+    "zip_code": "28830",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34916762304",
+    "review_count": 1,
+    "snippets": []
+  },
+  "135140": {
+    "url": "https://www.yelp.com/biz/aquopolis-san-fernando-de-henares?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UwEZBpEGoOPzSLddaDDCGg/o.jpg",
+    "name": "Aquopolis",
+    "alias": "aquopolis-san-fernando-de-henares",
+    "main_category": "Active Life",
+    "sub_categories": "Water Parks, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Carretera Nacional II, Km 15.5",
+    "city_from_postal": "San Fernando de Henares",
+    "city": "San Fernando de Henares",
+    "zip_code": "28830",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34916731013",
+    "review_count": 3,
+    "snippets": []
+  },
+  "362717": {
+    "url": "https://www.yelp.com/biz/mama-kebab-san-fernando-de-henares?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Mama Kebab",
+    "alias": "mama-kebab-san-fernando-de-henares",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Kebab, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Calle de Virgen del Templo, 7",
+    "city_from_postal": "San Fernando de Henares",
+    "city": "San Fernando de Henares",
+    "zip_code": "28830",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34632211649",
+    "review_count": 1,
+    "snippets": []
+  },
+  "390226": {
+    "url": "https://www.yelp.com/biz/cafe-bar-101-san-fernando-de-henares?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZvzkVscs4lhrAmxoUuekIg/o.jpg",
+    "name": "Cafe Bar 101",
+    "alias": "cafe-bar-101-san-fernando-de-henares",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Spanish, Cafeteria, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Parque Comercial Camino Real",
+    "city_from_postal": "Madrid",
+    "city": "San Fernando de Henares",
+    "zip_code": "28820",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34916714899",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.yelp.com/biz/cafe-bar-101-san-fernando-de-henares",
+        "snippet": "Cafe Bar 101 in San Fernando de Henares, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in San Fernando de Henares and beyond.",
+        "title": "Cafe Bar 101 - Spanish - Parque Comercial Camino Real, San ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://es-es.facebook.com/CafeRestaurante101/",
+        "snippet": "Cafe Bar Restaurante 101, San Fernando de Henares. 28 Me gusta · 35 personas han estado aquí. Restaurante 101 situado en el parque comercial Camino real en la A-2, salida 16-b. Especialidad en...",
+        "title": "Cafe Bar Restaurante 101 - Restaurante español - San ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/CafeRestaurante101/",
+        "snippet": "Cafe Bar Restaurante 101, San Fernando de Henares, Madrid. 28 likes · 35 were here. Restaurante 101 situado en el parque comercial Camino real en la A-2, salida 16-b. Especialidad en arroces y carta,...",
+        "title": "Cafe Bar Restaurante 101 - Spanish Restaurant - San ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/CafeRestaurante101/posts",
+        "snippet": "Cafe Bar Restaurante 101, San Fernando de Henares, Madrid. 28 likes · 35 were here. Restaurante 101 situado en el parque comercial Camino real en la A-2, salida 16-b. Especialidad en arroces y carta,...",
+        "title": "Cafe Bar Restaurante 101 - Spanish Restaurant - San ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g1063671-d5898847-Reviews-Cafe_Bar_Faustos-San_Fernando_de_Henares.html",
+        "snippet": "Cafe Bar Faustos, San Fernando de Henares: Address, Phone Number, Cafe Bar Faustos Reviews: 4.5/5",
+        "title": "Cafe Bar Faustos (San Fernando de Henares) - 2020 All You ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.cafebar101.com/",
+        "snippet": "¡cogemos reservas y preparamos comida para llevar (a recoger en el establecimiento)! celebraciÓn de eventos: bodas, bautizos, comuniones... ¡echa un vistazo a nuestro menÚ de reyes!",
+        "title": "Cafe-Bar 101 - Inicio",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/HotelsNear-g1063671-d5898847-Cafe_Bar_Faustos-San_Fernando_de_Henares.html",
+        "snippet": "Hotels near Cafe Bar Faustos, San Fernando de Henares on Tripadvisor: Find 21,939 traveler reviews, 308 candid photos, and prices for 30 hotels near Cafe Bar Faustos in San Fernando de Henares, Spain.",
+        "title": "Best Hotels Near Cafe Bar Faustos, San Fernando de Henares ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Attraction_Review-g1063671-d5898847-Reviews-Cafe_Bar_Faustos-San_Fernando_de_Henares.html",
+        "snippet": "Cafe Bar Faustos, San Fernando de Henares: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Cafe Bar Faustos i San Fernando de Henares, Spania på Tripadvisor.",
+        "title": "Cafe Bar Faustos (San Fernando de Henares, Spania ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.in/Attraction_Review-g1063671-d5898847-Reviews-Cafe_Bar_Faustos-San_Fernando_de_Henares.html",
+        "snippet": "Cafe Bar Faustos, San Fernando de Henares: See 10 reviews, articles, and photos of Cafe Bar Faustos, ranked No.2 on Tripadvisor among 7 attractions in San Fernando de Henares.",
+        "title": "Cafe Bar Faustos (San Fernando de Henares) - 2020 What to ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Attraction_Review-g1063671-d5898847-Reviews-Cafe_Bar_Faustos-San_Fernando_de_Henares.html",
+        "snippet": "Cafe Bar Faustos, San Fernando de Henares: See 10 reviews, articles, and photos of Cafe Bar Faustos, ranked No.2 on Tripadvisor among 7 attractions in San Fernando de Henares.",
+        "title": "Cafe Bar Faustos (San Fernando de Henares) - All You Need ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "448881": {
+    "url": "https://www.yelp.com/biz/bar-lago-madrid?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Bar Lago",
+    "alias": "bar-lago-madrid",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Breakfast & Brunch, Tapas/Small Plates, Beer Bar, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Calle Juan Perez Zuñiga, 19",
+    "city_from_postal": "San Fernando de Henares",
+    "city": "Madrid",
+    "zip_code": "28830",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34910594593",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://restaurantguru.com/Bar-Lago-Spain",
+        "snippet": "All info on Bar Lago in Madrid - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.",
+        "title": "Bar Lago, Calle Juan Perez Zuñiga, 19, posterior in Madrid ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g187514-d15635799-Reviews-Bar_Lago-Madrid.html",
+        "snippet": "Bar Lago, Madrid: Consulta opiniones sobre Bar Lago, uno de los 11.660 restaurantes de Madrid en Tripadvisor.",
+        "title": "BAR LAGO, Madrid - Ciudad Lineal - Menú, Precios y ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Bar-Lago-1455962918024290/",
+        "snippet": "Bar Lago. 6 likes · 8 were here. Bar. Facebook is showing information to help you better understand the purpose of a Page.",
+        "title": "Bar Lago - 14 Photos - Bar - 28027, 28027 Madrid, Spain",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Attractions-g187514-Activities-Madrid.html",
+        "snippet": "Ting å gjøre i Madrid: Se anmeldelser og bilder av ting å gjøre i Madrid, Spania på Tripadvisor.",
+        "title": "DE 10 BESTE ting å gjøre i Madrid - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurants-g187514-Madrid.html",
+        "snippet": "Beste restauranter i Madrid, Spania: Se anmeldelser fra reisende og bilder av spisesteder i Madrid, og søk etter pris, beliggenhet og mer på Tripadvisor.",
+        "title": "De 10 beste restaurantene i Madrid - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://es.restaurantguru.com/Bar-Lago-Spain",
+        "snippet": "Bar Lago, n.º 4212 entre los pubs y bares de Madrid: 47 opiniones. Localízalo en el mapa y llama para reservar mesa. El restaurante ha logrado un 4,2 en Google y un 5 en Yelp. Prepárate a pagar 4-9 € por una comida.",
+        "title": "Bar Lago, Madrid, Calle Juan Perez Zuñiga - Carta del ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.travelgay.com/destination/gay-spain/gay-community-of-madrid/gay-madrid/",
+        "snippet": "Madrid&#39;s main gay scene; home to many bars, clubs and saunas. city centre / Gran Via the heart of Madrid, close to Gran Via shops, restaurants and gay scene. Gay Group Trips. Gay Group Trip: Treasures of Spain. From 12 days - From £5495 Next departure: 25th April 2020 Saturday.",
+        "title": "Gay Madrid Guide 2020 - gay bars, clubs, saunas &amp; more ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g187514-d991066-r248118348-Lago_de_Sanabria-Madrid.html",
+        "snippet": "Lago de Sanabria: Nighborhood bar - See 137 traveler reviews, 43 candid photos, and great deals for Madrid, Spain, at Tripadvisor.",
+        "title": "Nighborhood bar - Review of Lago de Sanabria, Madrid ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pages/Bar-Lago/166862260104697",
+        "snippet": "Bar Lago, Alcalá de Henares, Madrid. 11 likes · 63 were here. Coffee Shop",
+        "title": "Bar Lago - Alcalá de Henares, Madrid - Coffee Shop, Beer ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.restaurantelago.com/",
+        "snippet": "© 2007 www.restaurantelago.com Aviso Legal Diseño web y hosting Nohayma´s Publicidad",
+        "title": "El Lago Restaurante Cerveceria",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

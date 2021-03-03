@@ -1,0 +1,21 @@
+{
+  "138406": {
+    "url": "https://www.yelp.com/biz/restaurant-parkhotel-matrei-matrei-am-brenner-6?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6EtATi3BHzElvGD7cs0M5g/o.jpg",
+    "name": "Restaurant Parkhotel Matrei",
+    "alias": "restaurant-parkhotel-matrei-matrei-am-brenner-6",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Austrian, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Matrei am Brenner 83",
+    "city_from_postal": "Mühlbachl",
+    "city": "Matrei am Brenner",
+    "zip_code": "6143",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+4352736269",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "243438": {
+    "url": "https://www.yelp.com/biz/restaurant-traube-livia-fuchs-rudolfingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7QLgrky1bNCLgfQUgJDDfw/o.jpg",
+    "name": "Restaurant Traube Livia Fuchs",
+    "alias": "restaurant-traube-livia-fuchs-rudolfingen",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Dorfstrasse 5",
+    "city_from_postal": "Trüllikon",
+    "city": "Rudolfingen",
+    "zip_code": "8465",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41523193565",
+    "review_count": 1,
+    "snippets": []
+  }
+}

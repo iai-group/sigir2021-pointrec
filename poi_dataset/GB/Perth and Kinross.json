@@ -1,0 +1,21 @@
+{
+  "182577": {
+    "url": "https://www.yelp.com/biz/lees-chinese-takeaway-dollar?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Lee's Chinese Takeaway",
+    "alias": "lees-chinese-takeaway-dollar",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fast Food, Cantonese, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "37 Bridge Street",
+    "city_from_postal": "Perth and Kinross",
+    "city": "Dollar",
+    "zip_code": "FK14 7DG",
+    "country_code": "GB",
+    "state_code": "CLK",
+    "phone": "+441259743383",
+    "review_count": 1,
+    "snippets": []
+  }
+}

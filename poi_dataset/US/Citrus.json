@@ -1,0 +1,21 @@
+{
+  "573966": {
+    "url": "https://www.yelp.com/biz/twisted-oaks-country-club-beverly-hills?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Twisted Oaks Country Club",
+    "alias": "twisted-oaks-country-club-beverly-hills",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Country Clubs, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Maintenance Bldg",
+    "city_from_postal": "Citrus",
+    "city": "Beverly Hills",
+    "zip_code": "34465",
+    "country_code": "US",
+    "state_code": "FL",
+    "phone": "+13525271989",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "38372": {
+    "url": "https://www.yelp.com/biz/putzi-s-weinresidenz-olsberg?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WRsaXM9UPCc57sLiNPEetA/o.jpg",
+    "name": "Putzi s Weinresidenz",
+    "alias": "putzi-s-weinresidenz-olsberg",
+    "main_category": "Nightlife",
+    "sub_categories": "Wine Bars, Swiss Food, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Mitteldorf 12",
+    "city_from_postal": "Olsberg",
+    "city": "Olsberg",
+    "zip_code": "4305",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41618430404",
+    "review_count": 1,
+    "snippets": []
+  }
+}

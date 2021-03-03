@@ -1,0 +1,21 @@
+{
+  "313344": {
+    "url": "https://www.yelp.com/biz/hallenbad-der-gemeinde-sisseln-ag?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/s8Agi70ohBFgIWY7dc79zw/o.jpg",
+    "name": "Hallenbad der Gemeinde",
+    "alias": "hallenbad-der-gemeinde-sisseln-ag",
+    "main_category": "Active Life",
+    "sub_categories": "Swimming Pools, Saunas, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Bodenackerstrasse 2",
+    "city_from_postal": "Sisseln",
+    "city": "Sisseln AG",
+    "zip_code": "4334",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41628732929",
+    "review_count": 3,
+    "snippets": []
+  }
+}

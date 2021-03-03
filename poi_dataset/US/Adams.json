@@ -1,0 +1,21 @@
+{
+  "380643": {
+    "url": "https://www.yelp.com/biz/everblossom-farm-east-berlin?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vlIz4_QdBaqWqCeBN0P5Mg/o.jpg",
+    "name": "Everblossom Farm",
+    "alias": "everblossom-farm-east-berlin",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Farmers Market, CSA, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "6363 Carlisle Pike",
+    "city_from_postal": "Adams",
+    "city": "East Berlin",
+    "zip_code": "17316",
+    "country_code": "US",
+    "state_code": "PA",
+    "phone": "+17172537797",
+    "review_count": 1,
+    "snippets": []
+  }
+}

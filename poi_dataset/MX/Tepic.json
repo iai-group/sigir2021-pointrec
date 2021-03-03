@@ -1,0 +1,101 @@
+{
+  "168255": {
+    "url": "https://www.yelp.com/biz/rincon-de-buenos-aires-tepic?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Rincon De Buenos Aires",
+    "alias": "rincon-de-buenos-aires-tepic",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Steakhouses, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Blvrd de  Nayarit 250",
+    "city_from_postal": "Tepic",
+    "city": "Tepic",
+    "zip_code": "63160",
+    "country_code": "MX",
+    "state_code": "NAY",
+    "phone": "+523222974950",
+    "review_count": 1,
+    "snippets": []
+  },
+  "600040": {
+    "url": "https://www.yelp.com/biz/skandalo-sayulita?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_LJiwClRxbnAN2sOLkIxOQ/o.jpg",
+    "name": "Skandalo",
+    "alias": "skandalo-sayulita",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Mexican, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Calle Marlín 23",
+    "city_from_postal": "Tepic",
+    "city": "Sayulita",
+    "zip_code": "63170",
+    "country_code": "MX",
+    "state_code": "NAY",
+    "phone": "+523292988558",
+    "review_count": 5,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g445056-d10336182-Reviews-Skandalo_Restaurante_Bar-Sayulita_Pacific_Coast.html",
+        "snippet": "Skandalo Restaurante &amp; Bar, Sayulita: See 16 unbiased reviews of Skandalo Restaurante &amp; Bar, rated 4 of 5 on Tripadvisor and ranked #102 of 141 restaurants in Sayulita.",
+        "title": "Skandalo Restaurante &amp; Bar, Sayulita - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/SkandaloRestaurante/",
+        "snippet": "Restaurante Bar SKandalo - Marlín #23 esq. Revolución., 63734 Sayulita, Nayarit, Mexico - Rated 4.8 based on 10 Reviews &quot;Venimos a vacacionar a Sayulita,...",
+        "title": "Restaurante Bar SKandalo - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g445056-d10336182-Reviews-Skandalo_Restaurante_Bar-Sayulita_Pacific_Coast.html",
+        "snippet": "Skandalo Restaurante &amp; Bar, Sayulita: See 16 unbiased reviews of Skandalo Restaurante &amp; Bar, rated 4 of 5 on Tripadvisor and ranked #101 of 141 restaurants in Sayulita.",
+        "title": "SKANDALO RESTAURANTE &amp; BAR, Sayulita - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g445056-d10336182-r504441032-Skandalo_Restaurante_Bar-Sayulita_Pacific_Coast.html",
+        "snippet": "Skandalo Restaurante &amp; Bar: The best. - See 16 traveler reviews, 29 candid photos, and great deals for Sayulita, Mexico, at Tripadvisor.",
+        "title": "The best. - Review of Skandalo Restaurante &amp; Bar, Sayulita ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g445056-d10336182-r501782064-Skandalo_Restaurante_Bar-Sayulita_Pacific_Coast.html",
+        "snippet": "Skandalo Restaurante &amp; Bar: Flavorful &amp; Affordable Food - See 16 traveler reviews, 29 candid photos, and great deals for Sayulita, Mexico, at Tripadvisor.",
+        "title": "Flavorful &amp; Affordable Food - Review of Skandalo ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g445056-d10336182-r467269729-Skandalo_Restaurante_Bar-Sayulita_Pacific_Coast.html",
+        "snippet": "Skandalo Restaurante &amp; Bar: Excellent tacos - See 16 traveler reviews, 29 candid photos, and great deals for Sayulita, Mexico, at Tripadvisor.",
+        "title": "Excellent tacos - Review of Skandalo Restaurante &amp; Bar ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g445056-d10336182-r649226491-Skandalo_Restaurante_Bar-Sayulita_Pacific_Coast.html",
+        "snippet": "Skandalo Restaurante &amp; Bar: WARNING DO NOT USED THE ATM LOCATED AT SKANDALO RESTAURANT AND BAR - See 16 traveler reviews, 29 candid photos, and great deals for Sayulita, Mexico, at Tripadvisor.",
+        "title": "WARNING DO NOT USED THE ATM LOCATED AT SKANDALO RESTAURANT ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g445056-d10336182-i192895713-Skandalo_Restaurante_Bar-Sayulita_Pacific_Coast.html",
+        "snippet": "Skandalo Restaurante &amp; Bar, Sayulita Picture: Skandalo Restaurante &amp; Bar - Check out Tripadvisor members&#39; 5,945 candid photos and videos of Skandalo Restaurante &amp; Bar",
+        "title": "Skandalo Restaurante &amp; Bar - Picture of Skandalo ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g445056-d10336182-r379388511-Skandalo_Restaurante_Bar-Sayulita_Pacific_Coast.html",
+        "snippet": "Skandalo Restaurante &amp; Bar: Huge Plates of Delicious Food - See 16 traveler reviews, 29 candid photos, and great deals for Sayulita, Mexico, at Tripadvisor.",
+        "title": "Huge Plates of Delicious Food - Review of Skandalo ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g445056-d10336182-r448180456-Skandalo_Restaurante_Bar-Sayulita_Pacific_Coast.html",
+        "snippet": "Skandalo Restaurante &amp; Bar: Don&#39;t let the location scare you! - See 16 traveler reviews, 29 candid photos, and great deals for Sayulita, Mexico, at Tripadvisor.",
+        "title": "Don&#39;t let the location scare you! - Review of Skandalo ...",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

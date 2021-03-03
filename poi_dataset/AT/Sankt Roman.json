@@ -1,0 +1,21 @@
+{
+  "132176": {
+    "url": "https://www.yelp.com/biz/scherrerwirt-gasthof-widegger-sankt-roman-bei-sch%C3%A4rding?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ubSMjk0nPgCgxee4vPiYfQ/o.jpg",
+    "name": "Scherrerwirt Gasthof Widegger",
+    "alias": "scherrerwirt-gasthof-widegger-sankt-roman-bei-schärding",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Austrian, Guest Houses, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Altendorf 8",
+    "city_from_postal": "Sankt Roman",
+    "city": "Sankt Roman bei Schärding",
+    "zip_code": "4793",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4377167350",
+    "review_count": 1,
+    "snippets": []
+  }
+}

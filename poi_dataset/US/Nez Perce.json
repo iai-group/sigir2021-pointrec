@@ -1,0 +1,21 @@
+{
+  "176918": {
+    "url": "https://www.yelp.com/biz/baskin-robbins-fort-lee?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Db5Lpkl5EHE-THylYU4R2w/o.jpg",
+    "name": "Baskin Robbins",
+    "alias": "baskin-robbins-fort-lee",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Ice Cream & Frozen Yogurt, ",
+    "rating": 2.0,
+    "price": "$$",
+    "address": "1430 21st St",
+    "city_from_postal": "Nez Perce",
+    "city": "Fort Lee",
+    "zip_code": "83501",
+    "country_code": "US",
+    "state_code": "NJ",
+    "phone": "+12012428006",
+    "review_count": 7,
+    "snippets": []
+  }
+}

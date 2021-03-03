@@ -1,0 +1,21 @@
+{
+  "468637": {
+    "url": "https://www.yelp.com/biz/busters-burgers-and-brew-willits-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4Ld5G-Fz--lGz-jda4AD-g/o.jpg",
+    "name": "Busters Burgers and Brew",
+    "alias": "busters-burgers-and-brew-willits-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, American (Traditional), ",
+    "rating": 3.5,
+    "price": "$$",
+    "address": "150 S Main St",
+    "city_from_postal": "Chittenden",
+    "city": "Willits",
+    "zip_code": "05490",
+    "country_code": "US",
+    "state_code": "CA",
+    "phone": "+17074593233",
+    "review_count": 152,
+    "snippets": []
+  }
+}

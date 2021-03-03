@@ -1,0 +1,21 @@
+{
+  "706082": {
+    "url": "https://www.yelp.com/biz/convento-de-cristo-tomar-3?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7yE6xYp7UZSth4O8T5g0Sw/o.jpg",
+    "name": "Convento de Cristo",
+    "alias": "convento-de-cristo-tomar-3",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Castles, Landmarks & Historical Buildings, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Convento de Cristo",
+    "city_from_postal": "Tomar",
+    "city": "Tomar",
+    "zip_code": "2300-000",
+    "country_code": "PT",
+    "state_code": "14",
+    "phone": "+351249315089",
+    "review_count": 8,
+    "snippets": []
+  }
+}

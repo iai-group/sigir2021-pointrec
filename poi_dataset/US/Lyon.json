@@ -1,0 +1,21 @@
+{
+  "317213": {
+    "url": "https://www.yelp.com/biz/walker-river-resort-smith-valley?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/loauj_hFNg35b7evQAImGQ/o.jpg",
+    "name": "Walker River Resort",
+    "alias": "walker-river-resort-smith-valley",
+    "main_category": "Nightlife",
+    "sub_categories": "Resorts, Lounges, Convenience Stores, ",
+    "rating": 3.5,
+    "price": "$$$",
+    "address": "700 Hudson Way",
+    "city_from_postal": "Lyon",
+    "city": "Smith Valley",
+    "zip_code": "89430",
+    "country_code": "US",
+    "state_code": "NV",
+    "phone": "+17754652573",
+    "review_count": 26,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "239313": {
+    "url": "https://www.yelp.com/biz/fabriggli-bistro-wallbach?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OHxZhoOCL-FlmmLDZkvfLw/o.jpg",
+    "name": "Fabriggli Bistro ",
+    "alias": "fabriggli-bistro-wallbach",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food, Hotels & Travel, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "Rheinstrasse 16",
+    "city_from_postal": "Wallbach",
+    "city": "Wallbach",
+    "zip_code": "4323",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41618611814",
+    "review_count": 1,
+    "snippets": []
+  }
+}

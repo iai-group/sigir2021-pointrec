@@ -1,0 +1,40 @@
+{
+  "133391": {
+    "url": "https://www.yelp.com/biz/adega-do-rossio-torres-vedras?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wc2gVt8xqt9308EPuqHUsg/o.jpg",
+    "name": "Adega do Rossio",
+    "alias": "adega-do-rossio-torres-vedras",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Rua 1 Dezembro, 3",
+    "city_from_postal": "Lisboa",
+    "city": "Torres Vedras",
+    "zip_code": "1200-357",
+    "country_code": "PT",
+    "state_code": "20",
+    "phone": "+351213461041",
+    "review_count": 1,
+    "snippets": []
+  },
+  "338556": {
+    "url": "https://www.yelp.com/biz/o-belga-silveira?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qPrnubeSKyKZBP5RN4V6eA/o.jpg",
+    "name": "O Belga",
+    "alias": "o-belga-silveira",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Creperies, Waffles, Ice Cream & Frozen Yogurt, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Largo Francisco Maria Bacelar, 12",
+    "city_from_postal": "Torres Vedras",
+    "city": "Silveira",
+    "zip_code": "2560-324",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351911988757",
+    "review_count": 1,
+    "snippets": []
+  }
+}

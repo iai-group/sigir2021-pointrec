@@ -1,0 +1,21 @@
+{
+  "706046": {
+    "url": "https://www.yelp.com/biz/catedral-de-ja%C3%A9n-ja%C3%A9n-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tGXhZiBKFC7MI3bJ9HZh2g/o.jpg",
+    "name": "Catedral de Jaén",
+    "alias": "catedral-de-jaén-jaén-2",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Art Museums, Churches, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Plaza de Santa María, s/n",
+    "city_from_postal": "Jaén",
+    "city": "Jaén",
+    "zip_code": "23002",
+    "country_code": "ES",
+    "state_code": "J",
+    "phone": "+34953234233",
+    "review_count": 2,
+    "snippets": []
+  }
+}

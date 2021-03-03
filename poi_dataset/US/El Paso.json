@@ -1,0 +1,40 @@
+{
+  "228245": {
+    "url": "https://www.yelp.com/biz/pizza-hut-colorado-springs-45?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wYCwftFqk9SYZU4IERjdPw/o.jpg",
+    "name": "Pizza Hut",
+    "alias": "pizza-hut-colorado-springs-45",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, Chicken Wings, ",
+    "rating": 3.0,
+    "price": "$",
+    "address": "5815 Palmer Park Blvd",
+    "city_from_postal": "El Paso",
+    "city": "Colorado Springs",
+    "zip_code": "80915",
+    "country_code": "US",
+    "state_code": "CO",
+    "phone": "+17195966200",
+    "review_count": 12,
+    "snippets": []
+  },
+  "577746": {
+    "url": "https://www.yelp.com/biz/pizza-hut-el-paso-53?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aShmpPcKDc6BmM0pEDf_RQ/o.jpg",
+    "name": "Pizza Hut",
+    "alias": "pizza-hut-el-paso-53",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, Chicken Wings, ",
+    "rating": 2.0,
+    "price": "$",
+    "address": "5201 Montana Ave",
+    "city_from_postal": "El Paso",
+    "city": "El Paso",
+    "zip_code": "79903",
+    "country_code": "US",
+    "state_code": "TX",
+    "phone": "+19155621177",
+    "review_count": 6,
+    "snippets": []
+  }
+}

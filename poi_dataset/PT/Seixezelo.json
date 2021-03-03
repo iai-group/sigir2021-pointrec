@@ -1,0 +1,21 @@
+{
+  "196790": {
+    "url": "https://www.yelp.com/biz/atl%C3%A2ntico-grij%C3%B3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Atlântico",
+    "alias": "atlântico-grijó",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Av. São Salvador, 516",
+    "city_from_postal": "Seixezelo",
+    "city": "Grijó",
+    "zip_code": "4415-943",
+    "country_code": "PT",
+    "state_code": "13",
+    "phone": "+351227640093",
+    "review_count": 1,
+    "snippets": []
+  }
+}

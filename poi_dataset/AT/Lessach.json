@@ -1,0 +1,21 @@
+{
+  "241248": {
+    "url": "https://www.yelp.com/biz/sh%C3%B6fbr%C3%A4uhaus-tannheim?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sEg1D69cLfI4RWjgHKTDqg/o.jpg",
+    "name": "sHöfbräuhaus",
+    "alias": "shöfbräuhaus-tannheim",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Austrian, Breweries, ",
+    "rating": 4.5,
+    "price": "€€",
+    "address": "Unterhöfen  28",
+    "city_from_postal": "Lessach",
+    "city": "Tannheim",
+    "zip_code": "5575",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+43567543102",
+    "review_count": 8,
+    "snippets": []
+  }
+}

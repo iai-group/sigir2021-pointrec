@@ -1,0 +1,40 @@
+{
+  "99611": {
+    "url": "https://www.yelp.com/biz/lagoas-hotel-oeiras?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Lagoas Hotel",
+    "alias": "lagoas-hotel-oeiras",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Hotels, Guest Houses, Restaurants, ",
+    "rating": 5.0,
+    "price": "€€€€",
+    "address": "Lagoas Park, Ed. 2",
+    "city_from_postal": "Porto Salvo",
+    "city": "Oeiras",
+    "zip_code": "2740-265",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351211109700",
+    "review_count": 1,
+    "snippets": []
+  },
+  "242753": {
+    "url": "https://www.yelp.com/biz/manzwine-oeiras?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Manzwine",
+    "alias": "manzwine-oeiras",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Beer, Wine & Spirits, Fruits & Veggies, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "R. Rui Teles Palhinha, 3 2ºEsq.",
+    "city_from_postal": "Porto Salvo",
+    "city": "Oeiras",
+    "zip_code": "2740-278",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351214269710",
+    "review_count": 1,
+    "snippets": []
+  }
+}

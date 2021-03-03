@@ -1,0 +1,40 @@
+{
+  "97538": {
+    "url": "https://www.yelp.com/biz/%E5%A4%A2%E8%A6%8B%E3%83%B6%E5%B4%8E%E5%8B%95%E7%89%A9%E5%85%AC%E5%9C%92-%E5%B7%9D%E5%B4%8E%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YcsJwpdallX3siDSc0lKcQ/o.jpg",
+    "name": "Yumemigasaki Zoological Park",
+    "alias": "夢見ヶ崎動物公園-川崎市",
+    "main_category": "Active Life",
+    "sub_categories": "Zoos, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "幸区南加瀬1丁目2-1",
+    "city_from_postal": "Saiwai Ku",
+    "city": "Kawasaki",
+    "zip_code": "212-0055",
+    "country_code": "JP",
+    "state_code": "14",
+    "phone": "+81445884030",
+    "review_count": 2,
+    "snippets": []
+  },
+  "160963": {
+    "url": "https://www.yelp.com/biz/%E5%B7%9D%E5%B4%8E%E7%AB%B6%E9%A6%AC%E7%B7%B4%E7%BF%92%E9%A6%AC%E5%A0%B4-%E5%B7%9D%E5%B4%8E%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TIMgdvzb-CR7ZReuxIS_QQ/o.jpg",
+    "name": "Kawasaki Keiba Renshū Bajou",
+    "alias": "川崎競馬練習馬場-川崎市",
+    "main_category": "Active Life",
+    "sub_categories": "Horse Racing, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "幸区小向",
+    "city_from_postal": "Saiwai Ku",
+    "city": "Kawasaki",
+    "zip_code": "212-0002",
+    "country_code": "JP",
+    "state_code": "14",
+    "phone": "",
+    "review_count": 2,
+    "snippets": []
+  }
+}

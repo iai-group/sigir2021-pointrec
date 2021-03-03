@@ -1,0 +1,21 @@
+{
+  "348731": {
+    "url": "https://www.yelp.com/biz/manifattura-dei-marinati-comacchio?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dnEUWBTpTYTbqIIoH6qJnA/o.jpg",
+    "name": "Manifattura dei Marinati",
+    "alias": "manifattura-dei-marinati-comacchio",
+    "main_category": "Active Life",
+    "sub_categories": "Parks, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Via Mazzini 200",
+    "city_from_postal": "Comacchio",
+    "city": "Comacchio",
+    "zip_code": "44022",
+    "country_code": "IT",
+    "state_code": "FE",
+    "phone": "+39053381742",
+    "review_count": 1,
+    "snippets": []
+  }
+}

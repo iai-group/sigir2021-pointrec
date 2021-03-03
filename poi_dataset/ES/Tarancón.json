@@ -1,0 +1,21 @@
+{
+  "209607": {
+    "url": "https://www.yelp.com/biz/la-pausa-no-title-4?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RAJYyQ2A1vXaHZp-guOZ6w/o.jpg",
+    "name": "La Pausa",
+    "alias": "la-pausa-no-title-4",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Kiosk, Tapas Bars, Sandwiches, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Autopista A-49 Km. 35",
+    "city_from_postal": "Tarancón",
+    "city": "Tarancón",
+    "zip_code": "16400",
+    "country_code": "ES",
+    "state_code": "CU",
+    "phone": "+34959424337",
+    "review_count": 2,
+    "snippets": []
+  }
+}

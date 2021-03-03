@@ -1,0 +1,21 @@
+{
+  "545625": {
+    "url": "https://www.yelp.com/biz/la-botiga-matar%C3%B3-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/j4N2q5fxxgWI7E9lV9PTrQ/o.jpg",
+    "name": "La Botiga",
+    "alias": "la-botiga-mataró-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Spanish, ",
+    "rating": 2.0,
+    "price": "€€€",
+    "address": "C.C. Les Arenas",
+    "city_from_postal": "Mataró",
+    "city": "Mataró",
+    "zip_code": "08302",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34934253656",
+    "review_count": 20,
+    "snippets": []
+  }
+}

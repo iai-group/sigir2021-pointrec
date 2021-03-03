@@ -1,0 +1,82 @@
+{
+  "696523": {
+    "url": "https://www.yelp.com/biz/betlem-barcelona?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/u70UVS8DsC7zaxw91M04YQ/o.jpg",
+    "name": "Betlem",
+    "alias": "betlem-barcelona",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Carrer de Joaquim Costa, 34",
+    "city_from_postal": "Terrassa",
+    "city": "Barcelona",
+    "zip_code": "08222",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34934124217",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "http://www.betlem.es/",
+        "snippet": "El BETLEM es un establecimiento situado en el Ensanche Derecho de Barcelona, en la confluencia de las calles Girona y Consell de Cent. Los inicios de esta tienda singular se remontan al año 1892 y desde entonces ha sido gestionada por cuatro propietarios distintos en sus más de cien años de vida.",
+        "title": "BETLEM Miscelánea gastronómica tapas y raciones Eixample ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g187497-d2492461-Reviews-Betlem_Miscel_lania_Gastronomica-Barcelona_Catalonia.html",
+        "snippet": "Reserve a table at Betlem Miscel.lania Gastronomica, Barcelona on Tripadvisor: See 750 unbiased reviews of Betlem Miscel.lania Gastronomica, rated 4.5 of 5 on Tripadvisor and ranked #611 of 10,158 restaurants in Barcelona.",
+        "title": "Betlem Miscel.lania Gastronomica, Barcelona - La Dreta de ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.betlem.es/en/",
+        "snippet": "El BETLEM is an establishment located in the Ensanche Derecho (Eixample Dreita) area of Barcelona, in the junction of Girona Street and Consell de Cent. The beginnings of this singular place go back to the year 1892, with four different owners managing the business since then.",
+        "title": "BETLEM tapas bar and gastronomy since 1892 in Barcelona&#39;s ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://mdbetlem.net/",
+        "snippet": "Parroquia de la Mare de Déu de Betlem de Barcelona. Noticies . Atenent a la ràpida transmissió del Covid-19 i a les normatives civils i eclesiàstiques que ens han arribat, pel que fa a la parròquia veiem oportú:",
+        "title": "Index [mdbetlem.net]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.bcnrestaurantes.com/eng/barcelona.asp?restaurante=betlem&restaurante=betlem",
+        "snippet": "Betlem Restaurant, gastronomic miscellanea since 1892 in Barcelona",
+        "title": "Restaurant Betlem Barcelona - Tel. 938029012",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g187497-d2492461-Reviews-Betlem_Miscel_lania_Gastronomica-Barcelona_Catalonia.html",
+        "snippet": "Betlem Miscel.lania Gastronomica, Barcelona: Se 750 objektive anmeldelser av Betlem Miscel.lania Gastronomica, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 611 av 10 157 restauranter i Barcelona.",
+        "title": "Betlem Miscel.lania Gastronomica, Barcelona ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/BetlemGastro",
+        "snippet": "BETLEM- Miscelánea Gastronómica - Girona, 70, 08009 Barcelona, Spain - Rated 4.6 based on 192 Reviews &quot;Cute place but tapas are only fair. Had the...",
+        "title": "BETLEM- Miscelánea Gastronómica - Home - Barcelona, Spain ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g187497-d4226774-Reviews-Forn_de_Betlem-Barcelona_Catalonia.html",
+        "snippet": "Forn de Betlem, Barcelona: Se 5 objektive anmeldelser av Forn de Betlem, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 6 604 av 10 149 restauranter i Barcelona.",
+        "title": "Forn de Betlem, Barcelona - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g187497-d2487738-Reviews-Parroquia_de_la_Mare_de_Deu_de_Betlem-Barcelona_Catalonia.html",
+        "snippet": "Attractions near Parroquia de la Mare de Deu de Betlem: (0.08 mi) Mercat de la Boqueria (0.07 mi) Mercat de la Barceloneta (0.08 mi) Erotic Museum of Barcelona (Museu de l&#39;Erotica) (0.07 mi) Mercat De Sant Antoni (0.11 mi) Plaza del Pi; View all attractions near Parroquia de la Mare de Deu de Betlem on Tripadvisor",
+        "title": "Parroquia de la Mare de Deu de Betlem, Barcelona - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://restaurantguru.com/Betlem-Barcelona",
+        "snippet": "All info on Betlem in Barcelona - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.",
+        "title": "Betlem, Carrer de Girona, 70 in Barcelona - Restaurant ...",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

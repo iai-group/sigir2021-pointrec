@@ -1,0 +1,21 @@
+{
+  "474725": {
+    "url": "https://www.yelp.com/biz/pizza-hut-conway-11?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gLKUDRIctXDA6WH0WWiyVA/o.jpg",
+    "name": "Pizza Hut",
+    "alias": "pizza-hut-conway-11",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, Chicken Wings, ",
+    "rating": 2.0,
+    "price": "$",
+    "address": "705 Club Ln",
+    "city_from_postal": "Faulkner",
+    "city": "Conway",
+    "zip_code": "72034",
+    "country_code": "US",
+    "state_code": "AR",
+    "phone": "+15013274449",
+    "review_count": 8,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "210600": {
+    "url": "https://www.yelp.com/biz/mcdonalds-dierikon?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lK1ohmVlwI_EhSp8Gy3EUw/o.jpg",
+    "name": "McDonald's",
+    "alias": "mcdonalds-dierikon",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, Fast Food, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Kantonsstrasse",
+    "city_from_postal": "Dierikon",
+    "city": "Dierikon",
+    "zip_code": "6036",
+    "country_code": "CH",
+    "state_code": "LU",
+    "phone": "+41414505050",
+    "review_count": 1,
+    "snippets": []
+  }
+}

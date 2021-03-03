@@ -1,0 +1,21 @@
+{
+  "407016": {
+    "url": "https://www.yelp.com/biz/virgilio-santa-iria-de-az%C3%B3ia?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3YVaQhlrch3RjA4O13wm1A/o.jpg",
+    "name": "Virgilio",
+    "alias": "virgilio-santa-iria-de-azóia",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Brasseries, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Rua Angola, 12",
+    "city_from_postal": "Santa Iria De Azóia",
+    "city": "Santa Iria de Azóia",
+    "zip_code": "2690-593",
+    "country_code": "PT",
+    "state_code": "20",
+    "phone": "+351219591384",
+    "review_count": 1,
+    "snippets": []
+  }
+}

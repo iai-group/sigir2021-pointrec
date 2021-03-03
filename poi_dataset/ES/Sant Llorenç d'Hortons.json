@@ -1,0 +1,21 @@
+{
+  "298027": {
+    "url": "https://www.yelp.com/biz/bar-estacion-sant-lloren%C3%A7-d-hortons?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Bar Estacion",
+    "alias": "bar-estacion-sant-llorenç-d-hortons",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Seafood, Sandwiches, Tapas Bars, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Paseo de la Estacion, 6",
+    "city_from_postal": "Sant Llorenç d'Hortons",
+    "city": "Sant Llorenç d'Hortons",
+    "zip_code": "08791",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34933455864",
+    "review_count": 1,
+    "snippets": []
+  }
+}

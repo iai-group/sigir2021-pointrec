@@ -1,0 +1,40 @@
+{
+  "545771": {
+    "url": "https://www.yelp.com/biz/kulturn%C3%AD-d%C5%AFm-jesenice-jesenice?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Kulturní dům Jesenice",
+    "alias": "kulturní-dům-jesenice-jesenice",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Music Venues, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Plzeňská 349",
+    "city_from_postal": "Rakovník",
+    "city": "Jesenice",
+    "zip_code": "270 33",
+    "country_code": "CZ",
+    "state_code": "ST",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "687510": {
+    "url": "https://www.yelp.com/biz/kounovsk%C3%A9-kamenn%C3%A9-%C5%99ady-kounov?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Kounovské kamenné řady",
+    "alias": "kounovské-kamenné-řady-kounov",
+    "main_category": "Active Life",
+    "sub_categories": "Active Life, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Kounov 49",
+    "city_from_postal": "Rakovník",
+    "city": "Kounov",
+    "zip_code": "270 06",
+    "country_code": "CZ",
+    "state_code": "ST",
+    "phone": "+420313119822",
+    "review_count": 1,
+    "snippets": []
+  }
+}

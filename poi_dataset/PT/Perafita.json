@@ -1,0 +1,120 @@
+{
+  "203695": {
+    "url": "https://www.yelp.com/biz/restaurante-veleiros-matosinhos?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UKBHv1H2DAB3puLpaexmyA/o.jpg",
+    "name": "Restaurante Veleiros",
+    "alias": "restaurante-veleiros-matosinhos",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "R. Almeiriga, 2520",
+    "city_from_postal": "Perafita",
+    "city": "Matosinhos",
+    "zip_code": "4455-419",
+    "country_code": "PT",
+    "state_code": "13",
+    "phone": "+351229958531",
+    "review_count": 1,
+    "snippets": []
+  },
+  "377644": {
+    "url": "https://www.yelp.com/biz/restaurante-campo-alegre-mar-porto?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rB0OucjaFKZ9fGzXivkGaA/o.jpg",
+    "name": "Restaurante Campo Alegre Mar",
+    "alias": "restaurante-campo-alegre-mar-porto",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Rua Almeiriga Norte 2510",
+    "city_from_postal": "Perafita",
+    "city": "Porto",
+    "zip_code": "4455-418",
+    "country_code": "PT",
+    "state_code": "13",
+    "phone": "",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189180-d1081959-Reviews-Restaurante_Campo_Alegre_Compadre-Porto_Porto_District_Northern_Portugal.html",
+        "snippet": "Restaurante Campo Alegre/Compadre, Porto: See 151 unbiased reviews of Restaurante Campo Alegre/Compadre, rated 4.5 of 5 on Tripadvisor and ranked #318 of 2,074 restaurants in Porto.",
+        "title": "Restaurante Campo Alegre/Compadre, Porto - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g189180-d7322689-Reviews-Restaurante_Oporto_Cafe-Porto_Porto_District_Northern_Portugal.html",
+        "snippet": "Restaurante Oporto Cafe, Porto: ... Avenida Dom Carlos I Nº 8 Jardim Do Passeio Alegre, Porto 4150-190 Portugal. Web site. E-mail +351 22 610 3187. Melhorar este anúncio. Menu. ... O lugar onde este restaurante se encontra na ponta do jardim de frente ao mar e com uma óptima esplanada coberta é francamente aprazível e no geral a ambiência ...",
+        "title": "RESTAURANTE OPORTO CAFE, Porto - Comentários de ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g189180-d1081959-Reviews-Restaurante_Campo_Alegre_Compadre-Porto_Porto_District_Northern_Portugal.html",
+        "snippet": "Restaurante Campo Alegre/Compadre, Porto: Veja 151 dicas e avaliações imparciais de Restaurante Campo Alegre/Compadre, com classificação Nº 4,5 de 5 no Tripadvisor e classificado como Nº 318 de 2.074 restaurantes em Porto.",
+        "title": "RESTAURANTE CAMPO ALEGRE/COMPADRE, Porto - Comentários de ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.viajecomigo.com/2014/02/24/restaurante-campo-alegre-porto/",
+        "snippet": "O nome mantém-se, o local é que já não é o mesmo. Durante 17 anos, o Restaurante Campo Alegre esteve na zona do Campo Alegre, no Porto, agora mudou-se para outro espaço mas a equipa, as especialidades e a qualidade mantêm-se inalteradas.",
+        "title": "Restaurante Campo Alegre, Porto | Viaje Comigo",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189180-d1081959-Reviews-or10-Restaurante_Campo_Alegre_Compadre-Porto_Porto_District_Northern_Portugal.html",
+        "snippet": "Restaurante Campo Alegre/Compadre, Porto: See 151 unbiased reviews of Restaurante Campo Alegre/Compadre, rated 4.5 of 5 on Tripadvisor and ranked #315 of 2,074 restaurants in Porto.",
+        "title": "Restaurante Campo Alegre/Compadre, Porto - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189180-d6637612-Reviews-Madureira_s_Campo_Alegre-Porto_Porto_District_Northern_Portugal.html",
+        "snippet": "Reserve a table at Madureira&#39;s Campo Alegre, Porto on Tripadvisor: See 294 unbiased reviews of Madureira&#39;s Campo Alegre, rated 4 of 5 on Tripadvisor and ranked #558 of 2,075 restaurants in Porto.",
+        "title": "Madureira&#39;s Campo Alegre, Porto - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g189180-d6637612-Reviews-Madureira_s_Campo_Alegre-Porto_Porto_District_Northern_Portugal.html",
+        "snippet": "Madureira&#39;s Campo Alegre, Porto: Veja 295 dicas e avaliações imparciais de Madureira&#39;s Campo Alegre, com classificação Nº 4 de 5 no Tripadvisor e classificado como Nº 559 de 2.074 restaurantes em Porto.",
+        "title": "MADUREIRA&#39;S CAMPO ALEGRE, Porto - Comentários de ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/porto/campo-alegre-restaurantes",
+        "snippet": "Restaurants in Campo Alegre, Porto; View Menus, Reviews, Photos for Restaurants, Pubs and Bars in Campo Alegre, Porto on Zomato. Política de cookies. A Zomato usa cookies para melhorar a tua experiência de utilização. Lê a nossa Política de cookies. Fechar mensagem.",
+        "title": "Campo Alegre Restaurants, Porto - Zomato",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/restaurantecampoalegrecompadre/",
+        "snippet": "Restaurante CampoAlegre/Compadre, Porto. 2,138 likes · 1 talking about this · 939 were here. A cozinha do Restaurante Campo Alegre.",
+        "title": "Restaurante CampoAlegre/Compadre - Home - Porto, Portugal ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurants-g189180-Porto_Porto_District_Northern_Portugal.html",
+        "snippet": "Refeições: Porto, Distrito do Porto: Veja 336.141 dicas e avaliações do Tripadvisor dos 2.174 restaurantes: Porto e faça a busca por cozinha, preço, localização e mais. Porto. Turismo em Porto Hotéis em Porto Estalagens em Porto ... “Restaurante muito agradável ...",
+        "title": "Os 10 melhores restaurantes: Porto Atualizado em Abril de ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "544857": {
+    "url": "https://www.yelp.com/biz/ondas-sobre-o-mar-perafita?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xtaLpFCS_g6qML2If-JZ3g/o.jpg",
+    "name": "Ondas Sobre O Mar",
+    "alias": "ondas-sobre-o-mar-perafita",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, Seafood, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "R. de Almeiriga Norte s/n",
+    "city_from_postal": "Perafita",
+    "city": "Perafita",
+    "zip_code": "4455-616",
+    "country_code": "PT",
+    "state_code": "13",
+    "phone": "+351229964011",
+    "review_count": 2,
+    "snippets": []
+  }
+}

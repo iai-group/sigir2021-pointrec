@@ -1,0 +1,21 @@
+{
+  "26903": {
+    "url": "https://www.yelp.com/biz/%E3%82%B5%E3%83%B3%E3%83%A2%E3%83%AA%E3%83%A4-%E5%AE%88%E8%B0%B7%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nTHn4sLhXa6tcfrMFsTXQg/o.jpg",
+    "name": "Sanmoriya",
+    "alias": "サンモリヤ-守谷市",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Farms, Fruits & Veggies, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "高野4081",
+    "city_from_postal": "Moriya Shi",
+    "city": "Moriya",
+    "zip_code": "302-0125",
+    "country_code": "JP",
+    "state_code": "08",
+    "phone": "+81297471518",
+    "review_count": 1,
+    "snippets": []
+  }
+}

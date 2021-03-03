@@ -1,0 +1,21 @@
+{
+  "78228": {
+    "url": "https://www.yelp.com/biz/restaurant-sternen-duggingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Sternen",
+    "alias": "restaurant-sternen-duggingen",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Aeschstrasse 1",
+    "city_from_postal": "Duggingen",
+    "city": "Duggingen",
+    "zip_code": "4202",
+    "country_code": "CH",
+    "state_code": "BL",
+    "phone": "+41617515080",
+    "review_count": 1,
+    "snippets": []
+  }
+}

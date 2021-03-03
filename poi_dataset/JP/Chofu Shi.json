@@ -1,0 +1,40 @@
+{
+  "382502": {
+    "url": "https://www.yelp.com/biz/%E9%81%A0%E8%97%A4%E8%BE%B2%E5%9C%92-%E8%AA%BF%E5%B8%83%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "endo farm",
+    "alias": "遠藤農園-調布市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Farmers Market, Farms, ",
+    "rating": 5.0,
+    "price": "￥￥",
+    "address": "西つつじヶ丘4-30-1",
+    "city_from_postal": "Chofu Shi",
+    "city": "Chofu",
+    "zip_code": "182-0006",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "452944": {
+    "url": "https://www.yelp.com/biz/%E3%81%AB%E3%81%93%E3%81%B1-%E5%B3%B6%E5%BF%A0%E4%BB%99%E5%B7%9D%E5%BA%97-%E8%AA%BF%E5%B8%83%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Ba",
+    "image_url": "",
+    "name": "にこぱ　島忠仙川店",
+    "alias": "にこぱ-島忠仙川店-調布市",
+    "main_category": "Active Life",
+    "sub_categories": "Indoor Playcentre, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "東京都調布市若葉町2-1-7",
+    "city_from_postal": "Chofu Shi",
+    "city": "Chofu",
+    "zip_code": "182-0003",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

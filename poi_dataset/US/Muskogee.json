@@ -1,0 +1,21 @@
+{
+  "110134": {
+    "url": "https://www.yelp.com/biz/tacos-la-morena-muskogee-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8Kq6VkYF2vMNnrDc4-6Cjw/o.jpg",
+    "name": "Tacos La Morena",
+    "alias": "tacos-la-morena-muskogee-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Mexican, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "731 Callahan St",
+    "city_from_postal": "Muskogee",
+    "city": "Muskogee",
+    "zip_code": "74403",
+    "country_code": "US",
+    "state_code": "OK",
+    "phone": "+19186867981",
+    "review_count": 2,
+    "snippets": []
+  }
+}

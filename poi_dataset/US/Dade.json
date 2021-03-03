@@ -1,0 +1,21 @@
+{
+  "706099": {
+    "url": "https://www.yelp.com/biz/cloudland-canyon-state-park-rising-fawn?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KqJ1kBM5VpEgz2A17ZERtQ/o.jpg",
+    "name": "Cloudland Canyon State Park",
+    "alias": "cloudland-canyon-state-park-rising-fawn",
+    "main_category": "Active Life",
+    "sub_categories": "Parks, Hiking, Campgrounds, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "122 Cloudland Canyon Park Rd",
+    "city_from_postal": "Dade",
+    "city": "Rising Fawn",
+    "zip_code": "30738",
+    "country_code": "US",
+    "state_code": "GA",
+    "phone": "+17066574050",
+    "review_count": 74,
+    "snippets": []
+  }
+}

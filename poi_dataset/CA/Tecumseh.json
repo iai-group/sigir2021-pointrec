@@ -1,0 +1,40 @@
+{
+  "30559": {
+    "url": "https://www.yelp.com/biz/tcz-dance-studio-tecumseh?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UZ3DXk3YtCEo1MKJYSmDBg/o.jpg",
+    "name": "Tc'z Dance Studio",
+    "alias": "tcz-dance-studio-tecumseh",
+    "main_category": "Active Life",
+    "sub_categories": "Dance Studios, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "3719 Walker Rd",
+    "city_from_postal": "Windsor",
+    "city": "Tecumseh",
+    "zip_code": "N9A 4H7",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+15197370327",
+    "review_count": 1,
+    "snippets": []
+  },
+  "612810": {
+    "url": "https://www.yelp.com/biz/canadian-historical-aircraft-assoc-windsor?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Canadian Historical Aircraft Assoc",
+    "alias": "canadian-historical-aircraft-assoc-windsor",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "2600 Airport Road",
+    "city_from_postal": "Tecumseh",
+    "city": "Windsor",
+    "zip_code": "N8V 1A1",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+15199669742",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "157172": {
+    "url": "https://www.yelp.com/biz/%E3%81%8A%E7%B1%B3%E3%81%8C%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%E7%99%BA%E9%85%B5%E9%A3%9F%E5%A0%82-%E3%83%8F%E3%83%81%E3%83%8F%E3%83%81-%E9%AB%98%E7%9F%B3%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&u",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QDbG2zKng3X3KVZDzk4OLw/o.jpg",
+    "name": "Okome ga Oishī Hakkō Shokudō Hachihachi",
+    "alias": "お米がおいしい発酵食堂-ハチハチ-高石市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Rice, Japanese, Canteen, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "千代田1-24-11",
+    "city_from_postal": "Takaishi Shi",
+    "city": "Takaishi",
+    "zip_code": "592-0005",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+818085205498",
+    "review_count": 1,
+    "snippets": []
+  },
+  "429647": {
+    "url": "https://www.yelp.com/biz/%E3%81%8F%E3%82%89%E5%AF%BF%E5%8F%B8%E9%AB%98%E7%9F%B3%E5%BA%97-%E9%AB%98%E7%9F%B3%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/G8HEmLGK9k35qrmiG9NO-w/o.jpg",
+    "name": "くら寿司高石店",
+    "alias": "くら寿司高石店-高石市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Sushi Bars, ",
+    "rating": 5.0,
+    "price": "￥",
+    "address": "西取石7丁目6-40",
+    "city_from_postal": "Takaishi Shi",
+    "city": "Takaishi",
+    "zip_code": "592-0012",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81722671501",
+    "review_count": 1,
+    "snippets": []
+  }
+}

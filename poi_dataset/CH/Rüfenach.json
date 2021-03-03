@@ -1,0 +1,21 @@
+{
+  "609570": {
+    "url": "https://www.yelp.com/biz/zum-blauen-engel-r%C3%BCfenach-ag?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Zum Blauen Engel",
+    "alias": "zum-blauen-engel-rüfenach-ag",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Am Zehnten Weg 5",
+    "city_from_postal": "Rüfenach",
+    "city": "Rüfenach Ag",
+    "zip_code": "5235",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41562841354",
+    "review_count": 2,
+    "snippets": []
+  }
+}

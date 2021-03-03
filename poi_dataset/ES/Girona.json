@@ -1,0 +1,40 @@
+{
+  "415226": {
+    "url": "https://www.yelp.com/biz/taberna-irlandesa-mckiernans-girona?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_Ca1POvGcFhiPIpmD1j26g/o.jpg",
+    "name": "Taberna Irlandesa Mckiernans",
+    "alias": "taberna-irlandesa-mckiernans-girona",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, Irish, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "Rbla Llibertat, 32",
+    "city_from_postal": "Girona",
+    "city": "Girona",
+    "zip_code": "17004",
+    "country_code": "ES",
+    "state_code": "GI",
+    "phone": "+34972220141",
+    "review_count": 2,
+    "snippets": []
+  },
+  "565736": {
+    "url": "https://www.yelp.com/biz/el-coco-girona?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RpR9nudQzWLV2p-5BQivvw/o.jpg",
+    "name": "El Coco",
+    "alias": "el-coco-girona",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Juice Bars & Smoothies, ",
+    "rating": 5.0,
+    "price": "€€",
+    "address": "Carrer Barcelona, 169",
+    "city_from_postal": "Girona",
+    "city": "Girona",
+    "zip_code": "17003",
+    "country_code": "ES",
+    "state_code": "GI",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

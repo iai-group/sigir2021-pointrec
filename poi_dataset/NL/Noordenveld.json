@@ -1,0 +1,21 @@
+{
+  "178826": {
+    "url": "https://www.yelp.com/biz/zwembad-peize-peize?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/sCIkXz0UUbJ62q8GGKVauQ/o.jpg",
+    "name": "Zwembad Peize",
+    "alias": "zwembad-peize-peize",
+    "main_category": "Active Life",
+    "sub_categories": "Swimming Pools, Swimming Lessons/Schools, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Smeerveensedijk 2",
+    "city_from_postal": "Noordenveld",
+    "city": "Peize",
+    "zip_code": "9321 XB",
+    "country_code": "NL",
+    "state_code": "DR",
+    "phone": "+31505032385",
+    "review_count": 1,
+    "snippets": []
+  }
+}

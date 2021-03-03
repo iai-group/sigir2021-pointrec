@@ -1,0 +1,21 @@
+{
+  "590514": {
+    "url": "https://www.yelp.com/biz/restaurant-air-pick-schupfart?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NqOCjiPay17UX15E8kz62w/o.jpg",
+    "name": "Restaurant Air Pick",
+    "alias": "restaurant-air-pick-schupfart",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, ",
+    "rating": 5.0,
+    "price": "$$",
+    "address": "Flugplatz",
+    "city_from_postal": "Schupfart",
+    "city": "Schupfart",
+    "zip_code": "4325",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41628718000",
+    "review_count": 1,
+    "snippets": []
+  }
+}

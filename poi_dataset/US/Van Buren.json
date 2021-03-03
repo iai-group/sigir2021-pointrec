@@ -1,0 +1,21 @@
+{
+  "706263": {
+    "url": "https://www.yelp.com/biz/fall-creek-falls-state-park-spencer?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/76btVskBcFD9GQTB66K-lA/o.jpg",
+    "name": "Fall Creek Falls State Park",
+    "alias": "fall-creek-falls-state-park-spencer",
+    "main_category": "Active Life",
+    "sub_categories": "Parks, Hiking, Campgrounds, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "2009 Village Camp Rd",
+    "city_from_postal": "Van Buren",
+    "city": "Spencer",
+    "zip_code": "38585",
+    "country_code": "US",
+    "state_code": "TN",
+    "phone": "+14238815298",
+    "review_count": 69,
+    "snippets": []
+  }
+}

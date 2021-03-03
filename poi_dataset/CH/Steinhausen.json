@@ -1,0 +1,21 @@
+{
+  "28405": {
+    "url": "https://www.yelp.com/biz/torotoro-steinhausen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/k0ZnPu3gdzLSOFl39fy22g/o.jpg",
+    "name": "ToroToro",
+    "alias": "torotoro-steinhausen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Steakhouses, Burgers, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Turmstrasse 18",
+    "city_from_postal": "Steinhausen",
+    "city": "Steinhausen",
+    "zip_code": "6312",
+    "country_code": "CH",
+    "state_code": "ZG",
+    "phone": "+41417499770",
+    "review_count": 2,
+    "snippets": []
+  }
+}

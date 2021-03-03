@@ -1,0 +1,21 @@
+{
+  "668892": {
+    "url": "https://www.yelp.com/biz/gallus-come-p%C3%B3voa-de-santo-adri%C3%A3o?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0w6LQjv_S-tIS_ayCvlxPA/o.jpg",
+    "name": "Gallus Come",
+    "alias": "gallus-come-póvoa-de-santo-adrião",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, Steakhouses, Portuguese, ",
+    "rating": 4.0,
+    "price": "€",
+    "address": "Rua Aquilino Ribeiro, 5",
+    "city_from_postal": "Póvoa De Santo Adrião",
+    "city": "Póvoa de Santo Adrião",
+    "zip_code": "2620-182",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219384549",
+    "review_count": 1,
+    "snippets": []
+  }
+}

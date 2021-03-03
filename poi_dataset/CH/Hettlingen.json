@@ -1,0 +1,21 @@
+{
+  "334090": {
+    "url": "https://www.yelp.com/biz/badi-hettlingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Badi",
+    "alias": "badi-hettlingen",
+    "main_category": "Active Life",
+    "sub_categories": "Active Life, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "badi",
+    "city_from_postal": "Hettlingen",
+    "city": "Hettlingen",
+    "zip_code": "8442",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41523163147",
+    "review_count": 1,
+    "snippets": []
+  }
+}

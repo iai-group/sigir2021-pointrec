@@ -1,0 +1,21 @@
+{
+  "623410": {
+    "url": "https://www.yelp.com/biz/amores-alcal%C3%A1-de-henares?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/x8b6o3aaha7QlQJ3fHq9JQ/o.jpg",
+    "name": "Amore's",
+    "alias": "amores-alcalá-de-henares",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, Waffles, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Plaza de los Irlandeses, 2",
+    "city_from_postal": "Alcalá de Henares",
+    "city": "Alcalá de Henares",
+    "zip_code": "28801",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34625165071",
+    "review_count": 1,
+    "snippets": []
+  }
+}

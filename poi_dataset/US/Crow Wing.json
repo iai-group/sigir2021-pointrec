@@ -1,0 +1,21 @@
+{
+  "482191": {
+    "url": "https://www.yelp.com/biz/pizza-hut-sunland-5?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RIxNKYbaqsBXymxeIdC0DA/o.jpg",
+    "name": "Pizza Hut",
+    "alias": "pizza-hut-sunland-5",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, Chicken Wings, ",
+    "rating": 2.0,
+    "price": "$",
+    "address": "8337 Foothill Blvd",
+    "city_from_postal": "Crow Wing",
+    "city": "Sunland",
+    "zip_code": "56425",
+    "country_code": "US",
+    "state_code": "CA",
+    "phone": "+18183528868",
+    "review_count": 56,
+    "snippets": []
+  }
+}

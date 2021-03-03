@@ -1,0 +1,40 @@
+{
+  "74128": {
+    "url": "https://www.yelp.com/biz/%E4%B8%AD%E6%9D%91%E8%BE%B2%E5%9C%92-%E6%B5%81%E5%B1%B1%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Cjvbq83hyASxeRT7ZxSGlg/o.jpg",
+    "name": "Nakamura Nōen",
+    "alias": "中村農園-流山市",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Farms, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "大畔561",
+    "city_from_postal": "Nagareyama Shi",
+    "city": "Nagareyama",
+    "zip_code": "270-0122",
+    "country_code": "JP",
+    "state_code": "12",
+    "phone": "+818034538283",
+    "review_count": 1,
+    "snippets": []
+  },
+  "461463": {
+    "url": "https://www.yelp.com/biz/%E5%B9%B3%E7%94%B0%E7%89%A7%E5%A0%B4-%E6%9D%B1%E4%BA%AC%E3%83%9F%E3%83%83%E3%83%89%E3%82%BF%E3%82%A6%E3%83%B3%E5%BA%97-%E6%B8%AF%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_s",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7V65DWyRiX8wx3Kcv8n6QQ/o.jpg",
+    "name": "Hirata Bokujo Tokyo Midtown",
+    "alias": "平田牧場-東京ミッドタウン店-港区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Tonkatsu, Bento, ",
+    "rating": 4.0,
+    "price": "￥",
+    "address": "赤坂9-7-3",
+    "city_from_postal": "Nagareyama Shi",
+    "city": "Minato",
+    "zip_code": "270-0101",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81356478329",
+    "review_count": 6,
+    "snippets": []
+  }
+}

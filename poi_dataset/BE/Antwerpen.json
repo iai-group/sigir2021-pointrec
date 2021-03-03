@@ -1,0 +1,21 @@
+{
+  "308783": {
+    "url": "https://www.yelp.com/biz/in-t-koemmeke-koffe-hoboken?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-bXCkees8oaon8T8W8kAOg/o.jpg",
+    "name": "In't koemmeke koffe",
+    "alias": "in-t-koemmeke-koffe-hoboken",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Tea Rooms, ",
+    "rating": 3.0,
+    "price": "€€",
+    "address": "Kapelstraat 9",
+    "city_from_postal": "Antwerpen",
+    "city": "Hoboken",
+    "zip_code": "2660",
+    "country_code": "BE",
+    "state_code": "VAN",
+    "phone": "+3238252570",
+    "review_count": 1,
+    "snippets": []
+  }
+}

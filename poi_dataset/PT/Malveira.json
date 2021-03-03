@@ -1,0 +1,40 @@
+{
+  "109736": {
+    "url": "https://www.yelp.com/biz/o-cantinho-dos-grelhados-ind%C3%BAstria-hoteleira-mafra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QIA_7ZowneED14vnBLv5Ew/o.jpg",
+    "name": "O Cantinho dos Grelhados - Indústria Hoteleira",
+    "alias": "o-cantinho-dos-grelhados-indústria-hoteleira-mafra",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Restaurants, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "R. Nossa Sra. dos Remedios, 7 R/C",
+    "city_from_postal": "Malveira",
+    "city": "Mafra",
+    "zip_code": "2665-259",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219863991",
+    "review_count": 1,
+    "snippets": []
+  },
+  "304171": {
+    "url": "https://www.yelp.com/biz/f%C3%A1brica-das-trouxas-da-malveira-malveira?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-q3I6T_2TrEMurjkVBcncg/o.jpg",
+    "name": "Fábrica das Trouxas da Malveira",
+    "alias": "fábrica-das-trouxas-da-malveira-malveira",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, Diners, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Rua Miguel Judicibus Ferreira, 40",
+    "city_from_postal": "Malveira",
+    "city": "Malveira",
+    "zip_code": "2665-251",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219862672",
+    "review_count": 1,
+    "snippets": []
+  }
+}

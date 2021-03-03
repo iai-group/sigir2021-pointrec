@@ -1,0 +1,21 @@
+{
+  "14848": {
+    "url": "https://www.yelp.com/biz/winnica-turnau-banie?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VxLZAtNG0lhsD1PwHWKSBg/o.jpg",
+    "name": "Winnica Turnau",
+    "alias": "winnica-turnau-banie",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Wineries, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "ul. Baniewice 115",
+    "city_from_postal": "Banie",
+    "city": "Banie",
+    "zip_code": "74-110",
+    "country_code": "PL",
+    "state_code": "ZP",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

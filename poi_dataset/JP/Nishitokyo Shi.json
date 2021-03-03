@@ -1,0 +1,21 @@
+{
+  "549160": {
+    "url": "https://www.yelp.com/biz/heavenstore-b-%E8%A5%BF%E6%9D%B1%E4%BA%AC%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HL5ScT4_RHNzjsyTryFwIQ/o.jpg",
+    "name": "Heavenstore.B",
+    "alias": "heavenstore-b-西東京市",
+    "main_category": "Active Life",
+    "sub_categories": "Skiing, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "芝久保4-20-12",
+    "city_from_postal": "Nishitokyo Shi",
+    "city": "Nishi-tokyo",
+    "zip_code": "188-0014",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81424517791",
+    "review_count": 1,
+    "snippets": []
+  }
+}

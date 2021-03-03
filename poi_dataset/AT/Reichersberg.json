@@ -1,0 +1,21 @@
+{
+  "668450": {
+    "url": "https://www.yelp.com/biz/stifts-br%C3%A4ust%C3%BCberl-reichersberg?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/05QJLQuGbseKOQkG4LemLw/o.jpg",
+    "name": "Stifts-Bräustüberl",
+    "alias": "stifts-bräustüberl-reichersberg",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Beer, Wine & Spirits, Hotels, German, ",
+    "rating": 4.0,
+    "price": "€",
+    "address": "Stift 1",
+    "city_from_postal": "Reichersberg",
+    "city": "Reichersberg",
+    "zip_code": "4981",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4377582324",
+    "review_count": 2,
+    "snippets": []
+  }
+}

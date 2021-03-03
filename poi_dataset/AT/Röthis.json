@@ -1,0 +1,21 @@
+{
+  "24613": {
+    "url": "https://www.yelp.com/biz/weinhaus-rebberg-r%C3%B6this-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lGHdRbLrpR5Y_BnSceIlAg/o.jpg",
+    "name": "Weinhaus Rebberg",
+    "alias": "weinhaus-rebberg-röthis-2",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Wineries, ",
+    "rating": 4.0,
+    "price": "€€€",
+    "address": "Walgaustr. 41",
+    "city_from_postal": "Röthis",
+    "city": "Röthis",
+    "zip_code": "6832",
+    "country_code": "AT",
+    "state_code": "8",
+    "phone": "+43552244668",
+    "review_count": 1,
+    "snippets": []
+  }
+}

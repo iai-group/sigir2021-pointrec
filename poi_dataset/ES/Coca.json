@@ -1,0 +1,21 @@
+{
+  "55376": {
+    "url": "https://www.yelp.com/biz/la-resineria-coca?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "La Resineria",
+    "alias": "la-resineria-coca",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Calle Cinco CA OS, 2",
+    "city_from_postal": "Coca",
+    "city": "Coca",
+    "zip_code": "40480",
+    "country_code": "ES",
+    "state_code": "SG",
+    "phone": "+34921586068",
+    "review_count": 1,
+    "snippets": []
+  }
+}

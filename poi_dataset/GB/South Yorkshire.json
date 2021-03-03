@@ -1,0 +1,40 @@
+{
+  "242732": {
+    "url": "https://www.yelp.com/biz/rotherham-united-fc-south-york?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Rotherham United FC",
+    "alias": "rotherham-united-fc-south-york",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Professional Sports Teams, Soccer, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "New York Stadium",
+    "city_from_postal": "South Yorkshire",
+    "city": "South York",
+    "zip_code": "S60",
+    "country_code": "GB",
+    "state_code": "XSY",
+    "phone": "+448444140733",
+    "review_count": 1,
+    "snippets": []
+  },
+  "493262": {
+    "url": "https://www.yelp.com/biz/bedburgerland-no-title?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/v7Ssqt_gERZ1PYmXLdpz8g/o.jpg",
+    "name": "Bedburgerland",
+    "alias": "bedburgerland-no-title",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, Gas Stations, Convenience Stores, ",
+    "rating": 3.0,
+    "price": "£££",
+    "address": "A61",
+    "city_from_postal": "South Yorkshire",
+    "city": "",
+    "zip_code": "S6",
+    "country_code": "GB",
+    "state_code": "NW",
+    "phone": "",
+    "review_count": 2,
+    "snippets": []
+  }
+}

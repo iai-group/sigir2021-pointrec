@@ -1,0 +1,21 @@
+{
+  "512404": {
+    "url": "https://www.yelp.com/biz/pizza-hut-sylvania-14?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yJY5s8W2o1uZgMcEvt-EMA/o.jpg",
+    "name": "Pizza Hut",
+    "alias": "pizza-hut-sylvania-14",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, Chicken Wings, ",
+    "rating": 5.0,
+    "price": "$",
+    "address": "514 W Ogeechee St",
+    "city_from_postal": "Screven",
+    "city": "Sylvania",
+    "zip_code": "30467",
+    "country_code": "US",
+    "state_code": "GA",
+    "phone": "+19125647750",
+    "review_count": 1,
+    "snippets": []
+  }
+}

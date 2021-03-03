@@ -1,0 +1,21 @@
+{
+  "651020": {
+    "url": "https://www.yelp.com/biz/da-capo-mattighofen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Da Capo",
+    "alias": "da-capo-mattighofen",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, Restaurants, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "Stadtplatz 20",
+    "city_from_postal": "Mattighofen",
+    "city": "Mattighofen",
+    "zip_code": "5230",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4377425009",
+    "review_count": 1,
+    "snippets": []
+  }
+}

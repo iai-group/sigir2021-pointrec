@@ -1,0 +1,21 @@
+{
+  "706108": {
+    "url": "https://www.yelp.com/biz/waynes-coffee-sandnes?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Wayne's Coffee",
+    "alias": "waynes-coffee-sandnes",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Breakfast & Brunch, Cafes, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Gamle Stokkavei 1",
+    "city_from_postal": "Sandnes ",
+    "city": "Sandnes",
+    "zip_code": "4313",
+    "country_code": "NO",
+    "state_code": "11",
+    "phone": "+4751016039",
+    "review_count": 1,
+    "snippets": []
+  }
+}

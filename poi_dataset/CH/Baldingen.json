@@ -1,0 +1,21 @@
+{
+  "70491": {
+    "url": "https://www.yelp.com/biz/hofprodukte-baldingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HXS3RmYzuHAMNzfVFN2juQ/o.jpg",
+    "name": "Hofprodukte",
+    "alias": "hofprodukte-baldingen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Convenience Stores, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Unterdorfstrasse 11",
+    "city_from_postal": "Baldingen",
+    "city": "Baldingen",
+    "zip_code": "5333",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41562492418",
+    "review_count": 1,
+    "snippets": []
+  }
+}

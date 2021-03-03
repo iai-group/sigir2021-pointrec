@@ -1,0 +1,21 @@
+{
+  "445550": {
+    "url": "https://www.yelp.com/biz/freaks-in-aloha-kihei?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/al39zRx4ptXarVpCh0fjrg/o.jpg",
+    "name": "Freaks In Aloha",
+    "alias": "freaks-in-aloha-kihei",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Street Vendors, ",
+    "rating": 5.0,
+    "price": "$",
+    "address": null,
+    "city_from_postal": "Maui",
+    "city": "Kihei",
+    "zip_code": "96753",
+    "country_code": "US",
+    "state_code": "HI",
+    "phone": "+18084951177",
+    "review_count": 2,
+    "snippets": []
+  }
+}

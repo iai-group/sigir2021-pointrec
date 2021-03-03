@@ -1,0 +1,21 @@
+{
+  "384901": {
+    "url": "https://www.yelp.com/biz/restaurant-j%C3%A4gerst%C3%BCbli-anwil?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PqVLJU1Zu7TznSxdQSK5Kw/o.jpg",
+    "name": "Restaurant Jägerstübli",
+    "alias": "restaurant-jägerstübli-anwil",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Hauptstrasse 13",
+    "city_from_postal": "Anwil",
+    "city": "Anwil",
+    "zip_code": "4469",
+    "country_code": "CH",
+    "state_code": "BL",
+    "phone": "+41619910618",
+    "review_count": 1,
+    "snippets": []
+  }
+}

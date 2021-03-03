@@ -1,0 +1,21 @@
+{
+  "151997": {
+    "url": "https://www.yelp.com/biz/quentin-haus-family-restaurant-quentin?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4f4Lmp-C0Zu062wJwKLy2g/o.jpg",
+    "name": "Quentin Haus Family Restaurant",
+    "alias": "quentin-haus-family-restaurant-quentin",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Modern European, ",
+    "rating": 3.0,
+    "price": "$",
+    "address": "Routes 72 & 419",
+    "city_from_postal": "Lebanon",
+    "city": "Quentin",
+    "zip_code": "17083",
+    "country_code": "US",
+    "state_code": "PA",
+    "phone": "+17172726475",
+    "review_count": 26,
+    "snippets": []
+  }
+}

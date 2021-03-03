@@ -1,0 +1,40 @@
+{
+  "442910": {
+    "url": "https://www.yelp.com/biz/the-flames-st-marienkirchen-bei-sch%C3%A4rding?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WqPY3-WYm7mDadSO40k-2w/o.jpg",
+    "name": "The Flames",
+    "alias": "the-flames-st-marienkirchen-bei-schärding",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Steakhouses, Burgers, Cocktail Bars, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Andiesen 9",
+    "city_from_postal": "Sankt Marienkirchen bei Schärding",
+    "city": "St. Marienkirchen bei Schärding",
+    "zip_code": "4774",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4377113310",
+    "review_count": 2,
+    "snippets": []
+  },
+  "479067": {
+    "url": "https://www.yelp.com/biz/gasthaus-zur-tausendj%C3%A4hrigen-linde-st-marienkirchen-bei-sch%C3%A4rding?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Gasthaus zur tausendjährigen Linde",
+    "alias": "gasthaus-zur-tausendjährigen-linde-st-marienkirchen-bei-schärding",
+    "main_category": "Event Planning & Services",
+    "sub_categories": "Hotels, Austrian, ",
+    "rating": 5.0,
+    "price": "€",
+    "address": "Andiesen  1",
+    "city_from_postal": "Sankt Marienkirchen bei Schärding",
+    "city": "St. Marienkirchen bei Schärding",
+    "zip_code": "4774",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4377112023",
+    "review_count": 1,
+    "snippets": []
+  }
+}

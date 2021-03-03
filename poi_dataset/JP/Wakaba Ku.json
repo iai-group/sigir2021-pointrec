@@ -1,0 +1,21 @@
+{
+  "706241": {
+    "url": "https://www.yelp.com/biz/%E5%8D%83%E8%91%89%E5%B8%82%E5%8B%95%E7%89%A9%E5%85%AC%E5%9C%92-%E5%8D%83%E8%91%89%E5%B8%82-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ufQ5LizKdp3q2bFPX93YTQ/o.jpg",
+    "name": "Chiba Zoological Park",
+    "alias": "千葉市動物公園-千葉市-2",
+    "main_category": "Active Life",
+    "sub_categories": "Zoos, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "若葉区源町280",
+    "city_from_postal": "Wakaba Ku",
+    "city": "Chiba",
+    "zip_code": "264-0037",
+    "country_code": "JP",
+    "state_code": "12",
+    "phone": "+81432521111",
+    "review_count": 1,
+    "snippets": []
+  }
+}

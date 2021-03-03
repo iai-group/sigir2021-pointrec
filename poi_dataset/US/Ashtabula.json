@@ -1,0 +1,21 @@
+{
+  "484063": {
+    "url": "https://www.yelp.com/biz/culver-city-skate-park-jefferson?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mnW8ZrXgiCD1c4f-SSGdnQ/o.jpg",
+    "name": "Culver City Skate Park",
+    "alias": "culver-city-skate-park-jefferson",
+    "main_category": "Active Life",
+    "sub_categories": "Skate Parks, ",
+    "rating": 2.5,
+    "price": null,
+    "address": "Jefferson Blvd Duquesne Ave",
+    "city_from_postal": "Ashtabula",
+    "city": "Jefferson",
+    "zip_code": "44047",
+    "country_code": "US",
+    "state_code": "CA",
+    "phone": "",
+    "review_count": 10,
+    "snippets": []
+  }
+}

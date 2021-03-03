@@ -1,0 +1,40 @@
+{
+  "377605": {
+    "url": "https://www.yelp.com/biz/tacos-alma-monterrey?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mqQVWCv3BhKU7cxCA--Z_A/o.jpg",
+    "name": "Tacos Alma",
+    "alias": "tacos-alma-monterrey",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Street Vendors, Tacos, Tortillas, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Av Melchor Ocampo S/N",
+    "city_from_postal": "Monterrey",
+    "city": "Monterrey",
+    "zip_code": "64460",
+    "country_code": "MX",
+    "state_code": "NLE",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "665017": {
+    "url": "https://www.yelp.com/biz/dominos-pizza-monterrey-4?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Dominos Pizza",
+    "alias": "dominos-pizza-monterrey-4",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food Delivery Services, Pizza, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Monterey Road",
+    "city_from_postal": "Monterrey",
+    "city": "Monterrey",
+    "zip_code": "64440",
+    "country_code": "MX",
+    "state_code": "NLE",
+    "phone": "",
+    "review_count": 2,
+    "snippets": []
+  }
+}

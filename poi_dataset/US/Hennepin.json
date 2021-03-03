@@ -1,0 +1,21 @@
+{
+  "312982": {
+    "url": "https://www.yelp.com/biz/fava-tea-greenfield?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Fava Tea",
+    "alias": "fava-tea-greenfield",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "5012 S 74th St",
+    "city_from_postal": "Hennepin",
+    "city": "Greenfield",
+    "zip_code": "55357",
+    "country_code": "US",
+    "state_code": "MN",
+    "phone": "+14142826201",
+    "review_count": 1,
+    "snippets": []
+  }
+}

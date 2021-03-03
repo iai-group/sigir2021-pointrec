@@ -1,0 +1,21 @@
+{
+  "330318": {
+    "url": "https://www.yelp.com/biz/psychic-tarot-card-parlour-atchison?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JcNZhGAjDveJXuE1bY5PFQ/o.jpg",
+    "name": "Psychic Tarot Card Parlour",
+    "alias": "psychic-tarot-card-parlour-atchison",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Psychics, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "517",
+    "city_from_postal": "Atchison",
+    "city": "Atchison",
+    "zip_code": "66002",
+    "country_code": "US",
+    "state_code": "KS",
+    "phone": "+17606819258",
+    "review_count": 5,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "184943": {
+    "url": "https://www.yelp.com/biz/zevenhuizerplas-zevenhuizen?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hfJVHgWoag47fed6UFGshw/o.jpg",
+    "name": "Zevenhuizerplas",
+    "alias": "zevenhuizerplas-zevenhuizen",
+    "main_category": "Active Life",
+    "sub_categories": "Local Flavor, Shopping, Active Life, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Strandweg",
+    "city_from_postal": "Zuidplas",
+    "city": "Zevenhuizen",
+    "zip_code": "2761 DM",
+    "country_code": "NL",
+    "state_code": "ZH",
+    "phone": "",
+    "review_count": 4,
+    "snippets": []
+  }
+}

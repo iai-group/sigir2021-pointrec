@@ -1,0 +1,40 @@
+{
+  "36971": {
+    "url": "https://www.yelp.com/biz/sportcentrum-fit-en-fun-beilen-beilen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Sportcentrum Fit & Fun Beilen",
+    "alias": "sportcentrum-fit-en-fun-beilen-beilen",
+    "main_category": "Active Life",
+    "sub_categories": "Gyms, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "De Zuidmaten 11",
+    "city_from_postal": "Midden-Drenthe",
+    "city": "Beilen",
+    "zip_code": "9411 PT",
+    "country_code": "NL",
+    "state_code": "DR",
+    "phone": "+31528321436",
+    "review_count": 1,
+    "snippets": []
+  },
+  "534997": {
+    "url": "https://www.yelp.com/biz/herinneringscentrum-kamp-westerbork-hooghalen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/w_-AB2sjnelxDEkpwdpnGw/o.jpg",
+    "name": "Herinneringscentrum Kamp Westerbork",
+    "alias": "herinneringscentrum-kamp-westerbork-hooghalen",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Oosthalen 8",
+    "city_from_postal": "Midden-Drenthe",
+    "city": "Hooghalen",
+    "zip_code": "9414 TG",
+    "country_code": "NL",
+    "state_code": "DR",
+    "phone": "+31593592600",
+    "review_count": 2,
+    "snippets": []
+  }
+}

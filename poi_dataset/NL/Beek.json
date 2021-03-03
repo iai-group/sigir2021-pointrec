@@ -1,0 +1,21 @@
+{
+  "423024": {
+    "url": "https://www.yelp.com/biz/grieks-restaurant-kreta-beek-lb?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Oj8Z0Tp4Hr1OL70wPFsa2A/o.jpg",
+    "name": "Grieks Restaurant Kreta",
+    "alias": "grieks-restaurant-kreta-beek-lb",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Aldenhofstraat 80",
+    "city_from_postal": "Beek",
+    "city": "Beek LB",
+    "zip_code": "6191 GW",
+    "country_code": "NL",
+    "state_code": "LI",
+    "phone": "+31464362151",
+    "review_count": 1,
+    "snippets": []
+  }
+}

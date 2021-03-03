@@ -1,0 +1,21 @@
+{
+  "266010": {
+    "url": "https://www.yelp.com/biz/%E4%B8%89%E5%B3%B0%E5%B1%B1-%E6%84%9B%E7%94%B2%E9%83%A1-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/461f0IxYOTEr8x7dCdOI4g/o.jpg",
+    "name": "Mt. Mitsumine",
+    "alias": "三峰山-愛甲郡-2",
+    "main_category": "Active Life",
+    "sub_categories": "Hiking, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "清川村",
+    "city_from_postal": "Kiyokawa Mura",
+    "city": "愛甲郡",
+    "zip_code": "243-0112",
+    "country_code": "JP",
+    "state_code": "14",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

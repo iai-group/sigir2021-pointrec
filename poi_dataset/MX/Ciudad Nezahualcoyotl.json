@@ -1,0 +1,21 @@
+{
+  "270931": {
+    "url": "https://www.yelp.com/biz/california-pizzas-m%C3%A9xico?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x_838rjac1NKcQcKZBrA_g/o.jpg",
+    "name": "California Pizza's",
+    "alias": "california-pizzas-méxico",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "American (Traditional), Italian, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Valle de Banderas",
+    "city_from_postal": "Ciudad Nezahualcoyotl",
+    "city": "México, D.F.",
+    "zip_code": "57100",
+    "country_code": "MX",
+    "state_code": "DIF",
+    "phone": "",
+    "review_count": 2,
+    "snippets": []
+  }
+}

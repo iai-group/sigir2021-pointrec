@@ -1,0 +1,40 @@
+{
+  "366445": {
+    "url": "https://www.yelp.com/biz/bergwirtschaft-herrenmatt-hochwald?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Bergwirtschaft Herrenmatt",
+    "alias": "bergwirtschaft-herrenmatt-hochwald",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Herrenmatt 9",
+    "city_from_postal": "Hochwald",
+    "city": "Hochwald",
+    "zip_code": "4146",
+    "country_code": "CH",
+    "state_code": "SO",
+    "phone": "+41617514073",
+    "review_count": 1,
+    "snippets": []
+  },
+  "557282": {
+    "url": "https://www.yelp.com/biz/restaurant-kreuz-hochwald?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Kreuz",
+    "alias": "restaurant-kreuz-hochwald",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 5.0,
+    "price": "$$",
+    "address": "Seewenstrasse 6",
+    "city_from_postal": "Hochwald",
+    "city": "Hochwald",
+    "zip_code": "4146",
+    "country_code": "CH",
+    "state_code": "SO",
+    "phone": "+41617514927",
+    "review_count": 1,
+    "snippets": []
+  }
+}

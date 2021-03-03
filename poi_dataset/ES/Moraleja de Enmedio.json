@@ -1,0 +1,21 @@
+{
+  "441290": {
+    "url": "https://www.yelp.com/biz/cameron-getafe?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "cameron",
+    "alias": "cameron-getafe",
+    "main_category": "Nightlife",
+    "sub_categories": "Dance Clubs, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "serranillos 40 calle",
+    "city_from_postal": "Moraleja de Enmedio",
+    "city": "Getafe",
+    "zip_code": "28950",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "398018": {
+    "url": "https://www.yelp.com/biz/el-arauca-los-molares?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gdHQrvMKhxpmth24TyDGdQ/o.jpg",
+    "name": "El Arauca",
+    "alias": "el-arauca-los-molares",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Mediterranean, Cuban, Mexican, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Camino de Utrera, 8",
+    "city_from_postal": "Molares, Los",
+    "city": "Los Molares",
+    "zip_code": "41750",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34675681124",
+    "review_count": 1,
+    "snippets": []
+  }
+}

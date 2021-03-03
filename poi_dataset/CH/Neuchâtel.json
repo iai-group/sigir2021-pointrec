@@ -1,0 +1,21 @@
+{
+  "360615": {
+    "url": "https://www.yelp.com/biz/patinoire-du-littoral-genf?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Patinoire du Littoral",
+    "alias": "patinoire-du-littoral-genf",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Music Venues, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "4 Quai Robert Comtesse",
+    "city_from_postal": "Neuchâtel",
+    "city": "Genf",
+    "zip_code": "2000",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

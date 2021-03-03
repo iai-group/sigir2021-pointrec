@@ -1,0 +1,21 @@
+{
+  "199591": {
+    "url": "https://www.yelp.com/biz/%E3%81%A8%E3%81%A3%E3%81%8F%E3%82%8A%E6%B9%96-%E7%94%9F%E9%A7%92%E9%83%A1?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8rAkUEoShZe31Xa-BtUrXg/o.jpg",
+    "name": "Tokkuriko",
+    "alias": "とっくり湖-生駒郡",
+    "main_category": "Active Life",
+    "sub_categories": "Lakes, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "三郷町信貴南畑",
+    "city_from_postal": "Sango Cho",
+    "city": "生駒郡",
+    "zip_code": "636-0833",
+    "country_code": "JP",
+    "state_code": "29",
+    "phone": "+81745437343",
+    "review_count": 1,
+    "snippets": []
+  }
+}

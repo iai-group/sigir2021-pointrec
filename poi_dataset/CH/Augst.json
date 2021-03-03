@@ -1,0 +1,40 @@
+{
+  "466133": {
+    "url": "https://www.yelp.com/biz/pizzeria-cedro-r%C3%B6merhof-augst-bl?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "PIzzeria Cedro Römerhof",
+    "alias": "pizzeria-cedro-römerhof-augst-bl",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Giebenacherstrasse 31",
+    "city_from_postal": "Augst",
+    "city": "Augst Bl",
+    "zip_code": "4302",
+    "country_code": "CH",
+    "state_code": "BL",
+    "phone": "+41618111767",
+    "review_count": 5,
+    "snippets": []
+  },
+  "634224": {
+    "url": "https://www.yelp.com/biz/pro-augusta-raurica-augst-bl?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ywFdySoBLzqKB8Esa5zHYg/o.jpg",
+    "name": "Pro Augusta Raurica",
+    "alias": "pro-augusta-raurica-augst-bl",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Giebenacherstrasse 17",
+    "city_from_postal": "Augst",
+    "city": "Augst BL",
+    "zip_code": "4302",
+    "country_code": "CH",
+    "state_code": "BL",
+    "phone": "+41618162216",
+    "review_count": 4,
+    "snippets": []
+  }
+}

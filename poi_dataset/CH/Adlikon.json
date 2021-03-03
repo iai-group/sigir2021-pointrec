@@ -1,0 +1,21 @@
+{
+  "585578": {
+    "url": "https://www.yelp.com/biz/a4-tr%C3%A4ff-z%C3%BCrich-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PX950iC1gVG2G1ffe_mCJw/o.jpg",
+    "name": "A4 Träff",
+    "alias": "a4-träff-zürich-2",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Schaffhauserstrasse",
+    "city_from_postal": "Adlikon",
+    "city": "Zürich",
+    "zip_code": "8452",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41797012565",
+    "review_count": 1,
+    "snippets": []
+  }
+}

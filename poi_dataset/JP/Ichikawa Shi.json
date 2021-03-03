@@ -1,0 +1,21 @@
+{
+  "42007": {
+    "url": "https://www.yelp.com/biz/%E5%A4%A7%E6%85%B6%E5%9C%92%E9%81%8A%E5%9C%92%E5%9C%B0-%E5%B8%82%E5%B7%9D%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WnLHKEIGeBJUbWiSqE_BOw/o.jpg",
+    "name": "DAIKEIEN Amusement Park",
+    "alias": "大慶園遊園地-市川市",
+    "main_category": "Active Life",
+    "sub_categories": "Batting Cages, Arcades, Karaoke, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "大町358",
+    "city_from_postal": "Ichikawa Shi",
+    "city": "Ichikawa",
+    "zip_code": "272-0801",
+    "country_code": "JP",
+    "state_code": "12",
+    "phone": "+81473385550",
+    "review_count": 2,
+    "snippets": []
+  }
+}

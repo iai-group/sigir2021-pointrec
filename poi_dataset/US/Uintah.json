@@ -1,0 +1,21 @@
+{
+  "706058": {
+    "url": "https://www.yelp.com/biz/dinosaur-tracks-trail-vernal?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uSb07j6BlXFHhy0a5Luxrw/o.jpg",
+    "name": "Dinosaur Tracks Trail",
+    "alias": "dinosaur-tracks-trail-vernal",
+    "main_category": "Active Life",
+    "sub_categories": "Parks, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Red Fleet State Park",
+    "city_from_postal": "Uintah",
+    "city": "Vernal",
+    "zip_code": "84078",
+    "country_code": "US",
+    "state_code": "UT",
+    "phone": "+14357894432",
+    "review_count": 2,
+    "snippets": []
+  }
+}

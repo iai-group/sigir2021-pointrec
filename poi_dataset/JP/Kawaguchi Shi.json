@@ -1,0 +1,21 @@
+{
+  "515712": {
+    "url": "https://www.yelp.com/biz/%E8%B5%A4%E5%B1%B1%E9%99%A3%E5%B1%8B%E8%B7%A1-%E5%B7%9D%E5%8F%A3%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/a09tO2qWSSjp3Ut1lAMhzg/o.jpg",
+    "name": "Akayama Jinya Ato",
+    "alias": "赤山陣屋跡-川口市",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Castles, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "大字赤山字陣屋敷",
+    "city_from_postal": "Kawaguchi Shi",
+    "city": "Kawaguchi",
+    "zip_code": "333-0825",
+    "country_code": "JP",
+    "state_code": "11",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

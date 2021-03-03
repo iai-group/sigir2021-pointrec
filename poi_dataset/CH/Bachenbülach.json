@@ -1,0 +1,40 @@
+{
+  "279204": {
+    "url": "https://www.yelp.com/biz/soham-yoga-bachenb%C3%BClach?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Soham Yoga",
+    "alias": "soham-yoga-bachenbülach",
+    "main_category": "Active Life",
+    "sub_categories": "Yoga, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Zürichstrasse 45",
+    "city_from_postal": "Bachenbülach",
+    "city": "Bachenbülach",
+    "zip_code": "8184",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41794573329",
+    "review_count": 1,
+    "snippets": []
+  },
+  "508801": {
+    "url": "https://www.yelp.com/biz/bar-latino-la-gaviota-bachenb%C3%BClach?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Bar Latino - La Gaviota",
+    "alias": "bar-latino-la-gaviota-bachenbülach",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Kasernenstrasse 4b",
+    "city_from_postal": "Bachenbülach",
+    "city": "Bachenbülach",
+    "zip_code": "8184",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41794181222",
+    "review_count": 1,
+    "snippets": []
+  }
+}

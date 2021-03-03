@@ -1,0 +1,40 @@
+{
+  "277283": {
+    "url": "https://www.yelp.com/biz/cafe-anneliese-schwendt-5?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/r2J1wHdn0B7sH4dLVHxH_g/o.jpg",
+    "name": "Cafe Anneliese",
+    "alias": "cafe-anneliese-schwendt-5",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Dorfstr. 15",
+    "city_from_postal": "Schwendt",
+    "city": "Schwendt",
+    "zip_code": "6385",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+4353756006",
+    "review_count": 3,
+    "snippets": []
+  },
+  "670392": {
+    "url": "https://www.yelp.com/biz/restaurant-zum-fischer-schwendt?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant zum Fischer",
+    "alias": "restaurant-zum-fischer-schwendt",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "German, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "Unterschwendt 41",
+    "city_from_postal": "Schwendt",
+    "city": "Schwendt",
+    "zip_code": "6385",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+4353756807",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "648364": {
+    "url": "https://www.yelp.com/biz/%E3%81%82%E3%81%92%E3%81%A5%E3%81%8D-%E6%96%B0%E5%AE%BF%E5%8C%BA-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rnaTTmHQO8SWn1QPyFvPFg/o.jpg",
+    "name": "Agedzuki",
+    "alias": "あげづき-新宿区-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Tonkatsu, ",
+    "rating": 4.5,
+    "price": "￥￥",
+    "address": "神楽坂3-2",
+    "city_from_postal": "Shobara Shi",
+    "city": "Shinjuku",
+    "zip_code": "729-6131",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81362650029",
+    "review_count": 15,
+    "snippets": []
+  }
+}

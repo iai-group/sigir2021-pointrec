@@ -1,0 +1,40 @@
+{
+  "519724": {
+    "url": "https://www.yelp.com/biz/gasthof-schiff-mammern?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hQrSRZA_GM0iYB4Png17Bw/o.jpg",
+    "name": "Gasthof Schiff",
+    "alias": "gasthof-schiff-mammern",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Seafood, ",
+    "rating": 5.0,
+    "price": "$$$",
+    "address": "Seestrasse 3",
+    "city_from_postal": "Mammern",
+    "city": "Mammern",
+    "zip_code": "8265",
+    "country_code": "CH",
+    "state_code": "TG",
+    "phone": "+41527412444",
+    "review_count": 4,
+    "snippets": []
+  },
+  "605903": {
+    "url": "https://www.yelp.com/biz/hotel-restaurant-hecht-mammern?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rKyIz53RYhZGYKNYiD3bZg/o.jpg",
+    "name": "Hotel-Restaurant Hecht",
+    "alias": "hotel-restaurant-hecht-mammern",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, Hotels, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Hauptstrasse 5",
+    "city_from_postal": "Mammern",
+    "city": "Mammern",
+    "zip_code": "8265",
+    "country_code": "CH",
+    "state_code": "TG",
+    "phone": "+41527412463",
+    "review_count": 2,
+    "snippets": []
+  }
+}

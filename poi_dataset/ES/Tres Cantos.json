@@ -1,0 +1,21 @@
+{
+  "627956": {
+    "url": "https://www.yelp.com/biz/carnicer%C3%ADa-gormaz-tres-cantos?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/23C7TX35VZdEtCwI1QbZvw/o.jpg",
+    "name": "Carnicería Gormaz",
+    "alias": "carnicería-gormaz-tres-cantos",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Butcher, Salumerie, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Calle Maliciosa, 41",
+    "city_from_postal": "Tres Cantos",
+    "city": "Tres Cantos",
+    "zip_code": "28760",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34918040657",
+    "review_count": 1,
+    "snippets": []
+  }
+}

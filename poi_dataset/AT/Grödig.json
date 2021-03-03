@@ -1,0 +1,371 @@
+{
+  "58531": {
+    "url": "https://www.yelp.com/biz/al-pescatore-gr%C3%B6dig?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Al Pescatore",
+    "alias": "al-pescatore-grödig",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Seafood Markets, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Neue Heimat Str. 13",
+    "city_from_postal": "Grödig",
+    "city": "Grödig",
+    "zip_code": "5082",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+43624675492",
+    "review_count": 1,
+    "snippets": []
+  },
+  "139680": {
+    "url": "https://www.yelp.com/biz/cafe-pension-untersberg-eduard-ziegler-gartenau-st-leonhard?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Cafe Pension Untersberg Eduard Ziegler",
+    "alias": "cafe-pension-untersberg-eduard-ziegler-gartenau-st-leonhard",
+    "main_category": "Event Planning & Services",
+    "sub_categories": "Hotels, Nightlife, Restaurants, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Dr. Friedrich Oedlweg 1",
+    "city_from_postal": "Grödig",
+    "city": "Gartenau-St. Leonhard",
+    "zip_code": "5083",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+436246725750",
+    "review_count": 1,
+    "snippets": []
+  },
+  "333009": {
+    "url": "https://www.yelp.com/biz/restaurant-bergstation-am-untersberg-gr%C3%B6dig?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Bergstation am Untersberg",
+    "alias": "restaurant-bergstation-am-untersberg-grödig",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Austrian, Food Stands, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "",
+    "city_from_postal": "Grödig",
+    "city": "Grödig",
+    "zip_code": "5083",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+43662625176",
+    "review_count": 1,
+    "snippets": []
+  },
+  "338404": {
+    "url": "https://www.yelp.com/biz/racklwirt-gr%C3%B6dig?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Racklwirt",
+    "alias": "racklwirt-grödig",
+    "main_category": "Event Planning & Services",
+    "sub_categories": "Hotels, Austrian, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Schützenstr. 25",
+    "city_from_postal": "Grödig",
+    "city": "Grödig",
+    "zip_code": "5082",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+43624672267",
+    "review_count": 3,
+    "snippets": []
+  },
+  "351570": {
+    "url": "https://www.yelp.com/biz/gasthof-esterer-gr%C3%B6dig?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Gasthof Esterer",
+    "alias": "gasthof-esterer-grödig",
+    "main_category": "Event Planning & Services",
+    "sub_categories": "Hotels, German, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Glanstr. 31",
+    "city_from_postal": "Anif",
+    "city": "Grödig",
+    "zip_code": "5081",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+43624673221",
+    "review_count": 1,
+    "snippets": []
+  },
+  "463715": {
+    "url": "https://www.yelp.com/biz/restaurant-gasthof-mostwastl-salzburg?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RWunnOMlVqgkoaF3GLPE_g/o.jpg",
+    "name": "Restaurant Gasthof Mostwastl",
+    "alias": "restaurant-gasthof-mostwastl-salzburg",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Austrian, ",
+    "rating": 4.5,
+    "price": "€€",
+    "address": "Mostwastlweg 3",
+    "city_from_postal": "Grödig",
+    "city": "Salzburg",
+    "zip_code": "5082",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+436628235720",
+    "review_count": 4,
+    "snippets": [
+      {
+        "url": "https://www.mostwastl.com/",
+        "snippet": "im Hotel Gasthof Mostwastl, dem Salzburger Traditionsbetrieb. Wir sind ein familär geführter Gasthof, wo Sie noch regionale Küche und österreichische Gastfreundschaft finden. Verbringen Sie erholsame Tage in unserer idyllischen Grünlage im Süden der Altstadt von Salzburg, mit wunderbarem Blick auf den Untersberg. Wir freuen uns auf Ihren ...",
+        "title": "HOME | mostwastl",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g190441-d694500-Reviews-Mostwastl-Salzburg_Austrian_Alps.html",
+        "snippet": "Mostwastl, Salzburg: See 61 unbiased reviews of Mostwastl, rated 4 of 5 on Tripadvisor and ranked #255 of 672 restaurants in Salzburg. Flights Vacation Rentals ... Gasthof Reiterhof. 23 reviews .88 miles away . Best nearby attractions See all. Salzburger Schokolade GmbH.",
+        "title": "Mostwastl, Salzburg - Restaurant Reviews, Photos &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.at/Restaurant_Review-g190441-d694500-Reviews-Mostwastl-Salzburg_Austrian_Alps.html",
+        "snippet": "Mostwastl, Salzburg: 61 Bewertungen - bei Tripadvisor auf Platz 254 von 671 von 671 Salzburg Restaurants; mit 4/5 von Reisenden bewertet. Flüge ... Ein Gasthaus, wie man es schon schwer findet. Gute Ruhelage in Autobahnnähe und die nächste Bushaltestelle in die Stadt nicht weit.",
+        "title": "Mostwastl, Salzburg - Restaurant Bewertungen ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Hotel_Review-g190441-d294818-Reviews-Mostwastl-Salzburg_Austrian_Alps.html",
+        "snippet": "Dear guest,welcome at Hotel Gasthof Mostwastl.We are a Family runned Hotel situated in the beautiful south of the old town of Salzburg.We offer our guests comfortable hotel rooms in a quite sourrounding and view to the mountains. We offer an Autrian á la carte Restaurant for lunch and dinner and a beer garden as well.",
+        "title": "Mostwastl Hotel, Salzburg - TripAdvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/at/gasthof-mostwastl.no.html",
+        "snippet": "Hotel Gasthof Mostwastl Dette området passer utmerket for deg som er interessert i fjell, å oppleve flott natur og slott – Sjekk beliggenhet Mostwastlweg 3, Leopoldskron-Moos, 5082 Salzburg, Østerrike – Dette området passer utmerket for deg som er interessert i fjell, å oppleve flott natur og slott – Sjekk beliggenhet Flott beliggenhet – vis kart",
+        "title": "Hotel Gasthof Mostwastl (Salzburg) – oppdaterte priser for ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Hotel_Review-g190441-d294818-Reviews-Mostwastl-Salzburg_Austrian_Alps.html",
+        "snippet": "Hvis du er ute etter et familievennlig hotell i Salzburg, så trenger du ikke lete lenger enn Mostwastl. Da Mostwastl befinner seg like ved populære landemerker slik som Wasserspiele Hellbrunn (2,1 km) og Stiegl-Brauwelt (4,4 km), kan stedets gjester enkelt oppleve noen av de mest berømte attraksjonene i Salzburg.",
+        "title": "MOSTWASTL (Salzburg, Østerrike) - Hotell - anmeldelser og ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/at/gasthof-mostwastl.de.html",
+        "snippet": "Hotel Gasthof Mostwastl Das Viertel ist eine tolle Wahl für Reisende, die sich für Bergen, Landschaften und Burgen interessieren. – Lage prüfen Mostwastlweg 3, Leopoldskron-Moos, 5082 Salzburg, Österreich – Das Viertel ist eine tolle Wahl für Reisende, die sich für Bergen, Landschaften und Burgen interessieren. – Lage prüfen Tolle Lage – Karte anzeigen",
+        "title": "Hotel Gasthof Mostwastl (Österreich Salzburg) - Booking.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.hotels.com/ho552524/hotel-gasthof-mostwastl-salzburg-sterrike/",
+        "snippet": "Hotel Gasthof Mostwastl ligger i Salzburg. To populære severdigheter er Hellbrunn-slottet og Untersberg taubane, men hvis det er shopping som står på planen, kan du ta turen til Getreidegasse. Er du på utkikk etter et arrangement eller en kamp mens du er i byen, kan du se om det skjer noe spennende på Wals Siezenheim stadion eller Salzburgarena.",
+        "title": "Hotel Gasthof Mostwastl i Salzburg | Hotels.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/mostwastl/",
+        "snippet": "Mostwastl, Salzburg. 487 likes. &quot;Hotel Gasthof Mostwastl&quot; - Salzburger Traditionsbetrieb südlich der Altstadt, in herrlicher Lage vorm Untersberg. Bei uns gibt es noch echte österreichische Küche...",
+        "title": "Mostwastl - Home - Salzburg, Austria - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://de-de.facebook.com/mostwastl/",
+        "snippet": "Mostwastl, Salzburg. Gefällt 487 Mal. &quot;Hotel Gasthof Mostwastl&quot; - Salzburger Traditionsbetrieb südlich der Altstadt, in herrlicher Lage vorm Untersberg. Bei uns gibt es noch echte österreichische...",
+        "title": "Mostwastl - Startseite - Salzburg - Speisekarte, Preise ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "487855": {
+    "url": "https://www.yelp.com/biz/restaurant-sagenhaft-gr%C3%B6dig?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jI484v4yukp82c7zs52p9g/o.jpg",
+    "name": "Restaurant Sagenhaft",
+    "alias": "restaurant-sagenhaft-grödig",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Austrian, ",
+    "rating": 4.5,
+    "price": "€€€",
+    "address": "Marktstr. 8",
+    "city_from_postal": "Grödig",
+    "city": "Grödig",
+    "zip_code": "5082",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+43624672959",
+    "review_count": 4,
+    "snippets": []
+  },
+  "533670": {
+    "url": "https://www.yelp.com/biz/adventmarkt-st-leonhard-gartenau-st-leonhard?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Adventmarkt St. Leonhard",
+    "alias": "adventmarkt-st-leonhard-gartenau-st-leonhard",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Arts & Entertainment, ",
+    "rating": 5.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Grödig",
+    "city": "Gartenau-St. Leonhard",
+    "zip_code": "5083",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "550696": {
+    "url": "https://www.yelp.com/biz/hochalm-no-title?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Cf9bucZzFbmWSw7CWIVBzA/o.jpg",
+    "name": "Hochalm",
+    "alias": "hochalm-no-title",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Austrian, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Dr. Friedrich-Oedl-Weg 2",
+    "city_from_postal": "Grödig",
+    "city": "Salzburg",
+    "zip_code": "5083",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+43662628674",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.residenzhochalm.com/",
+        "snippet": "Wellness im Hotel Residenz Hochalm. Entspannung finden Sie in unserem Spa-Bereich mit Sauna, Infrarotkabine, Sanarium, Ruheraum und vielem mehr. Nutzen Sie auch unsere Sonnenterrasse mit Blick auf die Bergwelt für relaxte Stunden. Ihr Hotel in Saalbach Hinterglemm ist gefunden.",
+        "title": "Hotel Residenz Hochalm | Alpin Lifestyle &amp; Aktiv Hotel‎",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.alpenpark-neuss.de/gastronomie/salzburger-hochalm.html",
+        "snippet": "Salzburger Hochalm. 360 Grad Rundgang. Du sitzt in einer urigen Stube unter 300 Jahre alten Holzschindeln, im Kamin prasselt das Feuer und es duftet nach leckeren Speisen. Der Blick schweift durch das Fenster auf den Schnee und echtes Wohlbehagen stellt sich ein.",
+        "title": "Restaurant Salzburger Hochalm | ALPENPARK NEUSS",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.groedig.net/de/hochalm-am-untersberg.htm",
+        "snippet": "Grödig am Untersberg bei Salzburg bedeutet Urlaub im Salzburger Land. Im Süden der Stadt Salzburg gibt es viele Sport- &amp; Freizeitmöglichkeiten und kurze Wege zu Ausflugszielen. Neugierig?",
+        "title": "Hochalm am Untersberg - Grödig bei Salzburg",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.residenzhochalm.com/en/leisure/summer/hiking-near-salzburg",
+        "snippet": "Adventure and relaxation: hiking near Salzburg. Saalbach Hinterglemm offers hikers a real El Dorado of attractive walks. No less than 400 kilometres of well-marked hiking trails lead through the fantastically beautiful mountain scenery around the hotel Residenz Hochalm.",
+        "title": "Hiking near Salzburg | Hotel Residenz Hochalm",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pages/Salzburger-Hochalm/270718353573576",
+        "snippet": "Posts about Salzburger Hochalm. Mustafa Kürk was eating Abendessen at Salzburger Hochalm. March 14 at 8:52 AM · Neuss, Germany · Salzburger Hochalm. German Restaurant · Neuss, Germany. 186 people checked in here. Benjamin Petker is eating Abendessen with Dajana Odenthal at Salzburger Hochalm.",
+        "title": "Salzburger Hochalm - Neuss, Germany - German Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g190441-d12185475-Reviews-Berggasthof_Hochalm-Salzburg_Austrian_Alps.html",
+        "snippet": "Berggasthof Hochalm, Salzburg: See 5 unbiased reviews of Berggasthof Hochalm, rated 4 of 5 on TripAdvisor and ranked #451 of 663 restaurants in Salzburg.",
+        "title": "Berggasthof Hochalm, Salzburg - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/at/sandton-residenz-hochalm.html",
+        "snippet": "One of our top picks in Saalbach-Hinterglemm. Right next to the Hochalmbahn Cable Car in the Saalbach-Hinterglemm Ski Area, with direct access to ski slopes, the 4-star Residenz Hochalm Hinterglemm offers accommodations with free WiFi and a wellness area with 3 saunas.",
+        "title": "Hotel Residenz Hochalm, Saalbach-Hinterglemm, Austria ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g190440-d1319622-Reviews-Hochalm-Obertauern_Austrian_Alps.html",
+        "snippet": "Hochalm, Obertauern: Se 153 objektive anmeldelser av Hochalm, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 5 av 44 restauranter i Obertauern. ... Diktn Alm am Obertauern Salzburg. 49 anmeldelser . 1,36 km unna . Mest populære attraksjoner i nærheten Se alle. CSA Skischule Silvia Grillitsch. 436 anmeldelser . 1,71 km unna .",
+        "title": "Hochalm, Obertauern - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Jausenstation-Hochalm-308342725863131/",
+        "snippet": "Jausenstation Hochalm - Heutal - Unken, 5091 Unken, Salzburg, Austria - Rated 5 based on 40 Reviews &quot;Great place when you can feel like in your grandma&#39;s...",
+        "title": "Jausenstation Hochalm - Home - Unken, Salzburg, Austria ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.salzburg.info/en/travel-info/infos/bergrestaurant-hochalm_az_354827",
+        "snippet": "By checking the box, you consent to the processing of the aforementioned personally identifiable data for the purposes of sending you an email newsletter based upon your expressed agreement and until such point as you wish to revoke or rescind your consent.",
+        "title": "Bergrestaurant Hochalm : salzburg.info",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "562734": {
+    "url": "https://www.yelp.com/biz/china-restaurant-chang-xing-gr%C3%B6dig?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OIiLpEjDGmzqKGS9IE4gEw/o.jpg",
+    "name": "China-Restaurant Chang Xing",
+    "alias": "china-restaurant-chang-xing-grödig",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Chinese, ",
+    "rating": 4.0,
+    "price": "€",
+    "address": "Hauptstr. 48",
+    "city_from_postal": "Grödig",
+    "city": "Grödig",
+    "zip_code": "5082",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+43624673241",
+    "review_count": 3,
+    "snippets": []
+  },
+  "643118": {
+    "url": "https://www.yelp.com/biz/untersberg-gartenau?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jdYoQ9nFXaHHRh1MVEZdIg/o.jpg",
+    "name": "Untersberg",
+    "alias": "untersberg-gartenau",
+    "main_category": "Active Life",
+    "sub_categories": "Hiking, Cable Cars, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Doktor-Friedrich-Oedl-Weg 2",
+    "city_from_postal": "Grödig",
+    "city": "Gartenau",
+    "zip_code": "5083",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "",
+    "review_count": 4,
+    "snippets": []
+  },
+  "650808": {
+    "url": "https://www.yelp.com/biz/gr%C3%BCll-fischhandel-gr%C3%B6dig?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pwBvS4bqaYdz4hwyrRSIEA/o.jpg",
+    "name": "Grüll Fischhandel",
+    "alias": "grüll-fischhandel-grödig",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fishmonger, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Neue Heimat Str. 13",
+    "city_from_postal": "Grödig",
+    "city": "Grödig",
+    "zip_code": "5082",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+43624675492",
+    "review_count": 2,
+    "snippets": []
+  },
+  "653519": {
+    "url": "https://www.yelp.com/biz/salzburg-schokolade-gr%C3%B6dig?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/p4rtkRt_s4TrQpJFfHzISg/o.jpg",
+    "name": "Salzburg Schokolade",
+    "alias": "salzburg-schokolade-grödig",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Chocolatiers & Shops, ",
+    "rating": 3.0,
+    "price": "€",
+    "address": "Hauptstr. 14",
+    "city_from_postal": "Grödig",
+    "city": "Grödig",
+    "zip_code": "5082",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+4362468911290",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "222733": {
+    "url": "https://www.yelp.com/biz/yummy-tortillas-jersey-city?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rjl-DV7yvA71HLT9Javlcg/o.jpg",
+    "name": "Yummy Tortillas",
+    "alias": "yummy-tortillas-jersey-city",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "French, Mexican, ",
+    "rating": 2.0,
+    "price": "$$",
+    "address": "644 Newark Ave",
+    "city_from_postal": "Sandoval",
+    "city": "Jersey City",
+    "zip_code": "87025",
+    "country_code": "US",
+    "state_code": "NJ",
+    "phone": "+12017925888",
+    "review_count": 6,
+    "snippets": []
+  }
+}

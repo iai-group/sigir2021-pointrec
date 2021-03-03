@@ -1,0 +1,21 @@
+{
+  "424764": {
+    "url": "https://www.yelp.com/biz/h%C3%BCsler-b%C3%A4ckerei-konditorei-caf%C3%A9-inwil?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Hüsler Bäckerei Konditorei Café",
+    "alias": "hüsler-bäckerei-konditorei-café-inwil",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, Patisserie/Cake Shop, Cafes, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Hauptstrasse 28",
+    "city_from_postal": "Inwil",
+    "city": "Inwil",
+    "zip_code": "6034",
+    "country_code": "CH",
+    "state_code": "LU",
+    "phone": "+41414481234",
+    "review_count": 1,
+    "snippets": []
+  }
+}

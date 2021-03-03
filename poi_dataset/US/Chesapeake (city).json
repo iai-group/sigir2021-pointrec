@@ -1,0 +1,21 @@
+{
+  "622632": {
+    "url": "https://www.yelp.com/biz/mermaidazzle-creations-and-events-chesapeake?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Q_UAOs3eeZPM2Au0liEhsQ/o.jpg",
+    "name": "Mermaidazzle Creations and Events",
+    "alias": "mermaidazzle-creations-and-events-chesapeake",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Party & Event Planning, Festivals, ",
+    "rating": 5.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Chesapeake (city)",
+    "city": "Chesapeake",
+    "zip_code": "23320",
+    "country_code": "US",
+    "state_code": "VA",
+    "phone": "+18054333033",
+    "review_count": 5,
+    "snippets": []
+  }
+}

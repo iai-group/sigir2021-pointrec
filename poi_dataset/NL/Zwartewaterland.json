@@ -1,0 +1,21 @@
+{
+  "137394": {
+    "url": "https://www.yelp.com/biz/beleef-zwartsluis-zwartsluis?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Beleef Zwartsluis",
+    "alias": "beleef-zwartsluis-zwartsluis",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Cultural Center, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Handelskade 25",
+    "city_from_postal": "Zwartewaterland",
+    "city": "Zwartsluis",
+    "zip_code": "8064 DV",
+    "country_code": "NL",
+    "state_code": "OV",
+    "phone": "+31383866555",
+    "review_count": 1,
+    "snippets": []
+  }
+}

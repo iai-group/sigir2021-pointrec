@@ -1,0 +1,40 @@
+{
+  "250583": {
+    "url": "https://www.yelp.com/biz/catherines-cupcakery-yuma?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rvqHpjNx8gguvkxwcDiejw/o.jpg",
+    "name": "Catherine's Cupcakery",
+    "alias": "catherines-cupcakery-yuma",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, Desserts, ",
+    "rating": 3.5,
+    "price": "$$",
+    "address": "1400 S 4th Ave",
+    "city_from_postal": "Yuma",
+    "city": "Yuma",
+    "zip_code": "85364",
+    "country_code": "US",
+    "state_code": "AZ",
+    "phone": "+19283458194",
+    "review_count": 25,
+    "snippets": []
+  },
+  "609224": {
+    "url": "https://www.yelp.com/biz/spiritual-concepts-yuma-3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mgStlf2vNEoKes5szBHUSg/o.jpg",
+    "name": "Spiritual Concepts",
+    "alias": "spiritual-concepts-yuma-3",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Psychic Mediums, Psychics, Reiki, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "2833 S 4th Ave",
+    "city_from_postal": "Yuma",
+    "city": "Yuma",
+    "zip_code": "85364",
+    "country_code": "US",
+    "state_code": "AZ",
+    "phone": "+19287822742",
+    "review_count": 1,
+    "snippets": []
+  }
+}

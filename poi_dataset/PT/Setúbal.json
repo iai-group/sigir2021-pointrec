@@ -1,0 +1,40 @@
+{
+  "457650": {
+    "url": "https://www.yelp.com/biz/churrasqueira-paladares-set%C3%BAbal?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3LnYmdm4aWlNsYGmYCvQJA/o.jpg",
+    "name": "Churrasqueira Paladares",
+    "alias": "churrasqueira-paladares-setúbal",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Chicken Shop, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "R. Dr. Henrique Constantino, 74",
+    "city_from_postal": "Setúbal",
+    "city": "Setúbal",
+    "zip_code": "2910-565",
+    "country_code": "PT",
+    "state_code": "15",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "691780": {
+    "url": "https://www.yelp.com/biz/garrafeira-tody-set%C3%BAbal?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PNA7aBuKy-234RpU8Q1J5g/o.jpg",
+    "name": "Garrafeira Tody.",
+    "alias": "garrafeira-tody-setúbal",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Beverage Store, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Avenida Luisa Tody 239",
+    "city_from_postal": "Setúbal",
+    "city": "Setúbal",
+    "zip_code": "2900-463",
+    "country_code": "PT",
+    "state_code": "15",
+    "phone": "+351265536252",
+    "review_count": 1,
+    "snippets": []
+  }
+}

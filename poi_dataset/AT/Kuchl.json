@@ -1,0 +1,40 @@
+{
+  "441711": {
+    "url": "https://www.yelp.com/biz/b%C3%BCrgerkeller-kuchl?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Bürgerkeller",
+    "alias": "bürgerkeller-kuchl",
+    "main_category": "Nightlife",
+    "sub_categories": "Wine Bars, Pubs, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Markt 59",
+    "city_from_postal": "Kuchl",
+    "city": "Kuchl",
+    "zip_code": "5431",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+4362445036",
+    "review_count": 1,
+    "snippets": []
+  },
+  "473975": {
+    "url": "https://www.yelp.com/biz/cafe-imbei-raduljewitsch-kuchl?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Cafe Imbei Raduljewitsch",
+    "alias": "cafe-imbei-raduljewitsch-kuchl",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, Coffee & Tea, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Markt 10",
+    "city_from_postal": "Kuchl",
+    "city": "Kuchl",
+    "zip_code": "5431",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+4362446274",
+    "review_count": 1,
+    "snippets": []
+  }
+}

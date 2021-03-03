@@ -1,0 +1,40 @@
+{
+  "271118": {
+    "url": "https://www.yelp.com/biz/jo%C3%A3o-d-ourique-actividades-hoteleiras-seixal?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "João D'Ourique, Actividades Hoteleiras",
+    "alias": "joão-d-ourique-actividades-hoteleiras-seixal",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Restaurants, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Pça. de 5 de Outubro, 4",
+    "city_from_postal": "Amora",
+    "city": "Seixal",
+    "zip_code": "2845-425",
+    "country_code": "PT",
+    "state_code": "15",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "295936": {
+    "url": "https://www.yelp.com/biz/pizzaria-verde-amarelo-seixal?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K5f2ERblywnvB8ptYRdyMA/o.jpg",
+    "name": "Pizzaria Verde Amarelo",
+    "alias": "pizzaria-verde-amarelo-seixal",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Sushi Bars, Italian, Burgers, ",
+    "rating": 4.5,
+    "price": "€€",
+    "address": "R. Emídio Guilherme Garcia Mendes, 49",
+    "city_from_postal": "Amora",
+    "city": "Seixal",
+    "zip_code": "2845-608",
+    "country_code": "PT",
+    "state_code": "15",
+    "phone": "+351212277961",
+    "review_count": 3,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "13647": {
+    "url": "https://www.yelp.com/biz/h%C3%B6fli-bar-otelfingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Höfli Bar",
+    "alias": "höfli-bar-otelfingen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food, Hotels & Travel, Bars, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Landstrasse 26",
+    "city_from_postal": "Otelfingen",
+    "city": "Otelfingen",
+    "zip_code": "8112",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41448451275",
+    "review_count": 1,
+    "snippets": []
+  },
+  "296503": {
+    "url": "https://www.yelp.com/biz/golfplatz-golfpark-otelfingen-otelfingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Golfplatz Golfpark Otelfingen",
+    "alias": "golfplatz-golfpark-otelfingen-otelfingen",
+    "main_category": "Active Life",
+    "sub_categories": "Golf, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Neue Riedstrasse 72",
+    "city_from_postal": "Otelfingen",
+    "city": "Otelfingen",
+    "zip_code": "8112",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41448466800",
+    "review_count": 2,
+    "snippets": []
+  }
+}

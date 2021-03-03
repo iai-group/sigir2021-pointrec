@@ -1,0 +1,40 @@
+{
+  "182605": {
+    "url": "https://www.yelp.com/biz/wakika-heladeria-guadalupe?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3vLMQlgIfm8209hdw6H1hQ/o.jpg",
+    "name": "Wakika Heladeria",
+    "alias": "wakika-heladeria-guadalupe",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Ice Cream & Frozen Yogurt, ",
+    "rating": 5.0,
+    "price": "$",
+    "address": "Av. Revolucion 40",
+    "city_from_postal": "Guadalupe",
+    "city": "Guadalupe",
+    "zip_code": "98614",
+    "country_code": "MX",
+    "state_code": "ZAC",
+    "phone": "",
+    "review_count": 23,
+    "snippets": []
+  },
+  "582407": {
+    "url": "https://www.yelp.com/biz/chamuyo-guadalupe?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CdIfKejxwQTo3KRIVY635w/o.jpg",
+    "name": "Chamuyo",
+    "alias": "chamuyo-guadalupe",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Steakhouses, Argentine, Wine Bars, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Artículo 27º Constitucional S/N",
+    "city_from_postal": "Ensenada",
+    "city": "Guadalupe",
+    "zip_code": "22755",
+    "country_code": "MX",
+    "state_code": "BCN",
+    "phone": "+526469775690",
+    "review_count": 22,
+    "snippets": []
+  }
+}

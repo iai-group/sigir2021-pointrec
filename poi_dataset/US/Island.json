@@ -1,0 +1,21 @@
+{
+  "563971": {
+    "url": "https://www.yelp.com/biz/whidbey-island-kayaking-company-langley?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fmCkvp1wqVrN9UEwuFjWZQ/o.jpg",
+    "name": "Whidbey Island Kayaking Company",
+    "alias": "whidbey-island-kayaking-company-langley",
+    "main_category": "Active Life",
+    "sub_categories": "Rafting/Kayaking, Tours, Paddleboarding, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "201 Wharf St",
+    "city_from_postal": "Island",
+    "city": "Langley",
+    "zip_code": "98260",
+    "country_code": "US",
+    "state_code": "WA",
+    "phone": "+13602210229",
+    "review_count": 12,
+    "snippets": []
+  }
+}

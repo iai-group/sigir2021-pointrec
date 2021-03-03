@@ -1,0 +1,40 @@
+{
+  "630951": {
+    "url": "https://www.yelp.com/biz/curryxpress-baar?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "CurryXPress",
+    "alias": "curryxpress-baar",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fast Food, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Baarerstrasse 36",
+    "city_from_postal": "Zug",
+    "city": "Baar",
+    "zip_code": "6300",
+    "country_code": "CH",
+    "state_code": "ZG",
+    "phone": "+41417277090",
+    "review_count": 2,
+    "snippets": []
+  },
+  "691580": {
+    "url": "https://www.yelp.com/biz/nuejos-baar?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/o7W-oT_zTGk0t0xJkhTZ_w/o.jpg",
+    "name": "NUEJO's",
+    "alias": "nuejos-baar",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Parent Cafes, Youth Club, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Sihlbruggstrasse 3 a",
+    "city_from_postal": "Baar",
+    "city": "Baar",
+    "zip_code": "6340",
+    "country_code": "CH",
+    "state_code": "ZG",
+    "phone": "+41413606666",
+    "review_count": 1,
+    "snippets": []
+  }
+}

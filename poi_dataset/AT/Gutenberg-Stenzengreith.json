@@ -1,0 +1,21 @@
+{
+  "705968": {
+    "url": "https://www.yelp.com/biz/sch%C3%B6ckl-st-radegund-bei-graz?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IBHiWFg4hveE0KqfUwz-3Q/o.jpg",
+    "name": "Schöckl",
+    "alias": "schöckl-st-radegund-bei-graz",
+    "main_category": "Active Life",
+    "sub_categories": "Hiking, Landmarks & Historical Buildings, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Schöcklstraße",
+    "city_from_postal": "Gutenberg-Stenzengreith",
+    "city": "St. Radegund bei Graz",
+    "zip_code": "8061",
+    "country_code": "AT",
+    "state_code": "6",
+    "phone": "",
+    "review_count": 3,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "224972": {
+    "url": "https://www.yelp.com/biz/farmers-arms-richmond-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Farmers Arms",
+    "alias": "farmers-arms-richmond-2",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, ",
+    "rating": 3.0,
+    "price": "££",
+    "address": "",
+    "city_from_postal": "Durham",
+    "city": "Richmond",
+    "zip_code": "DL11 6QG",
+    "country_code": "GB",
+    "state_code": "NYK",
+    "phone": "+441748886297",
+    "review_count": 1,
+    "snippets": []
+  },
+  "672830": {
+    "url": "https://www.yelp.com/biz/home-burger-hartlepool?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vXUF_tOCzh_iWC2C05_fiQ/o.jpg",
+    "name": "Home Burger",
+    "alias": "home-burger-hartlepool",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "1 Center St",
+    "city_from_postal": "Durham",
+    "city": "Hartlepool",
+    "zip_code": "TS24 7DA",
+    "country_code": "GB",
+    "state_code": "HPL",
+    "phone": "+444162669289",
+    "review_count": 3,
+    "snippets": []
+  }
+}

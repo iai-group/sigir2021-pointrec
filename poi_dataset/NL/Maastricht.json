@@ -1,0 +1,21 @@
+{
+  "156481": {
+    "url": "https://www.yelp.com/biz/sofa-maastricht-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4hvkBqLcPLFcitCzTcAsCg/o.jpg",
+    "name": "SOFA",
+    "alias": "sofa-maastricht-2",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, ",
+    "rating": 4.0,
+    "price": "€€€€",
+    "address": "Hoge Weerd 6",
+    "city_from_postal": "Maastricht",
+    "city": "Maastricht",
+    "zip_code": "6229 AM",
+    "country_code": "NL",
+    "state_code": "LI",
+    "phone": "+31433671337",
+    "review_count": 4,
+    "snippets": []
+  }
+}

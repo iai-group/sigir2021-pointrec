@@ -1,0 +1,21 @@
+{
+  "156638": {
+    "url": "https://www.yelp.com/biz/la-fontana-playa-de-los-cristianos?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "La Fontana",
+    "alias": "la-fontana-playa-de-los-cristianos",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Fontana Square",
+    "city_from_postal": "Arona",
+    "city": "Playa de los Cristianos",
+    "zip_code": "38650",
+    "country_code": "ES",
+    "state_code": "TF",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

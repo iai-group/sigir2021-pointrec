@@ -1,0 +1,21 @@
+{
+  "281195": {
+    "url": "https://www.yelp.com/biz/steakhouse-brunnen-ingenbohl?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6o34C4rfJRHuQFZWivWrLA/o.jpg",
+    "name": "Steakhouse Brunnen",
+    "alias": "steakhouse-brunnen-ingenbohl",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Steakhouses, Bars, Latin American, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Bahnhofstrasse 8",
+    "city_from_postal": "Ingenbohl",
+    "city": "Ingenbohl",
+    "zip_code": "6440",
+    "country_code": "CH",
+    "state_code": "SZ",
+    "phone": "+41418251306",
+    "review_count": 1,
+    "snippets": []
+  }
+}

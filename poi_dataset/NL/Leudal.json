@@ -1,0 +1,40 @@
+{
+  "192923": {
+    "url": "https://www.yelp.com/biz/geraats-grathem?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Geraats",
+    "alias": "geraats-grathem",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Belgian, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Markt 5",
+    "city_from_postal": "Leudal",
+    "city": "Grathem",
+    "zip_code": "6096",
+    "country_code": "NL",
+    "state_code": "LI",
+    "phone": "+31475451540",
+    "review_count": 1,
+    "snippets": []
+  },
+  "411038": {
+    "url": "https://www.yelp.com/biz/porto-maurizio-horn?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Porto Maurizio",
+    "alias": "porto-maurizio-horn",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, Pizza, ",
+    "rating": 1.0,
+    "price": "€€",
+    "address": "Dorpstraat 89-91",
+    "city_from_postal": "Leudal",
+    "city": "Horn",
+    "zip_code": "6085 BE",
+    "country_code": "NL",
+    "state_code": "LI",
+    "phone": "+31475581846",
+    "review_count": 1,
+    "snippets": []
+  }
+}

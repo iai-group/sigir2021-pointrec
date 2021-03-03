@@ -1,0 +1,21 @@
+{
+  "228170": {
+    "url": "https://www.yelp.com/biz/restaurante-j%C3%BAlia-duarte-murtede-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/omnEKlQxyI-DwjqpGqIkrg/o.jpg",
+    "name": "Restaurante Júlia Duarte",
+    "alias": "restaurante-júlia-duarte-murtede-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "R. Costa, 7",
+    "city_from_postal": "Murtede",
+    "city": "Murtede",
+    "zip_code": "3060-432",
+    "country_code": "PT",
+    "state_code": "06",
+    "phone": "+351231202129",
+    "review_count": 1,
+    "snippets": []
+  }
+}

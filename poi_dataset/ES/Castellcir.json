@@ -1,0 +1,162 @@
+{
+  "193300": {
+    "url": "https://www.yelp.com/biz/f%C3%A9lix-barcelona-3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4sDUncWNrBlE_Jo9oOamCA/o.jpg",
+    "name": "Félix",
+    "alias": "félix-barcelona-3",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Delis, Food Delivery Services, Bars, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Avinguda del Paral.lel, 140",
+    "city_from_postal": "Castellcir",
+    "city": "Barcelona",
+    "zip_code": "08183",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34931135136",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "http://casa-felix.es/",
+        "snippet": "An historic venue in the heart of Catalonia, perfect for your wedding. 21 en-suite bedrooms sleeping 50, just 40 minutes from Barcelona.",
+        "title": "Casa Felix - Historic wedding venue in the heart of Catalonia",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.felixoficina.com/",
+        "snippet": "Estimats/des clients/es, Sóc el David Samaranch Rebull, el fundador de FELIX, i estic molt content de fer pública una grandíssima notícia: FELIX ara és ApetEat! ApetEat va ser fundada a Madrid pels meus estimats Pablo Samaranch (el meu cosí) i Eduardo Liviano, seguint les passes de FELIX.",
+        "title": "FELIX | Gràcies",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=m5FMcXjIsyo",
+        "snippet": "Joao Felix vs Barcelona (09/01/2020) HD 1080i. Category Sports; Show more Show less. Loading... Autoplay When autoplay is enabled, a suggested video will automatically play next.",
+        "title": "Joao Felix vs Barcelona (09/01/2020) HD 1080i - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/es/felix-residencia-s-l.html",
+        "snippet": "Felix Hotel has a restaurant, free bikes, a seasonal outdoor swimming pool and bar in Valls. With a garden, the 3-star hotel has air-conditioned rooms with free WiFi, each with a private bathroom, 5 suites with hot tub and 3 Villas with a hot tub and private parking.",
+        "title": "Felix Hotel, Valls, Spain - Booking.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/user/felixjaehn",
+        "snippet": "Every month Felix Jaehn brings you collaection radio, a collection of the freshest tracks around. Join Felix as he shows you what’s hot in his musical world, with loads of exclusives along the way.",
+        "title": "Felix Jaehn - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.felixoficina.com/es/gracias/",
+        "snippet": "Querid@s client@s, Soy David Samaranch Rebull, el fundador de FELIX, y estoy muy contento de hacer pública una grandísima noticia: ¡FELIX ahora es ApetEat! ApetEat fue fundada en Madrid por mis queridos Pablo Samaranch (mi primo) y Eduardo Liviano, siguiendo los pasos de FELIX.",
+        "title": "FELIX | Gracias",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://edition.cnn.com/2020/01/10/football/messi-felix-barcelona-atletico-spt-intl/index.html",
+        "snippet": "Lionel Messi was involved in a heated exchange with Atletico Madrid&#39;s youngster Joao Felix as Barcelona was knocked out of the Spanish Super Cup Thursday.",
+        "title": "Lionel Messi clashes with Joao Felix in Spanish Super Cup ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://felixla.com/",
+        "snippet": "Latin for “happy” or “lucky,” Felix is inspired by the deeply rooted culinary traditions of regional Italy and enriched with ingredients grown by California’s greatest family farms. Evan Funke and Janet Zuccarini bring the best of Italy to Abbot Kinney. We welcome you in the Italian spirit as honored friends at our table.",
+        "title": "Felix Trattoria | Home",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.felix.se/",
+        "snippet": "FELIX Små Delikatessköttbullar. Prova en av våra mest älskade klassiker - rullade lokalt i vår egen fabrik i Skåne. Till produkten. Nyheter i pajhyllan! Prova nya Felix Lax &amp; Mozzarellapaj eller Felix Veggie Halloumi &amp; Pestopaj – båda bakade i ett sprött pajskal med krämig välsmakande fyllning.",
+        "title": "Felix - God mat från Sverige - utan tillsatser eller ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/F%C3%A9lix_Erviti_Barcelona",
+        "snippet": "Félix Erviti Barcelona (29 July 1910 – 24 November 2000) was a Spanish Roman Catholic priest, in the Oblates of Mary Immaculate. He was ordained as priest on February 19, 1933. Religious life. He was appointed by Pope Pius XII as the first apostolic prefect of Spanish Sahara and Ifni on July 19, 1954.",
+        "title": "Félix Erviti Barcelona - Wikipedia",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "220660": {
+    "url": "https://www.yelp.com/biz/teatre-condal-barcelona?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fEhTQ6G6XjoqcINf13m3Cw/o.jpg",
+    "name": "Teatre Condal",
+    "alias": "teatre-condal-barcelona",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Performing Arts, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Avinguda del Paral.lel, 91",
+    "city_from_postal": "Castellcir",
+    "city": "Barcelona",
+    "zip_code": "08183",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34934423132",
+    "review_count": 3,
+    "snippets": [
+      {
+        "url": "https://www.teatrecondal.cat/es/",
+        "snippet": "Desde 1903 anima las noches del Paral·lel de Barcelona. Encontrarás producciones musicales que apuestan por la calidad y rigor artísticos, bajo el paraguas de ONYRIC, el proyecto artístico centrado en el teatro musical.",
+        "title": "Teatre Condal",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.teatrecondal.cat/ca/",
+        "snippet": "Des del 1903 anima les nits del Paral·lel de Barcelona. Hi trobaràs produccions musicals que aposten per la qualitat i rigor artístics, sota el paraigües d’ONYRIC, el projecte artístic centrat en el teatre musical.",
+        "title": "Teatre Condal",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.teatrecondal.cat/es/tickets/",
+        "snippet": "Puedes ejercer los derechos de acceso, rectificación, portabilidad y supresión de tus datos y de la limitación u oposición a su tratamiento en el e-mail dataprotection@grupfocus.cat o al domicilio sito en C/ Ávila, 149-155, 08018 de Barcelona.",
+        "title": "Venta de entradas | Teatre Condal",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.teatrecondal.cat/ca/tickets/",
+        "snippet": "Pots exercir els drets d&#39;accés, rectificació, portabilitat i supressió de les teves dades i de la limitació o oposició al seu tractament a l&#39;e-mail dataprotection@grupfocus.cat o al domicili situat a C/ Àvila, 149-155, 08018 de Barcelona.",
+        "title": "Venda d’entrades | Teatre Condal",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/TeatreCondal",
+        "snippet": "Teatre Condal - Av. del Paral·lel, 91, 08004 Barcelona, Spain - Rated 4.3 based on 371 Reviews &quot;Es un teatre acollidor i cosa estranya, les butaques sòn...",
+        "title": "Teatre Condal - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Attraction_Review-g187497-d10175605-Reviews-Teatre_Condal-Barcelona_Catalonia.html",
+        "snippet": "Teatre Condal, Barcelona: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Teatre Condal i Barcelona, Spania på Tripadvisor.",
+        "title": "Teatre Condal (Barcelona, Spania) - Anmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.teatrecondal.cat/es/el-teatro/",
+        "snippet": "Y desde 2018, acoge ONYRIC, el proyecto artístico centrado en el teatro musical y con la voluntad de convertirse en espacio de referencia del género en nuestro país. El Teatre Condal recibe el apoyo de las siguientes instituciones: Generalitat de Catalunya (Departament de Cultura) y Ajuntament de Barcelona (Institut de Cultura).",
+        "title": "El teatro | Teatre Condal",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/es/condal-barcelona.html",
+        "snippet": "Hotel Condal This neighborhood is a great choice for travelers interested in old-town exploration, tapas and food – Check location Boqueria, 23, Ciutat Vella, 08002 Barcelona, Spain – This neighborhood is a great choice for travelers interested in old-town exploration, tapas and food – Check location Excellent location – show map – Subway Access",
+        "title": "Hotel Condal, Barcelona, Spain - Booking.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g187497-d10175605-Reviews-Teatre_Condal-Barcelona_Catalonia.html",
+        "snippet": "We recommend booking Teatre Condal tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 2 Teatre Condal tours on Tripadvisor",
+        "title": "Teatre Condal (Barcelona) - 2020 All You Need to Know ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/user/TeatreCondal",
+        "snippet": "teatrecondal.cat Teatre Condal. Subscribe Subscribed Unsubscribe 147. Loading ... &quot;OZOM&quot; · Mag Lari · Teatre Condal · A partir de l&#39;1 de desembre - Duration: 15 seconds. 9,571 views; 4 years ago;",
+        "title": "Teatre Condal - YouTube",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

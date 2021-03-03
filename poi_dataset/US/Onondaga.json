@@ -1,0 +1,21 @@
+{
+  "166217": {
+    "url": "https://www.yelp.com/biz/pizza-hut-cicero-9?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eO7hlve4o3M2juVbHst6cw/o.jpg",
+    "name": "Pizza Hut",
+    "alias": "pizza-hut-cicero-9",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, Chicken Wings, ",
+    "rating": 1.0,
+    "price": "$",
+    "address": "7801 Route 11",
+    "city_from_postal": "Onondaga",
+    "city": "Cicero",
+    "zip_code": "13039",
+    "country_code": "US",
+    "state_code": "NY",
+    "phone": "+13154582860",
+    "review_count": 11,
+    "snippets": []
+  }
+}

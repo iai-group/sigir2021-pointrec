@@ -1,0 +1,40 @@
+{
+  "354017": {
+    "url": "https://www.yelp.com/biz/hotel-alpenhof-ehrwald-ehrwald?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FhWulPKJcPAXtHGuOqDPeQ/o.jpg",
+    "name": "Hotel Alpenhof Ehrwald",
+    "alias": "hotel-alpenhof-ehrwald-ehrwald",
+    "main_category": "Nightlife",
+    "sub_categories": "Nightlife, Hotels, Tours, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Alpenhofstr. 13",
+    "city_from_postal": "Ehrwald",
+    "city": "Ehrwald",
+    "zip_code": "6632",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+4356732345",
+    "review_count": 1,
+    "snippets": []
+  },
+  "587550": {
+    "url": "https://www.yelp.com/biz/antons-ehrwald-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6cr0HsluCtQm4dH8sqdGCg/o.jpg",
+    "name": "Anton's",
+    "alias": "antons-ehrwald-2",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Cafes, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "Kirweg 24",
+    "city_from_postal": "Ehrwald",
+    "city": "Ehrwald",
+    "zip_code": "6632",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+4343567320157",
+    "review_count": 1,
+    "snippets": []
+  }
+}

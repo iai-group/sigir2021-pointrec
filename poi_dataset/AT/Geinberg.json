@@ -1,0 +1,40 @@
+{
+  "124993": {
+    "url": "https://www.yelp.com/biz/jenichl-most-und-mehr-geinberg?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zWwMtg8bn2eSBcGToktEhw/o.jpg",
+    "name": "Jenichl Most & Mehr",
+    "alias": "jenichl-most-und-mehr-geinberg",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Austrian, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Winten 20",
+    "city_from_postal": "Geinberg",
+    "city": "Geinberg",
+    "zip_code": "4943",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+43772321219",
+    "review_count": 3,
+    "snippets": []
+  },
+  "625205": {
+    "url": "https://www.yelp.com/biz/badewandl-geinberg?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Badewandl",
+    "alias": "badewandl-geinberg",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Thermenpl 3",
+    "city_from_postal": "Geinberg",
+    "city": "Geinberg",
+    "zip_code": "4943",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4377238316",
+    "review_count": 1,
+    "snippets": []
+  }
+}

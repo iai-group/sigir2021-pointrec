@@ -1,0 +1,21 @@
+{
+  "496952": {
+    "url": "https://www.yelp.com/biz/o-pa%C3%A7o-da-vila-condeixa-a-nova?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "O Paço da Vila",
+    "alias": "o-paço-da-vila-condeixa-a-nova",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Seafood, Portuguese, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "R. Francisco de Lemos, 9",
+    "city_from_postal": "Condeixa-A-Nova",
+    "city": "Condeixa-a-Nova",
+    "zip_code": "3150-142",
+    "country_code": "PT",
+    "state_code": "06",
+    "phone": "+351239067102",
+    "review_count": 2,
+    "snippets": []
+  }
+}

@@ -1,0 +1,874 @@
+{
+  "96279": {
+    "url": "https://www.yelp.com/biz/restaurante-prata-da-casa-queluz?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Aq2zvNXpjkdDP7eQmScC-g/o.jpg",
+    "name": "Restaurante Prata da Casa",
+    "alias": "restaurante-prata-da-casa-queluz",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Largo do Mercado, 19",
+    "city_from_postal": "Queluz",
+    "city": "Queluz",
+    "zip_code": "2745-170",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351214356178",
+    "review_count": 1,
+    "snippets": []
+  },
+  "124708": {
+    "url": "https://www.yelp.com/biz/gr%C3%A3o-de-caf%C3%A9-e-folha-de-cha-sintra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/g6q8BVO0OJJy8HMRiqOkvw/o.jpg",
+    "name": "Grão de Café e Folha de Cha",
+    "alias": "grão-de-café-e-folha-de-cha-sintra",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "L. Mouzinho de Albuquerque, Loja 29",
+    "city_from_postal": "Queluz",
+    "city": "Sintra",
+    "zip_code": "2745-182",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351214358964",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/gr%C3%A3o-de-caf%C3%A9-folha-de-ch%C3%A1-queluz-lisboa",
+        "snippet": "Grão de Café, Folha de Chá Lisboa; Grão de Café, Folha de Chá, Queluz; Encontra menus, contactos, ... Este estabelecimento tem as melhores tostas da linha de Sintra e uma carta extensa recheada de comida simples mas super saborosa. ... grao de cafe folha de cha, grao de cafe queluz, grão de caf ...",
+        "title": "Grão de Café, Folha de Chá, Queluz, Lisboa - Zomato Portugal",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189162-d7236131-Reviews-Grao_de_Cafe_Folha_de_Cha-Queluz_Sintra_Municipality_Lisbon_District_Central_Port.html",
+        "snippet": "Grao de Cafe &amp; Folha de Cha, Queluz: See 47 unbiased reviews of Grao de Cafe &amp; Folha de Cha, rated 4 of 5 on Tripadvisor and ranked #7 of 33 restaurants in Queluz.",
+        "title": "Grao de Cafe &amp; Folha de Cha, Queluz - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Gr%C3%A3o-de-Caf%C3%A9-Folha-de-Ch%C3%A1-118369808197360/",
+        "snippet": "Grão de Café &amp; Folha de Chá, Queluz, Lisboa, Portugal. 4,346 likes · 69 talking about this · 4,191 were here. Bar do Mundo",
+        "title": "Grão de Café &amp; Folha de Chá - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.in/Restaurant_Review-g189162-d7236131-Reviews-Grao_de_Cafe_Folha_de_Cha-Queluz_Sintra_Municipality_Lisbon_District_Central_Port.html",
+        "snippet": "Grao de Cafe &amp; Folha de Cha, Queluz: See 47 unbiased reviews of Grao de Cafe &amp; Folha de Cha, rated 4 of 5 on Tripadvisor and ranked #7 of 33 restaurants in Queluz.",
+        "title": "Grao de Cafe &amp; Folha de Cha, Queluz - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz_photos/gr%C3%A3o-de-caf%C3%A9-e-folha-de-cha-sintra",
+        "snippet": "Photos at Grão de Café e Folha de Cha - Sintra.",
+        "title": "Photos for Grão de Café e Folha de Cha - Yelp",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/LocationPhotoDirectLink-g189162-d7236131-i156282020-Grao_de_Cafe_Folha_de_Cha-Queluz_Sintra_Municipality_Lisbon_District_Cen.html",
+        "snippet": "Foto de Grao de Cafe &amp; Folha de Cha, Queluz: Grao de Cafe &amp; Folha de Cha - Confira as 2.906 fotos e vídeos reais dos membros do Tripadvisor de Grao de Cafe &amp; Folha de Cha",
+        "title": "Grao de Cafe &amp; Folha de Cha - Foto de Grao de Cafe &amp; Folha ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g189162-d7236131-r468103183-Grao_de_Cafe_Folha_de_Cha-Queluz_Sintra_Municipality_Lisbon_District_Central_Por.html",
+        "snippet": "Grao de Cafe &amp; Folha de Cha: Nice bar - See 47 traveler reviews, 7 candid photos, and great deals for Queluz, Portugal, at Tripadvisor.",
+        "title": "Nice bar - Review of Grao de Cafe &amp; Folha de Cha, Queluz ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/ShowUserReviews-g189162-d7236131-r651951073-Grao_de_Cafe_Folha_de_Cha-Queluz_Sintra_Municipality_Lisbon_District_Central_Por.html",
+        "snippet": "Grao de Cafe &amp; Folha de Cha: Para descontrair e petiscar - Veja 47 avaliações de viajantes 7 fotos reais e ótimas ofertas para Queluz, Portugal no Tripadvisor.",
+        "title": "Para descontrair e petiscar - Grao de Cafe &amp; Folha de Cha",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pl.tripadvisor.com/Restaurant_Review-g189162-d7236131-Reviews-Grao_de_Cafe_Folha_de_Cha-Queluz_Sintra_Municipality_Lisbon_District_Central_Port.html",
+        "snippet": "Grao de Cafe &amp; Folha de Cha, Queluz: zobacz bezstronne recenzje (47 ) na temat Grao de Cafe &amp; Folha de Cha, z oceną 4 na 5 w serwisie Tripadvisor, na pozycji 7 z 33 restauracji w Queluz.",
+        "title": "Grao de Cafe &amp; Folha de Cha, Queluz - recenzje restauracji ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://kekanto.com.br/biz/grao-de-cafe-e-folha-de-cha",
+        "snippet": "Descubra os melhores lugares por meio de opiniões, fotos e dicas. Grão De Café E Folha De Chá, Cafés no Queluz, Sintra Endereço, telefone, opiniões e fotos de Grão De Café E Folha De Chá em Largo de Mouzinho de Albuquerque 29, Queluz, Sintra.",
+        "title": "Grão De Café E Folha De Chá, Cafés no Queluz, Sintra",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "147024": {
+    "url": "https://www.yelp.com/biz/manjuba-massam%C3%A1?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Manjuba",
+    "alias": "manjuba-massamá",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Av. 25 De Abril, 108",
+    "city_from_postal": "Queluz",
+    "city": "Massamá",
+    "zip_code": "2745-000",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351214370119",
+    "review_count": 1,
+    "snippets": []
+  },
+  "164918": {
+    "url": "https://www.yelp.com/biz/maria-doceira-massam%C3%A1?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Maria Doceira",
+    "alias": "maria-doceira-massamá",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Restaurants, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Av. José Régio, Nº 6 Loja C",
+    "city_from_postal": "Queluz",
+    "city": "Massamá",
+    "zip_code": "2745-807",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351214304356",
+    "review_count": 1,
+    "snippets": []
+  },
+  "190057": {
+    "url": "https://www.yelp.com/biz/serneves-actividades-hoteleiras-sintra-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BYyjjrMmabrT0VMO4uzzUw/o.jpg",
+    "name": "Serneves Actividades Hoteleiras",
+    "alias": "serneves-actividades-hoteleiras-sintra-2",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, ",
+    "rating": 2.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Queluz",
+    "city": "Sintra",
+    "zip_code": "2745-837",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351214374816",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.lojasehorarios.com.pt/serneves-actividades-hoteleiras-lda/sintra/c-586379b632cff589d816fe71",
+        "snippet": "undefined - Serneves - Actividades Hoteleiras, Lda. - Sintra - Horários, telefone e endereço",
+        "title": "Serneves - Actividades Hoteleiras, Lda. - Sintra",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://empresite.jornaldenegocios.pt/SERNEVES-ACTIVIDADES-HOTELEIRAS.html",
+        "snippet": "SERNEVES - ACTIVIDADES HOTELEIRAS, LDA em LISBOA (UNIAO FREGUESIAS MASSAMA MONTE ABRAAO SINTRA). Telefone de contato 21437..., NIF 50112..., R CASAL DO OLIVAL 50 LOTE A, 2745-739. Conheça toda a informação de SERNEVES - ACTIVIDADES HOTELEIRAS, LDA: produtos, serviços e muito mais",
+        "title": "SERNEVES - ACTIVIDADES HOTELEIRAS, LDA - Telefone e ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tuugo.pt/Companies/serneves-actividades-hoteleiras-lda./0240003296833",
+        "snippet": "Opiniões sobre Serneves - Actividades Hoteleiras, Lda. Voltar. Ainda não existem opiniões sobre este estabelecimento. Escreva você a primeira! Portugal Queluz. Login Registre-se Fazer login com Facebook. S. Serneves - Actividades Hoteleiras, Lda. Ainda não evaluado Avalie Pctª.",
+        "title": "Serneves - Actividades Hoteleiras, Lda. • Queluz • Lisboa •",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://portalnacional.com.pt/restaurante/serneves-actividades-hoteleiras-lda-588661/",
+        "snippet": "Serneves Actividades Hoteleiras Lda. - Onde comer - Restauração, Cafés e Snack-Bars em Queluz, Sintra, Lisboa, Portugal",
+        "title": "Serneves Actividades Hoteleiras Lda. - Onde comer - Portal ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.rigorbiz.pt/serneves-actividades-hoteleiras-lda",
+        "snippet": "A empresa Serneves-actividades Hoteleiras Lda tem a sua sede no concelho de Sintra, exerce a atividade de restaurantes com lugares ao balcão e está atualmente classificada como Ativa.",
+        "title": "Serneves-actividades Hoteleiras Lda - Rigorbiz",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://codigopostal.ciberforma.pt/dir/501121439/serneves-actividades-hoteleiras-lda/",
+        "snippet": "Serneves - Actividades Hoteleiras, Lda. Praceta Sebastião Gama 2 - lj Queluz 2745-837 QUELUZ Telefone: 214374816 A entidade Serneves - Actividades Hoteleiras, Lda. tem a sua sede localizada na freguesia de União das Freguesias de Massamá e Monte Abraão , concelho de Sintra, distrito de Lisboa.Para correspondência postal deverá utilizar a morada Praceta Sebastião Gama 2 - lj, Queluz ...",
+        "title": "Serneves - Actividades Hoteleiras, Lda. em Sintra (NIF ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tuugo.pt/Companies/o-manjuba-actividades-hoteleiras-lda./0240003249334",
+        "snippet": "O Manjuba-Actividades Hoteleiras Lda Urbanização Pimenta Rendeiro Lote 108-lj E, Massamá 2745 QUELUZ. Telefone REQUEST TO REMOVE Restaurantes - Sintra - Página 11",
+        "title": "O Manjuba - Actividades Hoteleiras, Lda. • Queluz • Lisboa •",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.infobel.com/pt/portugal/serneves_actividades_hoteleiras_lda/massama/PT100595776-214374816/businessdetails.aspx",
+        "snippet": "Encontre comentários, horários de funcionamento, fotografias e vídeos para SERNEVES - ACTIVIDADES HOTELEIRAS, LDA - Snack-Bares a Sintra. TEL: 214374... Pesquise na Infobel outras empresas na categoria Snack-Bares a Sintra.",
+        "title": "SERNEVES - ACTIVIDADES HOTELEIRAS, LDA - Sintra",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.lojasehorarios.com.pt/bares/sintra/5",
+        "snippet": "Horas, telefone e endereço Serneves - Actividades Hoteleiras, Lda. Casal do Olival, Lote A-50 - Massamá , Sintra , 2745000 Direções para Serneves - Actividades Hoteleiras, Lda.",
+        "title": "Bares em Sintra - página 5",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://infoempresas.jn.pt/Empresa_SERNEVES-ACTIVIDADES-HOTELEIRAS.html",
+        "snippet": "Todas as informações da Serneves - Actividades Hoteleiras, Lda de . Telefone, gestão, vendas , empregados , os saldos , as últimas notícias sobre Serneves - Actividades Hoteleiras, Ldae mais.",
+        "title": "SERNEVES-ACTIVIDADES-HOTELEIRAS: Contactos, NIF, Vendas ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "199308": {
+    "url": "https://www.yelp.com/biz/restaurante-cozinha-velha-queluz?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Gg-2Ri99NS8HHAXZaA9jOg/o.jpg",
+    "name": "Restaurante Cozinha Velha",
+    "alias": "restaurante-cozinha-velha-queluz",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Largo Palácio Nacional, s/n",
+    "city_from_postal": "Queluz",
+    "city": "Queluz",
+    "zip_code": "2745-191",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351214356158",
+    "review_count": 1,
+    "snippets": []
+  },
+  "203737": {
+    "url": "https://www.yelp.com/biz/estrela-do-bico-sintra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Estrela do Bico",
+    "alias": "estrela-do-bico-sintra",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Brazilian, Portuguese, African, ",
+    "rating": 3.0,
+    "price": "€€",
+    "address": "Av. Azedo Gneco, 61",
+    "city_from_postal": "Queluz",
+    "city": "Sintra",
+    "zip_code": "2745-724",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351214375993",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "http://restauranteestreladobico.com.pt/",
+        "snippet": "RESTAURANTE ESTRELA DO BICO. ... Bacalhau com farinheira , grêlos e brôa , Espeto do Rodizio, Picanha ao alho , Maminha ao Alho, Peixe Fresco. Estrela Bico-Restaurante e Cervejaria Lda. Av. Azedo Gneco Lt61, Lj B 2745-724 Massamá ...",
+        "title": "Restaurante Estrela do Bico | Restaurante Estrela do Bico",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/estrela-do-bico-massam%C3%A1-lisboa",
+        "snippet": "Estrela do Bico Lisboa; Estrela do Bico, Massamá; Encontra menus, contactos, telefone, localização, fotos, opiniões e muito mais para Estrela do Bico na Zomato . It is an icon with title Location Fill It is an icon with title Down ... Sintra / It is an ...",
+        "title": "Estrela do Bico, Massamá, Lisboa - zomato.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://wego.here.com/portugal/sintra/restaurant/restaurante-estrela-do-bico--620eyckk-129ceb6d64384c80abef73e6f2e1e591#!",
+        "snippet": "Restaurante Estrela do Bico Avenida Azedo Gneco Sintra - Restaurant European, Portuguese, Brazilian, African. Drive, bike, walk, public transport directions on map to Restaurante Estrela do Bico - HERE WeGo. Get the app.",
+        "title": "Restaurante Estrela do Bico - Restaurant - Sintra - HERE WeGo",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://restauranteestreladobico.pai.pt/",
+        "snippet": "Há 16 anos decidiu investir no seu próprio negócio comprando o Restaurante Estrela do Bico em Massamá, tendo remodelado o espaço e criado uma clientela fidelizada que procura o restaurante pelas especialidades que mais fama têm e que apreciam o ambiente especial que faz com que cada refeição seja um momento de inspiração para uma ...",
+        "title": "Restaurante Estrela do Bico - Sintra - Restaurante Estrela ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Restaurante-Estrela-do-Bico-196276430400126/",
+        "snippet": "Restaurante Estrela do Bico. 476 likes. Restaurante Estrela do Bico. Jump to. Sections of this page. Accessibility Help. Press alt + / to open this menu. Facebook. Email or Phone: Password: ... Sabores de Sintra. Portuguese Restaurant. Toca do Raposo. Continental Restaurant. Restaurante Pérola do Cristo Rei. Family Style Restaurant.",
+        "title": "Restaurante Estrela do Bico - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://moovitapp.com/index/pt/transportes_p%C3%BAblicos-Estrela_do_Bico-Lisboa-site_32684935-2460",
+        "snippet": "O Moovit ajuda-o a encontrar as melhores rotas para Estrela do Bico utilizando os transportes públicos e a obter indicações passo-a-passo e com horários atualizados para Autocarro ou Comboio em Sintra.",
+        "title": "Como chegar a Estrela do Bico em Sintra através de ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tuugo.pt/Companies/estrela-do-bico-restaurante-e-cervejaria-lda8/0240003995060",
+        "snippet": "Sintra. Login Registre-se Fazer login com Facebook. E. Estrela do Bico - Restaurante e Cervejaria, Lda Ainda não evaluado Avalie R. 4-Urb. ... Editar Estrela do Bico - Restaurante e Cervejaria, Lda. Ver o telefone carregando... 214375993; Veja o Fax carregando... 214375993 R. 4-Urb.",
+        "title": "Estrela do Bico - Restaurante e Cervejaria, Lda • Sintra ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://empresite.jornaldenegocios.pt/ESTRELA-BICO-RESTAURANTE-CERVEJARIA.html",
+        "snippet": "estrela do bico - restaurante e cervejaria, lda em lisboa (uniao freguesias massama monte abraao sintra). telefone de contato 21437..., nif 50176..., r 4 lote 61 r/c esq., 2745-724.",
+        "title": "ESTRELA DO BICO - RESTAURANTE E CERVEJARIA, LDA - Telefone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g189158-d4469108-Reviews-Restaurante_Estrela_do_Bico-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Restaurante Estrela do Bico, Lisboa: Veja 94 dicas e avaliações imparciais de Restaurante Estrela do Bico, com classificação Nº 4,5 de 5 no Tripadvisor e classificado como Nº 889 de 5.027 restaurantes em Lisboa.",
+        "title": "RESTAURANTE ESTRELA DO BICO, Lisboa - Comentários de ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g189158-d4469108-Reviews-Restaurante_Estrela_do_Bico-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Restaurante Estrela do Bico, Lisboa: Se 94 objektive anmeldelser av Restaurante Estrela do Bico, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 883 av 5 019 restauranter i Lisboa.",
+        "title": "Restaurante Estrela do Bico, Lisboa ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "257056": {
+    "url": "https://www.yelp.com/biz/bom-churrasco-o-sintra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Bom Churrasco,O",
+    "alias": "bom-churrasco-o-sintra",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fast Food, ",
+    "rating": 4.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Queluz",
+    "city": "Sintra",
+    "zip_code": "2745-123",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351214375079",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.yelp.com/biz/bom-churrasco-o-sintra",
+        "snippet": "Bom Churrasco,O in Sintra, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Sintra and beyond.",
+        "title": "Bom Churrasco,O - Fast Food - Sintra, Portugal ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g189164-d8598845-Reviews-Churrascaria_Somos_Um_Regalo-Sintra_Sintra_Municipality_Lisbon_District_Central_P.html",
+        "snippet": "Churrascaria Somos Um Regalo, Sintra: ... De facto, já o próprio nome diz.....É um REGALO e comer nesta churrascaria, vale a pena! Frango no churrasco e a acompanhar um bom vinho e bem português...dá vontade voltar outra vez. Óptimo serviço, acolhedor mas simples onde podemos desfrutar o churrasco com calma.",
+        "title": "CHURRASCARIA SOMOS UM REGALO, Sintra - Comentários de ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/ShowUserReviews-g189164-d7645556-r305813514-Restaurante_o_Sargento-Sintra_Sintra_Municipality_Lisbon_District_Central_Portug.html",
+        "snippet": "Restaurante o Sargento: Bom churrasco - Veja 9 avaliações de viajantes 2 fotos reais e ótimas ofertas para Sintra, Portugal no Tripadvisor.",
+        "title": "Bom churrasco - Avaliações de viajantes - Restaurante o ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/o-bom-churrasco-queluz",
+        "snippet": "Relacionados com O Bom Churrasco, Queluz Restaurantes - Lisboa, Lisboa , Queluz restaurantes , Melhores restaurantes de Queluz , Sintra restaurantes , Restaurantes Churrasco em Greater Lisbon , Churrasco à minha volta , Restaurantes Churrasco em Sintra , Restaurantes Churrasco em Queluz , Festas de passagem de ano 2015-2016 - Greater Lisbon , Eventos de Natal - Greater Lisbon",
+        "title": "O Bom Churrasco, Queluz, Lisboa - Zomato Portugal",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.lojasehorarios.com.pt/o-bom-churrasco/sintra/c-5863795432cff589d815521f",
+        "snippet": "undefined - O Bom Churrasco - Sintra - Horários, telefone e endereço. Av. Dr. Fernando Ricardo Ribeiro Leito, Lote 118 - Loja 1 - Massamá, Sintra, Lisboa , 2745771",
+        "title": "O Bom Churrasco - Sintra",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/o-bom-churrasco-massam%C3%A1-lisboa",
+        "snippet": "Quando a preguiça me atinge ou tenho um grupo maior em casa e não me apetece cozinhar, o Bom Churrasco é sempre a minha salvação. A qualidade cumpre sempre os standards e nunca nos desiludem. A batata frita deles é óptima, especialmente as rodelas e, apesar de não apreciar bacalhau, o deles é dos melhores de sempre.",
+        "title": "O Bom Churrasco, Massamá, Lisboa - Zomato Portugal",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://codigopostal.ciberforma.pt/dir/501168117/o-bom-churrasco-de-queluz-lda/",
+        "snippet": "O Bom Churrasco de Queluz, Lda. Praceta Henrique Pousão, Lt 3 Lj Esq Queluz Ocidental Queluz 2745-123 QUELUZ A entidade O Bom Churrasco de Queluz, Lda. tem a sua sede localizada na freguesia de União das Freguesias de Massamá e Monte Abraão , concelho de Sintra, distrito de Lisboa.Para correspondência postal deverá utilizar a morada Praceta Henrique Pousão, Lt 3 Lj Esq Queluz Ocidental ...",
+        "title": "O Bom Churrasco de Queluz, Lda. em Sintra (NIF 501168117)",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tuugo.pt/Companies/o-bom-churrasco-de-queluz/0240003248032",
+        "snippet": "Bom Churrasco,O - consulte todos os contactos de telefone, email, fax e moradas para Bom Churrasco,O em Portugal ... Sintra - Queluz Praceta Henrique Pousão 6-lj-E, Queluz 2745-123 QUELUZ",
+        "title": "O Bom Churrasco de Queluz • Belas • Lisboa •",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tuugo.pt/Companies/o-bom-churrasco9/0240003991895",
+        "snippet": "Restaurante Sintra Restaurante Portugal Restaurante Lisboa Distrito O Bom Churrasco em Sintra Empresas Principais Chintámani - Centro do Yoga de Oeiras - Linda a Velha",
+        "title": "O Bom Churrasco • Sintra • Lisboa •",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.lojasehorarios.com.pt/o-bom-churrasco/sintra/c-5863799832cff589d8167a96",
+        "snippet": "undefined - O Bom Churrasco - Sintra - Horários, telefone e endereço. O Bom Churrasco. Encontre. Encontre. Regista a tua empresa Entrar. Horários &gt; Restaurantes &gt; Restaurantes Sintra &gt; O Bom Churrasco. O Bom Churrasco Horas, telefone e endereço. Urb. Pimenta Rendeiro Lt 237 - lj 1, Sintra, Lisboa , 2745000 ...",
+        "title": "O Bom Churrasco - Sintra",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "268048": {
+    "url": "https://www.yelp.com/biz/o-bom-churrasco-massam%C3%A1?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ucd_9mvkrcCmbiAPJiAsXQ/o.jpg",
+    "name": "O Bom Churrasco",
+    "alias": "o-bom-churrasco-massamá",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Steakhouses, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Av. Américo Ferrer Lopes, 11",
+    "city_from_postal": "Queluz",
+    "city": "Massamá",
+    "zip_code": "2745-715",
+    "country_code": "PT",
+    "state_code": "20",
+    "phone": "+351214371587",
+    "review_count": 1,
+    "snippets": []
+  },
+  "309281": {
+    "url": "https://www.yelp.com/biz/pal%C3%A1cio-nacional-de-queluz-sintra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ar7CvSWqzPp8ZKljIOyIJA/o.jpg",
+    "name": "Palácio Nacional de Queluz",
+    "alias": "palácio-nacional-de-queluz-sintra",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, Landmarks & Historical Buildings, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Largo do Palácio, s/n",
+    "city_from_postal": "Queluz",
+    "city": "Sintra",
+    "zip_code": "2745-191",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219237300",
+    "review_count": 6,
+    "snippets": [
+      {
+        "url": "https://www.parquesdesintra.pt/en/parks-and-monuments/national-palace-and-gardens-of-queluz/",
+        "snippet": "The National Palace of Queluz and its historical gardens are one of the most remarkable examples of the harmonious link between landscape and palatial architecture in Portugal. They illustrate the evolution of the Court’s tastes in the 18th and 19th centuries, a period that was marked by the baroque, rococo and neoclassicism.",
+        "title": "National Palace and Gardens of Queluz | Parques de Sintra ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.parquesdesintra.pt/parques-jardins-e-monumentos/palacio-nacional-e-jardins-de-queluz/",
+        "snippet": "O Palácio Nacional de Queluz e os seus jardins históricos constituem um dos exemplos mais extraordinários da ligação harmoniosa entre paisagem e arquitetura palaciana em Portugal. Ilustram a evolução do gosto da Corte nos séculos XVIII e XIX, período marcado pelo barroco, o rococó e o neoclassicismo.",
+        "title": "Palácio Nacional e Jardins de Queluz | Parques de Sintra ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Attraction_Review-g189164-d13502950-Reviews-Palacio_Nacional_e_Jardins_de_Queluz-Sintra_Sintra_Municipality_Lisbon_District_.html",
+        "snippet": "Palácio Nacional e Jardins de Queluz, Sintra: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Palácio Nacional e Jardins de Queluz i Sintra, Portugal på Tripadvisor.",
+        "title": "Palácio Nacional e Jardins de Queluz (Sintra, Portugal ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.sintraromantica.net/pt/monumentos/palacio-nacional-de-queluz",
+        "snippet": "O Palácio Real de Queluz, também chamado de Palácio Nacional de Queluz, consiste num palácio do século XVIII. Um dos últimos grandes edifícios em estilo rococó erguidos na Europa, o imóvel foi construído como um recanto de verão para D. Pedro de Bragança.",
+        "title": "Palácio Nacional de Queluz - Sintra Romântica",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pt.wikipedia.org/wiki/Pal%C3%A1cio_Nacional_de_Queluz",
+        "snippet": "O Palácio Nacional de Queluz é um palácio do século XVIII localizado na localidade de Queluz no concelho de Sintra, distrito de Lisboa.Um dos últimos grandes edifícios em estilo rococó erguidos na Europa, marcado também pelo barroco e o neoclassicismo ilustra nas suas divisões e jardins os ambientes e vivências da Família Real e da corte portuguesa na segunda metade do século XVIII ...",
+        "title": "Palácio Nacional de Queluz – Wikipédia, a enciclopédia livre",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://portugalvirtual.pt/sintra/pt/palacio-nacional-queluz.php",
+        "snippet": "Palácio. Iniciado no ano de 1747 pelo infante D. Pedro, futuro D. Pedro III , o Palácio de Queluz, classificado como Monumento Nacional, foi acabado após o seu casamento com D. Maria I , em 1760.. Queluz, que tem sido não poucas vezes comparado com o Palácio de Versailles, difere do conjunto de Luís XIV (aliás um pouco anterior) no sentido de escala e de proporções que a sua traça ...",
+        "title": "Palácio Nacional de Queluz, Sintra, Portugal",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.parquesdesintra.pt/area-profissional/aluguer-de-espacos/palacio-nacional-de-queluz/",
+        "snippet": "©PSML | Emigus Residência real de duas gerações de monarcas situada a cerca de 15 minutos de Lisboa, ao Palácio Nacional de Queluz estão intimamente ligadas importantes figuras da história de Portugal. Constitui um conjunto patrimonial de referência na arquitetura e no paisagismo portugueses e contém um importante acervo que reflete o gosto da corte nos séculos XVIII e XIX ...",
+        "title": "Palácio Nacional e Jardins de Queluz | Parques de Sintra ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://portugalvirtual.pt/sintra/queluz-national-palace.php",
+        "snippet": "Pena National Palace. Sintra National Palace. Quinta da Regaleira. Monserrate Palace. Castle of the Moors. Seteais Palace. Queluz National Palace - Wikipedia. What to see in Sintra Museums of Sintra Shopping in Sintra Beaches of Sintra Where to stay in Sintra Public Transportation in Sintra Sintra&#39;s Map",
+        "title": "Queluz National Palace, Sintra, Portugal",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.parquesdesintra.pt/",
+        "snippet": "Criada em 2000, no seguimento da classificação pela UNESCO da Paisagem Cultural de Sintra como Património da Humanidade. Gere o Parque e Palácio da Pena,",
+        "title": "Parques de Sintra",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Palacio_de_Queluz",
+        "snippet": "El Palacio Real de Queluz (en portugués, Palácio Real de Queluz), también conocido como el Palacio Nacional de Queluz, es uno de los principales palacios de la familia real portuguesa, que a partir de su construcción se convirtió en la principal residencia de los miembros de la Casa de Braganza.",
+        "title": "Palacio de Queluz - Wikipedia, la enciclopedia libre",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "461963": {
+    "url": "https://www.yelp.com/biz/adega-t%C3%ADpica-da-tala-sintra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nru7x4SDwIHSxiF2itHqVw/o.jpg",
+    "name": "Adega Típica da Tala",
+    "alias": "adega-típica-da-tala-sintra",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Av. Dr. António Nabais, 26-30",
+    "city_from_postal": "Queluz",
+    "city": "Sintra",
+    "zip_code": "2745-000",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219163434",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "http://www.adegatipicadatala.com/",
+        "snippet": "Aberta desde 1936, a Adega Tipica da Tala é um restaurante de grandes dimensões. Atualmente dispomos de 5 salas com capacidade para 300 pessoas. A nossa cozinha serve excelentes pratos de cozinha portuguesa, em doses generosas! Atualmente somos um restaurante de referência pela nossa qualidade e capacidade de serviço",
+        "title": "Adega Típica da Tala - Homepage",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/adega-tpica-da-tala-belas",
+        "snippet": "Adega Típica da Tala Lisboa; Adega Típica da Tala, Belas; Encontra menus, contactos, telefone, localização, fotos, opiniões e muito mais para Adega Típica da Tala na Zomato Cozinha: Portuguesa — O salão de decoração rústica, ideal para se apreciar a comida caseira servida — 35 € para duas pessoas (aprox.)",
+        "title": "Adega Típica da Tala, Belas, Lisboa - Zomato Portugal",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g1169707-d1876647-Reviews-Tala_Adega_Tipica-Algueirao_Mem_Martins_Sintra_Municipality_Lisbon_District_Cent.html",
+        "snippet": "Tala Adega Tipica, Algueirão - Mem Martins: Veja 215 dicas e avaliações imparciais de Tala Adega Tipica, com classificação Nº 4 de 5 no Tripadvisor e classificado como Nº 1 de 22 restaurantes em Algueirão - Mem Martins.",
+        "title": "TALA ADEGA TIPICA, Algueirão - Mem Martins - Comentários ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pages/Adega-tipica-da-Tala/116380542371952",
+        "snippet": "Adega tipica da Tala, Sintra, Portugal. 703 likes · 22 talking about this · 1,572 were here. Portuguese Restaurant",
+        "title": "Adega tipica da Tala - Sintra, Portugal - Portuguese ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/adega-tpica-da-tala-belas/menu",
+        "snippet": "O menu (incluíndo os preços) de Adega Típica da Tala pode ter sofrido alterações desde a última vez em que atualizamos no nosso website. A Zomato.com não garante os preços ou a disponibilidade dos menus no Adega Típica da Tala.",
+        "title": "Adega Típica da Tala Menu - Zomato Portugal",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.adegatipicadatala.com/index-4.html",
+        "snippet": "O restaurante destaca-se na sua fabulosa série de entradasa. Serve, de forma prifissional e simpática, boa cozinha portuguesa em doses também generosas.",
+        "title": "Adega Típica da Tala - Localização",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g1169707-d1876647-Reviews-Tala_Adega_Tipica-Algueirao_Mem_Martins_Sintra_Municipality_Lisbon_District_Cent.html",
+        "snippet": "Tala Adega Tipica, Algueirao - Mem Martins: See 215 unbiased reviews of Tala Adega Tipica, rated 4 of 5 on Tripadvisor and ranked #1 of 22 restaurants in Algueirao - Mem Martins.",
+        "title": "Tala Adega Tipica, Algueirao - Mem Martins - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/ShowUserReviews-g1169707-d1876647-r477988381-Tala_Adega_Tipica-Algueirao_Mem_Martins_Sintra_Municipality_Lisbon_District_Cen.html",
+        "snippet": "Tala Adega Tipica: O melhor Cozido à Portuguesa da zona - Veja 215 avaliações de viajantes 60 fotos reais e ótimas ofertas para Algueirão - Mem Martins, Portugal no Tripadvisor.",
+        "title": "O melhor Cozido à Portuguesa da zona - Tala Adega Tipica",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g1169707-d1876647-Reviews-Tala_Adega_Tipica-Algueirao_Mem_Martins_Sintra_Municipality_Lisbon_District_Cent.html",
+        "snippet": "Tala Adega Tipica, Algueirao - Mem Martins: Se 215 objektive anmeldelser av Tala Adega Tipica, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 av 22 restauranter i Algueirao - Mem Martins.",
+        "title": "Tala Adega Tipica, Algueirao - Mem Martins ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.guiadacidade.pt/pt/r/restaurante-adega-tipica-da-tala-1285181",
+        "snippet": "Aberta desde 1936, a Adega Tipica da Tala é um restaurante com 5 salas com capacidade para 300 pessoas.",
+        "title": "Restaurante Adega Típica da Tala - Sintra, Tala ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "465943": {
+    "url": "https://www.yelp.com/biz/chuva-de-tenta%C3%A7%C3%B5es-queluz?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UCYxFmYQVW4Gq7ZFp0Xv4A/o.jpg",
+    "name": "Chuva de Tentações",
+    "alias": "chuva-de-tentações-queluz",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, ",
+    "rating": 3.0,
+    "price": "€",
+    "address": "Av. Agostinho Neto, 12",
+    "city_from_postal": "Queluz",
+    "city": "Queluz",
+    "zip_code": "2745-233",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "509642": {
+    "url": "https://www.yelp.com/biz/restaurante-la-siesta-sintra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurante La Siesta",
+    "alias": "restaurante-la-siesta-sintra",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Queluz",
+    "city": "Sintra",
+    "zip_code": "2745-862",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351214370942",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189164-d5981499-Reviews-Restaurante_la_Siesta-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Best Dining in Sintra, Sintra Municipality: See 48,169 Tripadvisor traveler reviews of 305 Sintra restaurants and search by cuisine, price, location, and more.",
+        "title": "THE 10 BEST Restaurants in Sintra - Updated March 2020 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g189158-d1850746-Reviews-La_Siesta-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "La Siesta, Lisboa: Veja 641 dicas e ... Há vários anos que frequento este restaurante e deixa-me muitas saudades o seu inicio em Massamá, muito bom mexicano. Com a passagem para Algés perdeu-se a qualidade, transformou-se num restaurante meramente virado ao turismo com os preços a aumentarem.",
+        "title": "LA SIESTA, Lisboa - Comentários de restaurantes - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g189158-d8407884-Reviews-La_Siesta_Taqueria-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "La Siesta Taqueria, Lisboa: Se 24 objektive anmeldelser av La Siesta Taqueria, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 3 840 av 5 026 restauranter i Lisboa.",
+        "title": "La Siesta Taqueria, Lisboa - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g189158-d1850746-Reviews-La_Siesta-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "La Siesta, Lisboa: Se 641 objektive anmeldelser av La Siesta, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 2 051 av 5 018 restauranter i Lisboa.",
+        "title": "La Siesta, Lisboa - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g153979-d1032558-Reviews-La_Siesta-Hermosillo_Northern_Mexico.html",
+        "snippet": "La Siesta, Hermosillo: See 217 unbiased reviews of La Siesta, rated 4 of 5 on Tripadvisor and ranked #8 of 318 restaurants in Hermosillo.",
+        "title": "La Siesta, Hermosillo - Restaurant Reviews, Photos &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189158-d1850746-Reviews-La_Siesta-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "La Siesta, Lisbon: See 640 unbiased reviews of La Siesta, rated 3.5 of 5 on Tripadvisor and ranked #2,055 of 5,013 restaurants in Lisbon.",
+        "title": "La Siesta, Lisbon - Belem - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Ristorantelasiesta2.0/",
+        "snippet": "Ristorante La Siesta 2.0, Santa Lucia del Mela. 1.1K likes. La Siesta 2.0 piccolo ristorantino nel cuore di Santa Lucia del Mela, dove poter gustare pietanze tipiche caserecce adatte al vostro palato...",
+        "title": "Ristorante La Siesta 2.0 - Home - Santa Lucia del Mela ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g189158-d8407884-Reviews-La_Siesta_Taqueria-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "La Siesta Taqueria, Lisboa: Veja 24 dicas e avaliações imparciais de La Siesta Taqueria, com classificação Nº 3 de 5 no Tripadvisor e classificado como Nº 3.839 de 5.024 restaurantes em Lisboa. ... Costumava frequentar este restaurante com alguma regularidade. As margaritas são óptimas e gostava da comida.",
+        "title": "LA SIESTA TAQUERIA, Lisboa - Comentários de restaurantes ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g189158-d1850746-La_Siesta-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Restaurants near La Siesta, Lisbon on Tripadvisor: Find traveler reviews and candid photos of dining near La Siesta in Lisbon, Portugal.",
+        "title": "THE 10 BEST Restaurants Near La Siesta in Lisbon, Lisbon ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/lasiesta",
+        "snippet": "La Siesta - Passeio Marítimo de Algés - Edifício La Siesta, 1495-165 Algés Oeiras, Portugal - Rated 4.4 based on 78 Reviews &quot;Gostei da comida mas ... La Paparrucha Restaurante Argentino. Argentinian Restaurant. Boost Fit Clubs. Gym/Physical Fitness Center. Guilty by Olivier. Bar. A-100 Burger Delivery. Burger Restaurant.",
+        "title": "La Siesta - Home - Oeiras, Portugal - Menu, Prices ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "520866": {
+    "url": "https://www.yelp.com/biz/franguia-actividades-hoteleiras-oeiras?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Franguia Actividades Hoteleiras",
+    "alias": "franguia-actividades-hoteleiras-oeiras",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 3.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Queluz",
+    "city": "Oeiras",
+    "zip_code": "2745-000",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351214300208",
+    "review_count": 1,
+    "snippets": []
+  },
+  "559500": {
+    "url": "https://www.yelp.com/biz/retiro-da-mina-sintra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Retiro da Mina",
+    "alias": "retiro-da-mina-sintra",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Av. República 10",
+    "city_from_postal": "Queluz",
+    "city": "Sintra",
+    "zip_code": "2745-206",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351214352978",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g189162-d4020852-Reviews-Retiro_da_Mina-Queluz_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Retiro da Mina, Queluz: Veja 157 dicas e avaliações imparciais de Retiro da Mina, com classificação Nº 4 de 5 no Tripadvisor e classificado como Nº 3 de 33 restaurantes em Queluz.",
+        "title": "RETIRO DA MINA, Queluz - Comentários de restaurantes ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189162-d4020852-Reviews-Retiro_da_Mina-Queluz_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Retiro da Mina, Queluz: See 157 unbiased reviews of Retiro da Mina, rated 4 of 5 on Tripadvisor and ranked #3 of 33 restaurants in Queluz.",
+        "title": "Retiro da Mina, Queluz - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g189162-d4020852-Reviews-Retiro_da_Mina-Queluz_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Retiro da Mina, Queluz: Se 157 objektive anmeldelser av Retiro da Mina, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 3 av 33 restauranter i Queluz.",
+        "title": "Retiro da Mina, Queluz - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g189162-d4020852-Retiro_da_Mina-Queluz_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Restaurants near Retiro da Mina, Queluz on Tripadvisor: Find traveler reviews and candid photos of dining near Retiro da Mina in Queluz, Portugal.",
+        "title": "THE 10 BEST Restaurants Near Retiro da Mina in Queluz ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/retiro-da-mina-queluz-lisboa",
+        "snippet": "Retiro da Mina Lisboa; Retiro da Mina, Queluz; Encontra menus, contactos, telefone, localização, fotos, opiniões e muito mais para Retiro da Mina na Zomato",
+        "title": "Retiro da Mina, Queluz, Lisboa - Zomato Portugal",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189162-d4020852-Reviews-or20-Retiro_da_Mina-Queluz_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Retiro da Mina, Queluz: See 157 unbiased reviews of Retiro da Mina, rated 4 of 5 on Tripadvisor and ranked #3 of 33 restaurants in Queluz.",
+        "title": "Retiro da Mina, Queluz - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g189162-d4020852-r665792281-Retiro_da_Mina-Queluz_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Retiro da Mina: Terrific ret - See 157 traveler reviews, 28 candid photos, and great deals for Queluz, Portugal, at Tripadvisor.",
+        "title": "Terrific ret - Review of Retiro da Mina, Queluz, Portugal ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/retiro-da-mina-sintra",
+        "snippet": "1 review of Retiro da Mina &quot;This little restaurant is probably my favorite in Portugal. It&#39;s family-owned family run and the service is very smooth and very nice. My wife and I both had the salmon and the others in our party had a shrimp dish.…",
+        "title": "Retiro da Mina - Portuguese - Av. República 10, Sintra ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g189162-d4020852-Reviews-Retiro_da_Mina-Queluz_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Retiro da Mina, Queluz: Consulta 157 opiniones sobre Retiro da Mina con puntuación 4 de 5 y clasificado en Tripadvisor N.°3 de 33 restaurantes en Queluz.",
+        "title": "RETIRO DA MINA, Queluz - Fotos, Número de Teléfono y ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/RestaurantsNear-g189162-d4020852-Retiro_da_Mina-Queluz_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Restauranter i nærheten av Retiro da Mina på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Retiro da Mina, Queluz.",
+        "title": "De 10 beste restaurantene i nærheten av Retiro da Mina",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "568739": {
+    "url": "https://www.yelp.com/biz/mesa-portuguesa-queluz?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/J-O1N-vEv_NJIKAQ8dBTXA/o.jpg",
+    "name": "Mesa Portuguesa",
+    "alias": "mesa-portuguesa-queluz",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Bairro Almeida Araújo, 44",
+    "city_from_postal": "Queluz",
+    "city": "Queluz",
+    "zip_code": "2745-011",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351214350840",
+    "review_count": 2,
+    "snippets": []
+  },
+  "620468": {
+    "url": "https://www.yelp.com/biz/a-pir%C3%A2mide-sintra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "A Pirâmide",
+    "alias": "a-pirâmide-sintra",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, Patisserie/Cake Shop, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "Av. 25 de Abril, 59",
+    "city_from_postal": "Queluz",
+    "city": "Sintra",
+    "zip_code": "2745-865",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351214373872",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://wego.here.com/portugal/sintra/food-drink/a-pir%C3%A2mide--620eyckk-d42bf8a34d3b4baab9784e50efe0ddc7",
+        "snippet": "A Pirâmide Avenida 25 de Abril Sintra - Food &amp; Drink Portuguese. Drive, bike, walk, public transport directions on map to A Pirâmide - HERE WeGo. A Pirâmide Avenida 25 de Abril Sintra - Food &amp; Drink Portuguese.",
+        "title": "A Pirâmide - Food &amp; Drink - Sintra - HERE WeGo",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.ca/biz/a-pir%C3%A2mide-sintra?sort_by=rating_asc",
+        "snippet": "A Pirâmide in Sintra, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Sintra and beyond.",
+        "title": "A Pirâmide - Portuguese - Av. 25 de Abril, 59, Sintra ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://cm-sintra.pt/institucional/sobre-o-concelho",
+        "snippet": "Pela análise dos resultados conclui-se o seguinte: O Município de Sintra, apresenta a pirâmide etária mais equilibrada da envolvente regional, ou seja, além de superar os valores médios nacionais e regionais apresenta, genericamente, condições potencialmente muito favoráveis à manutenção de crescimento e saldo naturais positivos da população.",
+        "title": "Sobre o concelho de Sintra - Câmara Municipal de Sintra",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/a-pir%C3%A2mide-massam%C3%A1-lisboa",
+        "snippet": "Relacionados com A Pirâmide, Massamá Restaurantes - Lisboa, Lisboa, Massamá restaurantes, Melhores restaurantes de Massamá, Sintra restaurantes, Pastelarias em Greater Lisbon, Pastelarias à minha volta, Pastelarias em Sintra, Pastelarias em Massamá, Festas de passagem de ano 2015-2016 - Greater Lisbon, Eventos de Natal - Greater Lisbon",
+        "title": "A Pirâmide, Massamá, Lisboa - Zomato Portugal",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/pir%C3%A2mide-mem-martins-lisboa/menu",
+        "snippet": "Relacionados com Pirâmide, Mem Martins Restaurantes - Lisboa, Lisboa, Mem Martins restaurantes, Melhores restaurantes de Mem Martins, Sintra restaurantes, Snack bares em Greater Lisbon, Snack bares à minha volta, Snack bares em Sintra, Snack bares em Mem Martins, Festas de passagem de ano 2015-2016 - Greater Lisbon, Eventos de Natal - Greater ...",
+        "title": "Pirâmide Menu, Menu de Pirâmide, Mem Martins, Lisboa ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.portugalist.com/portuguese-pastries-cakes/",
+        "snippet": "Once I got my head around the many different types of Portuguese coffee, the next obvious step was learning about Portuguese cakes and pastries.After all, you can’t just order a coffee in Portugal: you need a cake to go with it as well. When it comes to Portuguese pastries and cakes, most people have heard of the pastel de nata (or Portuguese custard tart as it’s often called outside of ...",
+        "title": "20+ Portuguese cakes and pastries to try before you die ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=77yzf8bJf28",
+        "snippet": "Geografia - Como analisar a Pirâmide Etária? População - Duration: 14:42. Prof Silvester Geografia - Hiperativo Geo 4,012 views. 14:42.",
+        "title": "PIRÂMIDE ETÁRIA - Revisão Geografia ENEM 2018 [#04 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.populationpyramid.net/portugal/",
+        "snippet": "Other indicators visualized on maps: (In English only, for now) Adolescent fertility rate (births per 1,000 women ages 15-19) Age at first marriage, female",
+        "title": "Population of Portugal 2020 - PopulationPyramid.net",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://empresite.jornaldenegocios.pt/PASTELARIA-RESTAURANTE-PIRAMIDE.html",
+        "snippet": "PASTELARIA E RESTAURANTE A PIRÂMIDE, LDA em LISBOA (UNIAO FREGUESIAS MASSAMA MONTE ABRAAO SINTRA). Telefone de contato 21437..., NIF 50186..., AV 25 DE ABRIL 59 A, 2745-865. Conheça toda a informação de PASTELARIA E RESTAURANTE A PIRÂMIDE, LDA: produtos, serviços e muito mais",
+        "title": "PASTELARIA E RESTAURANTE A PIRÂMIDE, LDA - Telefone e ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.madeiramadeira.com.br/lustre-luminaria-de-acrilico-piramide-sintra-para-5-lampadas-dicroicas-soquete-gu10-sintra-38-1729264.html",
+        "snippet": "Lustre Luminária de Acrílico Pirâmide Sintra para 5 Lâmpadas Dicroicas Soquete GU10 - SINTRA-38. Lustre de Acrílico Pirâmide Sintra para 5 Lâmpadas Dicroicas Soquete GU10 (não inclusas) - SINTRA-38. Medidas: 38x38x51cm.",
+        "title": "Lustre Luminária de Acrílico Pirâmide Sintra para 5 ...",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

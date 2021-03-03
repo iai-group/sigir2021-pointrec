@@ -1,0 +1,40 @@
+{
+  "323387": {
+    "url": "https://www.yelp.com/biz/restaurant-wirtshaus-chl%C3%B6pfen-eschenbach-lu?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/j6PmV3lVJH8BHFsSwvbysA/o.jpg",
+    "name": "Restaurant Wirtshaus Chlöpfen",
+    "alias": "restaurant-wirtshaus-chlöpfen-eschenbach-lu",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Rothenburgstrasse 89",
+    "city_from_postal": "Eschenbach (LU)",
+    "city": "Eschenbach Lu",
+    "zip_code": "6274",
+    "country_code": "CH",
+    "state_code": "LU",
+    "phone": "+41414484080",
+    "review_count": 1,
+    "snippets": []
+  },
+  "373144": {
+    "url": "https://www.yelp.com/biz/ristorante-pizzeria-piazza-eschenbach-lu?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nP_ogREdWK_3-9JKJ_C8Ew/o.jpg",
+    "name": "Ristorante Pizzeria Piazza",
+    "alias": "ristorante-pizzeria-piazza-eschenbach-lu",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, Pizza, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Luzernstrasse 9",
+    "city_from_postal": "Eschenbach (LU)",
+    "city": "Eschenbach LU",
+    "zip_code": "6274",
+    "country_code": "CH",
+    "state_code": "LU",
+    "phone": "+41414480555",
+    "review_count": 2,
+    "snippets": []
+  }
+}

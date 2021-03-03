@@ -1,0 +1,40 @@
+{
+  "333217": {
+    "url": "https://www.yelp.com/biz/hallen-und-freibad-juch-zumikon?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fXADISl85Kjwz2o-yaeyqQ/o.jpg",
+    "name": "Hallen- und Freibad Juch",
+    "alias": "hallen-und-freibad-juch-zumikon",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Arts & Entertainment, Public Services & Government, Swimming Pools, Kids Activities, Saunas, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Juch 1",
+    "city_from_postal": "Zumikon",
+    "city": "Zumikon",
+    "zip_code": "8126",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41449181525",
+    "review_count": 2,
+    "snippets": []
+  },
+  "385078": {
+    "url": "https://www.yelp.com/biz/hausammann-zumikon?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "HAUSAMMANN",
+    "alias": "hausammann-zumikon",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, Cafes, Patisserie/Cake Shop, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Morgental 39",
+    "city_from_postal": "Zumikon",
+    "city": "Zumikon",
+    "zip_code": "8126",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41432880032",
+    "review_count": 1,
+    "snippets": []
+  }
+}

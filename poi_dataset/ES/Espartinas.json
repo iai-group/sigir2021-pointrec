@@ -1,0 +1,40 @@
+{
+  "177118": {
+    "url": "https://www.yelp.com/biz/pepelnary-espartinas-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nblKaxdnJ9dMHamJ4iFYvA/o.jpg",
+    "name": "Pepelnary",
+    "alias": "pepelnary-espartinas-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Desserts, Bakeries, Custom Cakes, ",
+    "rating": 5.0,
+    "price": "€",
+    "address": "Avenida Alcaldesa María Regla Jiménez, 41",
+    "city_from_postal": "Espartinas",
+    "city": "Espartinas",
+    "zip_code": "41807",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34954329290",
+    "review_count": 1,
+    "snippets": []
+  },
+  "646209": {
+    "url": "https://www.yelp.com/biz/caramel-et-chocolat-espartinas?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AKOF_4u0_RT7JPvUh8OWlQ/o.jpg",
+    "name": "Caramel et Chocolat",
+    "alias": "caramel-et-chocolat-espartinas",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafeteria, Creperies, Bakeries, ",
+    "rating": 5.0,
+    "price": "€",
+    "address": "Calle Padre Claudio Lopez, 14",
+    "city_from_postal": "Espartinas",
+    "city": "Espartinas",
+    "zip_code": "41807",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34605806928",
+    "review_count": 1,
+    "snippets": []
+  }
+}

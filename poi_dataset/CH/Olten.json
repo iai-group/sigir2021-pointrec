@@ -1,0 +1,21 @@
+{
+  "334417": {
+    "url": "https://www.yelp.com/biz/apotheke-zum-kreuz-olten-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EUxC1ojWpkHKOo9CDARNuA/o.jpg",
+    "name": "Apotheke Zum Kreuz",
+    "alias": "apotheke-zum-kreuz-olten-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Hungarian, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "Hauptgasse 18",
+    "city_from_postal": "Olten",
+    "city": "Olten",
+    "zip_code": "4600",
+    "country_code": "CH",
+    "state_code": "SO",
+    "phone": "+41622120909",
+    "review_count": 3,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "643908": {
+    "url": "https://www.yelp.com/biz/el-hidalgo-puerto-pe%C3%B1asco?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JvN8fg_tb6ciKUn-I1Ib_g/o.jpg",
+    "name": "El Hidalgo",
+    "alias": "el-hidalgo-puerto-peñasco",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Sonora 13",
+    "city_from_postal": "Puerto Peñasco",
+    "city": "Puerto Peñasco",
+    "zip_code": "83555",
+    "country_code": "MX",
+    "state_code": "SON",
+    "phone": "+526649710148",
+    "review_count": 1,
+    "snippets": []
+  }
+}

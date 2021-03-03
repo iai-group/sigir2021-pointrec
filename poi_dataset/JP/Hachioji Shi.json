@@ -1,0 +1,139 @@
+{
+  "34456": {
+    "url": "https://www.yelp.com/biz/%E3%83%8E%E3%83%B3%E3%82%B0%E3%82%A4%E3%83%B3%E3%83%AC%E3%82%A4-%E6%96%B0%E5%AE%BF%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yJpencdos-Z6pOOEaNU0ew/o.jpg",
+    "name": "Nong Inlay",
+    "alias": "ノングインレイ-新宿区",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Burmese, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "高田馬場2-19-7",
+    "city_from_postal": "Hachioji Shi",
+    "city": "Shinjuku",
+    "zip_code": "193-0943",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81352735774",
+    "review_count": 3,
+    "snippets": []
+  },
+  "194670": {
+    "url": "https://www.yelp.com/biz/%E9%AB%98%E5%B0%BE%E5%B1%B1-%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/m3HVrq_vuewlCeChAQrzsA/o.jpg",
+    "name": "Mount Takao",
+    "alias": "高尾山-八王子市",
+    "main_category": "Active Life",
+    "sub_categories": "Hiking, Climbing, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "高尾町2205",
+    "city_from_postal": "Hachioji Shi",
+    "city": "Hachioji",
+    "zip_code": "193-0841",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81426614151",
+    "review_count": 34,
+    "snippets": []
+  },
+  "201082": {
+    "url": "https://www.yelp.com/biz/%E3%82%B9%E3%83%91%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%83%90%E3%83%AB-%E3%82%AF%E3%82%AF-%E6%B8%AF%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIM",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ztEvKpFGT2seq0pZxGP7hg/o.jpg",
+    "name": "Spanish Bar QUQU",
+    "alias": "スパニッシュバル-クク-港区",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Spanish, ",
+    "rating": 3.0,
+    "price": "￥￥￥",
+    "address": "東麻布1-4-2",
+    "city_from_postal": "Hachioji Shi",
+    "city": "Minato",
+    "zip_code": "193-0932",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81335831299",
+    "review_count": 2,
+    "snippets": []
+  },
+  "353755": {
+    "url": "https://www.yelp.com/biz/%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3%E3%81%A8%E3%81%8F-%E6%9D%B1%E4%BA%AC?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/M2t3Xxkzw46tZ-VedDmyrQ/o.jpg",
+    "name": "horumontoku",
+    "alias": "ホルモンとく-東京",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Korean, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "三崎町2-11-13",
+    "city_from_postal": "Hachioji Shi",
+    "city": "Tokyo",
+    "zip_code": "192-0084",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81332621129",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://tabelog.com/en/tokyo/A1310/A131003/13153349/",
+        "snippet": "HorumontokuCheck out the information about Horumon (BBQ Offel) restaurants in Jinbocho, Suidobashi at Tabelog! It&#39;s full of real information like reviews, ratings, and photos posted by users! It also has enough detailed information like maps and menus.",
+        "title": "Horumontoku - Jinbocho, Suidobashi/Horumon (BBQ Offel ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/cn/tokyo/A1310/A131003/13153349/",
+        "snippet": "在食べログ确认Horumontoku (神保町・水道桥/烤内脏)的店铺资讯！有感想、评价与照片等，有来自使用者的真实资讯！也有关于 ...",
+        "title": "Horumontoku - 神保町・水道桥/烤内脏 [食べログ]（简体中文）",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/tw/tokyo/A1310/A131003/13153349/",
+        "snippet": "Horumontoku店家資料（詳細） 基於「大家一起建立的美食網站」的性質，無法保證店家資訊的正確性，請您使用前務必確認此點。 更多資訊請往這裡",
+        "title": "Horumontoku - 神保町・水道橋/烤內臟 [食べログ]（繁體中文）",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/kr/tokyo/A1310/A131003/13153349/",
+        "snippet": "Horumontoku의 점포 정보(상세 정보) &lt;다함께 만들어 가는 구루메 사이트&gt;라는 성격상, 점포 정보의 정확성은 보증되지 않으므로 반드시 사전에 확인하신 수 이용해 주십시오.",
+        "title": "Horumontoku - 진보초/스이도바시/호르몬(내장) [타베로그]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.instagram.com/tokyo_wagyu_report/p/BwX8r8_B8gW/caption/horumontoku-nozha-rebahaxin-xian-degan-mimoqi-irizunaburudezhi-ishao-rou-narakokodesu",
+        "snippet": "www.instagram.com",
+        "title": "www.instagram.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.mafengwo.cn/poi/38088956.html",
+        "snippet": "东京Horumontoku地址位于东京都千代田区三崎町2-11-13,马蜂窝东京Horumontoku景点介绍包含了东京Horumontoku简介、地址、电话、网址等Horumontoku相关攻略信息。",
+        "title": "东京Horumontoku餐厅介绍, Horumontoku地址-交通-门票 - 马蜂窝",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/%E3%81%A1%E3%82%83%E3%82%93%E8%B1%9A-%E6%96%B0%E5%AE%BF%E5%8C%BA",
+        "snippet": "ちゃん豚 in Shinjuku, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Shinjuku and beyond.",
+        "title": "chanton - 12 Photos - Korean - 新宿区新宿3-11-11, 新宿三丁目駅 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g1021366-d4486806-Minamihatogaya_Station-Kawaguchi_Saitama_Prefecture_Kanto.html",
+        "snippet": "Restaurants near Minamihatogaya Station, Kawaguchi on Tripadvisor: Find traveler reviews and candid photos of dining near Minamihatogaya Station in Kawaguchi, Saitama Prefecture.",
+        "title": "Restaurants Near Minamihatogaya Station, Kawaguchi, Japan",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.instagram.com/p/BeNKsiHhrYH/",
+        "snippet": "1,950 Likes, 8 Comments - 東京肉レポート (肉レポ) (@tokyo_wagyu_report) on Instagram: “安旨ホルモン！シマチョウ、ミノ、シビレ！ Reasonable price is also one of the good aspects of visiting Horumon yakiniku…”",
+        "title": "東京肉レポート (肉レポ) on Instagram: “安旨ホルモン！シマチョウ、ミノ、シビレ ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/en/tokyo/A1310/A131003/13147575/",
+        "snippet": "YakinikusampouCheck out the information about Yakiniku (BBQ Beef) restaurants in Jinbocho, Suidobashi at Tabelog! It&#39;s full of real information like reviews, ratings, and photos posted by users! It also has enough detailed information like maps and menus.",
+        "title": "Yakinikusampou - Jinbocho, Suidobashi/Yakiniku (BBQ Beef ...",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "387498": {
+    "url": "https://www.yelp.com/biz/le-stunt-bar-b%C3%A9thune?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SSFJCVSrzZtNB-mPWXQn-w/o.jpg",
+    "name": "Le Stunt bar",
+    "alias": "le-stunt-bar-béthune",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, Dance Clubs, ",
+    "rating": 4.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Arrondissement de Béthune",
+    "city": "Béthune",
+    "zip_code": "62400",
+    "country_code": "FR",
+    "state_code": "62",
+    "phone": "+33321578580",
+    "review_count": 1,
+    "snippets": []
+  }
+}

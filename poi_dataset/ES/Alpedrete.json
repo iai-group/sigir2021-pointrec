@@ -1,0 +1,21 @@
+{
+  "273763": {
+    "url": "https://www.yelp.com/biz/casa-santo%C3%B1a-alpedrete?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ViBaQA9caFBeTVbvLarcAw/o.jpg",
+    "name": "Casa Santoña",
+    "alias": "casa-santoña-alpedrete",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fish & Chips, Argentine, Brasseries, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "Avenida de los Canteros, 31",
+    "city_from_postal": "Alpedrete",
+    "city": "Alpedrete",
+    "zip_code": "28430",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34910801781",
+    "review_count": 3,
+    "snippets": []
+  }
+}

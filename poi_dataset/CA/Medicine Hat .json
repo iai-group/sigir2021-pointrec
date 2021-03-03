@@ -1,0 +1,21 @@
+{
+  "32931": {
+    "url": "https://www.yelp.com/biz/the-scoreboard-medicine-hat?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/IKl_3kVjRRESa0GyY7oTQA/o.jpg",
+    "name": "The Scoreboard",
+    "alias": "the-scoreboard-medicine-hat",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, Lounges, American (Traditional), ",
+    "rating": 2.5,
+    "price": "$",
+    "address": "3188 Dunmore Road SE",
+    "city_from_postal": "Medicine Hat ",
+    "city": "Medicine Hat",
+    "zip_code": "T1B 2X2",
+    "country_code": "CA",
+    "state_code": "AB",
+    "phone": "+14035296066",
+    "review_count": 3,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "520130": {
+    "url": "https://www.yelp.com/biz/le-petit-ness-montpellier?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RXajECLy2ptuSS0yrMU5GQ/o.jpg",
+    "name": "Le Petit Ness",
+    "alias": "le-petit-ness-montpellier",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Brasseries, ",
+    "rating": 3.0,
+    "price": "€€",
+    "address": "1 place Jean Jaurès",
+    "city_from_postal": "Arrondissement de Montpellier",
+    "city": "Montpellier",
+    "zip_code": "34000",
+    "country_code": "FR",
+    "state_code": "34",
+    "phone": "+33499581263",
+    "review_count": 48,
+    "snippets": []
+  }
+}

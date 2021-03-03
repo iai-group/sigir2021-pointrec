@@ -1,0 +1,21 @@
+{
+  "338282": {
+    "url": "https://www.yelp.com/biz/cafe-loacker-schwarzach?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Cafe Loacker",
+    "alias": "cafe-loacker-schwarzach",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, Coffee & Tea, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Weidachstr. 2",
+    "city_from_postal": "Schwarzach",
+    "city": "Schwarzach",
+    "zip_code": "6858",
+    "country_code": "AT",
+    "state_code": "8",
+    "phone": "+43557258102",
+    "review_count": 1,
+    "snippets": []
+  }
+}

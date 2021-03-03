@@ -1,0 +1,21 @@
+{
+  "124134": {
+    "url": "https://www.yelp.com/biz/the-trinity-irish-bar-chipiona?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9K_mtZXmXeYvHYjhU4jrkw/o.jpg",
+    "name": "The Trinity Irish Bar",
+    "alias": "the-trinity-irish-bar-chipiona",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafeteria, Irish, ",
+    "rating": 5.0,
+    "price": "€",
+    "address": "Paseo Costa de la Luz, 29",
+    "city_from_postal": "Chipiona",
+    "city": "Chipiona",
+    "zip_code": "11550",
+    "country_code": "ES",
+    "state_code": "CA",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

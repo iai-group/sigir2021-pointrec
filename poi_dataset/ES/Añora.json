@@ -1,0 +1,21 @@
+{
+  "706060": {
+    "url": "https://www.yelp.com/biz/bodegas-alvear-montilla?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/q_QLVp7TDrIKwBmmUAwa4g/o.jpg",
+    "name": "Bodegas Alvear",
+    "alias": "bodegas-alvear-montilla",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Wineries, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Avenida Maria Auxiliadora, 1",
+    "city_from_postal": "Añora",
+    "city": "Montilla",
+    "zip_code": "14550",
+    "country_code": "ES",
+    "state_code": "CO",
+    "phone": "+34957650100",
+    "review_count": 1,
+    "snippets": []
+  }
+}

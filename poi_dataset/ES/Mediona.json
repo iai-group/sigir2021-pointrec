@@ -1,0 +1,82 @@
+{
+  "1852": {
+    "url": "https://www.yelp.com/biz/salt-barcelona?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vzQ_J86ogc7RbT2Rwh7oCg/o.jpg",
+    "name": "Salt",
+    "alias": "salt-barcelona",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "American (Traditional), Cocktail Bars, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "Plaça de la Rosa dels Vents, 1",
+    "city_from_postal": "Mediona",
+    "city": "Barcelona",
+    "zip_code": "08773",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34932952819",
+    "review_count": 24,
+    "snippets": [
+      {
+        "url": "https://www.saltbeachclub.com/",
+        "snippet": "Located at the end of the sea walk of the Barceloneta, Salt at W Barcelona hotel, offers innovative burgers accompanied by especially designed cocktails just steps from the beach. Located at the end of the sea walk of the Barceloneta, Salt at ... Salt Restaurant &amp; Beach Club.",
+        "title": "Salt Restaurant &amp; Beach Club | Burgers ... - W Barcelona",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g187497-d3539303-Reviews-Salt_Restaurant_Beach_Club-Barcelona_Catalonia.html",
+        "snippet": "Salt Restaurant &amp; Beach Club, Barcelona: Se 391 objektive anmeldelser av Salt Restaurant &amp; Beach Club, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 675 av 10 129 restauranter i Barcelona.",
+        "title": "Salt Restaurant &amp; Beach Club, Barcelona ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g187497-d1084010-Reviews-Salta-Barcelona_Catalonia.html",
+        "snippet": "Spise middag i Barcelona: Se anmeldelser fra Tripadvisor-reisende av 10 126restauranter i Barcelona, og søk etter kjøkken, pris, sted og mer.",
+        "title": "Salta, Barcelona - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.saltbeachclub.com/our-menus",
+        "snippet": "8:PM - 3:00AM Savor a selection of culinary pleasures accompanied by live music performances that will take you on a vibrant journey. You&#39;re invited to ring in the new decade enjoying the fireworks display from our Great Room terrace.",
+        "title": "Salt Restaurant &amp; Beach Club | W Barcelona Hotel",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g187497-d3539303-Reviews-Salt_Restaurant_Beach_Club-Barcelona_Catalonia.html",
+        "snippet": "Reserve a table at Salt Restaurant &amp; Beach Club, Barcelona on Tripadvisor: See 391 unbiased reviews of Salt Restaurant &amp; Beach Club, rated 4 of 5 on Tripadvisor and ranked #1,675 of 10,155 restaurants in Barcelona.",
+        "title": "SALT RESTAURANT &amp; BEACH CLUB, Barcelona - Barceloneta ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.timeout.com/barcelona/restaurants/salt",
+        "snippet": "The W Hotel boasts a beach club and a restaurant that&#39;s spot-on: inspired by Californian recipes, they serve spectacular and complete salads. Try the &#39;mizuna&#39;,",
+        "title": "Salt | Restaurants in La Barceloneta, Barcelona",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://saltrestaurant.dk/en/dinner/",
+        "snippet": "&lt;p&gt;SALT bar &amp; restaurant is a modern version of the splendid Parisian brasserie.&lt;br /&gt; The food at SALT is full of innovative and challenging flavors. It is modern Danish and created from a strong traditional foundation, where modern techniques are refining the confidence of habit.&lt;/p&gt;",
+        "title": "SALT bar &amp; restaurant - Dinner menu",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.expedia.no/lp/fly/slc/bcn/salt-lake-city-til-barcelona",
+        "snippet": "Når du ser etter fly fra Salt Lake City (SLC) til Barcelona (BCN), kan du enkelt og raskt finne gode flyreiser med Expedia. Med en rekke avreisesteder å velge imellom og spennende destinasjoner å reise til, gir Expedia deg et bredt utvalg av billige flybilletter fra Salt Lake City til Barcelona.",
+        "title": "Fly Salt Lake City - Barcelona | SLC - BCN | Expedia.no",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.saltbeachclub.com/es/",
+        "snippet": "Hamburguesas &amp; Cócteles Nunca Han Estado Tan Cerca El dúo dinámico de cócteles y hamburguesas en Salt llevan la experiencia de verano al otro nivel. Saboree nuestra variedad de platos para compartir o para acompañar. Dése un capricho con nuestra carta de postres para añadir un toque dulce a la aventura de Salt.",
+        "title": "Salt Restaurant &amp; Beach Club | Burgers ... - W Barcelona",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.infosa.com/en",
+        "snippet": "SALINERA COMPANY MANUFACTURER OF SEA SALT. Infosa, owner since 1946 till present days of the facilities and the exploitation rights of Las Salinas of Trinidad located in the Ebro Delta Natural Park in San Carlos de la Rapita (Tarragona), is one of the main Salinas producer of Sea Salt in Spain and the only one in Catalonia. More information about sea salt production",
+        "title": "Sea salt manufacturer company.Types of salt and ...",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

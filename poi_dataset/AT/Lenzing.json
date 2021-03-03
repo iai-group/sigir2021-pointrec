@@ -1,0 +1,21 @@
+{
+  "135738": {
+    "url": "https://www.yelp.com/biz/lutzi-spielplatz-lenzing?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6x2c8lbHw0dTcq7dKujM9w/o.jpg",
+    "name": "Lutzi Spielplatz",
+    "alias": "lutzi-spielplatz-lenzing",
+    "main_category": "Active Life",
+    "sub_categories": "Kids Activities, Playgrounds, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Waldstr. 3-7",
+    "city_from_postal": "Lenzing",
+    "city": "Lenzing",
+    "zip_code": "4860",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

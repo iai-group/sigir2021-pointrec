@@ -1,0 +1,21 @@
+{
+  "333042": {
+    "url": "https://www.yelp.com/biz/walters-welt-sch%C3%B6fflisdorf?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/e_yzMCurp-VH_sxYpdSFog/o.jpg",
+    "name": "Walter's Welt",
+    "alias": "walters-welt-schöfflisdorf",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Music Venues, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Dorfwisenstrasse 14",
+    "city_from_postal": "Schleinikon",
+    "city": "Schöfflisdorf",
+    "zip_code": "8165",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41448561650",
+    "review_count": 1,
+    "snippets": []
+  }
+}

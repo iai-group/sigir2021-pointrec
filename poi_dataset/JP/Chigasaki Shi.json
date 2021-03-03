@@ -1,0 +1,40 @@
+{
+  "477053": {
+    "url": "https://www.yelp.com/biz/%E3%82%B5%E3%82%B6%E3%83%B3%E3%83%93%E3%83%BC%E3%83%81%E3%81%A1%E3%81%8C%E3%81%95%E3%81%8D-%E8%8C%85%E3%83%B6%E5%B4%8E%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZGRMsCEJLNnfPVP45psYPQ/o.jpg",
+    "name": "Southern Beach chigasaki",
+    "alias": "サザンビーチちがさき-茅ヶ崎市",
+    "main_category": "Active Life",
+    "sub_categories": "Beaches, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "中海岸四丁目",
+    "city_from_postal": "Chigasaki Shi",
+    "city": "Chigasaki",
+    "zip_code": "253-0055",
+    "country_code": "JP",
+    "state_code": "14",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "567375": {
+    "url": "https://www.yelp.com/biz/%E8%8C%85%E3%82%B1%E5%B4%8E%E6%BC%81%E6%B8%AF-%E8%8C%85%E3%83%B6%E5%B4%8E%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_4VMPfzyRdeVPPkIF1U3HQ/o.jpg",
+    "name": "Chigasaki Gyokō",
+    "alias": "茅ケ崎漁港-茅ヶ崎市",
+    "main_category": "Active Life",
+    "sub_categories": "Beaches, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "南湖4-12988",
+    "city_from_postal": "Chigasaki Shi",
+    "city": "Chigasaki",
+    "zip_code": "253-0061",
+    "country_code": "JP",
+    "state_code": "14",
+    "phone": "+81467823025",
+    "review_count": 1,
+    "snippets": []
+  }
+}

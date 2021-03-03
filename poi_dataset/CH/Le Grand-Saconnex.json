@@ -1,0 +1,1254 @@
+{
+  "41062": {
+    "url": "https://www.yelp.com/biz/all-you-need-bar-und-shop-meyrin?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uQFsR4S2U88BcYfutorA1w/o.jpg",
+    "name": "All You Need Bar & Shop",
+    "alias": "all-you-need-bar-und-shop-meyrin",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "Route de l'Aéroport 7",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Meyrin",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "49562": {
+    "url": "https://www.yelp.com/biz/dnata-skyview-lounge-meyrin?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4zD-t9110RdcQV78xTUIMw/o.jpg",
+    "name": "Dnata Skyview Lounge",
+    "alias": "dnata-skyview-lounge-meyrin",
+    "main_category": "Nightlife",
+    "sub_categories": "Airport Lounges, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Route de l'Aéroport 17",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Meyrin",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "69238": {
+    "url": "https://www.yelp.com/biz/restaurant-carlights-le-grand-saconnex?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Carlights",
+    "alias": "restaurant-carlights-le-grand-saconnex",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Route FrançOis-Peyrot 34",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Le Grand-Saconnex",
+    "zip_code": "1218",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41227470247",
+    "review_count": 1,
+    "snippets": []
+  },
+  "104522": {
+    "url": "https://www.yelp.com/biz/chez-nina-le-grand-saconnex?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Chez Nina",
+    "alias": "chez-nina-le-grand-saconnex",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "French, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Rue Sonnex 17b",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Le Grand-Saconnex",
+    "zip_code": "1218",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41227884278",
+    "review_count": 6,
+    "snippets": []
+  },
+  "107311": {
+    "url": "https://www.yelp.com/biz/british-airways-galleries-lounge-grand-saconnex?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xZrvTkBUTsZ9bKbYd_7SAw/o.jpg",
+    "name": "British Airways Galleries Lounge",
+    "alias": "british-airways-galleries-lounge-grand-saconnex",
+    "main_category": "Nightlife",
+    "sub_categories": "Lounges, ",
+    "rating": 4.5,
+    "price": "$",
+    "address": "Aéroport International de Genève",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Grand-Saconnex",
+    "zip_code": "1218",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "",
+    "review_count": 3,
+    "snippets": []
+  },
+  "141351": {
+    "url": "https://www.yelp.com/biz/skyview-lounge-le-grand-saconnex?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zW_OyLHUq8Jz19t9ZeXLeQ/o.jpg",
+    "name": "Skyview Lounge",
+    "alias": "skyview-lounge-le-grand-saconnex",
+    "main_category": "Nightlife",
+    "sub_categories": "Airport Lounges, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Route de l'Aéroport 21",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Le Grand-Saconnex",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41225559460",
+    "review_count": 1,
+    "snippets": []
+  },
+  "149179": {
+    "url": "https://www.yelp.com/biz/kamome-gen%C3%A8ve?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WpLckQepVWd8B7o4xZLHmA/o.jpg",
+    "name": "Kamome",
+    "alias": "kamome-genève",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Sushi Bars, Japanese, ",
+    "rating": 3.5,
+    "price": "$$$",
+    "address": "Route de Pré-Bois 20",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Geneva",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41227171730",
+    "review_count": 9,
+    "snippets": [
+      {
+        "url": "http://www.kamome.ch/fr",
+        "snippet": "Authenticité, élégance, maîtrise du geste, fraîcheur des produits, tels sont les mots qui caractérisent le Kamome, le restaurant japonais situé au sein du Mövenpick Hôtel &amp; Casino Geneva, face à l’aéroport de Cointrin.",
+        "title": "Accueil - Kamome",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g188057-d1044976-Reviews-Kamome-Geneva.html",
+        "snippet": "Kamome, Genève: Se 290 objektive anmeldelser av Kamome, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 96 av 1 764 restauranter i Genève. Fly Restauranter Ting å gjøre Turisme i Genève ... Mövenpick Hotel &amp; Casino Geneva, Genève 1215, Sveits",
+        "title": "Kamome, Genève - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g188057-d1044976-Reviews-Kamome-Geneva.html",
+        "snippet": "Reserve a table at Kamome, Geneva on Tripadvisor: See 290 unbiased reviews of Kamome, rated 4.5 of 5 on Tripadvisor and ranked #96 of 1,766 restaurants in Geneva.",
+        "title": "Kamome, Geneva - Menu, Prices, Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/RestaurantsNear-g188057-d1044976-Kamome-Geneva.html",
+        "snippet": "Restauranter i nærheten av Kamome på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Kamome, Genève.",
+        "title": "De 10 beste restaurantene i nærheten av Kamome",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.in/Restaurant_Review-g188057-d1044976-Reviews-Kamome-Geneva.html",
+        "snippet": "Kamome, Geneva: See 290 unbiased reviews of Kamome, rated 4.5 of 5 on Tripadvisor and ranked #95 of 1,767 restaurants in Geneva.",
+        "title": "Kamome, Geneva - Menu, Prices &amp; Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.au/Restaurant_Review-g188057-d1044976-Reviews-Kamome-Geneva.html",
+        "snippet": "Reserve a table at Kamome, Geneva on Tripadvisor: See 288 unbiased reviews of Kamome, rated 4.5 of 5 on Tripadvisor and ranked #98 of 1,762 restaurants in Geneva.",
+        "title": "KAMOME, Geneva - Updated 2020 Restaurant Reviews, Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.movenpick.com/en/europe/switzerland/geneva/hotel-geneva/restaurants/restaurants/kamome/",
+        "snippet": "Kamome, a Japanese restaurant at Mövenpick Hotel &amp; Casino Geneva, offers a selection of sushi and sashimi, located by Geneva Airport near the city centre.",
+        "title": "Kamome Japanese Restaurant in Geneva | Mövenpick Hotel",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.imdb.com/title/tt0483022/",
+        "snippet": "Directed by Naoko Ogigami. With Satomi Kobayashi, Hairi Katagiri, Masako Motai, Jarkko Niemi. Where are we welcome? On a quiet street in Helsinki, Sachie has opened a diner featuring rice balls. For a month she has no customers. Then, in short order, she has her first customer, meets Midori, a gangly Japanese tourist, and invites her to stay with her, and meets Masako, a formal and ethereal ...",
+        "title": "Kamome shokudô (2006) - IMDb",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.dk/Restaurant_Review-g188057-d1044976-Reviews-Kamome-Geneva.html",
+        "snippet": "Kamome, Genève: Se 290 objektive anmeldelser af Kamome, som har fået 4,5 af 5 på Tripadvisor og er placeret som nr. 95 af 1.767 restauranter i Genève.",
+        "title": "Kamome, Genève - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://twitter.com/kamome_geneve",
+        "snippet": "The latest Tweets from Kamome Geneve ???? (@kamome_geneve). +41 22 717 1730 #japanesefood #goodfood #udon #sushilover #tempura #sushigram #eurofinance #businessdinner #eurofinance2018 #Wecaterforthebest. Genève, Suisse",
+        "title": "Kamome Geneve ???? (@kamome_geneve) | Twitter",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "151785": {
+    "url": "https://www.yelp.com/biz/geneva-arena-grand-saconnex?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Mo7O9cCBCuo5joeeMUB6yA/o.jpg",
+    "name": "Geneva Arena",
+    "alias": "geneva-arena-grand-saconnex",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Stadiums & Arenas, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Route des Batailleux 3",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Grand-Saconnex",
+    "zip_code": "1218",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41227109090",
+    "review_count": 2,
+    "snippets": []
+  },
+  "155324": {
+    "url": "https://www.yelp.com/biz/bistrot-a%C3%A9roport-meyrin-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LjYH7M15NMlJ5ND8E6Clhw/o.jpg",
+    "name": "Bistrot Aéroport",
+    "alias": "bistrot-aéroport-meyrin-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bistros, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "Route de l'Aéroport 17",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Meyrin",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "256316": {
+    "url": "https://www.yelp.com/biz/mcdonalds-meyrin?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "McDonald's",
+    "alias": "mcdonalds-meyrin",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, Fast Food, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Route de l'Aéroport 13",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Meyrin",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41228174657",
+    "review_count": 1,
+    "snippets": []
+  },
+  "259896": {
+    "url": "https://www.yelp.com/biz/restaurant-upper-crust-gen%C3%A8ve?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Upper Crust",
+    "alias": "restaurant-upper-crust-genève",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Route de l'Aéroport 13",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Geneva",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41228174684",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.zomato.com/lake-geneva-wi/upper-crust-pizzeria-pub-genoa-city",
+        "snippet": "Upper-Crust Pizzeria &amp; Pub Lake Geneva; Upper-Crust Pizzeria &amp; Pub, Genoa City; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Upper-Crust Pizzeria &amp; Pub Restaurant on Zomato",
+        "title": "Upper-Crust Pizzeria &amp; Pub - Lake Geneva - Restaurants",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/UpperCrustPizzeriaAndPub/",
+        "snippet": "Upper Crust, Pell Lake, Wisconsin. 1,703 likes · 337 talking about this · 5,472 were here. fun family atmosphere to come and enjoy one of the best pizzas you will ever have! I spy with my little eye",
+        "title": "Upper Crust - Home - Pell Lake, Wisconsin - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.menuism.com/restaurants/upper-crust-pizzeria-pub-genoa-city-188351",
+        "snippet": "Read reviews from Upper-Crust Pizzeria &amp; Pub at N1070 COUNTY ROAD H in Genoa City 53128-1307 from trusted Genoa City restaurant reviewers. Includes the menu, 2 reviews, 5 photos, and 2 dishes from Upper-Crust Pizzeria &amp; Pub.",
+        "title": "Upper-Crust Pizzeria &amp; Pub - Menu &amp; Reviews - Genoa City 53128",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://slicelife.com/restaurants/wi/lake-geneva/53157/upper-crust-pizzeria-lake-geneva/menu",
+        "snippet": "View Upper Crust Pizzeria menu, located at N1070 Co Rd H, Lake Geneva, WI 53157. Find the closest local pizzerias that deliver on Slice.",
+        "title": "Upper Crust Pizzeria Menu - N1070 Co Rd H, Lake Geneva, WI ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/lake-geneva-wi/upper-crust-pizzeria-pub-genoa-city/menu",
+        "snippet": "Upper-Crust Pizzeria &amp; Pub Genoa City Menu - View the Menu for Upper-Crust Pizzeria &amp; Pub Lake Geneva on Zomato for Delivery, Dine-out or Takeaway, Upper-Crust Pizzeria &amp; Pub menu and prices. Upper-Crust Pizzeria &amp; Pub Menu",
+        "title": "Upper-Crust Pizzeria &amp; Pub Menu - Urbanspoon/Zomato",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.maarslet-pizza.dk/u-pizza/upper-crust-pizza-lake-geneva-menu.html",
+        "snippet": "Searching for Upper Crust Pizza Lake Geneva Menu?You are in the right place. Here you can find everything you want to know about Upper Crust Pizza Lake Geneva Menu. And of cause you can order tasty pizza!",
+        "title": "Upper Crust Pizza Lake Geneva Menu - Maarslet-Pizza",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.restaurantji.com/wi/lake-geneva/upper-crust-pizzeria-/",
+        "snippet": "Latest reviews, photos and ??ratings for Upper Crust Pizzeria at N1070 Co Rd H in Lake Geneva - ⏰hours, ☎️phone number, ☝address and map.",
+        "title": "Upper Crust Pizzeria Lake Geneva, WI 53147 - 90 Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g190479-d7597060-Reviews-Upper_Crust-Oslo_Eastern_Norway.html",
+        "snippet": "Upper Crust, Oslo: Se 54 objektive anmeldelser av Upper Crust, vurdert til 2,5 av 5 på Tripadvisor og vurdert som nr. 1 323 av 1 450 restauranter i Oslo.",
+        "title": "Upper Crust, Oslo - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g59907-d4821291-Reviews-Upper_Crust_Pizzeria_and_Pub-Genoa_City_Wisconsin.html",
+        "snippet": "Upper-Crust Pizzeria and Pub, Genoa City: See 35 unbiased reviews of Upper-Crust Pizzeria and Pub, rated 4 of 5 on Tripadvisor and ranked #3 of 7 restaurants in Genoa City.",
+        "title": "Upper-Crust Pizzeria and Pub, Genoa City - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.sbb.ch/en/station-services/railway-stations/geneva-station/shopping/shop-detail.html/geo-upper-crust-70e0",
+        "snippet": "Timeless SBB design. Would you also like to get your hands on an official Swiss station clock by Mondaine? Whether you’d like it as a watch, wall clock, pocket watch or alarm clock, order the model you want online now.",
+        "title": "Upper Crust - Station Genève | SBB",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "262939": {
+    "url": "https://www.yelp.com/biz/genfer-auto-salon-gen%C3%A8ve?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Geneva International Motor Show, GIMS",
+    "alias": "genfer-auto-salon-genève",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Trade Fairs, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Palexpo",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Geneva",
+    "zip_code": "1218",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.gims.swiss/",
+        "snippet": "90th International Motor Show, Palexpo, 5 - 15 March 2020. World premieres in car industry, international car exposition. Gims | Geneva International Motor Show",
+        "title": "Gims | Geneva International Motor Show",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.gims.swiss/geneva-international-motor-show-cancelled",
+        "snippet": "The 90th edition of the GIMS, which was supposed to welcome the media from next Monday and the general public from 5 to 15 March 2020, will now finally not take place. This is an injonction decision of the Federal Council of 28 February 2020 that no events with more than 1,000 people are allowed to take place until 15 March 2020. The decision falls 3 days before the opening of the exhibition ...",
+        "title": "THE GENEVA INTERNATIONAL MOTOR SHOW IS CANCELLED! | Geneva ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.gims.swiss/gims-vip-day",
+        "snippet": "gims vip day on 4 march 2020 At GIMS VIP Day leading executives and thought-provoking personalities from automotive and tech will discuss the topics that are shaping the future of mobility. At GIMS VIP Day attendees will have the chance to to see world and European car premieres.",
+        "title": "GIMS VIP Day | Geneva International Motor Show",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.gims.swiss/fr",
+        "snippet": "90e Salon International de l&#39;Auto et Accessoires, Palexpo, du 5 au 15 mars 2020. Nouveauté mondiale de l&#39;automobile. Salon international de l&#39;auto | Geneva International Motor Show",
+        "title": "Gims | Geneva International Motor Show",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.expobeds.com/event/geneva-international-motor-show",
+        "snippet": "Learn more about Geneva International Motor Show in Geneva, Switzerland and book your hotel accommodation. GIMS 2020, which was scheduled on 5 - 15 March, was cancelled after the decision of the Federal Council banning all events gathering over 1000 people until 15 March 2020. The event organisers issued a statement, i...",
+        "title": "Geneva International Motor Show Geneva - Event Info And ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/GimsSwiss/",
+        "snippet": "Geneva International Motor Show, Grand-Saconnex, Switzerland. 155,788 likes · 66 talking about this · 34,064 were here. 90th Geneva International Motor Show &gt; March 5-15, 2020 www.gims.swiss",
+        "title": "Geneva International Motor Show - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/user/GVAMotorShow",
+        "snippet": "WELCOME TO THE OFFICIAL GENEVA MOTOR SHOW CHANNEL In preview, we’re pleased to present you the new GIMS SWISS 2019 branding. We take this opportunity to announce the official opening of our new ...",
+        "title": "GIMS SWISS - Geneva International Motor Show - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.expodatabase.de/en/expos/237-geneva-international-motor-show-gims-geneva-switzerland",
+        "snippet": "From the first car exhibition in Switzerland in 1905 to the international motor show of nowadays; the Geneva International Motor Show is one of the top five events worldwide not to be missed. An exciting adventure to discover.",
+        "title": "GENEVA INTERNATIONAL MOTOR SHOW (GIMS) - Geneva ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://thingstodoingeneva.ch/gims-geneva-international-motor-show/",
+        "snippet": "FROM THE 7th TO THE 17th OF MARCH the 89th edition of the Geneva International Motor Show (GIMS) takes place at Palexpo in Geneva. About 220 exhibitors, including major carmakers, many designers, equipment and industrial suppliers will present around 900 cars across seven halls at the Palexpo centre in Geneva.",
+        "title": "GIMS – GENEVA INTERNATIONAL MOTOR SHOW - Things to do in ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.motor1.com/news/401241/2020-geneva-motor-show-canceled/",
+        "snippet": "The 90th Geneva Motor Show will not take place as the Swiss goverment has banned public gatherings of more than 1,000 people due to Coronavirus concerns.",
+        "title": "Official: 2020 Geneva Motor Show Canceled Amid Coronavirus ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "262960": {
+    "url": "https://www.yelp.com/biz/international-motor-show-and-accessories-grand-saconnex?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ped_lZBzJiVsXbnzoQgWOA/o.jpg",
+    "name": "International Motor Show and Accessories",
+    "alias": "international-motor-show-and-accessories-grand-saconnex",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Arts & Entertainment, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Palexpo",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Grand-Saconnex",
+    "zip_code": "1218",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41227611111",
+    "review_count": 1,
+    "snippets": []
+  },
+  "271571": {
+    "url": "https://www.yelp.com/biz/swiss-business-lounge-grand-saconnex?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KcQLnr_3asHuwC-Z0joTEQ/o.jpg",
+    "name": "Swiss Business Lounge",
+    "alias": "swiss-business-lounge-grand-saconnex",
+    "main_category": "Nightlife",
+    "sub_categories": "Airport Lounges, ",
+    "rating": 3.0,
+    "price": "$$",
+    "address": "Route de l'Aéroport 21",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Grand-Saconnex",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "",
+    "review_count": 7,
+    "snippets": []
+  },
+  "316443": {
+    "url": "https://www.yelp.com/biz/swiss-senator-lounge-meyrin?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VG_S1_USMxqpWjIXcFWbiw/o.jpg",
+    "name": "Swiss Senator Lounge",
+    "alias": "swiss-senator-lounge-meyrin",
+    "main_category": "Nightlife",
+    "sub_categories": "Airport Lounges, ",
+    "rating": 3.0,
+    "price": "$$$$",
+    "address": "Route de l'Aéroport 12",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Meyrin",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41848700700",
+    "review_count": 3,
+    "snippets": []
+  },
+  "349657": {
+    "url": "https://www.yelp.com/biz/restaurant-la-colombiere-grand-saconnex?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/L-Sojr-ltyObG6X-zuQsBw/o.jpg",
+    "name": "Restaurant la Colombiere",
+    "alias": "restaurant-la-colombiere-grand-saconnex",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Buffets, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Route de Ferney 171",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Grand-Saconnex",
+    "zip_code": "1218",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41227980798",
+    "review_count": 1,
+    "snippets": []
+  },
+  "384189": {
+    "url": "https://www.yelp.com/biz/l-altitude-gen%C3%A8ve?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VUN8hG9slMPkQ5K99T51Zg/o.jpg",
+    "name": "L'Altitude",
+    "alias": "l-altitude-genève",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "French, ",
+    "rating": 4.5,
+    "price": "$$$",
+    "address": "Route de l'Aéroport 13",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Geneva",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41228174609",
+    "review_count": 7,
+    "snippets": [
+      {
+        "url": "https://altitude-geneva.ch/",
+        "snippet": "Alles Wissenswerte über Restaurants und Bars. Falls sich bei Ihnen Fragen oder sonstiges aufgetan hat, melden Sie sich über dieses Formular bei uns.",
+        "title": "Altitude-geneva.ch – Alles Wissenswerte über Restaurants ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.yelp.ch/biz/l-altitude-gen%C3%A8ve",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "en.yelp.ch",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Geneva_Airport",
+        "snippet": "Geneva Airport wanted to refurbish T2 as a low-cost terminal. At this time EasyJet was the major low-cost airline in Geneva with up to 80 flights a day during winter. Other major airlines at GVA threatened to leave the airport if EasyJet had its own terminal with lower landing charges.",
+        "title": "Geneva Airport - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://dateandtime.info/fr/citycoordinates.php?id=2660646",
+        "snippet": "Les coordonnées géographiques de Genève, Suisse dans le système global de coordonnées WGS 84 utilisé par le positionnement global par satellite et la navigation GPS. La latitude de Genève, la longitude de Genève, l’altitude de Genève par rapport au niveau de la mer.",
+        "title": "Les coordonnées géographiques de Genève. La latitude, la ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.gva.ch/en/Site/Passagers/Shopping/Restaurants-bars/Restaurants",
+        "snippet": "Caviar House &amp; Prunier Seafood Bar. Caviar House &amp; Prunier combines its contemporary and unique restaurant style with the finesse of a surprising menu, offering in particular Prunier cavier, smoked Balik salmon, foie gras, Pata Negra de Bellota 5 Jotas, and lobster and other seafood.",
+        "title": "Restaurants - Restaurants &amp; bars - Genève Aéroport",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr.wikipedia.org/wiki/Gen%C3%A8ve",
+        "snippet": "L&#39;un d&#39;eux est choisi par le général Guillaume Henri Dufour comme niveau de mesure pour déterminer l&#39;altitude de Genève, ainsi que comme point de référence du calcul de toutes les altitudes en Suisse [19]. Genève fait partie du sillon alpin, un territoire géographique qui s&#39;étend jusqu&#39;à Valence, à 244 kilomètres au sud-ouest.",
+        "title": "Genève — Wikipédia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://switzerland.worldplaces.me/view-place/20445814-altitude-geneve-airport.html",
+        "snippet": "Get address of Altitude Geneve Airport, ... Restaurant l&#39;Altitude 14m. Alschwil, Basel, Heidiland 15m. Restaurant L&#39;altitude, Geneva Airport 15m. Swiss Chocolate 16m. Genève Dnata Skyview Lounge 16m. Le Petit Prince 17m. Bistrot Genève Aéroport 18m. At The Top Of The World - Overlooking Mont Blanc, Aiguille De Midi 21m.",
+        "title": "Altitude Geneve Airport - WorldPlaces",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://latitudegeneve.ch/",
+        "snippet": "9 septembre 2019 - Champ-Baron, réception du local communautaire. Début septembre le local communautaire a été livré à la coopérative, en présence des représentants de l’entreprise Steiner, de notre concierge Antonio et de notre gérant technique Eric ainsi que des représentants du conseil d’administration de la coopérative.",
+        "title": "LATITUDE / Accueil",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.ivao.ch/downloads/public/documents/LSAGFIR/OM/LSGG_OM_FR.pdf",
+        "snippet": "Geneva Delivery (DEL) est responsable pour les clairances . Départs Standard Instruments (SID) MEDAM 4B / 4P: en cas de basses températures et/ou faible QNH, l&#39;altitude vraie d&#39;un avion sera plus basse que celle indiquée par l&#39;altimètre de l&#39;appareil, par conséquent, une plus grande marge doit être considérée.",
+        "title": "Geneva - LSGG",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.itaste.com/fr/restaurants/52397-Altitude.html",
+        "snippet": "Ce week-end je suis allée manger a l&#39;altitude nous étions 2, nous avons pris une salade de poulpes méditerranée, grosse crevettes a la plancha c&#39;était correct mais rien de transcendant puis j&#39;ai pris le blanc de turbotin a la plancha brandade de pomme de terre aux olives que dire, poisson en sur cuisson, la brandade tiède une tuile de...",
+        "title": "Restaurant Altitude à Meyrin",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "384638": {
+    "url": "https://www.yelp.com/biz/starbucks-meyrin?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nCiPsiseg5vVHYXPPV_XvQ/o.jpg",
+    "name": "Starbucks",
+    "alias": "starbucks-meyrin",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Genéva Airport",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Meyrin",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41228174680",
+    "review_count": 2,
+    "snippets": []
+  },
+  "401010": {
+    "url": "https://www.yelp.com/biz/montreux-jazz-cafe-cointrin?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OSdaVWXD9fuZ7dOk9UVHsQ/o.jpg",
+    "name": "Montreux Jazz Cafe",
+    "alias": "montreux-jazz-cafe-cointrin",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, Coffee & Tea, ",
+    "rating": 3.0,
+    "price": "$$",
+    "address": "Geneva Airport",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Cointrin",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41793736836",
+    "review_count": 9,
+    "snippets": []
+  },
+  "407662": {
+    "url": "https://www.yelp.com/biz/petit-caf%C3%A9-gen%C3%A8ve?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Petit-Café",
+    "alias": "petit-café-genève",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "Route de l'Aéroport 10",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Geneva",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41227107776",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g188057-d12732363-Reviews-Le_Petit_Cafe-Geneva.html",
+        "snippet": "Gikk til Le Petit Caf flere ganger siden åpningen, må si at ansatte er veldig vennlige, prisene er svært konkurransedyktige og stedet er perfekt for å slappe av. Eierne har også plassert et bordtennisbord, og oppblåsbar toboggan n og mange andre spill for barna å... gå vill, mens du kan nyte en cappuccino og en croissant med familie og venner.",
+        "title": "Le Petit Cafe, Genève - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g188057-d12732363-Reviews-Le_Petit_Cafe-Geneva.html",
+        "snippet": "Le Petit Cafe, Geneva: See 9 unbiased reviews of Le Petit Cafe, rated 5 of 5 on Tripadvisor and ranked #749 of 1,765 restaurants in Geneva. Flights ... Went to Le Petit Café a number of times since its opening, have to say that the staff is really friendly, ...",
+        "title": "Le Petit Cafe, Geneva - Restaurant Reviews, Photos &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g188057-d12732363-Reviews-Le_Petit_Cafe-Geneva.html",
+        "snippet": "Le Petit Cafe, Geneva: See 9 unbiased reviews of Le Petit Cafe, rated 5 of 5 on Tripadvisor and ranked #754 of 1,766 restaurants in Geneva. Flights Holiday Rentals Restaurants Things to do ... Went to Le Petit Café a number of times since its opening, ...",
+        "title": "LE PETIT CAFE, Geneva - Restaurant Reviews, Photos &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g1203132-d4131573-Reviews-Le_petit_Cafe_de_la_Frontiere-Versoix_Geneva.html",
+        "snippet": "Le petit Cafe de la Frontiere, Versoix: Se 15 objektive anmeldelser av Le petit Cafe de la Frontiere, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 20 av 24 restauranter i Versoix.",
+        "title": "Le petit Cafe de la Frontiere, Versoix ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g188057-d12732363-r511049119-Le_Petit_Cafe-Geneva.html",
+        "snippet": "Le Petit Cafe: Friendly and cute - See 9 traveler reviews, 11 candid photos, and great deals for Geneva, Switzerland, at Tripadvisor.",
+        "title": "Friendly and cute - Review of Le Petit Cafe, Geneva ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.au/Restaurant_Review-g188057-d12732363-Reviews-Le_Petit_Cafe-Geneva.html",
+        "snippet": "Le Petit Cafe, Geneva: See 9 unbiased reviews of Le Petit Cafe, rated 5 of 5 on Tripadvisor and ranked #755 of 1,766 restaurants in Geneva.",
+        "title": "LE PETIT CAFE, Geneva - Restaurant Reviews, Photos &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d12732363-Reviews-Le_Petit_Cafe-Geneva.html",
+        "snippet": "Le Petit Cafe, Suisse n&#39;a pas encore assez de notes sur ses plats, son service, son rapport qualité/prix ou son ambiance. Écrivez l&#39;un des premiers avis !",
+        "title": "Le Petit Cafe, Genève - Restaurant Avis, Numéro de ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/ShowUserReviews-g188057-d12732363-r511049119-Le_Petit_Cafe-Geneva.html",
+        "snippet": "Le Petit Cafe: Friendly and cute - See 9 traveller reviews, 11 candid photos, and great deals for Geneva, Switzerland, at TripAdvisor.",
+        "title": "Friendly and cute - Le Petit Cafe, Geneva Traveller ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.geneverestaurants.ch/en/restaurant-1274-le-petit-cafe-gen-ve-15-a-roport.php",
+        "snippet": "Le Petit Café-restaurant is next to Geneva-airport in WTC II. Open morning and noon. He offers fresh products, different salads, 2 daily menus and many specialities. You will also find sandwiches, salty pies, paninis to take away.",
+        "title": "LE PETIT CAFE - Genève 15 Aéroport - Geneva restaurant",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://switzerland.worldplaces.me/city/meyrin/view-place/20492120-le-petit-cafe.html",
+        "snippet": "Get address of Le Petit Café - Meyrin, submit your review or ask any question about Le Petit Café, search nearby places on map. ... Avenue Louis Casaï 26 Cointrin, Geneva. 4 ...",
+        "title": "Le Petit Café - Meyrin",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "408038": {
+    "url": "https://www.yelp.com/biz/goodie-organic-food-und-bar-meyrin?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/d4NHprh2dZ3yXMaJlbefxA/o.jpg",
+    "name": "Goodie Organic Food & Bar",
+    "alias": "goodie-organic-food-und-bar-meyrin",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, Breakfast & Brunch, Juice Bars & Smoothies, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Route de l'Aéroport 21",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Meyrin",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41227880061",
+    "review_count": 4,
+    "snippets": []
+  },
+  "414387": {
+    "url": "https://www.yelp.com/biz/latitude-restaurant-meyrin?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PE8rqdHxnvWxS03mLwzN2g/o.jpg",
+    "name": "Latitude Restaurant",
+    "alias": "latitude-restaurant-meyrin",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, International, ",
+    "rating": 3.0,
+    "price": "$$$",
+    "address": "Route de Pre-Bois 20",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Meyrin",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41227171720",
+    "review_count": 1,
+    "snippets": []
+  },
+  "418225": {
+    "url": "https://www.yelp.com/biz/la-cuisine-meyrin?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0B79DrJKmEMlHaRwGKVZiw/o.jpg",
+    "name": "La Cuisine",
+    "alias": "la-cuisine-meyrin",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "French, Cafes, Coffee & Tea, ",
+    "rating": 2.5,
+    "price": null,
+    "address": "Aéroport de Genève",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Meyrin",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41228174609",
+    "review_count": 2,
+    "snippets": []
+  },
+  "456614": {
+    "url": "https://www.yelp.com/biz/bagel-und-juice-factory-le-grand-saconnex?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/I4B11KEZLB9JaTfI2nse7g/o.jpg",
+    "name": "Bagel & Juice Factory",
+    "alias": "bagel-und-juice-factory-le-grand-saconnex",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Juice Bars & Smoothies, Bagels, Desserts, ",
+    "rating": 3.5,
+    "price": "$$",
+    "address": "Route de l'Aéroport 25",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Le Grand-Saconnex",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41227232086",
+    "review_count": 2,
+    "snippets": []
+  },
+  "462119": {
+    "url": "https://www.yelp.com/biz/restaurant-caf%C3%A9-de-la-mairie-le-grand-saconnex-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Café de la Mairie",
+    "alias": "restaurant-café-de-la-mairie-le-grand-saconnex-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "L'Ancienne-Route 48",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Le Grand-saconnex",
+    "zip_code": "1218",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41227980727",
+    "review_count": 3,
+    "snippets": []
+  },
+  "468435": {
+    "url": "https://www.yelp.com/biz/topform-gym-grand-saconnex?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hKLSuv9MontrHakTMAB-zQ/o.jpg",
+    "name": "Topform Gym",
+    "alias": "topform-gym-grand-saconnex",
+    "main_category": "Active Life",
+    "sub_categories": "Gyms, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Route François-Peyrot 34",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Grand-Saconnex",
+    "zip_code": "1218",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41227470245",
+    "review_count": 1,
+    "snippets": []
+  },
+  "499060": {
+    "url": "https://www.yelp.com/biz/la-r%C3%B4tisserie-gen%C3%A8ve?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fJ5vBG9WvEUfHPvFoJasyA/o.jpg",
+    "name": "La Rôtisserie",
+    "alias": "la-rôtisserie-genève",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Route de l'Aéroport 25",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Geneva",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://map.search.ch/Gen%C3%A8ve,Rue-de-la-R%C3%B4tisserie-10",
+        "snippet": "Die interaktive Karte von Genève, Rue de la Rôtisserie 10 mit aktuellen Informationen zu Verkehr, Gastronomie und mehr",
+        "title": "Karte: Genève, Rue de la Rôtisserie 10 - search.ch",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/la-r%C3%B4tisserie-gen%C3%A8ve",
+        "snippet": "La Rôtisserie in Geneva, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Geneva and beyond.",
+        "title": "La Rôtisserie - Geneva, Genève, Switzerland",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://map.search.ch/Gen%C3%A8ve,Rue-de-la-R%C3%B4tisserie-2.fr.html",
+        "snippet": "La carte interactive de Genève, Rue de la Rôtisserie 2",
+        "title": "Carte: Genève, Rue de la Rôtisserie 2 - search.ch",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.mapquest.com/switzerland/hotel-central-282943354",
+        "snippet": "The family-owned Hotel Central is located in the heart of Geneva a short walk from the Horloge Fleurie / Flower Clock and the Jet d&#39;Eau fountain on Lake Geneva. Choose from nicely furnished rooms and start every day in this friendly hotel with the complimentary continental breakfast.",
+        "title": "Hotel Central Rue De La Rôtisserie 2 Geneva, Gen¿¿ve ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://geneva.frasershospitality.com/en",
+        "snippet": "Geneva is a place that offers a lot. With an abundance of restaurants, great bars, unrivalled cultural attractions like Lake Geneva, it’s a city for travellers who are looking at a destination with lots of different options. Fraser Suites is on hand to provide the best itinerary for you during your stay with us.",
+        "title": "Serviced Apartments Geneva, Switzerland | Fraser Suites",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.hotelcentral.ch/en",
+        "snippet": "Your family hotel in the center of Geneva. Discover the guest rooms and apartments at Hotel Central near Lake Geneva! All rates include tax as well as continental breakfast served in your room. Book Call. Offers. ... Rue de la Rôtisserie 2 Geneva, 1204. Publishing details ...",
+        "title": "Your family hotel in the center of Geneva - Hôtel Central",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.hotelplanner.com/Hotels/269782/Reservations-Fraser-Suites-Geneva-Geneva-Rue-De-La-Rotisserie-5-1204",
+        "snippet": "FRASER SUITES GENEVA in Geneva at Rue De La Rotisserie 5 1204 CH. Find reviews and discounts for AAA/AARP members, seniors, long stays &amp; government.",
+        "title": "FRASER SUITES GENEVA - Geneva Rue De La Rotisserie 5 1204",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.hotelcentral.ch/en/contact",
+        "snippet": "Find out all the information you need to contact Hotel Central in Geneva, via its street address, email address and telephone number",
+        "title": "Contact - Hôtel Central",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.i-hotels.it/geneve-rue-de-la-rotisserie-2-bded-en-n.aspx",
+        "snippet": "Genève hotel Rue de la Rôtisserie, 2. Hotel Central price from 105 CHF. Genève Hotel Rue de la Rôtisserie, 2. Hotel Central ... (French Auditoire de Calvin), originally the Notre-Dame-la-Neuve Chapel, is a chapel in Geneva, Switzerland which played a significant role in the Protestant Reformation. It is associated with John Calvin, ...",
+        "title": "Genève Hotel Rue de la Rôtisserie, 2 Hotel Central",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.globuya.com/CH/Geneva/1642895419328069/La-Ga%C3%AEt%C3%A9",
+        "snippet": "La Gaîté - spécialiste en articles de fêtes: Costumes et accessoires de déguisement, guirlandes, ballons, cotillons, drapeaux, farces et attrapes",
+        "title": "La Gaîté, 13, Rue de la Rôtisserie, Geneva (2020)",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "515621": {
+    "url": "https://www.yelp.com/biz/pizzeria-al-volo-gen%C3%A8ve?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FG9G5DjRA-Ka0C8ghEzeYg/o.jpg",
+    "name": "Pizzeria Al Volo",
+    "alias": "pizzeria-al-volo-genève",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, ",
+    "rating": 2.5,
+    "price": null,
+    "address": "Route de l'Aéroport 25",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Geneva",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41227986377",
+    "review_count": 5,
+    "snippets": [
+      {
+        "url": "https://www.facebook.com/pizzeriaalvologare/",
+        "snippet": "Pizzeria Al Volo - galerie marchande gare CFF route de l&#39;aéroport 25, 1215 Cointrin, Geneve, Switzerland - Rated 4.6 based on 17 Reviews &quot;Convenient...",
+        "title": "Pizzeria Al Volo - Home - Cointrin, Geneve, Switzerland ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.bisa.ch/points-de-vente/pizzeria-al-volo/",
+        "snippet": "Pizzeria Al Volo. Aéroport de Genève Galerie Marchande Gare CFF 1216 Cointrin (GE) T +41 22 798 63 77 F +41 22 788 23 70",
+        "title": "Pizzeria Al Volo | BISA",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.sbb.ch/en/station-services/railway-stations/geneve-aeroport-station/shops/shop-detail.html/geo-al-volo-pizzeria-2ce0",
+        "snippet": "Al Volo Pizzeria shopdetail.meta.station.at Station Genève-Aéroport, Airport level. Open 365 days a year: Mon-Sun 09:00-23:00.",
+        "title": "Al Volo Pizzeria - Station Genève-Aéroport | SBB",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.ph/Restaurant_Review-g199028-d1963020-Reviews-Al_Volo_Pizzeria-Cointrin.html",
+        "snippet": "Al Volo Pizzeria, Cointrin: See 146 unbiased reviews of Al Volo Pizzeria, rated 3.5 of 5, and one of 7 Cointrin restaurants on Tripadvisor. ... The Geneva airport is close to our office. And the Pizzeria Al Volo is the first restaurant when we enter the airport. That is why we went there.",
+        "title": "Al Volo Pizzeria, Cointrin - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.alvolodc.net/",
+        "snippet": "Al Volo’s pastas and sauces are made with traditional rustic recipes and local ingredients sourced from the very farmer’s markets where we sell our products. Our high-end products bring the same cuisine as high-end Italian eateries to your local grocery store, and home dinner table.",
+        "title": "Al Volo",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.sg/Restaurant_Review-g199028-d1963020-Reviews-Al_Volo_Pizzeria-Cointrin.html",
+        "snippet": "Al Volo Pizzeria, Cointrin: See 146 unbiased reviews of Al Volo Pizzeria, rated 3.5 of 5, and one of 7 Cointrin restaurants on Tripadvisor.",
+        "title": "Al Volo Pizzeria, Cointrin - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.sbb.ch/fr/gare-services/gares/gare-de-geneve-aeroport/magasins/shop-detail.html/geo-al-volo-pizzeria-2ce0",
+        "snippet": "Al Volo Pizzeria. Tél.: +41 22 798 63 77 Ouverture du lien dans une nouvelle fenêtre. E-mail Ouverture du lien dans une nouvelle fenêtre. Site Web Ouverture du lien dans une nouvelle fenêtre. Découvrir des thêmes similaires. 4 4 Entrées sur Restaurants / Take-Away ...",
+        "title": "Al Volo Pizzeria - Gare Genève-Aéroport | CFF",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.fr/Restaurant_Review-g199028-d1963020-Reviews-Al_Volo_Pizzeria-Cointrin.html",
+        "snippet": "G5463LEvirginieb, Responsable relations clients de Al Volo Pizzeria, a répondu à cet avis A répondu le 13 novembre 2018. Cher Client, Nous vous remercions d’avoir pris le temps de partager votre récente expérience dans notre établissement sur le site TripAdvisor.",
+        "title": "Al Volo Pizzeria, Cointrin - Restaurant Avis, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g199028-d1963020-i178882076-Al_Volo_Pizzeria-Cointrin.html",
+        "snippet": "Al Volo Pizzeria, Cointrin Picture: Good Italian pizza - Check out Tripadvisor members&#39; 1,869 candid photos and videos of Al Volo Pizzeria",
+        "title": "Good Italian pizza - Picture of Al Volo Pizzeria, Cointrin ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g199028-d1963020-i178882078-Al_Volo_Pizzeria-Cointrin.html",
+        "snippet": "Al Volo Pizzeria, Cointrin Picture: Good Italian pizza - Check out Tripadvisor members&#39; 1,877 candid photos and videos of Al Volo Pizzeria. Cointrin. Cointrin Tourism Cointrin Hotels Cointrin Bed and Breakfast Cointrin Vacation Rentals Cointrin Vacation Packages Flights to Cointrin",
+        "title": "Good Italian pizza - Picture of Al Volo Pizzeria, Cointrin ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "591717": {
+    "url": "https://www.yelp.com/biz/staralliance-business-lounge-genf?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Cy_WJB9LbTiDDt4kc2lclg/o.jpg",
+    "name": "StarAlliance Business-Lounge",
+    "alias": "staralliance-business-lounge-genf",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bistros, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Route de l'Aéroport 21",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Genf",
+    "zip_code": "1218",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "",
+    "review_count": 4,
+    "snippets": []
+  },
+  "607869": {
+    "url": "https://www.yelp.com/biz/le-grizzly-le-grand-saconnex?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DMc4rvbMp0pPRfvYXf5xMg/o.jpg",
+    "name": "Le Grizzly",
+    "alias": "le-grizzly-le-grand-saconnex",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Chemin Edouard-Sarasin 26",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Le Grand-saconnex",
+    "zip_code": "1218",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41227981011",
+    "review_count": 4,
+    "snippets": []
+  },
+  "609294": {
+    "url": "https://www.yelp.com/biz/salon-international-de-l-automobile-de-gen%C3%A8ve-grand-saconnex-gen%C3%A8ve?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/99-PyMkJOISiB6GPpvOU_A/o.jpg",
+    "name": "Salon International de l'Automobile de Genève",
+    "alias": "salon-international-de-l-automobile-de-genève-grand-saconnex-genève",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Trade Fairs, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Palexpo, Case postale 112",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Grand-Saconnex / Genève",
+    "zip_code": "1218",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41227611111",
+    "review_count": 6,
+    "snippets": []
+  },
+  "612102": {
+    "url": "https://www.yelp.com/biz/swiss-coffee-house-grand-saconnex?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ROPDbac9pdAF-aS1eA47eA/o.jpg",
+    "name": "Swiss Coffee House",
+    "alias": "swiss-coffee-house-grand-saconnex",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, Coffee & Tea, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Aéroport de Genève",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Grand-Saconnex",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "625922": {
+    "url": "https://www.yelp.com/biz/horizon-lounge-gen%C3%A8ve?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/y3AM9ABehyrWA3pEJmSR6Q/o.jpg",
+    "name": "Horizon Lounge",
+    "alias": "horizon-lounge-genève",
+    "main_category": "Nightlife",
+    "sub_categories": "Airport Lounges, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Aeroport",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Geneva",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "",
+    "review_count": 3,
+    "snippets": [
+      {
+        "url": "https://www.gvalounge.com/",
+        "snippet": "Due to restrictions imposed by Covid-19, our lounges are closed until further notice and all our VIP services suspended. Thank you for your understanding.",
+        "title": "Swissport Horizon",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.prioritypass.com/en/lounges/switzerland/geneva-cointrin/gva-horizon-lounge",
+        "snippet": "Horizon Lounge lounge Geneva International Terminal 1. All the info about the lounge: location, opening hours, conditions and facilities.",
+        "title": "Horizon Lounge GVA Airport Lounges Terminal 1 Geneva ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.executivelounges.com/airport-lounges/geneva-airport-swissport-horizon-lounge",
+        "snippet": "Please be advised, this lounge is temporarily closed. The Swissport Horizon Lounge at Geneva Airport is open to all guests departing from the airport, irrespective of class or airline. The lounge boasts a wide selection of complimentary food, alcoholic and non-alcoholic drinks.",
+        "title": "Swissport Horizon Lounge at Geneva Airport | Executive Lounges",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.thelodgeatgeneva.com/dine/horizons-restaurant",
+        "snippet": "Horizons Restaurant is the signature dining experience in Geneva-on-the-Lake. From the striking, glass-enclosed octagonal dining room with spectacular Lake Erie views, to seasonal local menus featuring classic American cuisine, Horizons presents Ohio Wine Country dining at its finest.",
+        "title": "Horizons Restaurant | Lake Erie Dining | The Lodge at Geneva",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://loungereview.com/lounges/swissport-horizon-lounge-gva/",
+        "snippet": "Swissport Horizon Lounge at Geneva - Cointrin (GVA) welcomes: Pay-in customers: relax at the lounge no matter what airline you&#39;re flying. Purchase access now in order guarantee your spot, and save time and money. Select premium customers and elite members departing on an airline served by this lounge (see airlines served).",
+        "title": "Swissport Horizon Lounge - GVA | LoungeReview.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.thelodgeatgeneva.com/dine/horizons-lounge",
+        "snippet": "Horizons Lounge at The Lodge at Geneva-on-the-Lake is the place to pause, pull up a chair and reflect on a day of Northeast Ohio vacation adventure. With perfect Lake Erie views, daily drink specials, a menu of local and nationally recognized wines, and live entertainment each weekend, Horizons has it all.",
+        "title": "Horizons Lounge | Dining | The Lodge at Geneva",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.sleepinginairports.net/lounge/geneva-airport/horizon-lounge-gva.htm",
+        "snippet": "If you are an economy class traveller, you can wait for your flight in the comfort of the Horizon Lounge at Geneva Airport. Below you will find helpful information such as: lounge location, hours, services, and lounge access for economy class travellers.",
+        "title": "Horizon Lounge | Geneva Airport - Sleeping in Airports",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.loungebuddy.com/GVA/swissport-horizon-lounge-temporarily-closed-main-terminal-gmco3e3tVS",
+        "snippet": "Swissport Horizon Lounge (Temporarily Closed) does not currently accept reservations. We are working on it and hope to have it soon. Can I purchase access? Swissport Horizon Lounge (Temporarily Closed) is reserved for passengers with specific credentials such as elite status, premium tickets, or other access methods that are required for entry.",
+        "title": "GVA: Swissport Horizon Lounge (Temporarily Closed) Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.loungeclub.com/en/our-lounges/lounge-detail/GVA",
+        "snippet": "Lounge Detail. HORIZON LOUNGE, Terminal 1. Airport: Geneva International (GVA) Terminal: Terminal 1. Lounge: Horizon Lounge (GVA) Location: Airside - take the stairs on the right hand side of the Transit Area to the Mezzanine Level where the lounge is located. ... Other lounges at Geneva International: Dnata Skyview Lounge, ...",
+        "title": "LOUNGE CLUB™ - Geneva International - Horizon Lounge (GVA)",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g50370-d1149123-Reviews-Horizons_Restaurant_Lounge-Geneva_on_the_Lake_Ohio.html",
+        "snippet": "Reserve a table at Horizons Restaurant &amp; Lounge, Geneva on the Lake on Tripadvisor: See 357 unbiased reviews of Horizons Restaurant &amp; Lounge, rated 4 of 5 on Tripadvisor and ranked #6 of 23 restaurants in Geneva on the Lake.",
+        "title": "Horizons Restaurant &amp; Lounge, Geneva on the Lake ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "634306": {
+    "url": "https://www.yelp.com/biz/tekoe-tea-lounge-gen%C3%A8ve-15-a%C3%A9roport?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BJSPvwf72-_CAOTOm0lxsA/o.jpg",
+    "name": "Tekoe Tea Lounge",
+    "alias": "tekoe-tea-lounge-genève-15-aéroport",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Tea Rooms, ",
+    "rating": 3.5,
+    "price": "$$",
+    "address": "Aéroport de Genève",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Genève 15 Aéroport",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41227883162",
+    "review_count": 2,
+    "snippets": []
+  },
+  "653158": {
+    "url": "https://www.yelp.com/biz/l-olivo-gen%C3%A8ve-3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yiEZgB6K1pEa42b7ZjWFxg/o.jpg",
+    "name": "L'Olivo",
+    "alias": "l-olivo-genève-3",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "34 route François Peyrot",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Geneva",
+    "zip_code": "1218",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41224740400",
+    "review_count": 5,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g188057-d1319383-Reviews-Restaurant_L_olivo-Geneva.html",
+        "snippet": "Reserve a table at Restaurant L&#39;olivo, Geneva on Tripadvisor: See 134 unbiased reviews of Restaurant L&#39;olivo, rated 4 of 5 on Tripadvisor and ranked #303 of 1,766 restaurants in Geneva.",
+        "title": "Restaurant L&#39;olivo, Geneva - Menu, Prices, Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://starling-hotel-geneva.com/restaurants-and-bar/olivo-restaurant/",
+        "snippet": "In a context that everyone knows is constrained, Starling Hotel Geneva has decided to focus its teams and attention on the Starling Café and the Cbar &amp; Lounge in order to maintain a varied culinary offer in an environment adapted to current contingencies. L’olivo will therefore be closed from Monday 16th of March.",
+        "title": "L&#39;olivo | Starling Hotel Geneva",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g188057-d1319383-Reviews-Restaurant_L_olivo-Geneva.html",
+        "snippet": "Restaurant L&#39;olivo, Genève: Se 134 objektive anmeldelser av Restaurant L&#39;olivo, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 303 av 1 765 restauranter i Genève.",
+        "title": "Restaurant L&#39;olivo, Genève - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g188057-d1319383-Restaurant_L_olivo-Geneva.html",
+        "snippet": "Restaurants near Restaurant L&#39;olivo, Geneva on TripAdvisor: Find traveler reviews and candid photos of dining near Restaurant L&#39;olivo in Geneva, Switzerland.",
+        "title": "THE 10 BEST Restaurants Near Restaurant L&#39;olivo in Geneva ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g188057-d1319383-Reviews-Restaurant_L_olivo-Geneva.html",
+        "snippet": "Reserve a table at Restaurant L&#39;olivo, Geneva on Tripadvisor: See 134 unbiased reviews of Restaurant L&#39;olivo, rated 4 of 5 on Tripadvisor and ranked #303 of 1,765 restaurants in Geneva.",
+        "title": "RESTAURANT L&#39;OLIVO, Geneva - Updated 2020 Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.thefork.com/restaurant/starling-l-olivo-r32085",
+        "snippet": "Book a table at Starling - L&#39;olivo in Le Grand-Saconnex. Find restaurant reviews, menu, prices, and hours of operation for Starling - L&#39;olivo on TheFork.",
+        "title": "Starling - L&#39;olivo in Le Grand-Saconnex - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.in/RestaurantsNear-g188057-d1319383-Restaurant_L_olivo-Geneva.html",
+        "snippet": "Restaurants near Restaurant L&#39;olivo, Geneva on Tripadvisor: Find traveller reviews and candid photos of dining near Restaurant L&#39;olivo in Geneva, Switzerland.",
+        "title": "The 10 Best Restaurants Near Restaurant L&#39;olivo, Geneva ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.de/Restaurant_Review-g188057-d1319383-Reviews-Restaurant_L_olivo-Geneva.html",
+        "snippet": "Ich war auf einer Geschäftsreise im Starling Hotel und traf zwei Kollegen zum Abendessen im Restaurant L&#39;olivo. Der Service war ausgezeichnet. Wir haben mit Getränken angefangen - - jeder war genau so wie gewünscht. Wir bestellten Vorspeisen und Vorspeisen und wurden schnell vom Chefkoch zu... einem unterhaltsamen Bouche behandelt.",
+        "title": "L&#39;Olivo, Genf - Menü, Preise &amp; Restaurant Bewertungen ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.za/Restaurant_Review-g188057-d1319383-Reviews-Restaurant_L_olivo-Geneva.html",
+        "snippet": "Restaurant L&#39;olivo, Geneva: See 134 unbiased reviews of Restaurant L&#39;olivo, rated 4 of 5 on Tripadvisor and ranked #302 of 1,766 restaurants in Geneva.",
+        "title": "Restaurant L&#39;olivo, Geneva - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://starling-hotel-geneva.com/fr/restauration/olivo-restaurant/",
+        "snippet": "Dans un contexte que chacun sait contraint, le Starling Hotel Geneva a décidé de concentrer ses équipes et son attention sur le Starling Café et le Cbar &amp; lounge afin de maintenir une offre culinaire variée dans un environnement adapté aux contingences actuelles. L’olivo sera donc fermé à partir du lundi 16 mars",
+        "title": "L&#39;olivo | Starling Hotel Geneva",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "661474": {
+    "url": "https://www.yelp.com/biz/migros-le-grand-saconnex-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/h0uPSh8cmx167F_LOrKHoA/o.jpg",
+    "name": "Migros",
+    "alias": "migros-le-grand-saconnex-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Route de l'Aéroport 25",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Le Grand-Saconnex",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41585734110",
+    "review_count": 4,
+    "snippets": []
+  },
+  "663099": {
+    "url": "https://www.yelp.com/biz/moleskine-cafe-le-grand-saconnex?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HA5ipY5U44zw2nyFiOGegg/o.jpg",
+    "name": "Moleskine Cafe",
+    "alias": "moleskine-cafe-le-grand-saconnex",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "Geneva Airport",
+    "city_from_postal": "Le Grand-Saconnex",
+    "city": "Le Grand-Saconnex",
+    "zip_code": "1215",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "",
+    "review_count": 2,
+    "snippets": []
+  }
+}

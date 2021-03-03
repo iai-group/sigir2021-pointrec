@@ -1,0 +1,21 @@
+{
+  "424585": {
+    "url": "https://www.yelp.com/biz/restaurant-strauss-meierskappel?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Strauss",
+    "alias": "restaurant-strauss-meierskappel",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Straussweg 8",
+    "city_from_postal": "Meierskappel",
+    "city": "Meierskappel",
+    "zip_code": "6344",
+    "country_code": "CH",
+    "state_code": "LU",
+    "phone": "+41417901165",
+    "review_count": 1,
+    "snippets": []
+  }
+}

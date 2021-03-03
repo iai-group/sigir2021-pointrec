@@ -1,0 +1,375 @@
+{
+  "29627": {
+    "url": "https://www.yelp.com/biz/teatro-romano-de-it%C3%A1lica-santiponce?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ch3_2jJeowZDj1sTozwm-g/o.jpg",
+    "name": "Teatro Romano de Itálica",
+    "alias": "teatro-romano-de-itálica-santiponce",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Performing Arts, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Calle la Feria, s/n",
+    "city_from_postal": "Santiponce",
+    "city": "Santiponce",
+    "zip_code": "41970",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34955622266",
+    "review_count": 2,
+    "snippets": []
+  },
+  "126732": {
+    "url": "https://www.yelp.com/biz/el-horno-de-gregorio-santiponce?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_pHwQMNcIsqwWzUzPRKDTQ/o.jpg",
+    "name": "El Horno de Gregorio",
+    "alias": "el-horno-de-gregorio-santiponce",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Brasseries, Steakhouses, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Avenida Extremadura, 69",
+    "city_from_postal": "Santiponce",
+    "city": "Santiponce",
+    "zip_code": "41970",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34955997405",
+    "review_count": 1,
+    "snippets": []
+  },
+  "204753": {
+    "url": "https://www.yelp.com/biz/mes%C3%B3n-la-caipiri%C3%B1a-sevilla?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Mesón La Caipiriña",
+    "alias": "mesón-la-caipiriña-sevilla",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Brazilian, ",
+    "rating": 3.5,
+    "price": "€€",
+    "address": "Avenida Extremadura, 9",
+    "city_from_postal": "Santiponce",
+    "city": "Seville",
+    "zip_code": "41970",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34955997009",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g652112-d7098348-r540405009-Meson_la_Caipirina-Santiponce_Province_of_Seville_Andalucia.html",
+        "snippet": "Meson la Caipirina: Dine with Flies - See 26 traveler reviews, 8 candid photos, and great deals for Santiponce, Spain, at Tripadvisor.",
+        "title": "Dine with Flies - Review of Meson la Caipirina, Santiponce ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g652112-d7098348-Reviews-Meson_la_Caipirina-Santiponce_Province_of_Seville_Andalucia.html",
+        "snippet": "Meson la Caipirina, Santiponce: Consulta 26 opiniones sobre Meson la Caipirina con puntuación 3 de 5 y clasificado en Tripadvisor N.°16 de 20 restaurantes en Santiponce.",
+        "title": "MESON LA CAIPIRINA, Santiponce - Fotos, Número de Teléfono ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g652112-d7098348-Reviews-Meson_la_Caipirina-Santiponce_Province_of_Seville_Andalucia.html",
+        "snippet": "Meson la Caipirina, Santiponce: See 26 unbiased reviews of Meson la Caipirina, rated 3 of 5 on Tripadvisor and ranked #15 of 20 restaurants in Santiponce.",
+        "title": "Meson la Caipirina, Santiponce - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.ca/biz/mes%C3%B3n-la-caipiri%C3%B1a-sevilla",
+        "snippet": "Mesón La Caipiriña in Seville, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Seville and beyond.",
+        "title": "Mesón La Caipiriña - Seville, Sevilla, Spain",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.de/Restaurant_Review-g652112-d7098348-Reviews-Meson_la_Caipirina-Santiponce_Province_of_Seville_Andalucia.html",
+        "snippet": "Meson la Caipirina, Santiponce: 26 Bewertungen - bei Tripadvisor auf Platz 16 von 20 von 20 Santiponce Restaurants; mit 3/5 von Reisenden bewertet.",
+        "title": "Meson la Caipirina, Santiponce - Restaurant Bewertungen ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.it/Restaurant_Review-g652112-d7098348-Reviews-Meson_la_Caipirina-Santiponce_Province_of_Seville_Andalucia.html",
+        "snippet": "Meson la Caipirina, Santiponce: su Tripadvisor trovi 26 recensioni imparziali su Meson la Caipirina, con punteggio 3 su 5 e al n.16 su 20 ristoranti a Santiponce.",
+        "title": "MESON LA CAIPIRINA, Santiponce - Ristorante Recensioni ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/www.carpasalubian.es/",
+        "snippet": "Mesón brasileño la caipiriña - Avenida De Extremadura, 41970 Santiponce, Spain - Rated 2 based on 2 Reviews &quot;El restaurante un 10 comida buenísima y...",
+        "title": "Mesón brasileño la caipiriña - Home - Santiponce, Spain ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/ShowUserReviews-g652112-d7098348-r690114180-Meson_la_Caipirina-Santiponce_Province_of_Seville_Andalucia.html",
+        "snippet": "Meson la Caipirina: De pena - 26 opiniones y 8 fotos de viajeros, y ofertas fantásticas para Santiponce, España en Tripadvisor.",
+        "title": "De pena - Opiniones de viajeros sobre Meson la Caipirina ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.fr/Restaurant_Review-g652112-d7098348-Reviews-Meson_la_Caipirina-Santiponce_Province_of_Seville_Andalucia.html",
+        "snippet": "Meson la Caipirina, Santiponce : consultez 26 avis sur Meson la Caipirina, noté 3 sur 5 sur Tripadvisor et classé #15 sur 20 restaurants à Santiponce.",
+        "title": "Meson la Caipirina, Santiponce - Restaurant Avis, Numéro ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g652112-d7098348-Reviews-Meson_la_Caipirina-Santiponce_Province_of_Seville_Andalucia.html",
+        "snippet": "Meson la Caipirina, Santiponce: Veja 26 dicas e avaliações imparciais de Meson la Caipirina, com classificação Nº 3 de 5 no Tripadvisor e classificado como Nº 16 de 20 restaurantes em Santiponce.",
+        "title": "MESON LA CAIPIRINA, Santiponce - Comentários de ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "322205": {
+    "url": "https://www.yelp.com/biz/ventorrillo-canario-santiponce?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ux-EDE3L7cmFI_-1vL1sHg/o.jpg",
+    "name": "Ventorrillo Canario",
+    "alias": "ventorrillo-canario-santiponce",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Steakhouses, ",
+    "rating": 3.0,
+    "price": "€€€",
+    "address": "Avenida de Extremadura, 13",
+    "city_from_postal": "Santiponce",
+    "city": "Santiponce",
+    "zip_code": "41970",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34955996700",
+    "review_count": 9,
+    "snippets": []
+  },
+  "346550": {
+    "url": "https://www.yelp.com/biz/gran-vent-a-italica-santiponce?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kHuSXrcglhr4v92mghfBQw/o.jpg",
+    "name": "Gran Vent A Italica",
+    "alias": "gran-vent-a-italica-santiponce",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, Spanish, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Avenida Extremadura, 9",
+    "city_from_postal": "Santiponce",
+    "city": "Santiponce",
+    "zip_code": "41970",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34955996706",
+    "review_count": 3,
+    "snippets": []
+  },
+  "383165": {
+    "url": "https://www.yelp.com/biz/parque-del-alamillo-sevilla-4?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RTZkjxg0Hjg1pBUB1w6EpQ/o.jpg",
+    "name": "Parque del Alamillo",
+    "alias": "parque-del-alamillo-sevilla-4",
+    "main_category": "Active Life",
+    "sub_categories": "Parks, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Calle Alamillo, s/n",
+    "city_from_postal": "Santiponce",
+    "city": "Seville",
+    "zip_code": "41970",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34954787878",
+    "review_count": 26,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g187443-d7951016-Reviews-Parque_del_Alamillo-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "If like me you do the occasional run then you can run along the riverbank and into the parque del alamillo. If you are based in San Jeronimo then this is right on your doorstep. You can do circuits in the park or venture along the riverbank. A great way to keep up the exercise.",
+        "title": "Parque del Alamillo (Seville) - 2020 All You Need to Know ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.juntadeandalucia.es/avra/parque-alamillo/",
+        "snippet": "Parque del Alamillo, Cortijo del Alamillo, Isla de la Cartuja, 41092 Sevilla 955 516 141. Tlfno de seguridad 608890299",
+        "title": "Parque del Alamillo - Parque del alamillo",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Attraction_Review-g187443-d7951016-Reviews-Parque_del_Alamillo-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Parque del Alamillo, Sevilla: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Parque del Alamillo i Sevilla, Spania på Tripadvisor.",
+        "title": "Parque del Alamillo (Sevilla, Spania) - Anmeldelser",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.in/Attraction_Review-g187443-d7951016-Reviews-Parque_del_Alamillo-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Book your tickets online for Parque del Alamillo, Seville: See 47 reviews, articles, and 45 photos of Parque del Alamillo, ranked No.71 on TripAdvisor among 367 attractions in Seville.",
+        "title": "Parque del Alamillo (Seville) - 2019 What to Know Before ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g187443-d7951016-Parque_del_Alamillo-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Restaurants near Parque del Alamillo, Seville on Tripadvisor: Find traveler reviews and candid photos of dining near Parque del Alamillo in Seville, Province of Seville.",
+        "title": "Restaurants Near Parque del Alamillo, Seville, Spain",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.rome2rio.com/s/Parque-del-Alamillo/Seville",
+        "snippet": "There are 4 ways to get from Parque del Alamillo to Seville by bus, taxi, towncar or foot. Select an option below to see step-by-step directions and to compare ticket prices and travel times in Rome2rio&#39;s travel planner.",
+        "title": "Parque del Alamillo to Seville - 3 ways to travel via bus ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Attraction_Review-g187443-d7951016-Reviews-Parque_del_Alamillo-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Cuando salgo a dar un paseo me encanta ir por el parque del Alamillo. Cuando has entrado en el parque no se escucha ni el ruido de los coches. Hay muchas familias pasando el día y cenando de noche. También hay mucha gente corriendo o dando un paseo. Las actividades de “Los …",
+        "title": "Parque del Alamillo (Sevilla) - 2020 Qué saber antes de ir ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/FAQ-g187443-d7951016-Parque_del_Alamillo.html",
+        "snippet": "Parque del Alamillo, Seville: answers to 5 questions about Parque del Alamillo: See 47 reviews, articles, and 45 photos of Parque del Alamillo, ranked No.71 on Tripadvisor among 1,306 attractions in Seville.",
+        "title": "Parque del Alamillo FAQ (Seville) - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Attraction_Review-g187443-d7951016-Reviews-Parque_del_Alamillo-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Book your tickets online for Parque del Alamillo, Seville: See 47 reviews, articles, and 45 photos of Parque del Alamillo, ranked No.71 on Tripadvisor among 372 attractions in Seville.",
+        "title": "Parque del Alamillo (Seville) - All You Need to Know ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.de/Attraction_Review-g187443-d7951016-Reviews-Parque_del_Alamillo-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Die vom Zentrum von Sevilla am Flussufer und zehn Kilometer weiter am Ende der Fluss Sie in diese klasse Parque del Alamillo auf der anderen Seite. Ein großer Garten von Orangenbäumen. Während die durch das Garten können Sie genießen der Natur umgeben und es auf der anderen …",
+        "title": "Parque del Alamillo (Sevilla) - Aktuelle 2020 - Lohnt es ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "393329": {
+    "url": "https://www.yelp.com/biz/pe%C3%B1a-cultural-sevillista-de-santiponce-santiponce-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Peña Cultural Sevillista de Santiponce",
+    "alias": "peña-cultural-sevillista-de-santiponce-santiponce-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, Cultural Center, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Calle Rodrigo Caro 19",
+    "city_from_postal": "Santiponce",
+    "city": "Santiponce",
+    "zip_code": "41970",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34955997974",
+    "review_count": 1,
+    "snippets": []
+  },
+  "395744": {
+    "url": "https://www.yelp.com/biz/kenia-santiponce?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jZLXMtbkmxl9Ub-qIbs_Pg/o.jpg",
+    "name": "Kenia",
+    "alias": "kenia-santiponce",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Breakfast & Brunch, Coffee & Tea, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Avenida Extremadura, 111",
+    "city_from_postal": "Santiponce",
+    "city": "Santiponce",
+    "zip_code": "41970",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34955996544",
+    "review_count": 1,
+    "snippets": []
+  },
+  "486848": {
+    "url": "https://www.yelp.com/biz/la-caseta-de-antonio-santiponce?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WVsKt8meeBUGeXizjWB-cQ/o.jpg",
+    "name": "la Caseta de Antonio",
+    "alias": "la-caseta-de-antonio-santiponce",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Spanish, ",
+    "rating": 4.5,
+    "price": "€€",
+    "address": "Avenida Rocio Vega, 10",
+    "city_from_postal": "Santiponce",
+    "city": "Santiponce",
+    "zip_code": "41970",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34955996306",
+    "review_count": 3,
+    "snippets": []
+  },
+  "542962": {
+    "url": "https://www.yelp.com/biz/monasterio-san-isidoro-del-campo-sevilla?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Cm0wqJiJAeg9-nKxlelTsQ/o.jpg",
+    "name": "Monasterio San Isidoro del Campo",
+    "alias": "monasterio-san-isidoro-del-campo-sevilla",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, Landmarks & Historical Buildings, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Av. de San Isidoro, 18",
+    "city_from_postal": "Santiponce",
+    "city": "Seville",
+    "zip_code": "41970",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34955624400",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g652112-d6429628-Reviews-Monasterio_De_San_Isidoro_Del_Campo-Santiponce_Province_of_Seville_Andalucia.html",
+        "snippet": "We recommend booking Monasterio De San Isidoro Del Campo tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 3 Monasterio De San Isidoro Del Campo tours on Tripadvisor",
+        "title": "Monasterio De San Isidoro Del Campo (Santiponce) - 2020 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Attraction_Review-g652112-d6429628-Reviews-Monasterio_De_San_Isidoro_Del_Campo-Santiponce_Province_of_Seville_Andalucia.html",
+        "snippet": "Vi anbefaler å bestille turer i Monasterio De San Isidoro Del Campo på forhånd for å sikre deg en plass. Om du bestiller med Tripadvisor, kan du avbestille opptil 24 timer før turen begynner for å få full refusjon. Se alle turer 3 Monasterio De San Isidoro Del Campo på Tripadvisor",
+        "title": "Monasterio De San Isidoro Del Campo (Santiponce, Spania ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Monasterio_de_San_Isidoro_del_Campo",
+        "snippet": "El antiguo monasterio, actualmente Enclave Monumental de San Isidoro del Campo, pertenece a la Red de Espacios Culturales de Andalucía, y además de ser un espacio cultural visitable, es escenario de actividades culturales de distinta índole, posee por ello un calendario de actividades muy amplio en este sentido.",
+        "title": "Monasterio de San Isidoro del Campo - Wikipedia, la ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.visitarsevilla.com/que-ver/monumentos/san-isidoro-del-campo/",
+        "snippet": "El Monasterio de San Isidoro del Campo. El Monasterio de San Isidoro del Campo está situado en la localidad de Santiponce, a 7 km de Sevilla, dominando la vega del río Guadalquivir y junto a la autovía de Extremadutra.. Es uno de los monumentos más importantes de Andalucía, referencia para el arte de los siglos XV y XVI, la obra del gran maestro Martínez Montañés, y las devociones a ...",
+        "title": "El Monasterio de San Isidoro del Campo, Santiponde, Sevilla",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/HotelsNear-g652112-d6429628-Monasterio_De_San_Isidoro_Del_Campo-Santiponce_Province_of_Seville_Andalucia.html",
+        "snippet": "Hoteller i nærheten av Monasterio De San Isidoro Del Campo, Santiponce: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Monasterio De San Isidoro Del Campo på Tripadvisor.",
+        "title": "Beste hoteller i nærheten av Monasterio De San Isidoro Del ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Attraction_Review-g652112-d6429628-Reviews-Monasterio_De_San_Isidoro_Del_Campo-Santiponce_Province_of_Seville_Andalucia.html",
+        "snippet": "Book your tickets online for Monasterio De San Isidoro Del Campo, Santiponce: See 111 reviews, articles, and 265 photos of Monasterio De San Isidoro Del Campo, ranked No.2 on Tripadvisor among 9 attractions in Santiponce.",
+        "title": "Monasterio De San Isidoro Del Campo (Santiponce) - All You ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/monasterio-san-isidoro-del-campo-sevilla",
+        "snippet": "Monasterio San Isidoro del Campo in Seville, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Seville and beyond.",
+        "title": "Monasterio San Isidoro del Campo - Seville, Sevilla, Spain",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Attraction_Review-g652112-d6429628-Reviews-Monasterio_De_San_Isidoro_Del_Campo-Santiponce_Province_of_Seville_Andalucia.html",
+        "snippet": "Recomendamos reservar visitas guiadas de Monasterio de San Isidoro del Campo con antelación para reservar la plaza. Si reserva con Tripadvisor, puede cancelar de forma gratuita hasta 24 horas antes del inicio de la visita para obtener un reembolso completo. Ver las 3 visitas guiadas de Monasterio de San Isidoro del Campo en Tripadvisor",
+        "title": "Monasterio de San Isidoro del Campo (Santiponce) - 2020 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pl.tripadvisor.com/Attraction_Review-g652112-d6429628-Reviews-Monasterio_De_San_Isidoro_Del_Campo-Santiponce_Province_of_Seville_Andalucia.html",
+        "snippet": "Atrakcje w pobliżu Monasterio De San Isidoro Del Campo: (0.72 km) Stanowisko archeologiczne w Italice (1.30 km) TRAIANEUM (0.74 km) Bar Camino del Rocio - Caracoles con Arte - Zobacz wszystkie atrakcje w pobliżu Monasterio De San Isidoro Del Campo na stronie Tripadvisor",
+        "title": "Monasterio De San Isidoro Del Campo (Santiponce, Hiszpania ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.spain.info/en/que-quieres/arte/monumentos/sevilla/monasterio_de_san_isidoro_del_campo.html",
+        "snippet": "Monuments in Seville, Spain: Monasterio de San Isidoro del Campo (Santiponce). Andalusia through its monuments. Location, history, public transport, schedule, how and when to visit them. Information on guided visits to Monasterio de San Isidoro del Campo (Santiponce), culture, history, art, etnography of Sevilla, Andalucía, Spain.",
+        "title": "San Isidoro del Campo Monastery in Santiponce | spain.info ...",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "87644": {
+    "url": "https://www.yelp.com/biz/binowo-golf-parks-stare-czarnowo?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/T_WIvozQOjEa3iXIZC4lVQ/o.jpg",
+    "name": "Binowo Golf Parks",
+    "alias": "binowo-golf-parks-stare-czarnowo",
+    "main_category": "Active Life",
+    "sub_categories": "Golf, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "ul. Binowo 62",
+    "city_from_postal": "Stare Czarnowo",
+    "city": "Stare Czarnowo",
+    "zip_code": "74-106",
+    "country_code": "PL",
+    "state_code": "DS",
+    "phone": "+48914041533",
+    "review_count": 1,
+    "snippets": []
+  }
+}

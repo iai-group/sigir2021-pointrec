@@ -1,0 +1,21 @@
+{
+  "120159": {
+    "url": "https://www.yelp.com/biz/alte-m%C3%BChle-scharnitz-scharnitz?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FsbSo7DcaZJnLbR3nhXSTg/o.jpg",
+    "name": "Alte Mühle Scharnitz",
+    "alias": "alte-mühle-scharnitz-scharnitz",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, Irish Pub, Music Venues, ",
+    "rating": 5.0,
+    "price": "€",
+    "address": "Schanzweg 29",
+    "city_from_postal": "Scharnitz",
+    "city": "Scharnitz",
+    "zip_code": "6108",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+43521320047",
+    "review_count": 1,
+    "snippets": []
+  }
+}

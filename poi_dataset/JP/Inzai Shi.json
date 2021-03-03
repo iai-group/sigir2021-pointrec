@@ -1,0 +1,21 @@
+{
+  "100168": {
+    "url": "https://www.yelp.com/biz/%E3%83%93%E3%83%BC%E3%83%A0-%E5%8D%B0%E8%A5%BF%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6dsY5-ZEeCIb_nEjmvrxbQ/o.jpg",
+    "name": "Beam",
+    "alias": "ビーム-印西市",
+    "main_category": "Active Life",
+    "sub_categories": "Gun/Rifle Ranges, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "平賀2227-1",
+    "city_from_postal": "Inzai Shi",
+    "city": "Inzai",
+    "zip_code": "270-1605",
+    "country_code": "JP",
+    "state_code": "12",
+    "phone": "+81476334383",
+    "review_count": 1,
+    "snippets": []
+  }
+}

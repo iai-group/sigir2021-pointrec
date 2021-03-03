@@ -1,0 +1,21 @@
+{
+  "680297": {
+    "url": "https://www.yelp.com/biz/%E7%89%9B%E8%BE%BC%E6%B5%B7%E5%B2%B8-%E6%9C%A8%E6%9B%B4%E6%B4%A5%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qa__WGypYN8oq4yZw5v6cA/o.jpg",
+    "name": "Ushigome Kaigan",
+    "alias": "牛込海岸-木更津市",
+    "main_category": "Active Life",
+    "sub_categories": "Beaches, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "牛込752",
+    "city_from_postal": "Kisarazu Shi",
+    "city": "Kisarazu",
+    "zip_code": "292-0001",
+    "country_code": "JP",
+    "state_code": "12",
+    "phone": "+81438411341",
+    "review_count": 1,
+    "snippets": []
+  }
+}

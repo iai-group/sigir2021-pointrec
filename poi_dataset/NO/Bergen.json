@@ -1,0 +1,21 @@
+{
+  "571963": {
+    "url": "https://www.yelp.com/biz/elmoving-segway-bergen-bergen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/opFzrIB7HtdqqDdojaicBg/o.jpg",
+    "name": "Elmoving Segway Bergen",
+    "alias": "elmoving-segway-bergen-bergen",
+    "main_category": "Active Life",
+    "sub_categories": "Tours, Experiences, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Festningskaien",
+    "city_from_postal": "Bergen",
+    "city": "Bergen",
+    "zip_code": "5003",
+    "country_code": "NO",
+    "state_code": "12",
+    "phone": "+4747147111",
+    "review_count": 1,
+    "snippets": []
+  }
+}

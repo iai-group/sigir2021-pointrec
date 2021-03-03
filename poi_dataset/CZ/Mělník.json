@@ -1,0 +1,21 @@
+{
+  "404840": {
+    "url": "https://www.yelp.com/biz/na-%C5%A1t%C4%9Bp%C3%A1n%C4%9B-ob%C5%99%C3%ADstv%C3%AD?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ts47FPv3M6DtrRxgJ38sWQ/o.jpg",
+    "name": "Na Štěpáně",
+    "alias": "na-štěpáně-obříství",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Hungarian, ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": "Mělnická 82",
+    "city_from_postal": "Mělník",
+    "city": "Obříství",
+    "zip_code": "277 42",
+    "country_code": "CZ",
+    "state_code": "ST",
+    "phone": "+420777568139",
+    "review_count": 3,
+    "snippets": []
+  }
+}

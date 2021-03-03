@@ -1,0 +1,40 @@
+{
+  "502142": {
+    "url": "https://www.yelp.com/biz/national-trust-roseberry-topping-new-york?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "National Trust: Roseberry Topping",
+    "alias": "national-trust-roseberry-topping-new-york",
+    "main_category": "Active Life",
+    "sub_categories": "Hiking, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Newton-under-Roseberry",
+    "city_from_postal": "North Yorkshire",
+    "city": "New York",
+    "zip_code": "TS9 6QR",
+    "country_code": "GB",
+    "state_code": "RCC",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "590518": {
+    "url": "https://www.yelp.com/biz/ravenscar-tea-rooms-scarborough?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tAywl5nDKpCQmpAec5z-5w/o.jpg",
+    "name": "Ravenscar Tea Rooms",
+    "alias": "ravenscar-tea-rooms-scarborough",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, ",
+    "rating": 4.5,
+    "price": "£",
+    "address": "1 Station Square",
+    "city_from_postal": "North Yorkshire",
+    "city": "Scarborough",
+    "zip_code": "YO13 0LU",
+    "country_code": "GB",
+    "state_code": "NYK",
+    "phone": "+441723870444",
+    "review_count": 2,
+    "snippets": []
+  }
+}

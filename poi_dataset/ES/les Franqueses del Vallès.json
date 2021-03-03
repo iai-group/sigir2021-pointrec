@@ -1,0 +1,82 @@
+{
+  "461757": {
+    "url": "https://www.yelp.com/biz/woki-barcelona?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Woki",
+    "alias": "woki-barcelona",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Chinese, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Carrer Asturias, 22",
+    "city_from_postal": "les Franqueses del Vallès",
+    "city": "Barcelona",
+    "zip_code": "08521",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34932920399",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Barcelona",
+        "snippet": "Barcelona beach was listed as number one in a list of the top ten city beaches in the world according to National Geographic and Discovery Channel. Barcelona contains seven beaches, totalling 4.5 kilometres (2.8 miles) of coastline.",
+        "title": "Barcelona - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.wikipedia.org/wiki/Barcelona",
+        "snippet": "Barcelona grenser til kommunene Santa Coloma de Gramenet og Sant Adrià de Besòs i nord, L&#39;Hospitalet de Llobregat og Esplugues de Llobregat i sør, Middelhavet i øst, og Montcada i Reixac og Sant Cugat del Vallès i vest. Klima. Barcelona har et middelhavsklima, med milde, fuktige vintre og varme, tørre sommere.",
+        "title": "Barcelona – Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/FC_Barcelona",
+        "snippet": "Barcelona and Milan have won other continental titles, which make them the second and third most decorated teams in world football, with 20 and 18 titles respectively, both behind Real Madrid&#39;s 27. Barcelona leads the Head-To-Head record with eight wins and five defeats.",
+        "title": "FC Barcelona - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Barcelona",
+        "snippet": "Barcelona es una ciudad española, capital de la comunidad autónoma de Cataluña, de la comarca del Barcelonés y de la provincia homónima. Con una población de 1 636 762 habitantes en 2019, [6] es la segunda ciudad más poblada de España después de Madrid, y la décima de la Unión Europea.",
+        "title": "Barcelona - Wikipedia, la enciclopedia libre",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.tribuwoki.com/",
+        "snippet": "Restaurantes ecológicos y supermercados orgánicos en Barcelona. Tribu Woki es mucho más que una alimentación equilibrada, es un estilo de vida que queremos descubrirte a través de una serie de posts",
+        "title": "Tribu Woki",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.wikipedia.org/wiki/FC_Barcelona",
+        "snippet": "FC Barcelona ble stiftet 29. november 1899 av sveitseren Hans Gamper.Hans, som i Catalonia kalles Joannes, var en fotballentusiast og ankom Barcelona først i 1898 i forretningssammenheng. Allerede i 1901 vant klubben sine første titler. Da den spanske ligaen ble stiftet i 1929 vant Barcelona den første sesongen. Klubben kom imidlertid i problemer etter den spanske borgerkrigen, da de ofte ...",
+        "title": "FC Barcelona – Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.voki.com/",
+        "snippet": "Voki also offers a cloud based classroom management and presentation tools that provide teachers and students with: Readily available edtech tools to increase students&#39; levels of engagement, motivation, parcipitation and learning; Offers students a wider range of activities to address different learning styles",
+        "title": "Voki - Home",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://de.wikipedia.org/wiki/Barcelona",
+        "snippet": "Barcelona hat allerdings erhebliche Probleme mit der Verkehrsdichte. Barcelona versucht daher mit einem neuen Konzept namens „Superilles“ („Superblocks“), den Autoverkehr in der Stadt bis 2018 um 20 Prozent zu reduzieren. Dabei werden jeweils neun Blocks zusammengefasst und der Verkehr herumgeleitet.",
+        "title": "Barcelona – Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://nn.wikipedia.org/wiki/La_Liga",
+        "snippet": "Primera Division som ofte blir kalla Liga de Fútbol Profesional eller berre La Liga er den øvste divisjonen i den spanske fotballigaen. Han består av 20 lag. Kvart år rykkjer tre lag ned til 2. divisjon, Segunda División.Barcelona vann Primera División i 2009/10-sesongen. Sidan 1950-talet har det stort sett vore Real Madrid og Barcelona som har dominert ligaen.",
+        "title": "La Liga – Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://cs.wikipedia.org/wiki/Barcelona",
+        "snippet": "Barcelona je hlavní město Katalánska, současně je i hlavní město provincie Barcelona.Leží při pobřeží Středozemního moře na východě Španělska.Po Madridu je druhým největším španělským městem (1,6 milionu obyvatel, v aglomeraci téměř 3 miliony). Je známá také díky originálním stavbám architekta Antoni Gaudího a jeho současníků.",
+        "title": "Barcelona – Wikipedie",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

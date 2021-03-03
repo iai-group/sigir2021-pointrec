@@ -1,0 +1,40 @@
+{
+  "580679": {
+    "url": "https://www.yelp.com/biz/bangkok-take-away-z%C3%BCrich?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1I8qDNA6DAYyDCKElnpJsg/o.jpg",
+    "name": "Bangkok Take Away",
+    "alias": "bangkok-take-away-zürich",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Thai, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Stationsstrasse",
+    "city_from_postal": "Bonstetten",
+    "city": "Zürich",
+    "zip_code": "8906",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41765238144",
+    "review_count": 2,
+    "snippets": []
+  },
+  "580815": {
+    "url": "https://www.yelp.com/biz/pizza-kurier-falcone-bonstetten?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Pizza Kurier Falcone",
+    "alias": "pizza-kurier-falcone-bonstetten",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Hotels & Travel, Italian, Caterers, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Metzgerweg   12",
+    "city_from_postal": "Bonstetten",
+    "city": "Bonstetten",
+    "zip_code": "8906",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41447004849",
+    "review_count": 1,
+    "snippets": []
+  }
+}

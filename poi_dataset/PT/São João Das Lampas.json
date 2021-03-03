@@ -1,0 +1,200 @@
+{
+  "257431": {
+    "url": "https://www.yelp.com/biz/mvsevs-mafra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SRnRw6tqUXHf2mHYkNAJOQ/o.jpg",
+    "name": "Mvsevs",
+    "alias": "mvsevs-mafra",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, ",
+    "rating": 3.5,
+    "price": "€",
+    "address": "Av. Prof. Dr. D. Fernando de Almeida",
+    "city_from_postal": "São João Das Lampas",
+    "city": "Mafra",
+    "zip_code": "2705-739",
+    "country_code": "PT",
+    "state_code": "20",
+    "phone": "+351219609520",
+    "review_count": 2,
+    "snippets": []
+  },
+  "304900": {
+    "url": "https://www.yelp.com/biz/dona-azeitona-s%C3%A3o-jo%C3%A3o-das-lampas?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Dona Azeitona",
+    "alias": "dona-azeitona-são-joão-das-lampas",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Rua Dos Campos, 14",
+    "city_from_postal": "São João Das Lampas",
+    "city": "São João das Lampas",
+    "zip_code": "2705-434",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219618082",
+    "review_count": 1,
+    "snippets": []
+  },
+  "366509": {
+    "url": "https://www.yelp.com/biz/retiro-do-capitanga-sintra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nf85aJhfeO_qe3OC8VIang/o.jpg",
+    "name": "Retiro do Capitanga",
+    "alias": "retiro-do-capitanga-sintra",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Seafood, Steakhouses, ",
+    "rating": 5.0,
+    "price": "€€",
+    "address": "Av. Professor Dr. Dom Fernando de Almeida, 10",
+    "city_from_postal": "São João Das Lampas",
+    "city": "Sintra",
+    "zip_code": "2705-739",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351962881899",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g189164-d8092751-Reviews-Retiro_Do_Capitanga-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Retiro Do Capitanga, Sintra: Veja 96 dicas e avaliações imparciais de Retiro Do Capitanga, com classificação Nº 4 de 5 no Tripadvisor e classificado como Nº 98 de 298 restaurantes em Sintra.",
+        "title": "RETIRO DO CAPITANGA, Sintra - Comentários de restaurantes ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189164-d8092751-Reviews-Retiro_Do_Capitanga-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Retiro Do Capitanga, Sintra: See 96 unbiased reviews of Retiro Do Capitanga, rated 4 of 5 on Tripadvisor and ranked #98 of 298 restaurants in Sintra.",
+        "title": "Retiro Do Capitanga, Sintra - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/retiro-do-capitanga-s%C3%A3o-jo%C3%A3o-das-lampas",
+        "snippet": "Retiro do Capitanga Lisboa; Retiro do Capitanga, São João das Lampas; Encontra menus, contactos, telefone, localização, fotos, opiniões e muito mais para Retiro do Capitanga na Zomato",
+        "title": "Retiro do Capitanga, São João das Lampas, Lisboa",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g189164-d8092751-Retiro_Do_Capitanga-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Restaurants near Retiro Do Capitanga, Sintra on Tripadvisor: Find traveler reviews and candid photos of dining near Retiro Do Capitanga in Sintra, Portugal.",
+        "title": "Restaurants Near Retiro Do Capitanga, Sintra ... - TripAdvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.quantobaste.com/2017/07/nunca-foram-ao-retiro-do-capitanga.html",
+        "snippet": "Adoram grelhados e nunca foram nem conhecem o Retiro do Capitanga? Como é que isso é possível? :O Este é um dos restaurantes ideais para quem adora grelhados principalmente de carne, eles também têm pratos de peixe e marisco. É um típico restaurante de interior/ aldeia, fica situado em Odrinhas.",
+        "title": "Restaurantes em Sintra - Retiro do Capitanga - Quanto Baste",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g189164-d8092751-Reviews-Retiro_Do_Capitanga-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Retiro Do Capitanga, Sintra: Consulta 96 opiniones sobre Retiro Do Capitanga con puntuación 4 de 5 y clasificado en Tripadvisor N.°98 de 298 restaurantes en Sintra.",
+        "title": "RETIRO DO CAPITANGA, Sintra - Fotos, Número de Teléfono y ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/ShowUserReviews-g189164-d8092751-r682533356-Retiro_Do_Capitanga-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Retiro Do Capitanga: Excelente restaurante com excelente preço - Veja 96 avaliações de viajantes 23 fotos reais e ótimas ofertas para Sintra, Portugal no Tripadvisor.",
+        "title": "Excelente restaurante com excelente... - Retiro Do Capitanga",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/rcapitanga",
+        "snippet": "Retiro do Capitanga - Av. professor Dr. Fernando de Almeida n10, 2705-739 Odrinhas, Lisboa, Portugal - Rated 4.6 based on 90 Reviews &quot;Ontem comemos umas...",
+        "title": "Retiro do Capitanga - Comfort Food Restaurant - Odrinhas ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pl.tripadvisor.com/Restaurant_Review-g189164-d8092751-Reviews-Retiro_Do_Capitanga-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Retiro Do Capitanga, Sintra: zobacz bezstronne recenzje (96 ) na temat Retiro Do Capitanga, z oceną 4 na 5 w serwisie Tripadvisor, na pozycji 98 z 298 restauracji w Sintrze.",
+        "title": "Retiro Do Capitanga, Sintra - recenzje restauracji ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/ShowUserReviews-g189164-d8092751-r621134104-Retiro_Do_Capitanga-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Retiro Do Capitanga: Good spare ribs ! - See 96 traveller reviews, 23 candid photos, and great deals for Sintra, Portugal, at Tripadvisor.",
+        "title": "Good spare ribs ! - Retiro Do Capitanga, Sintra Traveller ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "656033": {
+    "url": "https://www.yelp.com/biz/fortuna-caf%C3%A9-sintra-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9SWyGJV84jg7STMYgkJekQ/o.jpg",
+    "name": "Fortuna Café",
+    "alias": "fortuna-café-sintra-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Soup, Gluten-Free, Burgers, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "R. Marquês Viana, 1",
+    "city_from_postal": "São João Das Lampas",
+    "city": "Sintra",
+    "zip_code": "2705-516",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351967958294",
+    "review_count": 3,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189164-d12728552-Reviews-Fortuna_Cafe-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Fortuna Cafe, Sintra: See 15 unbiased reviews of Fortuna Cafe, rated 5 of 5 on Tripadvisor and ranked #112 of 298 restaurants in Sintra.",
+        "title": "Fortuna Cafe, Sintra - Restaurant Reviews, Photos &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/fortunacafept",
+        "snippet": "Fortuna Café - Rua Marques de Viana nº1, 2710-516 Sintra, Portugal - Rated 5 based on 61 Reviews &quot;Absolutely wonderful cafe! LOVE this sweet place!!...",
+        "title": "Fortuna Café - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g189164-d12728552-Reviews-Fortuna_Cafe-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Fortuna Cafe, Sintra: See 15 unbiased reviews of Fortuna Cafe, rated 5 of 5 on Tripadvisor and ranked #112 of 298 restaurants in Sintra.",
+        "title": "FORTUNA CAFE, Sintra - Restaurant Reviews, Photos &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/fortuna-caf%C3%A9-sintra-2",
+        "snippet": "It will be interesting to revisit the café when everything is finished. The renovation in no way diminished the quality of the food that was on offer. Very reasonably priced set menu with juice and coffe included. The food was delicious and fresh and the owner very friendly when preparing and serving the food. A hidden gem in the Sintra area!",
+        "title": "Fortuna Café - 19 Photos - Soup - R. Marquês Viana, 1 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.prod.facebook.com/fortunacafept/",
+        "snippet": "Fortuna Café - Rua Marques de Viana nº1, 2710-516 Sintra, Portugal - Rated 5 based on 61 Reviews &quot;A lot of for this place! We had a lovely late lunch...",
+        "title": "Fortuna Café - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/fortuna-caf%C3%A9-sintra-centro-lisboa/photos",
+        "snippet": "Fotos de Fortuna Café, Sintra Centro, Lisboa na Zomato. Cozinha: Vegetariana, Comida saudável, Pastelaria, Chás, Snacks — 12 € para duas pessoas (aprox.) Política de cookies. A Zomato usa cookies para melhorar a tua experiência de utilização. Lê a nossa Política de cookies.",
+        "title": "Fortuna Café Fotos de Fortuna Café, Sintra Centro, Lisboa ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g189164-d12728552-Reviews-Fortuna_Cafe-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Fortuna Cafe, Sintra: Veja 15 dicas e avaliações imparciais de Fortuna Cafe, com classificação Nº 5 de 5 no Tripadvisor e classificado como Nº 112 de 298 restaurantes em Sintra.",
+        "title": "FORTUNA CAFE, Sintra - Comentários de restaurantes ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g189164-d12728552-r681474464-Fortuna_Cafe-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Fortuna Cafe: Delicious lunch break - See 15 traveler reviews, 20 candid photos, and great deals for Sintra, Portugal, at Tripadvisor.",
+        "title": "Delicious lunch break - Review of Fortuna Cafe, Sintra ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g189164-d12728552-Reviews-Fortuna_Cafe-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Fortuna Cafe, Sintra: Consulta 15 opiniones sobre Fortuna Cafe con puntuación 5 de 5 y clasificado en Tripadvisor N.°112 de 298 restaurantes en Sintra.",
+        "title": "FORTUNA CAFE, Sintra - Fotos, Número de Teléfono y ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.discoverwalks.com/blog/lisbon/5-best-cafes-in-sintra/",
+        "snippet": "Fortuna Café in Sintra . Food prepared with so much love you’ll even get it on a heart shaped plate. Fortuna Cafe has it all: breakfast foods, lunch mains, options for vegans and vegetarians, &amp; the most wonderful selection of teas in the valley.",
+        "title": "5 Best Cafe’s in Sintra - Discover Walks Blog",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

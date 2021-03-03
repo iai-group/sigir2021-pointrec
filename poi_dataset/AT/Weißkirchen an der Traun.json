@@ -1,0 +1,21 @@
+{
+  "429696": {
+    "url": "https://www.yelp.com/biz/bermuda-cafe-cocktail-pub-wei%C3%9Fkirchen-an-der-traun?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Bermuda Cafe-Cocktail-Pub",
+    "alias": "bermuda-cafe-cocktail-pub-weißkirchen-an-der-traun",
+    "main_category": "Nightlife",
+    "sub_categories": "Nightlife, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Untere Dorfstr. 4",
+    "city_from_postal": "Weißkirchen an der Traun",
+    "city": "Weißkirchen an der Traun",
+    "zip_code": "4616",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+43724320404",
+    "review_count": 1,
+    "snippets": []
+  }
+}

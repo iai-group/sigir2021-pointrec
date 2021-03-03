@@ -1,0 +1,21 @@
+{
+  "641962": {
+    "url": "https://www.yelp.com/biz/seismic-brewing-sebastopol-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LfdIv6orRhz2DTRhJwiavQ/o.jpg",
+    "name": "Seismic Brewing",
+    "alias": "seismic-brewing-sebastopol-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Breweries, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "6700 Sebastopol Ave",
+    "city_from_postal": "Cascade",
+    "city": "Sebastopol",
+    "zip_code": "59472",
+    "country_code": "US",
+    "state_code": "CA",
+    "phone": "+17075445996",
+    "review_count": 33,
+    "snippets": []
+  }
+}

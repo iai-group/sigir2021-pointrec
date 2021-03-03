@@ -1,0 +1,21 @@
+{
+  "425117": {
+    "url": "https://www.yelp.com/biz/restaurant-heimdal-faaborg?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/c80L2kpiMwyTyGFB5dAaUQ/o.jpg",
+    "name": "Restaurant Heimdal",
+    "alias": "restaurant-heimdal-faaborg",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, Restaurants, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Havnegade 12",
+    "city_from_postal": "Faaborg-Midtfyn Kommune",
+    "city": "Faaborg",
+    "zip_code": "5600",
+    "country_code": "DK",
+    "state_code": "83",
+    "phone": "+4520379540",
+    "review_count": 3,
+    "snippets": []
+  }
+}

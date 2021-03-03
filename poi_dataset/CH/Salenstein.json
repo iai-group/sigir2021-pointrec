@@ -1,0 +1,21 @@
+{
+  "30667": {
+    "url": "https://www.yelp.com/biz/napoleonmuseum-thurgau-salenstein?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xLq3kL3kC4BUVWPjlS5cnA/o.jpg",
+    "name": "Napoleonmuseum Thurgau",
+    "alias": "napoleonmuseum-thurgau-salenstein",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Schloss Arenenberg",
+    "city_from_postal": "Salenstein",
+    "city": "Salenstein",
+    "zip_code": "8268",
+    "country_code": "CH",
+    "state_code": "TG",
+    "phone": "+41583457410",
+    "review_count": 3,
+    "snippets": []
+  }
+}

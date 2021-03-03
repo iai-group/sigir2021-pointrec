@@ -1,0 +1,21 @@
+{
+  "45672": {
+    "url": "https://www.yelp.com/biz/%E8%8D%92%E4%BA%95%E6%B5%9C%E6%B5%B7%E6%B0%B4%E6%B5%B4%E5%A0%B4-%E4%B8%89%E6%B5%A6%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GZVeO9k6bxQ9sjvnDGxFsg/o.jpg",
+    "name": "Araihama Beach",
+    "alias": "荒井浜海水浴場-三浦市",
+    "main_category": "Active Life",
+    "sub_categories": "Beaches, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "三崎町小網代1036",
+    "city_from_postal": "Miura Shi",
+    "city": "Miura",
+    "zip_code": "238-0225",
+    "country_code": "JP",
+    "state_code": "14",
+    "phone": "+81468880588",
+    "review_count": 1,
+    "snippets": []
+  }
+}

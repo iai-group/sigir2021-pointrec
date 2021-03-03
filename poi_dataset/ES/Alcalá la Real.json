@@ -1,0 +1,21 @@
+{
+  "706047": {
+    "url": "https://www.yelp.com/biz/fortaleza-de-la-mota-alcal%C3%A1-la-real?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0dUzedTS4ytXtGLzcRjGHg/o.jpg",
+    "name": "Fortaleza de la Mota",
+    "alias": "fortaleza-de-la-mota-alcalá-la-real",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Art Museums, Landmarks & Historical Buildings, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Castillo-Fortaleza de la Mota, s/n",
+    "city_from_postal": "Alcalá la Real",
+    "city": "Alcalá la Real",
+    "zip_code": "23680",
+    "country_code": "ES",
+    "state_code": "J",
+    "phone": "+34953102717",
+    "review_count": 1,
+    "snippets": []
+  }
+}

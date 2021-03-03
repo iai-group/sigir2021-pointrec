@@ -1,0 +1,21 @@
+{
+  "399811": {
+    "url": "https://www.yelp.com/biz/pomoma-distrito-centro?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZDTIl-8HnFCWNQVRFGC19Q/o.jpg",
+    "name": "Pomoma",
+    "alias": "pomoma-distrito-centro",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Ice Cream & Frozen Yogurt, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Plaça d'Espanya, s/n",
+    "city_from_postal": "Palma de Mallorca",
+    "city": "Distrito Centro",
+    "zip_code": "07002",
+    "country_code": "ES",
+    "state_code": "PM",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

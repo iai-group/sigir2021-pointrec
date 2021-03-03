@@ -1,0 +1,21 @@
+{
+  "138374": {
+    "url": "https://www.yelp.com/biz/paintball-select-park-baulne?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/N9fKSblkqDVY5-9CoF-hLA/o.jpg",
+    "name": "Paintball Select Park",
+    "alias": "paintball-select-park-baulne",
+    "main_category": "Active Life",
+    "sub_categories": "Paintball, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "6-8 rue de la Closerie",
+    "city_from_postal": "Arrondissement d'Étampes",
+    "city": "Baulne",
+    "zip_code": "91590",
+    "country_code": "FR",
+    "state_code": "91",
+    "phone": "+33981336585",
+    "review_count": 1,
+    "snippets": []
+  }
+}

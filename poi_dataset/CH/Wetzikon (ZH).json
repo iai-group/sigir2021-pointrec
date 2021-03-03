@@ -1,0 +1,21 @@
+{
+  "564053": {
+    "url": "https://www.yelp.com/biz/restaurant-r%C3%B6ssli-pinto-wetzikon-zh?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Rössli-Pinto",
+    "alias": "restaurant-rössli-pinto-wetzikon-zh",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Dorfstrasse 23",
+    "city_from_postal": "Wetzikon (ZH)",
+    "city": "Wetzikon ZH",
+    "zip_code": "8620",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41434880636",
+    "review_count": 1,
+    "snippets": []
+  }
+}

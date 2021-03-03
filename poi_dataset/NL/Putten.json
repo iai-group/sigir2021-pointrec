@@ -1,0 +1,21 @@
+{
+  "377062": {
+    "url": "https://www.yelp.com/biz/fat-alice-putten?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Fat Alice",
+    "alias": "fat-alice-putten",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cajun/Creole, ",
+    "rating": 5.0,
+    "price": "€€€",
+    "address": "Dorpstraat 47",
+    "city_from_postal": "Putten",
+    "city": "Putten",
+    "zip_code": "3881 BA",
+    "country_code": "NL",
+    "state_code": "GE",
+    "phone": "+31341352646",
+    "review_count": 1,
+    "snippets": []
+  }
+}

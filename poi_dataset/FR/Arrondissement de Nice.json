@@ -1,0 +1,40 @@
+{
+  "61196": {
+    "url": "https://www.yelp.com/biz/vival-nice-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Vival",
+    "alias": "vival-nice-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Parc Californie bât B1 1 r Léon Bertrand",
+    "city_from_postal": "Arrondissement de Nice",
+    "city": "Nice",
+    "zip_code": "06200",
+    "country_code": "FR",
+    "state_code": "06",
+    "phone": "+33493212890",
+    "review_count": 1,
+    "snippets": []
+  },
+  "220361": {
+    "url": "https://www.yelp.com/biz/march%C3%A9-municipal-beausoleil?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/IGRz7VCCHEOiImPyJ8Kriw/o.jpg",
+    "name": "Marché Municipal",
+    "alias": "marché-municipal-beausoleil",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Seafood Markets, Farmers Market, ",
+    "rating": 3.0,
+    "price": "€€",
+    "address": "Rue du Marché",
+    "city_from_postal": "Arrondissement de Nice",
+    "city": "Beausoleil",
+    "zip_code": "06240",
+    "country_code": "FR",
+    "state_code": "06",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

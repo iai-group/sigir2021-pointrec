@@ -1,0 +1,21 @@
+{
+  "625985": {
+    "url": "https://www.yelp.com/biz/r%C3%B6schti-farm-schinznach-dorf?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sOCdnibPUhEm8KvSHhRb5w/o.jpg",
+    "name": "Röschti-Farm",
+    "alias": "röschti-farm-schinznach-dorf",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": "Bözenegg 1",
+    "city_from_postal": "Schinznach",
+    "city": "Schinznach-Dorf",
+    "zip_code": "5107",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41564431166",
+    "review_count": 5,
+    "snippets": []
+  }
+}

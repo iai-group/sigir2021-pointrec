@@ -1,0 +1,21 @@
+{
+  "370822": {
+    "url": "https://www.yelp.com/biz/tennisclub-aarau-buchs?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Tennisclub Aarau",
+    "alias": "tennisclub-aarau-buchs",
+    "main_category": "Active Life",
+    "sub_categories": "Tennis, Sports Clubs, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Steinachermattweg 1",
+    "city_from_postal": "Buchs (AG)",
+    "city": "Buchs",
+    "zip_code": "5033",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41628247398",
+    "review_count": 1,
+    "snippets": []
+  }
+}

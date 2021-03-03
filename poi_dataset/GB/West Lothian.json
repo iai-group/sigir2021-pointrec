@@ -1,0 +1,21 @@
+{
+  "399512": {
+    "url": "https://www.yelp.com/biz/asda-stores-livingston?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Asda Stores",
+    "alias": "asda-stores-livingston",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Almondvale South",
+    "city_from_postal": "West Lothian",
+    "city": "Livingston",
+    "zip_code": "EH54 6NB",
+    "country_code": "GB",
+    "state_code": "WLN",
+    "phone": "+441506835980",
+    "review_count": 2,
+    "snippets": []
+  }
+}

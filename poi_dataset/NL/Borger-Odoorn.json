@@ -1,0 +1,21 @@
+{
+  "223413": {
+    "url": "https://www.yelp.com/biz/hunebed-centrum-borger?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dkVDck5dNHxYFC_oPmrSTQ/o.jpg",
+    "name": "Hunebed Centrum",
+    "alias": "hunebed-centrum-borger",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Bronnegerstraat 12",
+    "city_from_postal": "Borger-Odoorn",
+    "city": "Borger",
+    "zip_code": "9531 TG",
+    "country_code": "NL",
+    "state_code": "DR",
+    "phone": "+31599236374",
+    "review_count": 1,
+    "snippets": []
+  }
+}

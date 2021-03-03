@@ -1,0 +1,21 @@
+{
+  "398103": {
+    "url": "https://www.yelp.com/biz/wokami-oftringen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Y6uXrWsezbeVyhbg8KHu3g/o.jpg",
+    "name": "wokami",
+    "alias": "wokami-oftringen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pan Asian, Wok, Food Stands, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "Zürichstrasse 52",
+    "city_from_postal": "Oftringen",
+    "city": "Oftringen",
+    "zip_code": "4665",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "15132": {
+    "url": "https://www.yelp.com/biz/roberts-coffee-helsinki-27?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mc33vcBJCjYLXvahnmManw/o.jpg",
+    "name": "Robert's Coffee",
+    "alias": "roberts-coffee-helsinki-27",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, ",
+    "rating": 5.0,
+    "price": "€",
+    "address": "Korkeavuorenkatu 7",
+    "city_from_postal": "Orimattila",
+    "city": "Helsinki",
+    "zip_code": "16300",
+    "country_code": "FI",
+    "state_code": "18",
+    "phone": "+3589676566",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://robertscoffee.com/",
+        "snippet": "Tutustu Robert’s Coffee Jugendiin. Nautinnollisen elämän käsikirja. Nyt myynnissä! Robert&#39;s Coffee. Tarinamme. Kuka muistaa Robert’s Coffeen lahjapakkaukset 19. Otimme vetovastuun Robert’s Coffeesta kahdeksan . Ihanat asiakkaamme ️Robert’s Coffeen kahvila. Follow Robert&#39;s Coffee.",
+        "title": "Robert&#39;s Coffee - Kahvilat, Paahtimo, Teet &amp; Gelato",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://robertscoffee.com/cafes/helsinki/",
+        "snippet": "The cookie settings on this website are set to &quot;allow cookies&quot; to give you the best browsing experience possible. If you continue to use this website without changing your cookie settings or you click &quot;Accept&quot; below then you are consenting to this.",
+        "title": "Helsinki | Robert&#39;s Coffee",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://robertscoffee.com/en/",
+        "snippet": "The cookie settings on this website are set to &quot;allow cookies&quot; to give you the best browsing experience possible. If you continue to use this website without changing your cookie settings or you click &quot;Accept&quot; below then you are consenting to this.",
+        "title": "Welcome to Robert&#39;s Coffee",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://robertscoffee.com/en/cafes/helsinki-en/",
+        "snippet": "The cookie settings on this website are set to &quot;allow cookies&quot; to give you the best browsing experience possible. If you continue to use this website without changing your cookie settings or you click &quot;Accept&quot; below then you are consenting to this.",
+        "title": "Helsinki | Robert&#39;s Coffee",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://robertscoffee.com/loyda-lahin-roberts-coffee/",
+        "snippet": "The cookie settings on this website are set to &quot;allow cookies&quot; to give you the best browsing experience possible. If you continue to use this website without changing your cookie settings or you click &quot;Accept&quot; below then you are consenting to this.",
+        "title": "Löydä lähin Robert&#39;s Coffee | Robert&#39;s Coffee",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189934-d5213195-Reviews-Robert_s_Coffee-Helsinki_Uusimaa.html",
+        "snippet": "Robert&#39;s Coffee, Helsinki: See 125 unbiased reviews of Robert&#39;s Coffee, rated 4 of 5 on Tripadvisor and ranked #153 of 1,687 restaurants in Helsinki.",
+        "title": "Robert&#39;s Coffee, Helsinki - Kaisaniemenkatu 3 - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g189934-d5213195-Reviews-Robert_s_Coffee-Helsinki_Uusimaa.html",
+        "snippet": "Robert&#39;s Coffee, Helsingfors: Se 125 objektive anmeldelser av Robert&#39;s Coffee, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 153 av 1 690 restauranter i Helsingfors.",
+        "title": "Robert&#39;s Coffee, Helsingfors - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.fi/Restaurant_Review-g189934-d12506789-Reviews-Robert_s_Coffee_Jugend-Helsinki_Uusimaa.html",
+        "snippet": "Robert’s Coffee Jugend, Helsinki: Katso 92 puolueetonta arvostelua paikasta Robert’s Coffee Jugend, joka on sijalla 4,5/5 Tripadvisorissa ja sijalla 132 1 691 ravintolasta Helsingissä.",
+        "title": "Robert’s Coffee Jugend, Helsingin ravintola-arvostelut ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189934-d12506789-Reviews-Robert_s_Coffee_Jugend-Helsinki_Uusimaa.html",
+        "snippet": "Robert’s Coffee Jugend, Helsinki: See 92 unbiased reviews of Robert’s Coffee Jugend, rated 4.5 of 5 on Tripadvisor and ranked #132 of 1,691 restaurants in Helsinki.",
+        "title": "Robert’s Coffee Jugend, Helsinki - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g189934-d10582964-Reviews-Robert_s_Coffee-Helsinki_Uusimaa.html",
+        "snippet": "Robert&#39;s Coffee, Helsingfors: Se 12 objektive anmeldelser av Robert&#39;s Coffee, ... Igjen, som vi har funnet overalt, var ansatte herlig og vennlig. Helsinki er ikke et stort sted - når vi går igjen, er Roberts sikkert på listen for et besøk. Mer. Dato for besøk: februar 2018. Takk for at du sender inn en endring. Vi gjennomgår forslaget ditt.",
+        "title": "Robert&#39;s Coffee, Helsingfors - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

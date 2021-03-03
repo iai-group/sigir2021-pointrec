@@ -1,0 +1,21 @@
+{
+  "678615": {
+    "url": "https://www.yelp.com/biz/dennys-brooklyn-4?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/s69X_SVk0RVInRQZ9dgt7A/o.jpg",
+    "name": "Denny's",
+    "alias": "dennys-brooklyn-4",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Diners, Breakfast & Brunch, American (Traditional), ",
+    "rating": 2.5,
+    "price": "$$",
+    "address": "4175 Highway 21",
+    "city_from_postal": "Poweshiek",
+    "city": "Brooklyn",
+    "zip_code": "52211",
+    "country_code": "US",
+    "state_code": "IA",
+    "phone": "+13196856270",
+    "review_count": 16,
+    "snippets": []
+  }
+}

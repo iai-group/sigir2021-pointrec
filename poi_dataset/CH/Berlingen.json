@@ -1,0 +1,21 @@
+{
+  "212602": {
+    "url": "https://www.yelp.com/biz/pipos-bar-berlingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1jTD-6UmVHrTpt_wqo7BrA/o.jpg",
+    "name": "Pipo's Bar",
+    "alias": "pipos-bar-berlingen",
+    "main_category": "Nightlife",
+    "sub_categories": "Cocktail Bars, Beer Garden, ",
+    "rating": 5.0,
+    "price": "$",
+    "address": "West Point",
+    "city_from_postal": "Berlingen",
+    "city": "Berlingen",
+    "zip_code": "8267",
+    "country_code": "CH",
+    "state_code": "TG",
+    "phone": "+41794027049",
+    "review_count": 1,
+    "snippets": []
+  }
+}

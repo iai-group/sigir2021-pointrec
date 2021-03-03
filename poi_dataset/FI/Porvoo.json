@@ -1,0 +1,21 @@
+{
+  "317596": {
+    "url": "https://www.yelp.com/biz/casablanca-porvoo?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/q4pdtkq4IGlgzUdsNtzXBA/o.jpg",
+    "name": "Casablanca",
+    "alias": "casablanca-porvoo",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Moroccan, Venues & Event Spaces, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Viikinkitie 11",
+    "city_from_postal": "Porvoo",
+    "city": "Porvoo",
+    "zip_code": "06150",
+    "country_code": "FI",
+    "state_code": "18",
+    "phone": "+358408681505",
+    "review_count": 1,
+    "snippets": []
+  }
+}

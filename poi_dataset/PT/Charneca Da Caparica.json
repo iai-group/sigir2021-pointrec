@@ -1,0 +1,21 @@
+{
+  "542521": {
+    "url": "https://www.yelp.com/biz/sabor-mineiro-charneca-almada?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/L7sTv-G83UoywtmZnB924g/o.jpg",
+    "name": "Sabor Mineiro Charneca",
+    "alias": "sabor-mineiro-charneca-almada",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Steakhouses, ",
+    "rating": 4.0,
+    "price": "€€€",
+    "address": "Av. Elias Garcia, 992",
+    "city_from_postal": "Charneca Da Caparica",
+    "city": "Almada",
+    "zip_code": "2820-222",
+    "country_code": "PT",
+    "state_code": "15",
+    "phone": "+351212973407",
+    "review_count": 4,
+    "snippets": []
+  }
+}

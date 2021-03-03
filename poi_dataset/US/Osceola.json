@@ -1,0 +1,21 @@
+{
+  "101911": {
+    "url": "https://www.yelp.com/biz/burger-king-kissimmee-16?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_SXtBlIXKh2sCjKB9DZ7JQ/o.jpg",
+    "name": "Burger King",
+    "alias": "burger-king-kissimmee-16",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, Fast Food, ",
+    "rating": 1.5,
+    "price": "$",
+    "address": "7757 Irlo Bronson Memorial Hwy",
+    "city_from_postal": "Osceola",
+    "city": "Kissimmee",
+    "zip_code": "34747",
+    "country_code": "US",
+    "state_code": "FL",
+    "phone": "+15106394563",
+    "review_count": 26,
+    "snippets": []
+  }
+}

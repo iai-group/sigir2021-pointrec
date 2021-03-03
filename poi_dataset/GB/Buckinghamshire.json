@@ -1,0 +1,120 @@
+{
+  "357331": {
+    "url": "https://www.yelp.com/biz/kew-little-pigs-amersham?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VUDl28hcFncYYDEtDAfrXQ/o.jpg",
+    "name": "Kew Little Pigs",
+    "alias": "kew-little-pigs-amersham",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Farms, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Old Amersham Farm High St",
+    "city_from_postal": "Buckinghamshire",
+    "city": "Amersham",
+    "zip_code": "HP7 0HR",
+    "country_code": "GB",
+    "state_code": "BKM",
+    "phone": "+441494726993",
+    "review_count": 1,
+    "snippets": []
+  },
+  "422974": {
+    "url": "https://www.yelp.com/biz/cake-that-cupcakes-london?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Zobr7hxvrrjw9pYhOy7XpQ/o.jpg",
+    "name": "Cake That Cupcakes",
+    "alias": "cake-that-cupcakes-london",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cupcakes, ",
+    "rating": 5.0,
+    "price": "££",
+    "address": "18 The Hill",
+    "city_from_postal": "Buckinghamshire",
+    "city": "London",
+    "zip_code": "HP16",
+    "country_code": "GB",
+    "state_code": "BKM",
+    "phone": "+447721409217",
+    "review_count": 9,
+    "snippets": [
+      {
+        "url": "https://razzledazzlecupcakes.ca/",
+        "snippet": "Cupcakes London, Ontario. To our Razzle Dazzle And Callebaut Family, We are still open, however our doors will remain locked as part of our efforts to reduce possible transmissions of COVID-19.",
+        "title": "Razzle Dazzle Cupcakes",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.timeout.com/london/restaurants/londons-best-bakeries",
+        "snippet": "London’s best bakeries ... London’s bread makers and cake specialists are on a roll, ... with the aim of creating itty-bitty cupcakes for the locals and various shops.",
+        "title": "London&#39;s Best Bakeries | 29 Bakeries Worth Your Dough",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.standard.co.uk/go/london/restaurants/best-cupcakes-in-london-and-where-to-find-them-a3927456.html",
+        "snippet": "Buns, bagels, brownies and brioche – London’s bakery scene has it all. But if there is one baked good that really takes the biscuit when it comes to irresistible allure, its the disarmingly ...",
+        "title": "The best cupcakes in London and where to find them ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.lolascupcakes.co.uk/",
+        "snippet": "London&#39;s most delicious cupcakes and cakes, handcrafted in our North London bakery. Fresh everyday, available to order online for delivery or collection.",
+        "title": "Welcome to Lola&#39;s Cupcakes | The #1 London Cake Shop",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurants-g186338-zfd20032-London_England-Cupcakes.html",
+        "snippet": "Beste spisesteder med Cupcakes i London, England: Finn 19 321 anmeldelser fra Tripadvisor-reisende om de beste spisestedene med Cupcakes, og søk etter pris, beliggenhet, med mer.",
+        "title": "Det beste spisestedet med Cupcakes i London, på ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.cupcakes-london.co.uk/",
+        "snippet": "Cupcakes London delivers Freshly Baked Cupcakes,cakes and desserts to you Same Day to your door step.Order now. We bake fresh, We bake good, We deliver Fast",
+        "title": "Cupcakes London Same Day Delivery of Cakes and Cupcakes",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://foursquare.com/top-places/london/best-places-cupcakes",
+        "snippet": "Chris Haines: A lovely little cake bakery that tempts as you enter the shopping the centre. They have a lot of different, delicious cakes available. Chocolate cupcakes are amazing, staff are friendly &amp; great value.",
+        "title": "The 15 Best Places for Cupcakes in London - Foursquare",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/top-10-cake-shops",
+        "snippet": "Dubbed the &quot;queen of cupcakes&quot; after building her reputation baking for the stars, Lily Jones&#39; (AKA Lily Vanilli) London bakery just off Columbia Road is a gallery of beautifully crafted cakes, patisseries and savoury treats, all baked on site.The perfect pit stop after a morning at the nearby flower market.",
+        "title": "Top 12 cake shops in London - Food and drink - visitlondon.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.flowerdelivery-reviews.com/best-cake-delivery-london/",
+        "snippet": "London Cakes have over dozens of categories to choose from. Aside from the staple birthday cakes, they have photo cakes, where you can send an image and they’ll print it out using edible paper and use it to decorate your cake.",
+        "title": "The 12 Best Options For Cake Delivery In London [2020]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://hummingbirdbakery.com/collections/cupcakes",
+        "snippet": "Our bakeries are still closed and we aren’t taking any orders until further notice, but you can become a Homing Bird Baker with our collection of baking merchandise and bestselling cookbooks available to order online for delivery. Please follow us on social media for updates or to share your home-baked creations.",
+        "title": "Cupcakes – The Hummingbird Bakery",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "686156": {
+    "url": "https://www.yelp.com/biz/the-biltong-shop-amersham?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "The Biltong Shop",
+    "alias": "the-biltong-shop-amersham",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Ethical Grocery, Delicatessen, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "107 White Lion Road",
+    "city_from_postal": "Buckinghamshire",
+    "city": "Amersham",
+    "zip_code": "HP7 9JR",
+    "country_code": "GB",
+    "state_code": "BKM",
+    "phone": "+447397858208",
+    "review_count": 1,
+    "snippets": []
+  }
+}

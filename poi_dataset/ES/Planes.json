@@ -1,0 +1,40 @@
+{
+  "309755": {
+    "url": "https://www.yelp.com/biz/font-de-les-planes-les-planes?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WCBPXfFjSLja3pjdGilbTQ/o.jpg",
+    "name": "Font de les Planes",
+    "alias": "font-de-les-planes-les-planes",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Spanish, Steakhouses, Barbeque, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Carretera de Vallvidrera",
+    "city_from_postal": "Planes",
+    "city": "Les Planes",
+    "zip_code": "03828",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34932805949",
+    "review_count": 4,
+    "snippets": []
+  },
+  "350831": {
+    "url": "https://www.yelp.com/biz/can-cortes-planes?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zK6_6HA692_JG4QFE_R-1w/o.jpg",
+    "name": "Can Cortes",
+    "alias": "can-cortes-planes",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Catalan, ",
+    "rating": 5.0,
+    "price": "€€",
+    "address": "Carretera de l'Arrabassada, km 6,5",
+    "city_from_postal": "Sant Cugat del Vallès",
+    "city": "Planes",
+    "zip_code": "08196",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34936741704",
+    "review_count": 1,
+    "snippets": []
+  }
+}

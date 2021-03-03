@@ -1,0 +1,21 @@
+{
+  "640885": {
+    "url": "https://www.yelp.com/biz/pizza-hut-gretna-10?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3fRyOQk1Gajx0xhyUEkAXg/o.jpg",
+    "name": "Pizza Hut",
+    "alias": "pizza-hut-gretna-10",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, Chicken Wings, ",
+    "rating": 2.0,
+    "price": "$",
+    "address": "700 Terry Pkwy",
+    "city_from_postal": "Jefferson Parish",
+    "city": "Gretna",
+    "zip_code": "70056",
+    "country_code": "US",
+    "state_code": "LA",
+    "phone": "+15043941414",
+    "review_count": 14,
+    "snippets": []
+  }
+}

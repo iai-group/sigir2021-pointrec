@@ -1,0 +1,21 @@
+{
+  "119065": {
+    "url": "https://www.yelp.com/biz/tanzcafe-schwalbennest-angerberg?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Tanzcafe Schwalbennest",
+    "alias": "tanzcafe-schwalbennest-angerberg",
+    "main_category": "Active Life",
+    "sub_categories": "Dance Studios, Dance Clubs, Bars, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Unholzen 131",
+    "city_from_postal": "Angerberg",
+    "city": "Angerberg",
+    "zip_code": "6320",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+43533256382",
+    "review_count": 1,
+    "snippets": []
+  }
+}

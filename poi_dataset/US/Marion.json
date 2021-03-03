@@ -1,0 +1,40 @@
+{
+  "2700": {
+    "url": "https://www.yelp.com/biz/canoe-kayak-chattanooga-whitwell-4?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hBVN8bQtBQQ81RQJstuJkQ/o.jpg",
+    "name": "Canoe Kayak Chattanooga",
+    "alias": "canoe-kayak-chattanooga-whitwell-4",
+    "main_category": "Active Life",
+    "sub_categories": "Campgrounds, Rafting/Kayaking, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "9852 Mullins Cove Rd",
+    "city_from_postal": "Marion",
+    "city": "Whitwell",
+    "zip_code": "37397",
+    "country_code": "US",
+    "state_code": "TN",
+    "phone": "+14232803250",
+    "review_count": 4,
+    "snippets": []
+  },
+  "253940": {
+    "url": "https://www.yelp.com/biz/jalapeno-biznezz-no-title?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Jalapeno Biznezz",
+    "alias": "jalapeno-biznezz-no-title",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Imported Food, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Saint Louis-san Francisco Rlwy",
+    "city_from_postal": "Marion",
+    "city": "AL",
+    "zip_code": "35563",
+    "country_code": "US",
+    "state_code": "AL",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

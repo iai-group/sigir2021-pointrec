@@ -1,0 +1,21 @@
+{
+  "387472": {
+    "url": "https://www.yelp.com/biz/loryhof-heubad-u-mostheuriger-gurten?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o_AIQAoMzIvA8MoNlYxFIw/o.jpg",
+    "name": "Loryhof-Heubad u. Mostheuriger",
+    "alias": "loryhof-heubad-u-mostheuriger-gurten",
+    "main_category": "Nightlife",
+    "sub_categories": "Wine Bars, ",
+    "rating": 5.0,
+    "price": "€€",
+    "address": "Außerguggenberg 4",
+    "city_from_postal": "Wippenham",
+    "city": "Gurten",
+    "zip_code": "4942",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4377576757",
+    "review_count": 1,
+    "snippets": []
+  }
+}

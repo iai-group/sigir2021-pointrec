@@ -1,0 +1,21 @@
+{
+  "367492": {
+    "url": "https://www.yelp.com/biz/beef-douro-gondomar?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hVhDR-iX6BIkHdW-whfxWA/o.jpg",
+    "name": "Beef Douro",
+    "alias": "beef-douro-gondomar",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Steakhouses, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Av. Clube dos Caçadores, 5559",
+    "city_from_postal": "Jovim",
+    "city": "Gondomar",
+    "zip_code": "4510-036",
+    "country_code": "PT",
+    "state_code": "13",
+    "phone": "+351220171700",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "485117": {
+    "url": "https://www.yelp.com/biz/pizza-hut-berrien-springs-5?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ikTGtb3KGzG8ZPbSTUPfdw/o.jpg",
+    "name": "Pizza Hut",
+    "alias": "pizza-hut-berrien-springs-5",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, Chicken Wings, ",
+    "rating": 2.0,
+    "price": "$",
+    "address": "624 Saint Joseph Ave",
+    "city_from_postal": "Berrien",
+    "city": "Berrien Springs",
+    "zip_code": "49103",
+    "country_code": "US",
+    "state_code": "MI",
+    "phone": "+12694712000",
+    "review_count": 8,
+    "snippets": []
+  },
+  "487176": {
+    "url": "https://www.yelp.com/biz/third-coast-paddling-galien-river-new-buffalo-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pKKkicNJZNtbGs0ZdDp8WA/o.jpg",
+    "name": "Third Coast Paddling - Galien River",
+    "alias": "third-coast-paddling-galien-river-new-buffalo-2",
+    "main_category": "Active Life",
+    "sub_categories": "Rafting/Kayaking, Paddleboarding, Beach Equipment Rentals, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "200 Marquette Dr",
+    "city_from_postal": "Berrien",
+    "city": "New Buffalo",
+    "zip_code": "49117",
+    "country_code": "US",
+    "state_code": "MI",
+    "phone": "+12699324575",
+    "review_count": 7,
+    "snippets": []
+  }
+}

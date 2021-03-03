@@ -1,0 +1,21 @@
+{
+  "651537": {
+    "url": "https://www.yelp.com/biz/seebadi-haslisee-niederhasli?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9hFh1Axg5IU1RaueAJrT7A/o.jpg",
+    "name": "Seebadi Haslisee",
+    "alias": "seebadi-haslisee-niederhasli",
+    "main_category": "Active Life",
+    "sub_categories": "Lakes, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Seeackerweg 1",
+    "city_from_postal": "Niederhasli",
+    "city": "Niederhasli",
+    "zip_code": "8155",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41448501859",
+    "review_count": 1,
+    "snippets": []
+  }
+}

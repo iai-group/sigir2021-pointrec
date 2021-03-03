@@ -1,0 +1,21 @@
+{
+  "77202": {
+    "url": "https://www.yelp.com/biz/jra-%E4%B8%AD%E5%B1%B1%E7%AB%B6%E9%A6%AC%E5%A0%B4-%E8%88%B9%E6%A9%8B%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gO-bpOn_e8NbFrnOhip8CQ/o.jpg",
+    "name": "JRA Nakayama Race Course",
+    "alias": "jra-中山競馬場-船橋市",
+    "main_category": "Active Life",
+    "sub_categories": "Horse Racing, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "古作1-1-1",
+    "city_from_postal": "Funabashi Shi",
+    "city": "Funabashi",
+    "zip_code": "273-0038",
+    "country_code": "JP",
+    "state_code": "12",
+    "phone": "+81473342222",
+    "review_count": 3,
+    "snippets": []
+  }
+}

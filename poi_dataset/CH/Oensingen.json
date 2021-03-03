@@ -1,0 +1,21 @@
+{
+  "624028": {
+    "url": "https://www.yelp.com/biz/restaurant-zur-lotus-oensingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Yesy8L-fKyWZq0CWsWK9og/o.jpg",
+    "name": "Restaurant Zur Lotus",
+    "alias": "restaurant-zur-lotus-oensingen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cambodian, Vietnamese, ",
+    "rating": 4.5,
+    "price": "$$$",
+    "address": "Hauptstrasse 29",
+    "city_from_postal": "Oensingen",
+    "city": "Oensingen",
+    "zip_code": "4702",
+    "country_code": "CH",
+    "state_code": "SO",
+    "phone": "+41623962132",
+    "review_count": 2,
+    "snippets": []
+  }
+}

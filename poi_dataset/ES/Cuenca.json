@@ -1,0 +1,21 @@
+{
+  "574414": {
+    "url": "https://www.yelp.com/biz/pe%C3%B1ablanca-cuenca?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_KP2GFoNCS6Q_LqzUyIoKw/o.jpg",
+    "name": "Peñablanca",
+    "alias": "peñablanca-cuenca",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Tapas/Small Plates, Spanish, Tapas Bars, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Carretera Madrid, s/n",
+    "city_from_postal": "Cuenca",
+    "city": "Cuenca",
+    "zip_code": "16002",
+    "country_code": "ES",
+    "state_code": "CU",
+    "phone": "+34969235228",
+    "review_count": 1,
+    "snippets": []
+  }
+}

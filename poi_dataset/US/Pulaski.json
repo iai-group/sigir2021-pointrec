@@ -1,0 +1,21 @@
+{
+  "8818": {
+    "url": "https://www.yelp.com/biz/riverside-rentals-winamac?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fKZ9YqhAcAq6AG0CGycggg/o.jpg",
+    "name": "Riverside Rentals",
+    "alias": "riverside-rentals-winamac",
+    "main_category": "Active Life",
+    "sub_categories": "Rafting/Kayaking, Tubing, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "589 E Old St Rd 14",
+    "city_from_postal": "Pulaski",
+    "city": "Winamac",
+    "zip_code": "46996",
+    "country_code": "US",
+    "state_code": "IN",
+    "phone": "+15749463142",
+    "review_count": 24,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "284665": {
+    "url": "https://www.yelp.com/biz/carrefour-san-sebasti%C3%A1n-de-los-reyes?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/E3VovXYlH2RvnsksrMZE_w/o.jpg",
+    "name": "Carrefour",
+    "alias": "carrefour-san-sebastián-de-los-reyes",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Poligono Industrial Com. Megapark",
+    "city_from_postal": "Santa Pola",
+    "city": "San Sebastián de los Reyes",
+    "zip_code": "03130",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34902202000",
+    "review_count": 1,
+    "snippets": []
+  }
+}

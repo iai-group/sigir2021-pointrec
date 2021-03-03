@@ -1,0 +1,21 @@
+{
+  "577579": {
+    "url": "https://www.yelp.com/biz/congo-bar-vojens?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Congo Bar",
+    "alias": "congo-bar-vojens",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, Restaurants, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Søndergade 25",
+    "city_from_postal": "Haderslev Kommune",
+    "city": "Vojens",
+    "zip_code": "6500",
+    "country_code": "DK",
+    "state_code": "83",
+    "phone": "+4574591660",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "319528": {
+    "url": "https://www.yelp.com/biz/wok-four-you-ijmuiden?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ArXzsF15WS4woZoUjFRTmQ/o.jpg",
+    "name": "Wok Four You",
+    "alias": "wok-four-you-ijmuiden",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Chinese, Live/Raw Food, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "Kromhoutstraat 44-46",
+    "city_from_postal": "Velsen",
+    "city": "IJmuiden",
+    "zip_code": "1976 BM",
+    "country_code": "NL",
+    "state_code": "NH",
+    "phone": "+31255536088",
+    "review_count": 2,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "546625": {
+    "url": "https://www.yelp.com/biz/restauracja-pod-z%C5%82otym-anio%C5%82em-boles%C5%82awiec-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eVyX4ktTReOkcrIY1zxwbA/o.jpg",
+    "name": "Restauracja pod Złotym Aniołem",
+    "alias": "restauracja-pod-złotym-aniołem-bolesławiec-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Polish, Cafes, Cocktail Bars, ",
+    "rating": 3.5,
+    "price": "$",
+    "address": "ul. Bolesławiec Rynek 29",
+    "city_from_postal": "Długołęka",
+    "city": "Bolesławiec",
+    "zip_code": "59-700",
+    "country_code": "PL",
+    "state_code": "DS",
+    "phone": "+48735912950",
+    "review_count": 3,
+    "snippets": []
+  }
+}

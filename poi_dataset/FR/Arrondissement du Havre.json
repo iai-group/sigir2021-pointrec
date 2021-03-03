@@ -1,0 +1,21 @@
+{
+  "287831": {
+    "url": "https://www.yelp.com/biz/le-plazza-le-havre-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Le Plazza",
+    "alias": "le-plazza-le-havre-2",
+    "main_category": "Nightlife",
+    "sub_categories": "Dance Clubs, Cocktail Bars, Music Venues, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "159 Boulevard de Starsbourg",
+    "city_from_postal": "Arrondissement du Havre",
+    "city": "Le Havre",
+    "zip_code": "76600",
+    "country_code": "FR",
+    "state_code": "76",
+    "phone": "+33235430428",
+    "review_count": 2,
+    "snippets": []
+  }
+}

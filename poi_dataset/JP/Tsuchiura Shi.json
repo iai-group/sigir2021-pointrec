@@ -1,0 +1,21 @@
+{
+  "404896": {
+    "url": "https://www.yelp.com/biz/amz-%E3%81%A4%E3%81%8F%E3%81%B0%E5%8D%97%E5%BA%97-%E5%9C%9F%E6%B5%A6%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CYFi311lv-3fVAxI7z7R_w/o.jpg",
+    "name": "AMZ Tsukuba Minami",
+    "alias": "amz-つくば南店-土浦市",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Pachinko, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "乙戸谷ッ道1129-1",
+    "city_from_postal": "Tsuchiura Shi",
+    "city": "Tsuchiura",
+    "zip_code": "300-0844",
+    "country_code": "JP",
+    "state_code": "08",
+    "phone": "+81298430767",
+    "review_count": 1,
+    "snippets": []
+  }
+}

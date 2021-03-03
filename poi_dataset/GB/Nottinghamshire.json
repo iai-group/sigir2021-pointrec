@@ -1,0 +1,21 @@
+{
+  "300249": {
+    "url": "https://www.yelp.com/biz/fox-inn-newark?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Fox Inn",
+    "alias": "fox-inn-newark",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Main Street",
+    "city_from_postal": "Nottinghamshire",
+    "city": "Newark",
+    "zip_code": "NG23 5QP",
+    "country_code": "GB",
+    "state_code": "NTT",
+    "phone": "+441636679444",
+    "review_count": 1,
+    "snippets": []
+  }
+}

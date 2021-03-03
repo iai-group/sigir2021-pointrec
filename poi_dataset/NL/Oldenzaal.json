@@ -1,0 +1,21 @@
+{
+  "474973": {
+    "url": "https://www.yelp.com/biz/outdoor-challenge-park-oldenzaal?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Outdoor Challenge Park",
+    "alias": "outdoor-challenge-park-oldenzaal",
+    "main_category": "Active Life",
+    "sub_categories": "Recreation Centers, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Bornsedijk 105",
+    "city_from_postal": "Oldenzaal",
+    "city": "Oldenzaal",
+    "zip_code": "7576",
+    "country_code": "NL",
+    "state_code": "OV",
+    "phone": "+31541533668",
+    "review_count": 1,
+    "snippets": []
+  }
+}

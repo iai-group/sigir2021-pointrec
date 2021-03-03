@@ -1,0 +1,40 @@
+{
+  "235055": {
+    "url": "https://www.yelp.com/biz/eiscafe-leckerl-altheim?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Eiscafe Leckerl",
+    "alias": "eiscafe-leckerl-altheim",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, Ice Cream & Frozen Yogurt, Bakeries, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Kirchengasse 6",
+    "city_from_postal": "Altheim",
+    "city": "Altheim",
+    "zip_code": "4950",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+43772342442",
+    "review_count": 1,
+    "snippets": []
+  },
+  "315863": {
+    "url": "https://www.yelp.com/biz/zur-rennbahn-altheim?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Zur Rennbahn",
+    "alias": "zur-rennbahn-altheim",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, Seafood, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Mühlheimerstr. 42",
+    "city_from_postal": "Altheim",
+    "city": "Altheim",
+    "zip_code": "4950",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+437723422400",
+    "review_count": 1,
+    "snippets": []
+  }
+}

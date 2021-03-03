@@ -1,0 +1,21 @@
+{
+  "15226": {
+    "url": "https://www.yelp.com/biz/glenseven-aadorf?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nGMlTSab7MmhizqMzjg3Fg/o.jpg",
+    "name": "Glenseven",
+    "alias": "glenseven-aadorf",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "International, Lounges, Swiss Food, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Wittenwilerstrasse 7",
+    "city_from_postal": "Aadorf",
+    "city": "Aadorf",
+    "zip_code": "8355",
+    "country_code": "CH",
+    "state_code": "TG",
+    "phone": "+41523668282",
+    "review_count": 1,
+    "snippets": []
+  }
+}

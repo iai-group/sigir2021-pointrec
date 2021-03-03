@@ -1,0 +1,21 @@
+{
+  "50939": {
+    "url": "https://www.yelp.com/biz/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%89%E3%82%AB%E3%83%95%E3%82%A7-%E5%90%8D%E5%BC%B5%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5h",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7c_T3sbvTuBjt78aC0qPNQ/o.jpg",
+    "name": "Ingleside cafe",
+    "alias": "イングルサイドカフェ-名張市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "British, Desserts, ",
+    "rating": 5.0,
+    "price": "￥",
+    "address": "青蓮寺2084-20",
+    "city_from_postal": "Nabari Shi",
+    "city": "Nabari",
+    "zip_code": "518-0443",
+    "country_code": "JP",
+    "state_code": "24",
+    "phone": "+81595610553",
+    "review_count": 1,
+    "snippets": []
+  }
+}

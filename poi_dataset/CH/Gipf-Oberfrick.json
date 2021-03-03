@@ -1,0 +1,40 @@
+{
+  "27440": {
+    "url": "https://www.yelp.com/biz/gasthof-r%C3%B6ssli-gipf-oberfrick?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/djm6pqX4E1lLHRIBUxLwVQ/o.jpg",
+    "name": "Gasthof Rössli",
+    "alias": "gasthof-rössli-gipf-oberfrick",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "Im Hof 2",
+    "city_from_postal": "Gipf-Oberfrick",
+    "city": "Gipf-Oberfrick",
+    "zip_code": "5073",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "",
+    "review_count": 3,
+    "snippets": []
+  },
+  "153915": {
+    "url": "https://www.yelp.com/biz/trattoria-pizzeria-argovia-gipf-oberfrick?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/caLmSIgCjtetAv4pnWvljQ/o.jpg",
+    "name": "Trattoria Pizzeria Argovia ",
+    "alias": "trattoria-pizzeria-argovia-gipf-oberfrick",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Landstrasse 17",
+    "city_from_postal": "Gipf-Oberfrick",
+    "city": "Gipf-oberfrick",
+    "zip_code": "5073",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41628711870",
+    "review_count": 1,
+    "snippets": []
+  }
+}

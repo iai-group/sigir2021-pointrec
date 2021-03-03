@@ -1,0 +1,21 @@
+{
+  "117154": {
+    "url": "https://www.yelp.com/biz/ristorante-pizzeria-giessenhof-dallenwil?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PFwgnEKrodV5fMPqEODiMw/o.jpg",
+    "name": "Ristorante Pizzeria Giessenhof",
+    "alias": "ristorante-pizzeria-giessenhof-dallenwil",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "Bahnhofstrasse 2",
+    "city_from_postal": "Dallenwil",
+    "city": "Dallenwil",
+    "zip_code": "6383",
+    "country_code": "CH",
+    "state_code": "NW",
+    "phone": "+41416281126",
+    "review_count": 2,
+    "snippets": []
+  }
+}

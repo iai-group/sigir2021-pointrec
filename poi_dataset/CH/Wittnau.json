@@ -1,0 +1,21 @@
+{
+  "590479": {
+    "url": "https://www.yelp.com/biz/restaurant-krone-wittnau?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8agSLS20-01G4Ms7nSbr6w/o.jpg",
+    "name": "Restaurant Krone",
+    "alias": "restaurant-krone-wittnau",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "Hauptstrasse 86",
+    "city_from_postal": "Wittnau",
+    "city": "Wittnau",
+    "zip_code": "5064",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41628711222",
+    "review_count": 2,
+    "snippets": []
+  }
+}

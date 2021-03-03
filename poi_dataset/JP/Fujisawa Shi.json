@@ -1,0 +1,21 @@
+{
+  "521667": {
+    "url": "https://www.yelp.com/biz/green-%E8%97%A4%E6%B2%A2%E5%B8%82-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jAKIdojgwIKwYL5N5Z5DFA/o.jpg",
+    "name": "Green",
+    "alias": "green-藤沢市-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Yakitori, Hungarian, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "鵠沼橘1丁目17-11",
+    "city_from_postal": "Fujisawa Shi",
+    "city": "Fujisawa",
+    "zip_code": "251-0024",
+    "country_code": "JP",
+    "state_code": "14",
+    "phone": "+81466276577",
+    "review_count": 1,
+    "snippets": []
+  }
+}

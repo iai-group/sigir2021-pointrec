@@ -1,0 +1,40 @@
+{
+  "249251": {
+    "url": "https://www.yelp.com/biz/koeien-en-kaas-alphen-aan-den-rijn?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OaG6bT-L2FOEyAN31CAxIQ/o.jpg",
+    "name": "Koeien en Kaas",
+    "alias": "koeien-en-kaas-alphen-aan-den-rijn",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cheesesteaks, Steakhouses, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Hooftstraat 1",
+    "city_from_postal": "Alphen aan den Rijn",
+    "city": "Alphen aan den Rijn",
+    "zip_code": "2406 GD",
+    "country_code": "NL",
+    "state_code": "ZH",
+    "phone": "+31172820320",
+    "review_count": 1,
+    "snippets": []
+  },
+  "667677": {
+    "url": "https://www.yelp.com/biz/de-goude-wok-rotterdam-hazerswoude-dorp?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Sa0balsgNq_dlp58aj4czA/o.jpg",
+    "name": "De Goude Wok Rotterdam",
+    "alias": "de-goude-wok-rotterdam-hazerswoude-dorp",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Chinese, Japanese, Wok, ",
+    "rating": 3.5,
+    "price": "€€€",
+    "address": "Frankrijklaan 2",
+    "city_from_postal": "Alphen aan den Rijn",
+    "city": "Hazerswoude - Dorp",
+    "zip_code": "2391 PX",
+    "country_code": "NL",
+    "state_code": "ZH",
+    "phone": "+31172232463",
+    "review_count": 3,
+    "snippets": []
+  }
+}

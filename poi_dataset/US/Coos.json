@@ -1,0 +1,21 @@
+{
+  "320580": {
+    "url": "https://www.yelp.com/biz/the-lakeside-cafe-lakeside?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JXFM21gaHumr2w9daPd1Vw/o.jpg",
+    "name": "The Lakeside Cafe",
+    "alias": "the-lakeside-cafe-lakeside",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, Sandwiches, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "110 N 8th St",
+    "city_from_postal": "Coos",
+    "city": "Lakeside",
+    "zip_code": "97449",
+    "country_code": "US",
+    "state_code": "OR",
+    "phone": "+15417591129",
+    "review_count": 6,
+    "snippets": []
+  }
+}

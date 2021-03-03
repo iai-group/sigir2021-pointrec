@@ -1,0 +1,21 @@
+{
+  "215099": {
+    "url": "https://www.yelp.com/biz/gasthof-weinbauer-hofkirchen-im-traunkreis?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oU-0xU_3HlSjc-GioZYGAA/o.jpg",
+    "name": "Gasthof Weinbauer",
+    "alias": "gasthof-weinbauer-hofkirchen-im-traunkreis",
+    "main_category": "Event Planning & Services",
+    "sub_categories": "Hotels, Wine Bars, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Distelberg 2",
+    "city_from_postal": "Hofkirchen im Traunkreis",
+    "city": "Hofkirchen im Traunkreis",
+    "zip_code": "4492",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4372257236",
+    "review_count": 1,
+    "snippets": []
+  }
+}

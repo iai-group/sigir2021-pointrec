@@ -1,0 +1,21 @@
+{
+  "703604": {
+    "url": "https://www.yelp.com/biz/2burger-montijo?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5MwP-GaV1HZglX7hY4_J7Q/o.jpg",
+    "name": "2Burger",
+    "alias": "2burger-montijo",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "R. Miguel Pais, 8",
+    "city_from_postal": "Montijo",
+    "city": "Montijo",
+    "zip_code": "2870-356",
+    "country_code": "PT",
+    "state_code": "15",
+    "phone": "+351910393294",
+    "review_count": 1,
+    "snippets": []
+  }
+}

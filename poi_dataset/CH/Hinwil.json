@@ -1,0 +1,21 @@
+{
+  "398799": {
+    "url": "https://www.yelp.com/biz/chickeria-hinwil?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5w9cARcHIp0LzIp33SrSRQ/o.jpg",
+    "name": "Chickeria",
+    "alias": "chickeria-hinwil",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Chicken Shop, Fast Food, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Kemptnerstrasse 15",
+    "city_from_postal": "Hinwil",
+    "city": "Hinwil",
+    "zip_code": "8340",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41444033450",
+    "review_count": 2,
+    "snippets": []
+  }
+}

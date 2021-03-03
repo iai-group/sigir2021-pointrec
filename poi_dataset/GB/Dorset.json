@@ -1,0 +1,21 @@
+{
+  "486921": {
+    "url": "https://www.yelp.com/biz/china-garden-bournemouth-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "China Garden",
+    "alias": "china-garden-bournemouth-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fast Food, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "243 Castle La West",
+    "city_from_postal": "Dorset",
+    "city": "Bournemouth",
+    "zip_code": "BH8 9TG",
+    "country_code": "GB",
+    "state_code": "BMH",
+    "phone": "+441202513830",
+    "review_count": 1,
+    "snippets": []
+  }
+}

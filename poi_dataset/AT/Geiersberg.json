@@ -1,0 +1,21 @@
+{
+  "542199": {
+    "url": "https://www.yelp.com/biz/schloss-starhemberg-haag-am-hausruck?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Schloss Starhemberg",
+    "alias": "schloss-starhemberg-haag-am-hausruck",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Castles, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Starhemberg 1",
+    "city_from_postal": "Geiersberg",
+    "city": "Haag am Hausruck",
+    "zip_code": "4680",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4377322255",
+    "review_count": 1,
+    "snippets": []
+  }
+}

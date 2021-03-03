@@ -1,0 +1,21 @@
+{
+  "20505": {
+    "url": "https://www.yelp.com/biz/%E9%AB%98%E8%99%8E%E3%83%89%E3%83%83%E3%82%B0-%E6%B4%A5%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qeGubMwZvDgH9xV5F6zqUg/o.jpg",
+    "name": "Takatora Dog",
+    "alias": "高虎ドッグ-津市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Hot Dogs, Cafes, Sandwiches, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "柳山津興371-3",
+    "city_from_postal": "Tsu Shi",
+    "city": "Tsu",
+    "zip_code": "514-0803",
+    "country_code": "JP",
+    "state_code": "24",
+    "phone": "+81592291090",
+    "review_count": 1,
+    "snippets": []
+  }
+}

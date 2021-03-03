@@ -1,0 +1,21 @@
+{
+  "372534": {
+    "url": "https://www.yelp.com/biz/%E3%83%91%E3%83%AA%E3%83%BC%E3%83%8D-%E7%8B%AD%E5%B1%B1%E5%BA%97-%E5%A4%A7%E9%98%AA%E7%8B%AD%E5%B1%B1%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIM",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nwA45ayQO9gFpiUrArKcwg/o.jpg",
+    "name": "Parine",
+    "alias": "パリーネ-狭山店-大阪狭山市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, Bakeries, ",
+    "rating": 5.0,
+    "price": "￥",
+    "address": "東野西4-776-1",
+    "city_from_postal": "Osakasayama Shi",
+    "city": "Osakasayama",
+    "zip_code": "589-0001",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81723493568",
+    "review_count": 1,
+    "snippets": []
+  }
+}

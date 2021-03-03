@@ -1,0 +1,21 @@
+{
+  "492501": {
+    "url": "https://www.yelp.com/biz/caf%C3%A9-favorita-odivelas?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kHAICR8lQTGYi2fqDBsfBw/o.jpg",
+    "name": "Café Favorita",
+    "alias": "café-favorita-odivelas",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Cards & Stationery, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "L. Vieira Caldas, 18",
+    "city_from_postal": "Caneças",
+    "city": "Odivelas",
+    "zip_code": "1685-605",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219802049",
+    "review_count": 1,
+    "snippets": []
+  }
+}

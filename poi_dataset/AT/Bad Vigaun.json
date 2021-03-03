@@ -1,0 +1,40 @@
+{
+  "95396": {
+    "url": "https://www.yelp.com/biz/restaurant-langwies-vigaun?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ig1fDMTL_OkdAtFmM2btXA/o.jpg",
+    "name": "Restaurant Langwies",
+    "alias": "restaurant-langwies-vigaun",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Austrian, ",
+    "rating": 4.5,
+    "price": "€€€",
+    "address": "Langwies 22",
+    "city_from_postal": "Bad Vigaun",
+    "city": "Vigaun",
+    "zip_code": "5424",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+4362458956",
+    "review_count": 2,
+    "snippets": []
+  },
+  "614687": {
+    "url": "https://www.yelp.com/biz/kellerbauer-bad-vigaun?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zCafAnz9U2Uk6OZvgunDxw/o.jpg",
+    "name": "Kellerbauer",
+    "alias": "kellerbauer-bad-vigaun",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Austrian, ",
+    "rating": 4.5,
+    "price": "€€€",
+    "address": "Kellerbauerweg 41",
+    "city_from_postal": "Bad Vigaun",
+    "city": "Bad Vigaun",
+    "zip_code": "5424",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+43624583474",
+    "review_count": 3,
+    "snippets": []
+  }
+}

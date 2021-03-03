@@ -1,0 +1,82 @@
+{
+  "437278": {
+    "url": "https://www.yelp.com/biz/ohana-poke-house-madrid?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/s5_ODgWjLJszmuE-AwhR5w/o.jpg",
+    "name": "Ohana Poke House",
+    "alias": "ohana-poke-house-madrid",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Hawaiian, Asian Fusion, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Calle de Barbieri, 1",
+    "city_from_postal": "Azuqueca de Henares",
+    "city": "Madrid",
+    "zip_code": "19200",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34911262274",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://ohanapokehouse.com/",
+        "snippet": "Con una estética original y divertida, ha abierto sus puertas en el barrio de Chueca en el centro de Madrid Ohana Poke House, un espacio único para disfrutar del concepto que está revolucionando la comida saludable o healthy food, El Poke Bowl.",
+        "title": "Ohana Poke House - Comer en Madrid - Comida a Domicilio",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ohanapokehouse.com/menu/",
+        "snippet": "Prueba nuestros Menú OHANA POKE BOWL, la mejor opción en comida saludable, visítanos en nuestro restaurante en Madrid pide a domicilio.",
+        "title": "Menú - Ohana Poke House - Comer en Madrid - Comida a Domicilio",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ohanapokehouse.com/catering/",
+        "snippet": "Toda la experiencia de Ohana Poke House en tu casa, tu oficina o para cualquier ocasión especial. Con un menú customizado para cualquier ocasión y dietary restrictions. Por favor, completa todos tus datos y nos pondremos en contacto contigo o llámanos al 911 26 22 74",
+        "title": "Catering Poke - Ohana Poke House - Poke Bowls para Eventos",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ohanapokehouse.com/blog/",
+        "snippet": "Visita nuestro nuevo blog e infórmate de todas las novedades de Ohana Poke House, nuestro bar de poke hawaiano en Madrid.",
+        "title": "Blog Ohana Poke House - Poke Madrid - Novedades",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pokehouse.es/",
+        "snippet": "Poke House es el restaurante de comida sana creado por Charlen y Jin en el que fusionan la comida hawaiana con la japonesa y mezclan el poke con el arroz.",
+        "title": "Poke House - Poke hawaiano a domicilio en Madrid",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.thefork.com/restaurant/ohana-poke-house-r447559",
+        "snippet": "-30% off the &quot;à la carte&quot; menu!. Book a table at Ohana Poke House in Madrid. Find restaurant reviews, menu, prices, and hours of operation for Ohana Poke House on TheFork.",
+        "title": "Ohana Poke House in Madrid - Restaurant Reviews, Menu and ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Ohanapokehouse/",
+        "snippet": "Ohana Poke House. 514 likes · 8 talking about this · 58 were here. Poke: Hawaiian - Inspired sushi bowls",
+        "title": "Ohana Poke House - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g187514-d14023145-r581855728-Ohana_Poke_House-Madrid.html",
+        "snippet": "Ohana Poke House: A nice little surprise in Madrid! - See 57 traveler reviews, 83 candid photos, and great deals for Madrid, Spain, at Tripadvisor.",
+        "title": "A nice little surprise in Madrid! - Ohana Poke House",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g187514-d14023145-Reviews-Ohana_Poke_House-Madrid.html",
+        "snippet": "Reserva Ohana Poke House, Madrid en Tripadvisor: Consulta 58 opiniones sobre Ohana Poke House con puntuación 5 de 5 y clasificado en Tripadvisor N.°711 de 11.659 restaurantes en Madrid.",
+        "title": "OHANA POKE HOUSE, Madrid - Centro - Menú, Precios y ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ohanapokehouse.com/clean-eating/",
+        "snippet": "Desde Ohana Poke House, tu restaurante en Madrid, te contamos los beneficios de esta nueva tendencia que causa sensación. ¡Súmate a sus beneficios con Ohana! El Clean Eating, lejos de ser una dieta es ya una filosofía de vida.",
+        "title": "El Clean Eating llega a Madrid con Ohana - Ohana Poke House",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

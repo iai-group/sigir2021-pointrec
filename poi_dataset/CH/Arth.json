@@ -1,0 +1,40 @@
+{
+  "285953": {
+    "url": "https://www.yelp.com/biz/rigi-kulm-arth?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ULe7uLM1WF92nHQNWrKGXg/o.jpg",
+    "name": "Rigi Kulm",
+    "alias": "rigi-kulm-arth",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Kulmweg 8",
+    "city_from_postal": "Arth",
+    "city": "Arth",
+    "zip_code": "6410",
+    "country_code": "CH",
+    "state_code": "SZ",
+    "phone": "+41418801888",
+    "review_count": 2,
+    "snippets": []
+  },
+  "396664": {
+    "url": "https://www.yelp.com/biz/b%C3%A4rggnuss-rigi-staffel?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xgBX5yHV5VHEDfdYU6cuXw/o.jpg",
+    "name": "BärgGnuss",
+    "alias": "bärggnuss-rigi-staffel",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Staffelhöhenweg 5",
+    "city_from_postal": "Arth",
+    "city": "Rigi Staffel",
+    "zip_code": "6410",
+    "country_code": "CH",
+    "state_code": "SZ",
+    "phone": "+41413998722",
+    "review_count": 2,
+    "snippets": []
+  }
+}

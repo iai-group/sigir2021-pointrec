@@ -1,0 +1,21 @@
+{
+  "543414": {
+    "url": "https://www.yelp.com/biz/padaria-arraial-santa-maria-da-feira?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Padaria Arraial",
+    "alias": "padaria-arraial-santa-maria-da-feira",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, Restaurants, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "R. Pe. David Coelho, 196",
+    "city_from_postal": "Sanguedo",
+    "city": "Santa Maria da Feira",
+    "zip_code": "4505-644",
+    "country_code": "PT",
+    "state_code": "01",
+    "phone": "+351227441304",
+    "review_count": 1,
+    "snippets": []
+  }
+}

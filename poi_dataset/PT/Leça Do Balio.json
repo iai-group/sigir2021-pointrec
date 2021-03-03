@@ -1,0 +1,21 @@
+{
+  "497559": {
+    "url": "https://www.yelp.com/biz/caf%C3%A9-kalinka-matosinhos?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Café Kalinka",
+    "alias": "café-kalinka-matosinhos",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Rua Recarei 120",
+    "city_from_postal": "Leça Do Balio",
+    "city": "Matosinhos",
+    "zip_code": "4465-725",
+    "country_code": "PT",
+    "state_code": "13",
+    "phone": "+351229514405",
+    "review_count": 1,
+    "snippets": []
+  }
+}

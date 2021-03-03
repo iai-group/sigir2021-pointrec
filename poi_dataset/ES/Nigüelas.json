@@ -1,0 +1,21 @@
+{
+  "516175": {
+    "url": "https://www.yelp.com/biz/olive-oil-tour-niguelas?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TxKKYWx-G_Cj88c2xnTJ6Q/o.jpg",
+    "name": "Olive Oil Tour",
+    "alias": "olive-oil-tour-niguelas",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Tours, Specialty Food, Local Flavor, ",
+    "rating": 5.0,
+    "price": "€€",
+    "address": "Calle Canalón, 3",
+    "city_from_postal": "Nigüelas",
+    "city": "Niguelas",
+    "zip_code": "18657",
+    "country_code": "ES",
+    "state_code": "GR",
+    "phone": "+34958559643",
+    "review_count": 3,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "659470": {
+    "url": "https://www.yelp.com/biz/a-capricho-san-andr%C3%A9s?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OCKET0kWkHpKzwI6N7F9bQ/o.jpg",
+    "name": "A' Capricho",
+    "alias": "a-capricho-san-andrés",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Spanish, Breakfast & Brunch, Cafeteria, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Calle de San Andrés, 2",
+    "city_from_postal": "Arucas",
+    "city": "San Andrés",
+    "zip_code": "35414",
+    "country_code": "ES",
+    "state_code": "GC",
+    "phone": "+34910349959",
+    "review_count": 3,
+    "snippets": []
+  }
+}

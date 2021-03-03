@@ -1,0 +1,40 @@
+{
+  "289105": {
+    "url": "https://www.yelp.com/biz/silvies-valley-ranch-seneca?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Silvies Valley Ranch",
+    "alias": "silvies-valley-ranch-seneca",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Ranches, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "12000 Hwy 395 S",
+    "city_from_postal": "Grant",
+    "city": "Seneca",
+    "zip_code": "97873",
+    "country_code": "US",
+    "state_code": "OR",
+    "phone": "+15415735150",
+    "review_count": 1,
+    "snippets": []
+  },
+  "321516": {
+    "url": "https://www.yelp.com/biz/wisconsin-river-outings-boscobel?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pNMEsxfPvJ3rhtT5oCSaWw/o.jpg",
+    "name": "Wisconsin River Outings",
+    "alias": "wisconsin-river-outings-boscobel",
+    "main_category": "Active Life",
+    "sub_categories": "Boating, Rafting/Kayaking, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "715 Wisconsin Ave",
+    "city_from_postal": "Grant",
+    "city": "Boscobel",
+    "zip_code": "53805",
+    "country_code": "US",
+    "state_code": "WI",
+    "phone": "+16083755300",
+    "review_count": 17,
+    "snippets": []
+  }
+}

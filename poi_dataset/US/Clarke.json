@@ -1,0 +1,21 @@
+{
+  "617496": {
+    "url": "https://www.yelp.com/biz/the-hunting-consortium-berryville?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OfDpUS3PBUuj60xrHRgxcA/o.jpg",
+    "name": "The Hunting Consortium",
+    "alias": "the-hunting-consortium-berryville",
+    "main_category": "Active Life",
+    "sub_categories": "Wildlife Hunting Ranges, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "45 Spring House Ln",
+    "city_from_postal": "Clarke",
+    "city": "Berryville",
+    "zip_code": "22611",
+    "country_code": "US",
+    "state_code": "VA",
+    "phone": "+15409550090",
+    "review_count": 1,
+    "snippets": []
+  }
+}

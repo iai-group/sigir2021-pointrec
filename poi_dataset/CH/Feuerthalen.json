@@ -1,0 +1,40 @@
+{
+  "162973": {
+    "url": "https://www.yelp.com/biz/pizza-toscana-f-medlej-und-h-zeaiter-feuerthalen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Pizza Toscana F. Medlej und H. Zeaiter",
+    "alias": "pizza-toscana-f-medlej-und-h-zeaiter-feuerthalen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food, Shopping, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Zürcherstrasse 8",
+    "city_from_postal": "Feuerthalen",
+    "city": "Feuerthalen",
+    "zip_code": "8245",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41526592222",
+    "review_count": 1,
+    "snippets": []
+  },
+  "382365": {
+    "url": "https://www.yelp.com/biz/munotblick-feuerthalen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6Fy7krWSdCmKOHVhKRutsw/o.jpg",
+    "name": "Munotblick",
+    "alias": "munotblick-feuerthalen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Zürcherstrasse 7",
+    "city_from_postal": "Feuerthalen",
+    "city": "Feuerthalen",
+    "zip_code": "8245",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41525334183",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "374238": {
+    "url": "https://www.yelp.com/biz/hungry-hungry-arrow-west-point?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mU6w0wtAXkIaOAyPNctk3Q/o.jpg",
+    "name": "Hungry Hungry Arrow",
+    "alias": "hungry-hungry-arrow-west-point",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food Trucks, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "",
+    "city_from_postal": "King William",
+    "city": "West Point",
+    "zip_code": "23181",
+    "country_code": "US",
+    "state_code": "VA",
+    "phone": "+18049386839",
+    "review_count": 1,
+    "snippets": []
+  }
+}

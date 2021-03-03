@@ -1,0 +1,40 @@
+{
+  "345760": {
+    "url": "https://www.yelp.com/biz/bar-pod-skoczni%C4%85-szklarska-por%C4%99ba?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Bar Pod Skocznią",
+    "alias": "bar-pod-skocznią-szklarska-poręba",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, ",
+    "rating": 3.0,
+    "price": "$",
+    "address": "ul. Mickiewicza 5",
+    "city_from_postal": "Szklarska Poręba",
+    "city": "Szklarska Poręba",
+    "zip_code": "58-580",
+    "country_code": "PL",
+    "state_code": "DS",
+    "phone": "+48757172696",
+    "review_count": 1,
+    "snippets": []
+  },
+  "441259": {
+    "url": "https://www.yelp.com/biz/park-dinozaur%C3%B3w-dinopark-szklarska-por%C4%99ba?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GyCmlrDMSpx9tg-Dt0JMDA/o.jpg",
+    "name": "Park Dinozaurów Dinopark'",
+    "alias": "park-dinozaurów-dinopark-szklarska-poręba",
+    "main_category": "Active Life",
+    "sub_categories": "Recreation Centers, Amusement Parks, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "muzealna 7",
+    "city_from_postal": "Szklarska Poręba",
+    "city": "Szklarska Poręba",
+    "zip_code": "58-580",
+    "country_code": "PL",
+    "state_code": "DS",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

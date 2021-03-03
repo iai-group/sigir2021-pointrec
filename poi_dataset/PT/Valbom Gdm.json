@@ -1,0 +1,21 @@
+{
+  "343510": {
+    "url": "https://www.yelp.com/biz/hamburgueria-lili-valbom?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gYc53U5xAiSzHvAO01AuuA/o.jpg",
+    "name": "Hamburgueria Lili",
+    "alias": "hamburgueria-lili-valbom",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "R. Giesta, 285",
+    "city_from_postal": "Valbom Gdm",
+    "city": "Valbom",
+    "zip_code": "4420-463",
+    "country_code": "PT",
+    "state_code": "13",
+    "phone": "+351220181670",
+    "review_count": 1,
+    "snippets": []
+  }
+}

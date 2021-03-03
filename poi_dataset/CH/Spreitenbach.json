@@ -1,0 +1,21 @@
+{
+  "456308": {
+    "url": "https://www.yelp.com/biz/ochsner-shoes-and-sport-spreitenbach?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Ochsner Shoes & Sport",
+    "alias": "ochsner-shoes-and-sport-spreitenbach",
+    "main_category": "Active Life",
+    "sub_categories": "Active Life, Shopping, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Shopping Center",
+    "city_from_postal": "Spreitenbach",
+    "city": "Spreitenbach",
+    "zip_code": "8957",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41564184020",
+    "review_count": 1,
+    "snippets": []
+  }
+}

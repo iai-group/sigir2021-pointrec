@@ -1,0 +1,21 @@
+{
+  "195702": {
+    "url": "https://www.yelp.com/biz/christelle-cancoin-biot?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Christelle Cancoin",
+    "alias": "christelle-cancoin-biot",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "15 Rue St S",
+    "city_from_postal": "Arrondissement de Grasse",
+    "city": "Biot",
+    "zip_code": "06410",
+    "country_code": "FR",
+    "state_code": "06",
+    "phone": "+33493651102",
+    "review_count": 1,
+    "snippets": []
+  }
+}

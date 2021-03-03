@@ -1,0 +1,40 @@
+{
+  "15182": {
+    "url": "https://www.yelp.com/biz/restaurant-gambrinus-walzenhausen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kdU-GgeoDXJniOlJD3Yh0g/o.jpg",
+    "name": "Restaurant Gambrinus",
+    "alias": "restaurant-gambrinus-walzenhausen",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Dorf 65",
+    "city_from_postal": "Walzenhausen",
+    "city": "Walzenhausen",
+    "zip_code": "9428",
+    "country_code": "CH",
+    "state_code": "AR",
+    "phone": "+41718881189",
+    "review_count": 2,
+    "snippets": []
+  },
+  "601353": {
+    "url": "https://www.yelp.com/biz/caf%C3%A9-restaurant-bahnhof-walzenhausen-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Café-Restaurant Bahnhof",
+    "alias": "café-restaurant-bahnhof-walzenhausen-2",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Shopping, Bakeries, Restaurants, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "Dorf 51",
+    "city_from_postal": "Walzenhausen",
+    "city": "Walzenhausen",
+    "zip_code": "9428",
+    "country_code": "CH",
+    "state_code": "AR",
+    "phone": "+41718883754",
+    "review_count": 1,
+    "snippets": []
+  }
+}

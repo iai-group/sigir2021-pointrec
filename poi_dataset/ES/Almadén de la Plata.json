@@ -1,0 +1,21 @@
+{
+  "182115": {
+    "url": "https://www.yelp.com/biz/el-pilar-gelves?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lO7wIQHVflvPVSXUKKgKLA/o.jpg",
+    "name": "El Pilar",
+    "alias": "el-pilar-gelves",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafeteria, Coffee & Tea, ",
+    "rating": 4.0,
+    "price": "€",
+    "address": "Plaza del Pilar, 6",
+    "city_from_postal": "Almadén de la Plata",
+    "city": "Gelves",
+    "zip_code": "41240",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34955760147",
+    "review_count": 2,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "683648": {
+    "url": "https://www.yelp.com/biz/yebisu-bar-%E6%B3%89%E4%BD%90%E9%87%8E%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xOuTNt1xhp-YX3lE0VlGKA/o.jpg",
+    "name": "YEBISU BAR",
+    "alias": "yebisu-bar-泉佐野市",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Food Court, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "泉州空港北1",
+    "city_from_postal": "Tajiri Cho",
+    "city": "Izumisano",
+    "zip_code": "549-0011",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81724566455",
+    "review_count": 1,
+    "snippets": []
+  }
+}

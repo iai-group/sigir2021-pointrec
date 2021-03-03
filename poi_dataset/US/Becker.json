@@ -1,0 +1,21 @@
+{
+  "539384": {
+    "url": "https://www.yelp.com/biz/pizza-hut-sacramento-28?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4JN4rXaVK4kBCxOYjMMrYg/o.jpg",
+    "name": "Pizza Hut",
+    "alias": "pizza-hut-sacramento-28",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, Chicken Wings, ",
+    "rating": 2.0,
+    "price": "$",
+    "address": "8324 Elk Grove-Florin Rd",
+    "city_from_postal": "Becker",
+    "city": "Sacramento",
+    "zip_code": "56501",
+    "country_code": "US",
+    "state_code": "CA",
+    "phone": "+19166896467",
+    "review_count": 84,
+    "snippets": []
+  }
+}

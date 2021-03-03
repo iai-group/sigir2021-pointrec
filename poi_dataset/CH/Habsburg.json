@@ -1,0 +1,21 @@
+{
+  "193108": {
+    "url": "https://www.yelp.com/biz/schloss-habsburg-habsburg?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bclkDHH38zXBH39KV8tqvw/o.jpg",
+    "name": "Schloss Habsburg",
+    "alias": "schloss-habsburg-habsburg",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Castles, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Hauptstrasse 26",
+    "city_from_postal": "Habsburg",
+    "city": "Habsburg",
+    "zip_code": "5245",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41564411673",
+    "review_count": 2,
+    "snippets": []
+  }
+}

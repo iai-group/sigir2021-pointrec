@@ -1,0 +1,21 @@
+{
+  "526832": {
+    "url": "https://www.yelp.com/biz/figueira-surfcenter-figueira-da-foz?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8nEad3s9hPurNIc30VyWhw/o.jpg",
+    "name": "Figueira Surfcenter",
+    "alias": "figueira-surfcenter-figueira-da-foz",
+    "main_category": "Active Life",
+    "sub_categories": "Surfing, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Praia de Buarcos",
+    "city_from_postal": "Figueira Da Foz",
+    "city": "Figueira da Foz",
+    "zip_code": "3080-452",
+    "country_code": "PT",
+    "state_code": "06",
+    "phone": "+351910468760",
+    "review_count": 1,
+    "snippets": []
+  }
+}

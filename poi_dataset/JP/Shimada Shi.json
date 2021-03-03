@@ -1,0 +1,21 @@
+{
+  "395974": {
+    "url": "https://www.yelp.com/biz/casa-de-sarasa-%E6%B8%8B%E8%B0%B7%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QlJ3sQ0nDtKD7FMLJTJ34w/o.jpg",
+    "name": "Casa De Sarasa",
+    "alias": "casa-de-sarasa-渋谷区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Mexican, Bars, ",
+    "rating": 4.5,
+    "price": "￥￥",
+    "address": "道玄坂2-25-5",
+    "city_from_postal": "Shimada Shi",
+    "city": "Shibuya",
+    "zip_code": "427-0024",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81354286155",
+    "review_count": 5,
+    "snippets": []
+  }
+}

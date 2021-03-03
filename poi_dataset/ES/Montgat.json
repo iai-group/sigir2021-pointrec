@@ -1,0 +1,21 @@
+{
+  "31814": {
+    "url": "https://www.yelp.com/biz/lolin-cafe-badalona?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/urOjoJUOk1xAgAEqgEAgCg/o.jpg",
+    "name": "Lolin Cafe",
+    "alias": "lolin-cafe-badalona",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Tapas/Small Plates, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Carrer de Sant Pau, 84",
+    "city_from_postal": "Montgat",
+    "city": "Badalona",
+    "zip_code": "08390",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34931460739",
+    "review_count": 1,
+    "snippets": []
+  }
+}

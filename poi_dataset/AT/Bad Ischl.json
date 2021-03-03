@@ -1,0 +1,21 @@
+{
+  "705957": {
+    "url": "https://www.yelp.com/biz/k-and-k-hofbeisl-bad-ischl?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eTQQ8m6dc1uEYP2YySS-HA/o.jpg",
+    "name": "K.& K. Hofbeisl",
+    "alias": "k-and-k-hofbeisl-bad-ischl",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Cafes, Austrian, ",
+    "rating": 4.5,
+    "price": "€€",
+    "address": "Wirerstr. 4",
+    "city_from_postal": "Bad Ischl",
+    "city": "Bad Ischl",
+    "zip_code": "4820",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+43613227271",
+    "review_count": 5,
+    "snippets": []
+  }
+}

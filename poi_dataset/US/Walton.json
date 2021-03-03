@@ -1,0 +1,21 @@
+{
+  "341896": {
+    "url": "https://www.yelp.com/biz/harry-and-david-destin-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mZUzQFgCKoK0PaPl1GvZUw/o.jpg",
+    "name": "Harry and David",
+    "alias": "harry-and-david-destin-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Gift Shops, Bakeries, Chocolatiers & Shops, ",
+    "rating": 4.5,
+    "price": "$$$",
+    "address": "10406 Emerald Coast Pkwy",
+    "city_from_postal": "Walton",
+    "city": "Destin",
+    "zip_code": "32550",
+    "country_code": "US",
+    "state_code": "FL",
+    "phone": "+18506504566",
+    "review_count": 3,
+    "snippets": []
+  }
+}

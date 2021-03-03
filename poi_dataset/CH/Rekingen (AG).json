@@ -1,0 +1,21 @@
+{
+  "233514": {
+    "url": "https://www.yelp.com/biz/restaurant-zur-m%C3%BChle-rekingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant zur Mühle",
+    "alias": "restaurant-zur-mühle-rekingen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, ",
+    "rating": 5.0,
+    "price": "$$$",
+    "address": "Dorfstrasse 17",
+    "city_from_postal": "Rekingen (AG)",
+    "city": "Rekingen",
+    "zip_code": "5332",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41562492230",
+    "review_count": 1,
+    "snippets": []
+  }
+}

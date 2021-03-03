@@ -1,0 +1,226 @@
+{
+  "77269": {
+    "url": "https://www.yelp.com/biz/el-dulcer%C3%ADo-camas?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "El Dulcerío",
+    "alias": "el-dulcerío-camas",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Desserts, Cafeteria, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Avenida Clara Campoamor, 5",
+    "city_from_postal": "Castilleja de Guzmán",
+    "city": "Camas",
+    "zip_code": "41908",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34678264426",
+    "review_count": 1,
+    "snippets": []
+  },
+  "154336": {
+    "url": "https://www.yelp.com/biz/momentos-castilleja-de-guzm%C3%A1n?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HztkvmslNPTOjB4Nab3M5A/o.jpg",
+    "name": "Momentos",
+    "alias": "momentos-castilleja-de-guzmán",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Mediterranean, Gastropubs, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Avenida de Andalucía, s/n",
+    "city_from_postal": "Castilleja de Guzmán",
+    "city": "Castilleja de Guzmán",
+    "zip_code": "41908",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34955659905",
+    "review_count": 2,
+    "snippets": []
+  },
+  "175040": {
+    "url": "https://www.yelp.com/biz/burger-king-sevilla-19?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ONIdgvsbt18ZUfltMzAgsg/o.jpg",
+    "name": "Burger King",
+    "alias": "burger-king-sevilla-19",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, ",
+    "rating": 2.0,
+    "price": "€",
+    "address": "C.C. El Mirador",
+    "city_from_postal": "Castilleja de Guzmán",
+    "city": "Seville",
+    "zip_code": "41908",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34954579139",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://locations.bk.com/oh/seville/8834-lake-rd.html",
+        "snippet": "Visit your local Burger King at 8834 Lake Rd in Seville, OH for the flame-broiled, made-to-order meals you love. Enjoy your favorite BK burgers, chicken sandwiches, salads, breakfast and more.",
+        "title": "Burger King in 8834 Lake Rd Seville, OH | Burgers, Chicken ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g50956-d4515925-Reviews-Burger_King-Seville_Ohio.html",
+        "snippet": "The burger King located by us in Seville I&#39;m very disappointed with. The burger was cold and the buns hard and tasted off. The fries tasted like old grease. The prices are much higher than a normal burger King. Sorry I&#39;ll pass.",
+        "title": "Burger King, Seville - Menu, Prices &amp; Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g187443-d10821979-Reviews-Burger_King-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Burger King, Sevilla: Se 43 objektive anmeldelser av Burger King, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 1 780 av 2 884 restauranter i Sevilla.",
+        "title": "Burger King, Sevilla - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g187443-d12858430-r647468755-Burger_King-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Got in to Seville well after most places were closed for the evening except for the bars. Too tired for those we chose to try a Spanish version of the Whopper. Honestly, not bad. Yeah, I know, going all the way to Spain and eat in an American burger bar is pretty lame, but it filled the need.",
+        "title": "BK OK - Review of Burger King, Seville, Spain - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.burgerking.no/",
+        "snippet": "Om hamburgerkjeden, restauranter, tilbud, næringsfakta og karrieremuligheter.",
+        "title": "BURGER KING | NORWAY",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g187443-d12706132-Reviews-Burger_King-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Burger King, Seville: See 2 unbiased reviews of Burger King, rated 3.5 of 5 on Tripadvisor and ranked #2,178 of 2,884 restaurants in Seville.",
+        "title": "Burger King, Seville - Av. Ramon y Cajal 5 - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g187443-d10821979-Reviews-Burger_King-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Burger King, Seville: See 43 unbiased reviews of Burger King, rated 3.5 of 5 on Tripadvisor and ranked #1,780 of 2,883 restaurants in Seville.",
+        "title": "Burger King, Seville - Constitucion 27 - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g187443-d10821979-r492942850-Burger_King-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Ok, it&#39;s Burger King in Spain, where Americans can enjoy the novelty of ordering beer with their Whopper. This place has a huge seating area inside with A/C which is great on a hot summer day. However, if you&#39;re only visiting Seville for a couple of days, go get some authentic tapas instead of a hamburger that you can have back home.",
+        "title": "It&#39;s Burger King - Review of Burger King, Seville, Spain ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.burgerking.no/menu",
+        "snippet": "BURGER KING® Menu - Burgers, Chicken and More, Salads and Veggies, Beverages, Breakfast, Sides, Sweets, Value Menu, Kids Meals",
+        "title": "BURGER KING | NORWAY Burgers, Chicken, Salads, Breakfast ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.burgerking.es/",
+        "snippet": "TM &amp; 2020 Burger King Corporation. Todos los derechos reservados. También puedes pedir por teléfono: 91 1933933 / 902 411 114 ...",
+        "title": "Burger King",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "275818": {
+    "url": "https://www.yelp.com/biz/la-posada-de-guzm%C3%A1n-castilleja-de-guzm%C3%A1n?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2vVAaRUdfSTP3O3z7a4H3Q/o.jpg",
+    "name": "La Posada de Guzmán",
+    "alias": "la-posada-de-guzmán-castilleja-de-guzmán",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Tapas Bars, Seafood, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Plaza Manuel Madrazo, 2",
+    "city_from_postal": "Castilleja de Guzmán",
+    "city": "Castilleja de Guzmán",
+    "zip_code": "41908",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34633151658",
+    "review_count": 1,
+    "snippets": []
+  },
+  "339860": {
+    "url": "https://www.yelp.com/biz/sindrome-clown-sevilla?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/93TCibbEUyrma3p2VTDFFw/o.jpg",
+    "name": "Sindrome Clown",
+    "alias": "sindrome-clown-sevilla",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Performing Arts, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "C/ Doctor Barraquer, 37",
+    "city_from_postal": "Castilleja de Guzmán",
+    "city": "Seville",
+    "zip_code": "41908",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34717162929",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.youtube.com/watch?v=1VGLegM3qrM",
+        "snippet": "This video is unavailable. Watch Queue Queue. Watch Queue Queue",
+        "title": "Directo Síndrome Clown sevilla Directo - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.escenariosdesevilla.org/sindrome-clown/",
+        "snippet": "Sevilla Síndrome Clown inició su andadura en el año 2000, estrenando «Este circo no es normal», espectáculo con el que obtuvo un premio a la compañía revelación en la feria de teatro de Palma del Río (Córdoba). A este montaje le siguió «La prematura muerte de un viajante», obra recibida con gran éxito, por el público y que desde 2002 lleva más de 300 representaciones. Entre ...",
+        "title": "Síndrome Clown - Escenarios de Sevilla",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://salacero.com/",
+        "snippet": "Si bien comenzamos suspendiendo hasta el 26 de marzo, debido a las nuevas necesidades de la emergencia que nos ocupa, ampliamos la suspensión, como medida preventiva para contener la expansión del coronavirus, siguiendo las recomendaciones de las autoridades sanitarias.Del mismo modo, os mantendremos debidamente informados de cualquier novedad que vaya surgiendo.",
+        "title": "INICIO - Sala Cero Sevilla",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.redescena.net/compania/34617/sindrome-clown/",
+        "snippet": "La compañía Síndrome Clown fue creada en 1998 a raíz de unos cursos de clown que impartió el director de teatro Miguel Garrido en el Centro Andaluz de Teatro, donde sus componentes (Práxedes Nieto y Víctor Carretero) cursaron sus estudios de Interpretación.",
+        "title": "Síndrome Clown - Redescena",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.escenariosdesevilla.org/sindrome-clown-o-la-risa-como-oficio/",
+        "snippet": "Recuperamos también en estas Fiestas, el encuentro que tuvieron nuestros amigos de Escenarios con Síndrome Clown, en una de sus múltiples y exitosas actuaciones en nuestra querida Sala Cero Teatro. En este caso con ‘Una de Romanos’: El pasado martes 11 de julio tuvimos una cita en Sala Cero Teatro con Síndrome Clown por partida doble.",
+        "title": "Síndrome Clown o la risa como oficio - Escenarios de Sevilla",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.andalunet.com/una-romanos-comedia-sindrome-clown-sala-cero-teatro-sevilla/",
+        "snippet": "Una de Romanos. Comedia de Síndrome Clown en Sala Cero Teatro Sevilla. Toda la la información de cultura, ocio y turismo de Sevilla en AndaluNet.",
+        "title": "Una de Romanos. Comedia de Síndrome Clown en Sala Cero ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=GJwPqJGxXpw",
+        "snippet": "Capítulo piloto de la serie producida por Síndrome Clown. Voz en off: David Arnaiz.",
+        "title": "SPAIN IN DIFFERENT (Síndrome Clown) - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.europapress.es/andalucia/fundacion-cajasol-00621/noticia-sevilla-cultura-sindrome-clown-estrena-romanos-miercoles-antiquarium-20140701183542.html",
+        "snippet": "SEVILLA, 1 Jul. (EUROPA PRESS) - La conocida compañía sevillana Síndrome Clown estrena este miércoles 2 de julio su última comedia, &#39;Una de romanos&#39;, en el Antiquarium de Sevilla.",
+        "title": "Sevilla.- Cultura.- Síndrome Clown estrena &#39;Una de romanos ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "658526": {
+    "url": "https://www.yelp.com/biz/el-cafetal-castilleja-de-guzm%C3%A1n?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2wFW4b8-vw5iwOqLbtwySQ/o.jpg",
+    "name": "El Cafetal",
+    "alias": "el-cafetal-castilleja-de-guzmán",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafeteria, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Avenida Andalucía, 1",
+    "city_from_postal": "Castilleja de Guzmán",
+    "city": "Castilleja de Guzmán",
+    "zip_code": "41908",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34691291276",
+    "review_count": 1,
+    "snippets": []
+  }
+}

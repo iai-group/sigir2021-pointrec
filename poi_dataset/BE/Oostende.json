@@ -1,0 +1,21 @@
+{
+  "394507": {
+    "url": "https://www.yelp.com/biz/tex-mex-oostende?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QkpsZ7p8J_yoFA78igwRpA/o.jpg",
+    "name": "Tex Mex",
+    "alias": "tex-mex-oostende",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Barbeque, Mexican, ",
+    "rating": 4.5,
+    "price": "€€",
+    "address": "Monacoplein 7",
+    "city_from_postal": "Oostende",
+    "city": "Oostende",
+    "zip_code": "8400",
+    "country_code": "BE",
+    "state_code": "VWV",
+    "phone": "+3259511739",
+    "review_count": 4,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "691020": {
+    "url": "https://www.yelp.com/biz/melody-villanueva-y-geltr%C3%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/C33jYEB59s4cYSYZyn_wxw/o.jpg",
+    "name": "Melody",
+    "alias": "melody-villanueva-y-geltrú",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Irish, Bars, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Carrer Llibertat, 89",
+    "city_from_postal": "Vilanova i la Geltrú",
+    "city": "Villanueva y Geltrú",
+    "zip_code": "08800",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34938152035",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "157925": {
+    "url": "https://www.yelp.com/biz/rosario-medemblik?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HKLLk3EDhy0qVGUCMnqAoQ/o.jpg",
+    "name": "Rosario",
+    "alias": "rosario-medemblik",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Arabian, Steakhouses, Pizza, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Nieuwstraat 52",
+    "city_from_postal": "Medemblik",
+    "city": "Medemblik",
+    "zip_code": "1671 BB",
+    "country_code": "NL",
+    "state_code": "NH",
+    "phone": "+31227541818",
+    "review_count": 1,
+    "snippets": []
+  }
+}

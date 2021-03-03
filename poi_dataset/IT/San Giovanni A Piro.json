@@ -1,0 +1,21 @@
+{
+  "34324": {
+    "url": "https://www.yelp.com/biz/dolce-idea-san-giovanni?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BZ0TlTpn5BfpW3TDGVErug/o.jpg",
+    "name": "Dolce Idea",
+    "alias": "dolce-idea-san-giovanni",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Ice Cream & Frozen Yogurt, Juice Bars & Smoothies, Desserts, ",
+    "rating": 3.0,
+    "price": "€",
+    "address": "Piazza San Giovanni Bosco 33",
+    "city_from_postal": "San Giovanni A Piro",
+    "city": "San Giovanni",
+    "zip_code": "84070",
+    "country_code": "IT",
+    "state_code": "SA",
+    "phone": "",
+    "review_count": 3,
+    "snippets": []
+  }
+}

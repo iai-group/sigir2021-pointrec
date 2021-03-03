@@ -1,0 +1,21 @@
+{
+  "57893": {
+    "url": "https://www.yelp.com/biz/columbus-coffee-szczecin-3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QIoDP3XLQ4_tE5IyZBHFAw/o.jpg",
+    "name": "Columbus Coffee",
+    "alias": "columbus-coffee-szczecin-3",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, Cafes, ",
+    "rating": 4.0,
+    "price": "$",
+    "address": "CH Galaxy",
+    "city_from_postal": "Warsaw",
+    "city": "Szczecin",
+    "zip_code": "02-672",
+    "country_code": "PL",
+    "state_code": "MZ",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

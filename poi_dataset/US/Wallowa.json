@@ -1,0 +1,21 @@
+{
+  "421839": {
+    "url": "https://www.yelp.com/biz/winding-waters-river-expeditions-joseph?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hRpr0JzlfN8cFbxDd47QlQ/o.jpg",
+    "name": "Winding Waters River Expeditions",
+    "alias": "winding-waters-river-expeditions-joseph",
+    "main_category": "Active Life",
+    "sub_categories": "Rafting/Kayaking, Fishing, Tours, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "204 E Wallowa Ave",
+    "city_from_postal": "Wallowa",
+    "city": "Joseph",
+    "zip_code": "97846",
+    "country_code": "US",
+    "state_code": "OR",
+    "phone": "+15414320747",
+    "review_count": 4,
+    "snippets": []
+  }
+}

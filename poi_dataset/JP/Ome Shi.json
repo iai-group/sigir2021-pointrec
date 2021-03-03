@@ -1,0 +1,21 @@
+{
+  "350952": {
+    "url": "https://www.yelp.com/biz/ayahiro-falls-%E9%9D%92%E6%A2%85%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ieOqgGt7WuNfmiPjzsOR2A/o.jpg",
+    "name": "Ayahiro Falls",
+    "alias": "ayahiro-falls-青梅市",
+    "main_category": "Active Life",
+    "sub_categories": "Hiking, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "養沢",
+    "city_from_postal": "Ome Shi",
+    "city": "Ome",
+    "zip_code": "198-0175",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

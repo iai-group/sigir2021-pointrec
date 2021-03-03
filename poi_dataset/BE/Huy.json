@@ -1,0 +1,21 @@
+{
+  "203016": {
+    "url": "https://www.yelp.com/biz/ferme-p%C3%A9dagogique-aaloa-li%C3%A8ge?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Ferme pédagogique Aaloa",
+    "alias": "ferme-pédagogique-aaloa-liège",
+    "main_category": "Active Life",
+    "sub_categories": "Parks, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Rue de Comblinay 25",
+    "city_from_postal": "Huy",
+    "city": "Liège",
+    "zip_code": "4180",
+    "country_code": "BE",
+    "state_code": "WLG",
+    "phone": "+3242272762",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "76998": {
+    "url": "https://www.yelp.com/biz/boca-bocata-sant-adri%C3%A0-de-bes%C3%B2s?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-itVytlyE1dzxYivYDHdAw/o.jpg",
+    "name": "Boca Bocata",
+    "alias": "boca-bocata-sant-adrià-de-besòs",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Sandwiches, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Plaza Maciá, 6-8",
+    "city_from_postal": "Sant Adrià de Besòs",
+    "city": "Sant Adrià de Besòs",
+    "zip_code": "08930",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34934626207",
+    "review_count": 1,
+    "snippets": []
+  },
+  "84106": {
+    "url": "https://www.yelp.com/biz/el-rac%C3%B3-del-mariner-sant-adri%C3%A0-de-bes%C3%B2s?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6wde6JZ8-lsRpIrAVffKDg/o.jpg",
+    "name": "El Racó del Mariner",
+    "alias": "el-racó-del-mariner-sant-adrià-de-besòs",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Mediterranean, Seafood, Tapas Bars, ",
+    "rating": 3.5,
+    "price": "€€",
+    "address": "Carrer Port Esportiu, 24P",
+    "city_from_postal": "Sant Adrià de Besòs",
+    "city": "Sant Adrià de Besòs",
+    "zip_code": "08930",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34645593096",
+    "review_count": 3,
+    "snippets": []
+  },
+  "118411": {
+    "url": "https://www.yelp.com/biz/jet-scoot-barcelona-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Hooyzqbck9asnKUSRzJrUQ/o.jpg",
+    "name": "Jet Scoot",
+    "alias": "jet-scoot-barcelona-2",
+    "main_category": "Active Life",
+    "sub_categories": "Jet Skis, Scooter Rentals, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Carrer de la Pau, 12",
+    "city_from_postal": "Sant Adrià de Besòs",
+    "city": "Barcelona",
+    "zip_code": "08930",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34932528514",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "http://www.jetscoot.com/",
+        "snippet": "Alquiler de motos de agua en Barcelona. JetScoot te ofrece una experiencia única en deportes acuáticos como Jet Ski, Flyboard, Wakeboard, Hoverboard.... Las mejores promociones y precios en motos de agua y alquiler de patinetes eléctricos ¡Reserva ahora!",
+        "title": "Motos de agua Barcelona y alquiler de patinetes eléctricos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.jetscoot.com/en/",
+        "snippet": "Jet Ski Barcelona Rental. JetScoot offers you an incredible jet ski experience and Watersports activities in Barcelona. Best Jet Ski offers and Electric Scooters Rental prices. Nº1 WaterSports Centre, we are in Port Fòrum. Book it now!",
+        "title": "Jet Ski Barcelona and Electric Scooters Rental - JetScoot",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.jetscoot.com/en/jet-ski-tours",
+        "snippet": "Enjoy our Jet Ski Tours in Barcelona. Discover all Barcelona coasts with our exclusive extreme tours. No license is required, for 1 or 2 people and all equipment is included in the price. We are the only ones in the city that can offer you this amazing jet ski experience!",
+        "title": "Jet Ski Tours in Barcelona - JetScoot",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Attraction_Review-g187497-d12491873-Reviews-JetScoot-Barcelona_Catalonia.html",
+        "snippet": "Jet scoot ligger i portforum er bare en katastrofe. Vi leide 5 jetski, 2 av dem hadde motorfeil. Halvparten av aktivitetene besto av å følge instruktøren som drar ut av driftskanalen i redusert fart. Umulig å diskutere noe med dem. De vet ikke hva som er en klientorientert …",
+        "title": "JetScoot (Barcelona, Spania) - Anmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Attraction_Review-g187497-d10289758-Reviews-JetScoot-Barcelona_Catalonia.html",
+        "snippet": "Barcelona er det ideelle stedet å kjøre en jetski. En aktivitet som du kan nyte det alene eller kombinert. Kjør en av våre nye kraftige og raske Jet Ski i 20, 40, 60 eller 120 minutter. Oppdag byen fra et annet synspunkt, og utforsk dets skyline, strender og de viktigste kjente bygningene fra en Jet Ski.",
+        "title": "JetScoot (Barcelona, Spania) - Anmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.de/Attraction_Review-g187497-d10289758-Reviews-JetScoot-Barcelona_Catalonia.html",
+        "snippet": "Barcelona ist der ideale Ort, um Jet-Ski zu fahren. Eine Aktivität, die Sie alleine oder zusammen genießen können. Fahren Sie 20, 40, 60 oder 120 Minuten mit einem unserer neuen, leistungsstarken und schnellen Jet Ski.",
+        "title": "JetScoot (Barcelona) - Aktuelle 2020 - Lohnt es sich? (Mit ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Attraction_Review-g187497-d10256845-Reviews-JetScoot_Born-Barcelona_Catalonia.html",
+        "snippet": "JetScoot Born, Barcelona: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for JetScoot Born i Barcelona, Spania på Tripadvisor. Turisme i Barcelona; ... Wow raskeste elsykler og scooter i byen. . . super hyggelige og de ansatte virkelig fantastiske. . boommm.",
+        "title": "JetScoot Born (Barcelona, Spania) - Anmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://scoot.co/barcelona/",
+        "snippet": "Made in Barcelona, our electric motor scooters are fun, fast and environmentally friendly. They are designed to take a passenger and come with two helmets. Where can I ride? Pickup and drop off your scoot anywhere in our “scoot zone”. All vehicles are dockless and easy to park.",
+        "title": "Scoot Barcelona - Shared electric vehicles for everyone",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/RestaurantsNear-g187497-d10289758-JetScoot-Barcelona_Catalonia.html",
+        "snippet": "Restauranter i nærheten av JetScoot på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av JetScoot, Barcelona.",
+        "title": "Restauranter i nærheten av JetScoot i Moll de la Ronda S/N ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/AttractionProductReview-g187497-d13538431-Jet_Ski_Experience_without_license_in_Barcelona-Barcelona_Catalonia.html",
+        "snippet": "Jet scoot located in port forum is just a catastoph. We rented 5 jetski, 2 of them had a motor failure. Half of the activities consisted to follow the instructor dragging the out of order jet ski in reduce speed.",
+        "title": "Jet Ski Experience without license in Barcelona provided ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "143264": {
+    "url": "https://www.yelp.com/biz/parc-del-f%C3%B2rum-san-adrian-del-bes%C3%B3s?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BrxwLbHu8yOsD8klOSSNKg/o.jpg",
+    "name": "Parc del Fòrum",
+    "alias": "parc-del-fòrum-san-adrian-del-besós",
+    "main_category": "Active Life",
+    "sub_categories": "Landmarks & Historical Buildings, Parks, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Muelle de la Marina Seca",
+    "city_from_postal": "Sant Adrià de Besòs",
+    "city": "San Adrian del Besós",
+    "zip_code": "08930",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34933561050",
+    "review_count": 13,
+    "snippets": []
+  },
+  "162481": {
+    "url": "https://www.yelp.com/biz/cordoba-restaurant-barcelona-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XnlXR8Wvme3fDGPF921hww/o.jpg",
+    "name": "Cordoba Restaurant",
+    "alias": "cordoba-restaurant-barcelona-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Halal, Pakistani, Venues & Event Spaces, ",
+    "rating": 5.0,
+    "price": "€€",
+    "address": "Avinguda de Joan XXIII 18",
+    "city_from_postal": "Sant Adrià de Besòs",
+    "city": "Barcelona",
+    "zip_code": "08930",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34935336868",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g187497-d4684275-Reviews-Cordoba_Restaurant-Barcelona_Catalonia.html",
+        "snippet": "Jeg hadde prøvd forskjellige desi restauranter, men klarte ikke å finne den perfekte smaken. Det var 2 - 3 restauranter som jeg har besøkt, men de var ikke opp... til mine forventninger. En dag fortalte noen meg om dette himmelske desi matstedet kalt Cordoba Restaurant, og jeg dro dit for min desi mat cravings.",
+        "title": "Cordoba Restaurant, Barcelona - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.tripadvisor.com.hk/Restaurant_Review-g187497-d4684275-Reviews-Cordoba_Restaurant-Barcelona_Catalonia.html",
+        "snippet": "Cordoba Restaurant, Barcelona: See 30 unbiased reviews of Cordoba Restaurant, rated 4 of 5, and one of 10,136 Barcelona restaurants on Tripadvisor.",
+        "title": "Cordoba Restaurant, Barcelona - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurants-g187430-Cordoba_Province_of_Cordoba_Andalucia.html",
+        "snippet": "Beste restauranter i Cordoba, Spania: Se anmeldelser fra reisende og bilder av spisesteder i Cordoba, og søk etter pris, beliggenhet og mer på Tripadvisor.",
+        "title": "De 10 beste restaurantene i Cordoba - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurants-g187497-Barcelona_Catalonia.html",
+        "snippet": "Beste restauranter i Barcelona, Spania: Se anmeldelser fra reisende og bilder av spisesteder i Barcelona, og søk etter pris, beliggenhet og mer på Tripadvisor. Barcelona. Turisme i Barcelona Hotell i Barcelona Bed and Breakfast i Barcelona Pakkereiser til Barcelona",
+        "title": "De 10 beste restaurantene i Barcelona - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurants-g187497-c36-Barcelona_Catalonia.html",
+        "snippet": "Beste spanske restauranter i Barcelona, Spania: Se anmeldelser fra reisende og bilder av spisesteder i Barcelona, og søk etter pris, beliggenhet og mer på Tripadvisor.",
+        "title": "De 10 beste spanske restaurantene i Barcelona - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Attractions-g187430-Activities-Cordoba_Province_of_Cordoba_Andalucia.html",
+        "snippet": "Ting å gjøre i Cordoba: Se anmeldelser og bilder av ting å gjøre i Cordoba, Spania på Tripadvisor.",
+        "title": "DE 10 BESTE ting å gjøre i Cordoba - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pl.tripadvisor.com/Restaurant_Review-g187497-d4684275-Reviews-Cordoba_Restaurant-Barcelona_Catalonia.html",
+        "snippet": "Ta usługa może zawierać tłumaczenia dostarczone przez Google. Google zrzeka się wszelkich gwarancji związanych z tłumaczeniami, jawnych i dorozumianych, w tym wszelkich gwarancji wierności i rzetelności oraz wszelkich dorozumianych gwarancji wartości handlowej, przydatności do określonych celów i nienaruszania praw.",
+        "title": "Cordoba Restaurant, Barcelona - recenzje restauracji ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g187497-d4684275-Reviews-Cordoba_Restaurant-Barcelona_Catalonia.html",
+        "snippet": "Cordoba Restaurant, Barcelona: Consulta 30 opiniones sobre Cordoba Restaurant con puntuación 4 de 5, uno de los 10.157 restaurantes de Barcelona en Tripadvisor.",
+        "title": "CORDOBA RESTAURANT, Barcelona - Menú, Precios y ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.dk/Restaurant_Review-g187497-d4684275-Reviews-Cordoba_Restaurant-Barcelona_Catalonia.html",
+        "snippet": "Jeg havde forsøgt forskellige desi restauranter men undlod at finde den perfekte smag. Der var 2 - 3 restauranter, som jeg har besøgt, men de var ikke... op til mine forventninger. En dag fortalte nogen mig om dette himmelske desi madsted kaldet Cordoba Restaurant og jeg gik der for min desi mad cravings.",
+        "title": "Cordoba Restaurant, Barcelona - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g187497-d4684275-i100721535-Cordoba_Restaurant-Barcelona_Catalonia.html",
+        "snippet": "Cordoba Restaurant, Barcelona Picture: Restaurante Córdoba - Check out Tripadvisor members&#39; 51,904 candid photos and videos of Cordoba Restaurant",
+        "title": "Restaurante Córdoba - Picture of Cordoba Restaurant, Barcelona",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "211238": {
+    "url": "https://www.yelp.com/biz/go-beach-club-sant-adri%C3%A0-de-bes%C3%B2s?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uEjTNIqrKFrPKs97jspzbA/o.jpg",
+    "name": "Go Beach Club",
+    "alias": "go-beach-club-sant-adrià-de-besòs",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Mediterranean, Swimming Pools, Venues & Event Spaces, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Carrer Port Esportiu, 14",
+    "city_from_postal": "Sant Adrià de Besòs",
+    "city": "Sant Adrià de Besòs",
+    "zip_code": "08930",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34936268171",
+    "review_count": 1,
+    "snippets": []
+  },
+  "236028": {
+    "url": "https://www.yelp.com/biz/sard%C3%A0-barcelona-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/b9QPlrZ3WSKjrm4RL4s5ww/o.jpg",
+    "name": "Sardà",
+    "alias": "sardà-barcelona-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Specialty Food, ",
+    "rating": 4.5,
+    "price": "€",
+    "address": "Carrer de la Marina, 237",
+    "city_from_postal": "Sant Adrià de Besòs",
+    "city": "Barcelona",
+    "zip_code": "08930",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34932325508",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.andressarda.com/",
+        "snippet": "Luxury designer lingerie and swimwear brand since 1962, inspired by the effervescent avant garde city of Barcelona.",
+        "title": "ANDRES SARDA | Designed in Barcelona",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Attraction_Review-g187497-d12277124-Reviews-Sarda-Barcelona_Catalonia.html",
+        "snippet": "Sardà, Barcelona: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Sardà i Barcelona, Spania på Tripadvisor.",
+        "title": "Sardà (Barcelona, Spania) - Anmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g187497-d12277124-Reviews-Sarda-Barcelona_Catalonia.html",
+        "snippet": "The Sagrada Familia, as one of Barcelona&#39;s most-important landmarks, draws large crowds of visitors every day. Avoid those crowds and save time with this ticket that includes fast-track, skip-the-line admission. Once inside you&#39;ll be free to explore the cathedral at your own pace with an included audio guide.",
+        "title": "Sarda (Barcelona) - 2020 All You Need to Know BEFORE You ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/HotelsNear-g187497-d12277124-Sarda-Barcelona_Catalonia.html",
+        "snippet": "Hotels near Sarda, Barcelona on Tripadvisor: Find 26,578 traveler reviews, 50,146 candid photos, and prices for 30 hotels near Sarda in Barcelona, Spain.",
+        "title": "THE 10 CLOSEST Hotels to Sarda, Barcelona - Tripadvisor ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.andressarda.com/ES/es/online-shop/HO9_AAABH9wAAAFbJwIQ1Fzc",
+        "snippet": "Marca de lencería y moda baño icónica. Exclusivas colecciones inspiradas por la ciudad efervescente y vanguardista de Barcelona. Desde 1962. Envío y devolución gratuitos.",
+        "title": "Tienda online - ANDRES SARDA | Designed in Barcelona",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.andressarda.com/EU/en/home",
+        "snippet": "Luxury lingerie and swimwear brand since 1962, inspired by the effervescent avant garde city of Barcelona. Known for its cutting edge designs that underline a femininity that is free and triumphant.",
+        "title": "Andres Sarda | Designed in Barcelona | Official shop",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=7KdCsBdcHuA",
+        "snippet": "ANDRES SARDA Lingerie Fall 2019 Barcelona - Fashion Channel The best videos, the most exclusive moments of the international runway since 1982 until now, of the most representative fashion weeks ...",
+        "title": "ANDRES SARDA Lingerie Fall 2019 Barcelona - Fashion ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.dk/Attraction_Review-g187497-d12277124-Reviews-Sarda-Barcelona_Catalonia.html",
+        "snippet": "Sardà, Barcelona: Se 4 anmeldelser, artikler og 5 billeder fra Sardà, nr.181 på Tripadvisor af 448 seværdigheder i Barcelona.",
+        "title": "Sardà (Barcelona, Spanien) - anmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.de/Attraction_Review-g187497-d12277124-Reviews-Sarda-Barcelona_Catalonia.html",
+        "snippet": "Hotels in der Nähe von Sardà: (0.20 km) Gaudi&#39;s Nest (0.05 km) Sagrada Familia Fantastic Apartment (0.36 km) Ayre Hotel Rosellon (0.35 km) Hotel Sant Antoni (0.30 km) Boutique Hostemplo Sagrada Familia; Sehen Sie sich alle Hotels in der Nähe von Sardà auf Tripadvisor an.",
+        "title": "Sardà (Barcelona) - Aktuelle 2020 - Lohnt es sich? (Mit fotos)",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.andressarda.com/INT/en/stores",
+        "snippet": "Since 1984, ANDRES SARDA is present in 25 countries. Spain, France, Germany and Belgium are among the most successful markets. The collections are distributed in lingerie specialty boutiques, luxury department stores and online. Two flagship stores, in Madrid and Barcelona, display the full collection and give access to the full brand experience.",
+        "title": "Storelocator | ANDRES SARDA",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "376910": {
+    "url": "https://www.yelp.com/biz/gust-sant-adri%C3%A0-de-bes%C3%B2s?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ApR_-BmLBP4netXuLpyXgA/o.jpg",
+    "name": "Gust",
+    "alias": "gust-sant-adrià-de-besòs",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Turkish, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Carrer de Sant Oleguer, 5",
+    "city_from_postal": "Sant Adrià de Besòs",
+    "city": "Sant Adrià de Besòs",
+    "zip_code": "08930",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "419724": {
+    "url": "https://www.yelp.com/biz/jerez-de-los-caballeros-barcelona?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-nHQY6hkMLsfUGWsl5oEjg/o.jpg",
+    "name": "Jerez de los Caballeros",
+    "alias": "jerez-de-los-caballeros-barcelona",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Tapas Bars, ",
+    "rating": 5.0,
+    "price": "€",
+    "address": "Calle Goya 3",
+    "city_from_postal": "Sant Adrià de Besòs",
+    "city": "Barcelona",
+    "zip_code": "08930",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34933812791",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.rome2rio.com/s/Barcelona/Jerez-de-los-Caballeros",
+        "snippet": "The cheapest way to get from Barcelona to Jerez de los Caballeros costs only 72€, and the quickest way takes just 5½ hours. Find the travel option that best suits you.",
+        "title": "Barcelona to Jerez de los Caballeros - 6 ways to travel ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.rome2rio.com/s/Barcelona-Airport-BCN/Jerez-de-los-Caballeros",
+        "snippet": "The cheapest way to get from Barcelona Airport (BCN) to Jerez de los Caballeros costs only 80€, and the quickest way takes just 4 hours. Find the travel option that best suits you.",
+        "title": "Barcelona Airport (BCN) to Jerez de los Caballeros - 6 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.spain.info/en/que-quieres/ciudades-pueblos/otros-destinos/jerez_de_los_caballeros.html",
+        "snippet": "Jerez de los Caballeros tourism. Information about Jerez de los Caballeros Spain. Cities and towns of Badajoz, Extremadura.Things to do in Jerez de los Caballeros, places to visit, what to see in Jerez de los Caballeros. Maps, tourist office, regions, tours.",
+        "title": "Jerez de los Caballeros. Badajoz. What to visit | spain ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=MRBR772f-lw",
+        "snippet": "jerez de los caballeros en badajoz debe su nombre a los caballeros templarios que en 1230 a peticiÓn del rey alfonso ix de leÓn de alojaron en esta ciudad para favorecer la reconquista a los ...",
+        "title": "JEREZ DE LOS CABALLEROS - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/jerez-de-los-caballeros-barcelona",
+        "snippet": "Jerez de los Caballeros in Barcelona, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Barcelona and beyond.",
+        "title": "Jerez de los Caballeros - Barcelona, Spain - Yelp",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://emisora.org.es/jerez-badajoz/",
+        "snippet": "Radio que representa un punto de información oficial para los ciudadanos del municipio de Jerez de los Caballeros, España, y para todos aquellos interesados en su historia y cultura. También se ofrecen interesantes cortes de actualidad y música.",
+        "title": "Radio Jerez De Los Caballeros En Badajoz | Emisora.org.es",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.busbud.com/en-gb/bus-barcelona-jerez-de-los-caballeros/r/sp3e3n-eyg1yp",
+        "snippet": "Busbud shows you the best bus ticket fares and bus schedules so you can easily plan and book a trip by bus from Barcelona to Jerez de los Caballeros. Bus service from Barcelona to Jerez de los Caballeros will be provided by the most trusted bus companies.",
+        "title": "Bus Barcelona - Jerez de los Caballeros | Book on Busbud",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.calcularruta.com/de-barcelona-a-jerez-de-los-caballeros.html",
+        "snippet": "Ruta por carretera más corta desde Barcelona a Jerez de los Caballeros, la distancia es de 1070 Km y la duración aproximada del viaje de 9h 53 min.Revisa rutas alternativas y planifica cómo llegar desde Barcelona, España hasta 06380 Jerez de los Caballeros, Badajoz, España en coche por el itinerario más óptimo, trayectos sin peajes, incidencias del tráfico, puntos negros, áreas de ...",
+        "title": "Como llegar de Barcelona a Jerez de los Caballeros ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g1064021-d8119470-Reviews-Jerez_De_Los_Caballeros-Sant_Adria_de_Besos_Catalonia.html",
+        "snippet": "Jerez De Los Caballeros, Sant Adria de Besos: Se 41 objektive anmeldelser av Jerez De Los Caballeros, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 12 av 53 restauranter i Sant Adria de Besos.",
+        "title": "Jerez De Los Caballeros, Sant Adria de Besos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.distanciaentre.org/distancia-barcelona-jerez-de-los-caballeros/1563",
+        "snippet": "Calcule la distancia kilométrica entre Barcelona y Jerez-de-los-Caballeros o la Ruta a la inversa Kilometros que hay entre Jerez-de-los-Caballeros y Barcelona, con detalle de la Ruta a seguir por carretera, y la distancia entre dos puntos en Jerez-de-los-Caballeros que usted seleccione.El mapa le muestra como Ir desde Barcelona hasta Jerez-de-los-Caballeros y las rutas alternativas por ...",
+        "title": "DISTANCIA Barcelona ? Jerez-de-los-Caballeros ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "489497": {
+    "url": "https://www.yelp.com/biz/anduri%C3%B1as-sant-adrian-del-besos?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8_ZKzJM-hPR4p-pPaFRtuA/o.jpg",
+    "name": "Anduriñas",
+    "alias": "anduriñas-sant-adrian-del-besos",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Galician, ",
+    "rating": 4.0,
+    "price": "€",
+    "address": "Carrer Santa Caterina, 20",
+    "city_from_postal": "Sant Adrià de Besòs",
+    "city": "Sant Adrian Del Besos",
+    "zip_code": "08930",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34933817681",
+    "review_count": 1,
+    "snippets": []
+  },
+  "695377": {
+    "url": "https://www.yelp.com/biz/la-barca-d-adria-sant-adri%C3%A0-de-bes%C3%B2s?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CxB-2ZdVu1FRLHWy6f4-Tw/o.jpg",
+    "name": "La Barca d'Adria",
+    "alias": "la-barca-d-adria-sant-adrià-de-besòs",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Barbeque, ",
+    "rating": 2.5,
+    "price": "€€",
+    "address": "Carrer de la Pau",
+    "city_from_postal": "Sant Adrià de Besòs",
+    "city": "Sant Adrià de Besòs",
+    "zip_code": "08930",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34933563085",
+    "review_count": 3,
+    "snippets": []
+  }
+}

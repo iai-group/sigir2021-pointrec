@@ -1,0 +1,21 @@
+{
+  "245121": {
+    "url": "https://www.yelp.com/biz/restaurant-h%C3%B6fli-pub-degersheim?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Höfli-Pub",
+    "alias": "restaurant-höfli-pub-degersheim",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food, Hotels & Travel, Restaurants, Bars, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Bahnhofstrasse 8",
+    "city_from_postal": "Degersheim",
+    "city": "Degersheim",
+    "zip_code": "9113",
+    "country_code": "CH",
+    "state_code": "SG",
+    "phone": "+41713712858",
+    "review_count": 2,
+    "snippets": []
+  }
+}

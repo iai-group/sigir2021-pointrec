@@ -1,0 +1,21 @@
+{
+  "93748": {
+    "url": "https://www.yelp.com/biz/playa-agua-blanca-puerto-escondido?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Playa Agua Blanca",
+    "alias": "playa-agua-blanca-puerto-escondido",
+    "main_category": "Active Life",
+    "sub_categories": "Beaches, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "km 172 de la crretera 200",
+    "city_from_postal": "Puerto Escondido",
+    "city": "Puerto Escondido",
+    "zip_code": "71983",
+    "country_code": "MX",
+    "state_code": "OAX",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

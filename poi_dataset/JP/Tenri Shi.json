@@ -1,0 +1,21 @@
+{
+  "96453": {
+    "url": "https://www.yelp.com/biz/%E7%B1%B3%E5%B1%8B%E3%81%AE%E7%BE%8A%E7%BE%B9%E5%A4%A7%E8%A5%BF-%E5%A4%A9%E7%90%86%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "米屋の羊羹大西",
+    "alias": "米屋の羊羹大西-天理市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Rice, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "川原城町247",
+    "city_from_postal": "Tenri Shi",
+    "city": "Tenri",
+    "zip_code": "632-0016",
+    "country_code": "JP",
+    "state_code": "29",
+    "phone": "+81743638515",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "554431": {
+    "url": "https://www.yelp.com/biz/restaurant-de-zon-ommen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant De Zon",
+    "alias": "restaurant-de-zon-ommen",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, Cafes, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Voorbrug 1",
+    "city_from_postal": "Ommen",
+    "city": "Ommen",
+    "zip_code": "7731 BB",
+    "country_code": "NL",
+    "state_code": "OV",
+    "phone": "+31529455550",
+    "review_count": 1,
+    "snippets": []
+  }
+}

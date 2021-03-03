@@ -1,0 +1,21 @@
+{
+  "299264": {
+    "url": "https://www.yelp.com/biz/reeds-canoe-trips-kankakee-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oi0csVCA2XICIww7r5oc1A/o.jpg",
+    "name": "Reeds Canoe Trips",
+    "alias": "reeds-canoe-trips-kankakee-2",
+    "main_category": "Active Life",
+    "sub_categories": "Rafting/Kayaking, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "907 N Indiana Ave",
+    "city_from_postal": "Kankakee",
+    "city": "Kankakee",
+    "zip_code": "60901",
+    "country_code": "US",
+    "state_code": "IL",
+    "phone": "+18159322663",
+    "review_count": 6,
+    "snippets": []
+  }
+}

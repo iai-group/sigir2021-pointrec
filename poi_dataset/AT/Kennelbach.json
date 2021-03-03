@@ -1,0 +1,21 @@
+{
+  "525878": {
+    "url": "https://www.yelp.com/biz/willi-feuerstein-kennelbach?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ihExYo791Pif_GpmboNr4g/o.jpg",
+    "name": "Willi Feuerstein",
+    "alias": "willi-feuerstein-kennelbach",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Kirchstr. 11",
+    "city_from_postal": "Kennelbach",
+    "city": "Kennelbach",
+    "zip_code": "6921",
+    "country_code": "AT",
+    "state_code": "8",
+    "phone": "+43557471373",
+    "review_count": 1,
+    "snippets": []
+  }
+}

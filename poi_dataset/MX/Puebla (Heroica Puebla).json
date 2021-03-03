@@ -1,0 +1,21 @@
+{
+  "6300": {
+    "url": "https://www.yelp.com/biz/tacos-gorditas-y-quesadillas-puebla?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/o0V_01RK4hxgmsuGu9qAqA/o.jpg",
+    "name": "Tacos, Gorditas y Quesadillas",
+    "alias": "tacos-gorditas-y-quesadillas-puebla",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Street Vendors, ",
+    "rating": 4.0,
+    "price": "$",
+    "address": "25 sur s/n y 5 poniente",
+    "city_from_postal": "Puebla (Heroica Puebla)",
+    "city": "Puebla",
+    "zip_code": "72090",
+    "country_code": "MX",
+    "state_code": "PUE",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

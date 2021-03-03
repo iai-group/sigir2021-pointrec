@@ -1,0 +1,21 @@
+{
+  "178996": {
+    "url": "https://www.yelp.com/biz/restaurant-il-gabbiano-urdorf?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7m9vFj7GzrgGHi0NJu_Hdw/o.jpg",
+    "name": "Restaurant Il Gabbiano",
+    "alias": "restaurant-il-gabbiano-urdorf",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food Delivery Services, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "Bergstrasse 34",
+    "city_from_postal": "Urdorf",
+    "city": "Urdorf",
+    "zip_code": "8902",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41447340124",
+    "review_count": 4,
+    "snippets": []
+  }
+}

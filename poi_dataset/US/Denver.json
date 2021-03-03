@@ -1,0 +1,40 @@
+{
+  "97590": {
+    "url": "https://www.yelp.com/biz/wolverine-weightlifting-denver?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sk3I8Uz0hxNTZwaQKK0z-g/o.jpg",
+    "name": "Wolverine Weightlifting",
+    "alias": "wolverine-weightlifting-denver",
+    "main_category": "Active Life",
+    "sub_categories": "Trainers, Gyms, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "1516 Emerson St",
+    "city_from_postal": "Denver",
+    "city": "Denver",
+    "zip_code": "80218",
+    "country_code": "US",
+    "state_code": "CO",
+    "phone": "+14128747804",
+    "review_count": 4,
+    "snippets": []
+  },
+  "150191": {
+    "url": "https://www.yelp.com/biz/aurelius-athletics-denver?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dGOTQtmE4zX7OmSw-sicfw/o.jpg",
+    "name": "Aurelius Athletics",
+    "alias": "aurelius-athletics-denver",
+    "main_category": "Active Life",
+    "sub_categories": "Life Coach, Trainers, Nutritionists, ",
+    "rating": 5.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Denver",
+    "city": "Denver",
+    "zip_code": "80212",
+    "country_code": "US",
+    "state_code": "CO",
+    "phone": "+13035792340",
+    "review_count": 6,
+    "snippets": []
+  }
+}

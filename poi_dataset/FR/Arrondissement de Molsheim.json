@@ -1,0 +1,40 @@
+{
+  "493566": {
+    "url": "https://www.yelp.com/biz/auberge-de-la-ligne-maginot-hunspach?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Auberge De La Ligne Maginot",
+    "alias": "auberge-de-la-ligne-maginot-hunspach",
+    "main_category": "Public Services & Government",
+    "sub_categories": "",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "4 rue du Commandant Reynier",
+    "city_from_postal": "Arrondissement de Molsheim",
+    "city": "Hunspach",
+    "zip_code": "67280",
+    "country_code": "FR",
+    "state_code": "67",
+    "phone": "+33388804232",
+    "review_count": 2,
+    "snippets": []
+  },
+  "696454": {
+    "url": "https://www.yelp.com/biz/champ-du-feu-belmont?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Champ du Feu",
+    "alias": "champ-du-feu-belmont",
+    "main_category": "Active Life",
+    "sub_categories": "Parks, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Champ du feu",
+    "city_from_postal": "Arrondissement de Molsheim",
+    "city": "Belmont",
+    "zip_code": "67130",
+    "country_code": "FR",
+    "state_code": "67",
+    "phone": "+33388973014",
+    "review_count": 1,
+    "snippets": []
+  }
+}

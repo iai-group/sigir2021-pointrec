@@ -1,0 +1,21 @@
+{
+  "68347": {
+    "url": "https://www.yelp.com/biz/schloss-wolkersdorf-wolkersdorf-im-weinviertel?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aitcUmLKZ14GESyOB0q7Wg/o.jpg",
+    "name": "Schloss Wolkersdorf",
+    "alias": "schloss-wolkersdorf-wolkersdorf-im-weinviertel",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Performing Arts, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Schloss Wolkersdorf",
+    "city_from_postal": "Wolkersdorf im Weinviertel",
+    "city": "Wolkersdorf im Weinviertel",
+    "zip_code": "2120",
+    "country_code": "AT",
+    "state_code": "3",
+    "phone": "+436643259281",
+    "review_count": 2,
+    "snippets": []
+  }
+}

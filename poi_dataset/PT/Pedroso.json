@@ -1,0 +1,40 @@
+{
+  "75230": {
+    "url": "https://www.yelp.com/biz/restaurante-ta%C3%ADnha-vila-nova-de-gaia?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurante Taínha",
+    "alias": "restaurante-taínha-vila-nova-de-gaia",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Av. Dr. Moreira de Sousa, 3472",
+    "city_from_postal": "Pedroso",
+    "city": "Vila Nova de Gaia",
+    "zip_code": "4415-382",
+    "country_code": "PT",
+    "state_code": "13",
+    "phone": "+351227470910",
+    "review_count": 1,
+    "snippets": []
+  },
+  "614157": {
+    "url": "https://www.yelp.com/biz/restaurante-mario-luso-vila-nova-de-gaia?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vR4fy39Z7UP5U5d3xqo4rQ/o.jpg",
+    "name": "Restaurante Mario Luso",
+    "alias": "restaurante-mario-luso-vila-nova-de-gaia",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "L. França Borges, 308",
+    "city_from_postal": "Pedroso",
+    "city": "Vila Nova de Gaia",
+    "zip_code": "4415-240",
+    "country_code": "PT",
+    "state_code": "13",
+    "phone": "+351227842111",
+    "review_count": 2,
+    "snippets": []
+  }
+}

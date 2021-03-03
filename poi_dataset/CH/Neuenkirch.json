@@ -1,0 +1,21 @@
+{
+  "679383": {
+    "url": "https://www.yelp.com/biz/gasthaus-sempacherhof-sempach-station?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Gasthaus Sempacherhof",
+    "alias": "gasthaus-sempacherhof-sempach-station",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 3.0,
+    "price": "$$$$",
+    "address": "Bahnhofstrasse 13",
+    "city_from_postal": "Neuenkirch",
+    "city": "Sempach Station",
+    "zip_code": "6203",
+    "country_code": "CH",
+    "state_code": "LU",
+    "phone": "+41414697010",
+    "review_count": 1,
+    "snippets": []
+  }
+}

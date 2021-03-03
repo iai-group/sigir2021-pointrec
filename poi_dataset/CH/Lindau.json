@@ -1,0 +1,21 @@
+{
+  "90700": {
+    "url": "https://www.yelp.com/biz/fitnesscenter-body-fit-tagelswangen-3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JLj4zd4MECxJNgpnVvE4Hw/o.jpg",
+    "name": "Fitnesscenter Body Fit",
+    "alias": "fitnesscenter-body-fit-tagelswangen-3",
+    "main_category": "Active Life",
+    "sub_categories": "Gyms, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Lindauerstrasse 15",
+    "city_from_postal": "Lindau",
+    "city": "Tagelswangen",
+    "zip_code": "8317",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41523436677",
+    "review_count": 1,
+    "snippets": []
+  }
+}

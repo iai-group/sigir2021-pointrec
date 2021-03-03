@@ -1,0 +1,21 @@
+{
+  "658070": {
+    "url": "https://www.yelp.com/biz/pizza-hut-pecos-9?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EfcB-M1BbPeO_O31BqXg-w/o.jpg",
+    "name": "Pizza Hut",
+    "alias": "pizza-hut-pecos-9",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, Chicken Wings, ",
+    "rating": 1.5,
+    "price": "$",
+    "address": "524 S Cedar St",
+    "city_from_postal": "Reeves",
+    "city": "Pecos",
+    "zip_code": "79772",
+    "country_code": "US",
+    "state_code": "TX",
+    "phone": "+14324452929",
+    "review_count": 26,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "68647": {
+    "url": "https://www.yelp.com/biz/pauls-restaurant-widnau?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pNM5bau0JQ0zVFRqMf7fJw/o.jpg",
+    "name": "Paul's Restaurant",
+    "alias": "pauls-restaurant-widnau",
+    "main_category": "Nightlife",
+    "sub_categories": "Wine Bars, Swiss Food, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Parkstrasse 1",
+    "city_from_postal": "Widnau",
+    "city": "Widnau",
+    "zip_code": "9443",
+    "country_code": "CH",
+    "state_code": "SG",
+    "phone": "+41715995959",
+    "review_count": 2,
+    "snippets": []
+  },
+  "377680": {
+    "url": "https://www.yelp.com/biz/restaurant-habsburg-widnau?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Akpamkcm64qke4YsgxMVCQ/o.jpg",
+    "name": "Restaurant Habsburg",
+    "alias": "restaurant-habsburg-widnau",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, Bars, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "Rheinstrasse 70",
+    "city_from_postal": "Widnau",
+    "city": "Widnau",
+    "zip_code": "9443",
+    "country_code": "CH",
+    "state_code": "SG",
+    "phone": "+41717222156",
+    "review_count": 3,
+    "snippets": []
+  }
+}

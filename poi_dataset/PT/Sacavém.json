@@ -1,0 +1,158 @@
+{
+  "267249": {
+    "url": "https://www.yelp.com/biz/portela-cafes-portela?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-0SChm-Mh2IuUiSn5qPf6g/o.jpg",
+    "name": "Portela Cafes",
+    "alias": "portela-cafes-portela",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, ",
+    "rating": 4.0,
+    "price": "€€€",
+    "address": "Centro Comercial da Portela",
+    "city_from_postal": "Sacavém",
+    "city": "Portela",
+    "zip_code": "2685-000",
+    "country_code": "PT",
+    "state_code": "20",
+    "phone": "+351219458100",
+    "review_count": 1,
+    "snippets": []
+  },
+  "346883": {
+    "url": "https://www.yelp.com/biz/a-torradinha-sacav%C3%A9m?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vjkMeGh_LiX_NSUsNnHnRw/o.jpg",
+    "name": "A Torradinha",
+    "alias": "a-torradinha-sacavém",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Patisserie/Cake Shop, Bakeries, ",
+    "rating": 5.0,
+    "price": "€",
+    "address": "R. Sport Grupo Sacavenense, Lt 26",
+    "city_from_postal": "Sacavém",
+    "city": "Sacavém",
+    "zip_code": "2685-010",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219419219",
+    "review_count": 1,
+    "snippets": []
+  },
+  "532733": {
+    "url": "https://www.yelp.com/biz/indian-gourmet-lisboa?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZCbXJnaHt40foYb2UmfmgA/o.jpg",
+    "name": "Indian Gourmet",
+    "alias": "indian-gourmet-lisboa",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Indian, Pakistani, Vegetarian, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Alameda dos Oceanos, Lote 1.07.1 AG, Edificio Mar do Orie",
+    "city_from_postal": "Sacavém",
+    "city": "Lisbon",
+    "zip_code": "2685-000",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351920209249",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g189158-d3842754-i65708108-Indian_Gourmet-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Indian Gourmet, Lisbon Picture: Restaurant - The Space - Check out TripAdvisor members&#39; 51,645 candid photos and videos of Indian Gourmet",
+        "title": "Restaurant - The Space - Picture of Indian Gourmet, Lisbon ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/LocationPhotoDirectLink-g189158-d3842754-i65708108-Indian_Gourmet-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Indian Gourmet, Lisbon Picture: Restaurant - The Space - Check out TripAdvisor members&#39; 50,503 candid photos and videos.",
+        "title": "Restaurant - The Space - Picture of Indian Gourmet, Lisbon ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189158-d2285993-Reviews-Restaurante_India_Gate-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Reserve a table at Restaurante India Gate, Lisbon on Tripadvisor: See 889 unbiased reviews of Restaurante India Gate, rated 4.5 of 5 on Tripadvisor and ranked #186 of 5,020 restaurants in Lisbon.",
+        "title": "Restaurante India Gate, Lisbon - Baixa, Rossio ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pages/Indian-Gourmet/434453559903475",
+        "snippet": "Indian Gourmet, Lisbon, Portugal. 12 likes · 22 were here. Vegetarian/Vegan Restaurant",
+        "title": "Indian Gourmet - Lisbon, Portugal - Vegetarian/Vegan ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.ca/biz/indian-gourmet-lisboa",
+        "snippet": "Indian Gourmet in Lisbon, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Lisbon and beyond. Indian Gourmet - Indian - Alameda dos Oceanos, Lote 1.07.1 AG, Edificio Mar do Orie, Lisbon, Portugal - Restaurant Reviews - Phone Number - Yelp",
+        "title": "Indian Gourmet - Indian - Alameda dos Oceanos, Lote 1.07.1 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurants-g189158-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Best Dining in Lisbon, Lisbon District: See 783,889 Tripadvisor traveler reviews of 5,261 Lisbon restaurants and search by cuisine, price, location, and more.",
+        "title": "THE 10 BEST Restaurants in Lisbon - Updated April 2020 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.costadomalabar.com/menu/",
+        "snippet": "We provide exclusive collection of vegetarian &amp; Non vegetarian dishes in our menu giving the brand of an authentic Indian cuisine. Skip to content Costa Do Malabar | First and Unique South Indian Restaurant in Lisbon",
+        "title": "South Indian Food | Indian Restaurant Lisbon",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189158-d12460087-Reviews-Beco_Cabaret_Gourmet-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Beco Cabaret Gourmet, Lisbon: See 133 unbiased reviews of Beco Cabaret Gourmet, rated 4.5 of 5 on Tripadvisor and ranked #586 of 5,024 restaurants in Lisbon.",
+        "title": "Beco Cabaret Gourmet, Lisbon - Chiado &amp; Carmo - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189158-d2188859-Reviews-Casa_da_India-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Casa da India, Lisbon: See 1,596 unbiased reviews of Casa da India, rated 4 of 5 on Tripadvisor and ranked #658 of 5,026 restaurants in Lisbon.",
+        "title": "Casa da India, Lisbon - Bairro Alto, Bica &amp; Cais do Sodre ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g303374-d11915547-Reviews-Indian_Gourmet-Belo_Horizonte_State_of_Minas_Gerais.html",
+        "snippet": "Indian Gourmet, Belo Horizonte: Se 144 objektive anmeldelser av Indian Gourmet, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 23 av 8 655 restauranter i Belo Horizonte.",
+        "title": "Indian Gourmet, Belo Horizonte - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "629601": {
+    "url": "https://www.yelp.com/biz/clube-tejo-loures?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Clube Tejo",
+    "alias": "clube-tejo-loures",
+    "main_category": "Active Life",
+    "sub_categories": "Vocational & Technical School, Summer Camps, Tennis, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Pça. dos Desportos, Clube Tejo",
+    "city_from_postal": "Sacavém",
+    "city": "Loures",
+    "zip_code": "2685-023",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "",
+    "review_count": 2,
+    "snippets": []
+  },
+  "686588": {
+    "url": "https://www.yelp.com/biz/little-nepal-sacav%C3%A9m?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1IJeStQA2Y6IUutytVautQ/o.jpg",
+    "name": "Little Nepal",
+    "alias": "little-nepal-sacavém",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Indian, Himalayan/Nepalese, ",
+    "rating": 5.0,
+    "price": "€€",
+    "address": "R. Estado da Índia, 59",
+    "city_from_postal": "Sacavém",
+    "city": "Sacavém",
+    "zip_code": "2685-147",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351960388754",
+    "review_count": 2,
+    "snippets": []
+  }
+}

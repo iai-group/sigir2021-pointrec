@@ -1,0 +1,21 @@
+{
+  "467975": {
+    "url": "https://www.yelp.com/biz/%E3%83%8A%E3%83%AF%E3%83%96%E3%83%8F%E3%83%A9%E3%83%AB-%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3-%E4%B8%89%E6%9C%A8%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iimJMG4RnX4BihQFstZX0w/o.jpg",
+    "name": "Nawab Halal Restaurant",
+    "alias": "ナワブハラル-レストラン-三木市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pakistani, Pan Asian, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "別所町花尻1-56",
+    "city_from_postal": "Miki Shi",
+    "city": "Miki",
+    "zip_code": "673-0446",
+    "country_code": "JP",
+    "state_code": "28",
+    "phone": "+81794606890",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "82278": {
+    "url": "https://www.yelp.com/biz/tropenhaus-wolhusen-wolhusen-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MoYGBRu69zK6CTiFrrFltQ/o.jpg",
+    "name": "Tropenhaus Wolhusen",
+    "alias": "tropenhaus-wolhusen-wolhusen-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, ",
+    "rating": 2.0,
+    "price": "$$",
+    "address": "Hiltenberg",
+    "city_from_postal": "Wolhusen",
+    "city": "Wolhusen",
+    "zip_code": "6110",
+    "country_code": "CH",
+    "state_code": "LU",
+    "phone": "+41419257799",
+    "review_count": 1,
+    "snippets": []
+  },
+  "471923": {
+    "url": "https://www.yelp.com/biz/stern-pizza-kurier-wolhusen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ylPvMkSRQ_TvJPB__HBYiQ/o.jpg",
+    "name": "Stern Pizza Kurier",
+    "alias": "stern-pizza-kurier-wolhusen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food Delivery Services, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Entlebucherstrasse 6",
+    "city_from_postal": "Wolhusen",
+    "city": "Wolhusen",
+    "zip_code": "6110",
+    "country_code": "CH",
+    "state_code": "LU",
+    "phone": "+41414901000",
+    "review_count": 1,
+    "snippets": []
+  }
+}

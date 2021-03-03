@@ -1,0 +1,21 @@
+{
+  "132461": {
+    "url": "https://www.yelp.com/biz/duet-trzci%C5%84sko-zdr%C3%B3j?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/M9m60_kA1e9QA4n6QVJg-g/o.jpg",
+    "name": "Duet",
+    "alias": "duet-trzcińsko-zdrój",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Polish, Pubs, ",
+    "rating": 4.0,
+    "price": "$",
+    "address": "ul. Kościuszki 2",
+    "city_from_postal": "Gmina Trzcińsko-Zdrój",
+    "city": "Trzcińsko-Zdrój",
+    "zip_code": "74-510",
+    "country_code": "PL",
+    "state_code": "DS",
+    "phone": "+48602314586",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "262203": {
+    "url": "https://www.yelp.com/biz/metaphysical-psychic-therapist-houston?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OmZFmSKQ8F-BchKyJCkcFg/o.jpg",
+    "name": "Metaphysical Psychic Therapist",
+    "alias": "metaphysical-psychic-therapist-houston",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Psychics, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "2211 Ella Blvd",
+    "city_from_postal": "Harris",
+    "city": "Houston",
+    "zip_code": "77008",
+    "country_code": "US",
+    "state_code": "TX",
+    "phone": "+13462859220",
+    "review_count": 3,
+    "snippets": []
+  },
+  "496906": {
+    "url": "https://www.yelp.com/biz/starr-fit-club-houston?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TGibf2ExRhYrFg2cV6y_jQ/o.jpg",
+    "name": "Starr Fit Club",
+    "alias": "starr-fit-club-houston",
+    "main_category": "Active Life",
+    "sub_categories": "Trainers, Massage Therapy, Nutritionists, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "8900 Chimney Rock Rd",
+    "city_from_postal": "Harris",
+    "city": "Houston",
+    "zip_code": "77096",
+    "country_code": "US",
+    "state_code": "TX",
+    "phone": "+13237873157",
+    "review_count": 10,
+    "snippets": []
+  }
+}

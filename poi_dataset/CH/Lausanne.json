@@ -1,0 +1,21 @@
+{
+  "199573": {
+    "url": "https://www.yelp.com/biz/carrousel-burger-lausanne?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Carrousel Burger",
+    "alias": "carrousel-burger-lausanne",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Water Front Park",
+    "city_from_postal": "Lausanne",
+    "city": "Lausanne",
+    "zip_code": "1006",
+    "country_code": "CH",
+    "state_code": "VD",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "152724": {
+    "url": "https://www.yelp.com/biz/erlebnispark-stra%C3%9Fwalchen-stra%C3%9Fwalchen-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qCWguStRplk8X5KcQvjw6w/o.jpg",
+    "name": "Erlebnispark Straßwalchen",
+    "alias": "erlebnispark-straßwalchen-straßwalchen-2",
+    "main_category": "Active Life",
+    "sub_categories": "Active Life, ",
+    "rating": 2.5,
+    "price": null,
+    "address": "Märchenweg 1",
+    "city_from_postal": "Straßwalchen",
+    "city": "Straßwalchen",
+    "zip_code": "5204",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+4362158181",
+    "review_count": 4,
+    "snippets": []
+  }
+}

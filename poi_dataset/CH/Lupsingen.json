@@ -1,0 +1,21 @@
+{
+  "173418": {
+    "url": "https://www.yelp.com/biz/restaurant-r%C3%B6ssli-lupsingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ulQShq8NGDVu94m8QYXTcA/o.jpg",
+    "name": "Restaurant Rössli",
+    "alias": "restaurant-rössli-lupsingen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Liestalerstrasse 13",
+    "city_from_postal": "Lupsingen",
+    "city": "Lupsingen",
+    "zip_code": "4419",
+    "country_code": "CH",
+    "state_code": "BL",
+    "phone": "+41763034917",
+    "review_count": 1,
+    "snippets": []
+  }
+}

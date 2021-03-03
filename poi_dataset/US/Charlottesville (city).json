@@ -1,0 +1,21 @@
+{
+  "294827": {
+    "url": "https://www.yelp.com/biz/cake-bloom-charlottesville-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/akYi2AEuFt0hnL4o_VnCLw/o.jpg",
+    "name": "Cake Bloom",
+    "alias": "cake-bloom-charlottesville-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Custom Cakes, ",
+    "rating": 5.0,
+    "price": "$$$",
+    "address": "",
+    "city_from_postal": "Charlottesville (city)",
+    "city": "CHARLOTTESVILLE",
+    "zip_code": "22903",
+    "country_code": "US",
+    "state_code": "VA",
+    "phone": "+14343943937",
+    "review_count": 30,
+    "snippets": []
+  }
+}

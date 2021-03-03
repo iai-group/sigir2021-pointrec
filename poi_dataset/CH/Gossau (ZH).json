@@ -1,0 +1,21 @@
+{
+  "341890": {
+    "url": "https://www.yelp.com/biz/werkstatt-6-gossau?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Werkstatt 6",
+    "alias": "werkstatt-6-gossau",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Diners, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Mönchaltorferstrasse 6",
+    "city_from_postal": "Gossau (ZH)",
+    "city": "Gossau",
+    "zip_code": "8625",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41439280601",
+    "review_count": 2,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "183101": {
+    "url": "https://www.yelp.com/biz/kittatinny-canoes-barryville-5?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OsrPmQdHozaPfzKnNQwUaw/o.jpg",
+    "name": "Kittatinny Canoes",
+    "alias": "kittatinny-canoes-barryville-5",
+    "main_category": "Active Life",
+    "sub_categories": "Campgrounds, Rafting/Kayaking, Tubing, ",
+    "rating": 2.5,
+    "price": null,
+    "address": "3854 State Route 97",
+    "city_from_postal": "Sullivan",
+    "city": "Barryville",
+    "zip_code": "12719",
+    "country_code": "US",
+    "state_code": "NY",
+    "phone": "+18003562852",
+    "review_count": 45,
+    "snippets": []
+  },
+  "666643": {
+    "url": "https://www.yelp.com/biz/reber-river-trips-barryville?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/beDv3syz5Avtlfx50xMSiA/o.jpg",
+    "name": "Reber River Trips",
+    "alias": "reber-river-trips-barryville",
+    "main_category": "Active Life",
+    "sub_categories": "Rafting/Kayaking, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "3351 Rt 97",
+    "city_from_postal": "Sullivan",
+    "city": "Barryville",
+    "zip_code": "12719",
+    "country_code": "US",
+    "state_code": "NY",
+    "phone": "+18455573332",
+    "review_count": 10,
+    "snippets": []
+  }
+}

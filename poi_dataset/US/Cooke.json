@@ -1,0 +1,21 @@
+{
+  "538477": {
+    "url": "https://www.yelp.com/biz/4r-ranch-vineyards-and-winery-muenster?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HzYTQAaX-nbulri0lRmmDQ/o.jpg",
+    "name": "4R Ranch Vineyards and Winery",
+    "alias": "4r-ranch-vineyards-and-winery-muenster",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Wine Tasting Room, Wine Tours, Venues & Event Spaces, ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": "1473 County Rd 477",
+    "city_from_postal": "Cooke",
+    "city": "Muenster",
+    "zip_code": "76252",
+    "country_code": "US",
+    "state_code": "TX",
+    "phone": "+19407363370",
+    "review_count": 21,
+    "snippets": []
+  }
+}

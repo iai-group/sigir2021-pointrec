@@ -1,0 +1,21 @@
+{
+  "358739": {
+    "url": "https://www.yelp.com/biz/s-wirtshaus-z-hofm%C3%BChle-ottensheim?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "s' Wirtshaus z Hofmühle",
+    "alias": "s-wirtshaus-z-hofmühle-ottensheim",
+    "main_category": "Active Life",
+    "sub_categories": "Tennis, Campgrounds, Hotels, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Höflein 20",
+    "city_from_postal": "Ottensheim",
+    "city": "Ottensheim",
+    "zip_code": "4100",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+43723485101",
+    "review_count": 1,
+    "snippets": []
+  }
+}

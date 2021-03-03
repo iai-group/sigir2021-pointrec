@@ -1,0 +1,21 @@
+{
+  "8954": {
+    "url": "https://www.yelp.com/biz/cedar-valley-sustainable-farm-ottawa?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Q9e78ZYWtNpKdPHcnFEbjg/o.jpg",
+    "name": "Cedar Valley Sustainable Farm",
+    "alias": "cedar-valley-sustainable-farm-ottawa",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food Delivery Services, ",
+    "rating": 5.0,
+    "price": "$$",
+    "address": "1985 N 3609th Rd",
+    "city_from_postal": "LaSalle",
+    "city": "Ottawa",
+    "zip_code": "61350",
+    "country_code": "US",
+    "state_code": "IL",
+    "phone": "+18154319544",
+    "review_count": 5,
+    "snippets": []
+  }
+}

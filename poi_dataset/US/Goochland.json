@@ -1,0 +1,101 @@
+{
+  "28686": {
+    "url": "https://www.yelp.com/biz/master-yis-taekwondo-and-martial-arts-manakin-sabot?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/azCq5f7EsWuTe7G5gxljIQ/o.jpg",
+    "name": "Master Yi's Taekwondo and Martial Arts",
+    "alias": "master-yis-taekwondo-and-martial-arts-manakin-sabot",
+    "main_category": "Active Life",
+    "sub_categories": "Taekwondo, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "54 Plaza Dr",
+    "city_from_postal": "Goochland",
+    "city": "Manakin-Sabot",
+    "zip_code": "23103",
+    "country_code": "US",
+    "state_code": "VA",
+    "phone": "+18049157033",
+    "review_count": 3,
+    "snippets": []
+  },
+  "218086": {
+    "url": "https://www.yelp.com/biz/summer-shack-richmond?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FD4WNr7938yGqD2C5DdMYg/o.jpg",
+    "name": "Summer Shack",
+    "alias": "summer-shack-richmond",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Seafood, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "12859 Broad St",
+    "city_from_postal": "Goochland",
+    "city": "Richmond",
+    "zip_code": "23103",
+    "country_code": "US",
+    "state_code": "VA",
+    "phone": "+18047844111",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.yelp.com/biz/summer-shack-richmond",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "www.yelp.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.richmondvapresents.com/restaurant-review-summer-shack-in-richmond-virginia/",
+        "snippet": "Restaurant Review – Summer Shack in Richmond, Virginia. Drive out Broad Street a ways (a long ways) and you will find The Summer Shack positioned jauntily on the lot. A small boat decorates the front. You walk in, and the decor is decidedly beach-themed.",
+        "title": "Restaurant Review – Summer Shack in Richmond, Virginia ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://friendseat.com/coupons/Richmond/Summer-Shack_6",
+        "snippet": "$5 off Summer Shack Coupons and online discounts in Richmond. Coupons for Summer Shack and it is a Seafood restaurant with a location at 12859 Broad Street Rd in Richmond, VA 23233.",
+        "title": "Summer Shack Coupons - 12859 Broad Street Rd Richmond, VA",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://foursquare.com/v/summer-shack/4baeb928f964a52055d23be3",
+        "snippet": "See 6 tips from 33 visitors to Summer Shack. &quot;PBR on draft, spicy tuna tacos and puppies &amp; tots - what more could you want!&quot;",
+        "title": "Summer Shack (Now Closed) - 12859 Broad Street Rd",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.mapquest.com/us/virginia/summer-shack-371333243",
+        "snippet": "Get directions, reviews and information for Summer Shack in Richmond, VA. Summer Shack 12859 Broad Street Rd Richmond VA 23233. 1 Reviews (804) 784-4111. Menu &amp; Reservations ... I really wanted to like Summer Shack, and finally stopped in on my way back from Charlottesville this weekend.",
+        "title": "Summer Shack 12859 Broad Street Rd Richmond, VA - MapQuest",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.summershackrestaurant.com/",
+        "snippet": "Summer Shack is acclaimed Chef Jasper White’s take on a traditional New England Clam Shack. Summer Shack pays tribute to tradition while adding energetic city flare. The raw bar case holds 2,000 pieces of fresh shellfish and our legendary oyster shucker has won countless shucking competitions in and around the city.",
+        "title": "Award-Winning Seafood Restaurant | Summer Shack",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.shakeshack.com/locations",
+        "snippet": "Modern day version of a roadside burger stand serving delicious burgers, chicken, hot dogs, shakes, frozen custard, beer, wine &amp; more.",
+        "title": "Locations - Shake Shack",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.richmondvapresents.com/restaurant-review-summer-shack-in-richmond-virginia/0113101210b/",
+        "snippet": "Richmond Businesses; 0113101210b. Published January 13, 2010 at 2048 × 1536 in Restaurant Review – Summer Shack in Richmond, Virginia. January 13, 2010 Lauren Hill, in . Leave a Reply Cancel reply. Your email address will not be published. Required fields are marked *",
+        "title": "0113101210b – RVA Presents - Richmond Presents",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.sugarshackdonuts.com/",
+        "snippet": "North Chesterfield, VA. Order Curbside Now! 1931 Huguenot Rd North Chesterfield, VA 23235 (804) 728-1932 Hours: 7 days a week 7am-8pm @rvadonuts",
+        "title": "Sugar Shack Donuts",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.driveshack.com/",
+        "snippet": "Drive Shack has perfected entertainment with a space centered around three-levels of interactive golf, drinks, food, games, and events. Drive Shack has perfected entertainment with a space centered around three-levels of interactive golf, drinks, food, games, and events.",
+        "title": "Drive Shack | Entertainment Destination | Games, Food, Drinks",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

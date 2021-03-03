@@ -1,0 +1,21 @@
+{
+  "250336": {
+    "url": "https://www.yelp.com/biz/el-barato-navalcarnero?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "El Barato",
+    "alias": "el-barato-navalcarnero",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Salumerie, Meat Shops, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Calle de la Constitución, 17",
+    "city_from_postal": "Navalcarnero",
+    "city": "Navalcarnero",
+    "zip_code": "28600",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34918110856",
+    "review_count": 1,
+    "snippets": []
+  }
+}

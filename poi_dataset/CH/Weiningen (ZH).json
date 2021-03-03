@@ -1,0 +1,40 @@
+{
+  "115426": {
+    "url": "https://www.yelp.com/biz/linde-weiningen-weiningen-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/O5StZ7HnlrKXWOp9MfZY_Q/o.jpg",
+    "name": "Linde Weiningen",
+    "alias": "linde-weiningen-weiningen-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Venues & Event Spaces, Swiss Food, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Badenerstrasse 2",
+    "city_from_postal": "Weiningen (ZH)",
+    "city": "Weiningen",
+    "zip_code": "8104",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41447501818",
+    "review_count": 1,
+    "snippets": []
+  },
+  "259028": {
+    "url": "https://www.yelp.com/biz/restaurant-winzerhaus-weiningen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oisLSj0LM8NBEsPIoW17Qw/o.jpg",
+    "name": "Restaurant Winzerhaus",
+    "alias": "restaurant-winzerhaus-weiningen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Barbeque, Steakhouses, Swiss Food, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Haslernstrasse 28",
+    "city_from_postal": "Weiningen (ZH)",
+    "city": "Weiningen",
+    "zip_code": "8104",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41447504066",
+    "review_count": 4,
+    "snippets": []
+  }
+}

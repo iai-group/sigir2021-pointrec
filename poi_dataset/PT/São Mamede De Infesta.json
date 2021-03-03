@@ -1,0 +1,40 @@
+{
+  "67773": {
+    "url": "https://www.yelp.com/biz/central-churrasco-matosinhos?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Z1p5oacrPWlrEAaIcKXGew/o.jpg",
+    "name": "Central Churrasco",
+    "alias": "central-churrasco-matosinhos",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 4.5,
+    "price": "€€",
+    "address": "Av. Marechal Gomes da Costa, 85",
+    "city_from_postal": "São Mamede De Infesta",
+    "city": "Matosinhos",
+    "zip_code": "4465-158",
+    "country_code": "PT",
+    "state_code": "13",
+    "phone": "+351229023930",
+    "review_count": 2,
+    "snippets": []
+  },
+  "592452": {
+    "url": "https://www.yelp.com/biz/restaurante-marques-da-avenida-matosinhos?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurante Marques da Avenida",
+    "alias": "restaurante-marques-da-avenida-matosinhos",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "Av. Conde, 6253",
+    "city_from_postal": "São Mamede De Infesta",
+    "city": "Matosinhos",
+    "zip_code": "4465-099",
+    "country_code": "PT",
+    "state_code": "13",
+    "phone": "+351229026767",
+    "review_count": 1,
+    "snippets": []
+  }
+}

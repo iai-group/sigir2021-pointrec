@@ -1,0 +1,21 @@
+{
+  "177070": {
+    "url": "https://www.yelp.com/biz/la-grieguita-jardines-del-valle?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IbTVtUFgsAAku0ppOodwbQ/o.jpg",
+    "name": "La Grieguita",
+    "alias": "la-grieguita-jardines-del-valle",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Greek, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Av. General Venustiano Carranza 292",
+    "city_from_postal": "Irapuato",
+    "city": "Jardines del Valle",
+    "zip_code": "36611",
+    "country_code": "MX",
+    "state_code": "BCN",
+    "phone": "+526865682220",
+    "review_count": 1,
+    "snippets": []
+  }
+}

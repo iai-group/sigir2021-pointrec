@@ -1,0 +1,21 @@
+{
+  "134900": {
+    "url": "https://www.yelp.com/biz/%E3%83%88%E3%83%9E%E3%83%88-%E3%82%AA%E3%83%8B%E3%82%AA%E3%83%B3-%E5%B3%B0%E5%B1%B1%E5%BA%97-%E4%BA%AC%E4%B8%B9%E5%BE%8C%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&ut",
+    "image_url": "",
+    "name": "Tomato & Onion Mineyama",
+    "alias": "トマト-オニオン-峰山店-京丹後市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Desserts, Salad, Soup, ",
+    "rating": 2.0,
+    "price": "￥￥",
+    "address": "峰山町新町1798",
+    "city_from_postal": "Kyotango Shi",
+    "city": "Kyōtango",
+    "zip_code": "627-0005",
+    "country_code": "JP",
+    "state_code": "26",
+    "phone": "+81772692188",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "460028": {
+    "url": "https://www.yelp.com/biz/%E5%BE%A1%E5%AE%BF%E6%B5%B7%E6%B0%B4%E6%B5%B4%E5%A0%B4-%E5%A4%B7%E9%9A%85%E9%83%A1?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iog35J4hABbOyf6EafjT7Q/o.jpg",
+    "name": "Onjuku Kaisuiyokujou",
+    "alias": "御宿海水浴場-夷隅郡",
+    "main_category": "Active Life",
+    "sub_categories": "Beaches, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "御宿町岩和田",
+    "city_from_postal": "Onjuku Machi",
+    "city": "夷隅郡",
+    "zip_code": "299-5105",
+    "country_code": "JP",
+    "state_code": "12",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "577597": {
+    "url": "https://www.yelp.com/biz/hallen-und-freibad-rheinau?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Hallen und Freibad",
+    "alias": "hallen-und-freibad-rheinau",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Arts & Entertainment, Public Services & Government, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Poststrasse",
+    "city_from_postal": "Rheinau",
+    "city": "Rheinau",
+    "zip_code": "8462",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41523192419",
+    "review_count": 1,
+    "snippets": []
+  }
+}

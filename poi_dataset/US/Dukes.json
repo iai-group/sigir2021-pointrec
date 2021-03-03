@@ -1,0 +1,21 @@
+{
+  "248391": {
+    "url": "https://www.yelp.com/biz/barts-cart-cuttyhunk?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2DkCNfQywApCj6Rc2wYxcA/o.jpg",
+    "name": "Bart's Cart",
+    "alias": "barts-cart-cuttyhunk",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food Stands, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "8479 Steller Dr",
+    "city_from_postal": "Dukes",
+    "city": "Cuttyhunk",
+    "zip_code": "02713",
+    "country_code": "US",
+    "state_code": "MA",
+    "phone": "+15084968050",
+    "review_count": 2,
+    "snippets": []
+  }
+}

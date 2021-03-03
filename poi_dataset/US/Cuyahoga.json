@@ -1,0 +1,40 @@
+{
+  "322864": {
+    "url": "https://www.yelp.com/biz/orangetheory-fitness-orange-orange-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/O9_ZFKe96aqhsg-Ju1PP2A/o.jpg",
+    "name": "Orangetheory Fitness Orange",
+    "alias": "orangetheory-fitness-orange-orange-2",
+    "main_category": "Active Life",
+    "sub_categories": "Gyms, Trainers, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "200 Park Avenue",
+    "city_from_postal": "Cuyahoga",
+    "city": "Orange",
+    "zip_code": "44122",
+    "country_code": "US",
+    "state_code": "OH",
+    "phone": "+12169304800",
+    "review_count": 1,
+    "snippets": []
+  },
+  "390989": {
+    "url": "https://www.yelp.com/biz/mojo-world-eats-and-drink-cleveland-heights?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cDpxuB2qnB-tzPUCMsw1Rw/o.jpg",
+    "name": "MOJO World Eats & Drink",
+    "alias": "mojo-world-eats-and-drink-cleveland-heights",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, Juice Bars & Smoothies, ",
+    "rating": 2.5,
+    "price": null,
+    "address": "2196 Lee Rd",
+    "city_from_postal": "Cuyahoga",
+    "city": "Cleveland Heights",
+    "zip_code": "44118",
+    "country_code": "US",
+    "state_code": "OH",
+    "phone": "+12169329000",
+    "review_count": 8,
+    "snippets": []
+  }
+}

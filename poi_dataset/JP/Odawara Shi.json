@@ -1,0 +1,21 @@
+{
+  "52322": {
+    "url": "https://www.yelp.com/biz/forest-adventure-odawara-%E5%B0%8F%E7%94%B0%E5%8E%9F%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yFG8Dz4wpddcCgRKj1KBWA/o.jpg",
+    "name": "FOREST ADVENTURE ODAWARA",
+    "alias": "forest-adventure-odawara-小田原市",
+    "main_category": "Active Life",
+    "sub_categories": "Ziplining, Kids Activities, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "久野4391",
+    "city_from_postal": "Odawara Shi",
+    "city": "Odawara",
+    "zip_code": "250-0055",
+    "country_code": "JP",
+    "state_code": "14",
+    "phone": "+818043304030",
+    "review_count": 2,
+    "snippets": []
+  }
+}

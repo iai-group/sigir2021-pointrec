@@ -1,0 +1,40 @@
+{
+  "28234": {
+    "url": "https://www.yelp.com/biz/rice-rice-baby-orangeville-3?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OhE8ywL-bOkF2YYAy0LBxA/o.jpg",
+    "name": "Rice Rice Baby",
+    "alias": "rice-rice-baby-orangeville-3",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Desserts, ",
+    "rating": 5.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Dufferin County",
+    "city": "Orangeville",
+    "zip_code": "L0N 1L0",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+14163022951",
+    "review_count": 2,
+    "snippets": []
+  },
+  "161915": {
+    "url": "https://www.yelp.com/biz/rawhide-adventures-honeywood?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/A-nEFmqTEju4mHTo-sIPHA/o.jpg",
+    "name": "Rawhide Adventures",
+    "alias": "rawhide-adventures-honeywood",
+    "main_category": "Active Life",
+    "sub_categories": "Horseback Riding, Horse Boarding, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "638135 Prince of Wales Road",
+    "city_from_postal": "Dufferin County",
+    "city": "Honeywood",
+    "zip_code": "L0N 1H0",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+15199250152",
+    "review_count": 1,
+    "snippets": []
+  }
+}

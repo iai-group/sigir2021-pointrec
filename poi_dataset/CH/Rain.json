@@ -1,0 +1,40 @@
+{
+  "49491": {
+    "url": "https://www.yelp.com/biz/restaurant-liebhaberei-rain?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Liebhaberei",
+    "alias": "restaurant-liebhaberei-rain",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": "Bueche",
+    "city_from_postal": "Rain",
+    "city": "Rain",
+    "zip_code": "6026",
+    "country_code": "CH",
+    "state_code": "LU",
+    "phone": "+41419110001",
+    "review_count": 2,
+    "snippets": []
+  },
+  "469393": {
+    "url": "https://www.yelp.com/biz/restaurant-tropical-rain?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Tropical",
+    "alias": "restaurant-tropical-rain",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Gääli 6",
+    "city_from_postal": "Rain",
+    "city": "Rain",
+    "zip_code": "6026",
+    "country_code": "CH",
+    "state_code": "LU",
+    "phone": "+41414590110",
+    "review_count": 1,
+    "snippets": []
+  }
+}

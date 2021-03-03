@@ -1,0 +1,21 @@
+{
+  "305836": {
+    "url": "https://www.yelp.com/biz/papieroase-eglisau?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jhI_ozMXbTpvbbnFFdnrew/o.jpg",
+    "name": "PapierOase",
+    "alias": "papieroase-eglisau",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Arts & Entertainment, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Kaiserhofstrasse 7",
+    "city_from_postal": "Eglisau",
+    "city": "Eglisau",
+    "zip_code": "8193",
+    "country_code": "CH",
+    "state_code": "SH",
+    "phone": "+41448866539",
+    "review_count": 1,
+    "snippets": []
+  }
+}

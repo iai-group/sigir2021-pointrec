@@ -1,0 +1,40 @@
+{
+  "71198": {
+    "url": "https://www.yelp.com/biz/restaurante-ao-ton-dela-oeiras?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurante Ao Ton Dela",
+    "alias": "restaurante-ao-ton-dela-oeiras",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Restaurants, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Av. Tomás Ribeiro, 58A",
+    "city_from_postal": "Linda A Velha",
+    "city": "Oeiras",
+    "zip_code": "2795-184",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351214190748",
+    "review_count": 2,
+    "snippets": []
+  },
+  "411341": {
+    "url": "https://www.yelp.com/biz/alma-lusa-linda-a-velha?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uzZ4RvIcb8vch7RjUTnUHQ/o.jpg",
+    "name": "Alma Lusa",
+    "alias": "alma-lusa-linda-a-velha",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Seafood, Portuguese, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "R. Irene Lisboa, 3",
+    "city_from_postal": "Linda A Velha",
+    "city": "Linda-a-Velha",
+    "zip_code": "2795-139",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351935704505",
+    "review_count": 2,
+    "snippets": []
+  }
+}

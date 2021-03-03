@@ -1,0 +1,21 @@
+{
+  "689327": {
+    "url": "https://www.yelp.com/biz/b%C3%A4ckerei-f%C3%BCger-steinach?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rR-fiFTXs86WCV1IDFy5bw/o.jpg",
+    "name": "Bäckerei Füger",
+    "alias": "bäckerei-füger-steinach",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, Swiss Food, Cafes, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Schulstrasse 2",
+    "city_from_postal": "Steinach",
+    "city": "Steinach",
+    "zip_code": "9323",
+    "country_code": "CH",
+    "state_code": "SG",
+    "phone": "+41715710477",
+    "review_count": 1,
+    "snippets": []
+  }
+}

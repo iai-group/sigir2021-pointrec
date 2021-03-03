@@ -1,0 +1,40 @@
+{
+  "81351": {
+    "url": "https://www.yelp.com/biz/museu-monogr%C3%A1fico-de-conimbriga-condeixa-a-nova?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wS8H9Gwq8pgYvEniRzxFkg/o.jpg",
+    "name": "Museu Monográfico de Conimbriga",
+    "alias": "museu-monográfico-de-conimbriga-condeixa-a-nova",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Conimbriga",
+    "city_from_postal": "Condeixa-A-Velha",
+    "city": "Condeixa-a-Nova",
+    "zip_code": "3150-220",
+    "country_code": "PT",
+    "state_code": "06",
+    "phone": "+351239941177",
+    "review_count": 2,
+    "snippets": []
+  },
+  "160255": {
+    "url": "https://www.yelp.com/biz/restaurante-museu-de-con%C3%ADmbriga-condeixa-a-nova?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LeyMdDx5jnKMMTDrrxeYQw/o.jpg",
+    "name": "Restaurante Museu de Conímbriga",
+    "alias": "restaurante-museu-de-conímbriga-condeixa-a-nova",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Ruinas de Conímbriga",
+    "city_from_postal": "Condeixa-A-Velha",
+    "city": "Condeixa-a-Nova",
+    "zip_code": "3150-220",
+    "country_code": "PT",
+    "state_code": "06",
+    "phone": "+351239948218",
+    "review_count": 1,
+    "snippets": []
+  }
+}

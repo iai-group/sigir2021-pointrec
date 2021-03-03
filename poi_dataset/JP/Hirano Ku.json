@@ -1,0 +1,1236 @@
+{
+  "65393": {
+    "url": "https://www.yelp.com/biz/%E8%91%89%E5%B1%B1%E7%8F%88%E7%90%B2-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Hayama coffee",
+    "alias": "葉山珈琲-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "平野区瓜破2丁目1-76",
+    "city_from_postal": "Hirano Ku",
+    "city": "Osaka",
+    "zip_code": "547-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667038824",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g1023474-d13128167-Reviews-Hayama_Coffee_Senriyama-Suita_Osaka_Prefecture_Kinki.html",
+        "snippet": "Hayama Coffee Senriyama, Suita: See 4 unbiased reviews of Hayama Coffee Senriyama, rated 4 of 5 on Tripadvisor and ranked #444 of 1,532 restaurants in Suita.",
+        "title": "Hayama Coffee Senriyama, Suita - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.hayama-coffee.co.jp/",
+        "snippet": "平成28年10月1日（土）関西初のカフェインレスカフェ 「HAYAMA COFFEE 鴻池新田店」がオープンします！！ オープニングセール開催します。 詳細はこちら 店舗情報はこちら; 2016/09/06",
+        "title": "コーヒー・FC（フランチャイズ）は葉山珈琲",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g1023536-d15086724-Reviews-Hayama_Coffee_Konoike_Shinden-Higashiosaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Hayama Coffee Konoike Shinden, Higashiosaka: See unbiased reviews of Hayama Coffee Konoike Shinden, one of 2,512 Higashiosaka restaurants listed on Tripadvisor.",
+        "title": "Hayama Coffee Konoike Shinden, Higashiosaka - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g1023508-d7673425-Reviews-Hayama_Coffee_Morrison_Hankyutakatsukishi_Ekimae-Takatsuki_Osaka_Prefecture_Kink.html",
+        "snippet": "Hayama Coffee Morrison Hankyutakatsukishi Ekimae, Takatsuki: See 6 unbiased reviews of Hayama Coffee Morrison Hankyutakatsukishi Ekimae, rated 3.5 of 5 on Tripadvisor and ranked #247 of 1,474 restaurants in Takatsuki.",
+        "title": "Hayama Coffee Morrison Hankyutakatsukishi Ekimae ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g298562-d7459460-Reviews-Hayama_Coffee_Rokko_Island-Kobe_Hyogo_Prefecture_Kinki.html",
+        "snippet": "Hayama Coffee Rokko Island, Kobe: Se 10 objektive anmeldelser av Hayama Coffee Rokko Island, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 1 395 av 12 377 restauranter i Kobe.",
+        "title": "Hayama Coffee Rokko Island, Kobe - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d15136835-Reviews-Hayama_Ryoriten-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Hayama Ryoriten, Osaka: See unbiased reviews of Hayama Ryoriten, one of 37,921 Osaka restaurants listed on Tripadvisor.",
+        "title": "Hayama Ryoriten, Osaka - Restaurant Reviews &amp; Phone Number ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g1023536-d3882295-Reviews-Hayama_Coffee_Ka_no_Ka_Yaenosato_Ekimae-Higashiosaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Hayama Coffee Ka no Ka Yaenosato Ekimae, Higashiosaka: See 2 unbiased reviews of Hayama Coffee Ka no Ka Yaenosato Ekimae, rated 4 of 5 on TripAdvisor and ranked #311 of 2,492 restaurants in Higashiosaka.",
+        "title": "Hayama Coffee Ka no Ka Yaenosato Ekimae, Higashiosaka ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.hayama-coffee.co.jp/s31.html",
+        "snippet": "fc（フランチャイズ）でカフェ開業なら、「心の底から“最愛のカフェ”と思える」店舗創造を実現する『葉山珈琲』へ",
+        "title": "店舗紹介詳細 - hayama-coffee.co.jp",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.hayama-coffee.co.jp/s33.html",
+        "snippet": "創業百三十年の古川書店と葉山珈琲がコラボレーションをした新しい味わいの空間。 カフェ席で珈琲を召し上がりながら、書店のご購入前の本をご自由にお楽しみいただけます。",
+        "title": "店舗紹介詳細 - hayama-coffee.co.jp",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.japan-guide.com/chottozeitaku/170719.html",
+        "snippet": "Turning up the heat in Hayama. By Raina Ong July 19, 2017. ... I also went in search for places to take the heat off. I found tiny shops that offered warm conversation and coffee, others that curated domestic produce and products, ... Tokyo Kyoto Osaka Nara Mount Fuji Hiroshima Kamakura Kobe Nagoya Hakone Nikko.",
+        "title": "Chotto Zeitaku Japan - Turning up the heat in Hayama",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "70481": {
+    "url": "https://www.yelp.com/biz/%E5%8C%97%E6%B5%B7%E3%81%8F%E3%82%93%E3%82%B3%E3%83%AD%E3%83%83%E3%82%B1-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac",
+    "image_url": "",
+    "name": "北海くんコロッケ",
+    "alias": "北海くんコロッケ-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Delicatessen, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "平野区瓜破4-2-8",
+    "city_from_postal": "Hirano Ku",
+    "city": "Osaka",
+    "zip_code": "547-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://tabelog.com/osaka/A2705/A270501/27079904/",
+        "snippet": "「北海くんコロッケ コーナン堺三国ケ丘店」の運営者様・オーナー様は食べログ店舗準会員（無料）にご登録ください。 ご登録はこちら この店舗の関係者の方へ",
+        "title": "北海くんコロッケ コーナン堺三国ケ丘店 - 三国ケ丘/コロッケ・フライ [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270405/27114166/",
+        "snippet": "「北海くんコロッケ コーナン平野瓜破店」の運営者様・オーナー様は食べログ店舗準会員（無料）にご登録ください。 ご登録はこちら この店舗の関係者の方へ",
+        "title": "北海くんコロッケ コーナン平野瓜破店 - 喜連瓜破/コロッケ・フライ [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2705/A270501/27079904/dtlphotolst/1/smp2/",
+        "snippet": "「北海くんコロッケ コーナン堺三国ケ丘店」の運営者様・オーナー様は食べログ店舗準会員（無料）にご登録ください。 ご登録はこちら この店舗の関係者の方へ",
+        "title": "料理写真 : 北海くんコロッケ コーナン堺三国ケ丘店 - 三国ケ丘/コロッケ・フライ [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270307/27069019/dtlmenu/",
+        "snippet": "北海くんコロッケ コーナン東淀川菅原店 (JR淡路/コロッケ・フライ)の投稿された料理メニューです。日本最大級のグルメサイト「食べログ」では、北海くんコロッケ コーナン東淀川菅原店の料理メニューを掲載中。",
+        "title": "料理メニュー : 北海くんコロッケ コーナン東淀川菅原店 - JR淡路/コロッケ・フライ [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2705/A270501/27079904/dtlrvwlst/",
+        "snippet": "コーナン三国ヶ丘店にある、北海くんコロッケ。 コーナンに遊びに行ったら、時々、その場で1つ買って、ベンチに座って食べています。 今回は、初めて夕食として、テイクアウトしました。 予約をする場...",
+        "title": "口コミ一覧 : 北海くんコロッケ コーナン堺三国ケ丘店 - 三国ケ丘/コロッケ・フライ [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270203/27095405/dtlrvwlst/",
+        "snippet": "北海くんコロッケ コーナン天王寺店 (河堀口/コロッケ・フライ)への口コミです。日本最大級のグルメサイト「食べログ」では、北海くんコロッケ コーナン天王寺店の口コミ3件を掲載中。",
+        "title": "口コミ一覧 : 【閉店】北海くんコロッケ コーナン天王寺店 - 河堀口/コロッケ・フライ [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.kohnan.co.jp/company/",
+        "snippet": "心にひびくおいしいお米 おくさま印。幸南食糧の会社概要。社長メッセージ、企業情報、沿革をご紹介します。",
+        "title": "会社概要｜おくさま印の幸南食糧 ... - KOHNAN",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ja.foursquare.com/v/%E5%8C%97%E6%B5%B7%E3%81%8F%E3%82%93%E3%82%B3%E3%83%AD%E3%83%83%E3%82%B1-%E5%B9%B3%E9%87%8E%E7%93%9C%E7%A0%B4%E5%BA%97/535f4855498eb46f63917592",
+        "snippet": "北海くんコロッケ 平野瓜破店の7人の訪問者からの2枚の写真を見る 大阪市, 大阪府でフードトラック Foursquareでは、お客様に最適な情報や広告を表示するため、および、広告主の皆様が広告キャンペーンの効果を測定するお手伝いをするためにクッキーを使用しています。",
+        "title": "北海くんコロッケ 平野瓜破店 - 大阪市のフードトラック",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1417067619",
+        "snippet": "誰か北海くんコロッケの代理店で儲かっている人がいればアドバイス下さい。 北海くんコロッケは分りませんが、以前コロちゃんの名称で全国にコロッケ販売のチェーンがありましたが、経営破たんしました。店舗の大半はFCですが、...",
+        "title": "誰か北海くんコロッケの代理店で儲かっている人がいればアドバイス下さい。 - 北... - Yahoo!知恵袋",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ameblo.jp/tsunutsunu/entry-12235031667.html",
+        "snippet": "『北海くんコロッケ 』というお店。 看板メニューの北海くんコロッケの他にフライドチキン、メンチカツ、 ロースカツ、夏はかき氷、ソフトクリームなども売ってます。 こういうお店って、お買い物に来た時、つい買っちゃうよね～。",
+        "title": "ホームセンター コーナンの前にある『北海くんコロッケ』を買い食い！ | 大阪（天王寺・阿倍野）中心に～SNOOPY ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "91844": {
+    "url": "https://www.yelp.com/biz/%E3%82%8F%E3%81%8B%E3%82%8B%E3%81%A8%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%83%90%E3%83%AA%E3%83%A5%E5%A4%A7%E9%98%AA%E5%B9%B3%E9%87%8E%E9%A7%85%E5%89%8D%E6%A0%A1-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%B9%B3%E9",
+    "image_url": "",
+    "name": "わかるとできるマックスバリュ大阪平野駅前校",
+    "alias": "わかるとできるマックスバリュ大阪平野駅前校-大阪市-平野区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "平野北1丁目8-2",
+    "city_from_postal": "Hirano Ku",
+    "city": "大阪市 平野区",
+    "zip_code": "547-0041",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667945430",
+    "review_count": 1,
+    "snippets": []
+  },
+  "141732": {
+    "url": "https://www.yelp.com/biz/%E3%81%95%E3%82%93%E3%81%8D%E3%82%85%E3%81%86%E6%B0%B4%E7%94%A3-%E5%B9%B3%E9%87%8E%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/56bZPOkU2xKRyh3BwJw1-Q/o.jpg",
+    "name": "Sankyū Suisan Hirano",
+    "alias": "さんきゅう水産-平野店-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Sushi Bars, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "平野区平野宮町1-6-1",
+    "city_from_postal": "Hirano Ku",
+    "city": "Osaka",
+    "zip_code": "547-0046",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667950039",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d3828678-Reviews-Sankyuu_Suisan_Fish_Market_Sushi_Bar_Nigiri_Hirano-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Sankyuu Suisan Fish Market Sushi Bar Nigiri Hirano, Osaka: See unbiased reviews of Sankyuu Suisan Fish Market Sushi Bar Nigiri Hirano, one of 37,890 Osaka restaurants listed on Tripadvisor.",
+        "title": "Sankyuu Suisan Fish Market Sushi Bar Nigiri Hirano, Osaka ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7444864-Reviews-Uoteru_Suisan_Hirano_Kire-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Uoteru Suisan Hirano Kire, Osaka: See 3 unbiased reviews of Uoteru Suisan Hirano Kire, rated 1.5 of 5 on Tripadvisor and ranked #18,890 of 37,921 restaurants in Osaka.",
+        "title": "Uoteru Suisan Hirano Kire, Osaka - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d13058285-Reviews-Uoteru_Suisan_Seafood_Restaurant_Jr_Hirano-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Uoteru Suisan Seafood Restaurant Jr Hirano, Osaka: See unbiased reviews of Uoteru Suisan Seafood Restaurant Jr Hirano, rated 4 of 5 on Tripadvisor and ranked #13,914 of 37,824 restaurants in Osaka.",
+        "title": "Uoteru Suisan Seafood Restaurant Jr Hirano, Osaka ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sanky%C5%AB_Main_Line",
+        "snippet": "Iseden Main Line is officially renamed Sankyū Ise Line. November 3, 1937 - Sankyū-Matsue Station closed. Matsugasaki Station becomes the intersecting station between the Sankyū Main Line and the Sankyū Ise Line. March 15, 1941 - Osaka Electric Railroad (Daiki) and Sankyū merge to form Kansai Express Railway (Kankyū).",
+        "title": "Yamada Line (Kintetsu) - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/%E3%81%95%E3%82%93%E3%81%8D%E3%82%85%E3%81%86%E6%B0%B4%E7%94%A3-%E5%B9%B3%E9%87%8E%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82",
+        "snippet": "さんきゅう水産 平野店 in Osaka, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Osaka and beyond. Sankyū Suisan Hirano - 2019 All You Need to Know BEFORE You Go (with Photos) Sushi Bars - Yelp",
+        "title": "Sankyū Suisan Hirano - Osaka, 大阪府, Japan",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7643944-Reviews-Shokudo_Kadoya-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Shokudo Kadoya, Osaka: See unbiased reviews of Shokudo Kadoya, one of 37,921 Osaka restaurants listed on Tripadvisor.",
+        "title": "Shokudo Kadoya, Osaka - Restaurant Reviews &amp; Phone Number ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kinki_Nippon_Electric_Railway",
+        "snippet": "Kintetsu Railway Co., Ltd. (近畿日本鉄道株式会社, Kinki-nippon Tetsudō Kabushiki Kaisha), referred to as Kintetsu (近鉄), is a Japanese passenger railway company, managing infrastructure and operating passenger train service.Its railway system is the largest in Japan, excluding Japan Railways Group.The railway network connects Osaka, Nara, Kyoto, Nagoya, Tsu, Ise, and Yoshino.",
+        "title": "Kintetsu Railway - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g14127729-d7643944-Reviews-Shokudo_Kadoya-Hirano_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Shokudo Kadoya, Hirano: See unbiased reviews of Shokudo Kadoya, one of 278 Hirano restaurants listed on TripAdvisor.",
+        "title": "Shokudo Kadoya, Hirano - Restaurant Reviews &amp; Phone Number ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Suzuka_Line",
+        "snippet": "The Suzuka Line 鈴鹿線, Kintetsu ... September 15, 1936 - Sangū Express Electric Railway (Sankyū) acquires Iseden and all of its lines. Line is officially renamed Ise Kambe Line. March 15, 1941 - Osaka Electric Railroad (Daiki) and Sankyū merge to form Kansai Express Railway ...",
+        "title": "Suzuka Line - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://wiki2.org/en/Yamada_Line_(Kintetsu)",
+        "snippet": "Iseden Main Line is officially renamed Sankyū Ise Line. November 3, 1937 - Sankyū-Matsue Station closed. Matsugasaki Station becomes the intersecting station between the Sankyū Main Line and the Sankyū Ise Line. March 15, 1941 - Osaka Electric Railroad (Daiki) and Sankyū merge to form Kansai Express Railway (Kankyū).",
+        "title": "Yamada Line (Kintetsu) — Wikipedia Republished // WIKI 2",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "171723": {
+    "url": "https://www.yelp.com/biz/%E3%81%82%E3%82%81%E3%82%8A%E3%81%8B%E3%82%93%E5%B9%B3%E9%87%8E%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%B9%B3%E9%87%8E%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TAW3il6o9MpcdNsK_dy2VA/o.jpg",
+    "name": "あめりかん平野店",
+    "alias": "あめりかん平野店-大阪市-平野区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, Specialty Food, Desserts, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "平野西5丁目1-11",
+    "city_from_postal": "Hirano Ku",
+    "city": "大阪市 平野区",
+    "zip_code": "547-0033",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667973923",
+    "review_count": 1,
+    "snippets": []
+  },
+  "172454": {
+    "url": "https://www.yelp.com/biz/beans-poem-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%B9%B3%E9%87%8E%E5%8C%BA-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/J9r2JgRcAfRWnkFThCP9vQ/o.jpg",
+    "name": "Beans Poem",
+    "alias": "beans-poem-大阪市-平野区-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "平野本町4丁目1-20",
+    "city_from_postal": "Hirano Ku",
+    "city": "大阪市 平野区",
+    "zip_code": "547-0044",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667923150",
+    "review_count": 1,
+    "snippets": []
+  },
+  "176348": {
+    "url": "https://www.yelp.com/biz/%E4%BA%80%E4%B9%83%E9%A5%85%E9%A0%AD-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0M28MIbxqguIWIQagjGaVg/o.jpg",
+    "name": "Kamenomanjū",
+    "alias": "亀乃饅頭-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Japanese Sweets, ",
+    "rating": 3.0,
+    "price": "￥",
+    "address": "平野区平野上町2-9-10",
+    "city_from_postal": "Hirano Ku",
+    "city": "Osaka",
+    "zip_code": "547-0046",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667910977",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.yelp.com/biz/%E4%BA%80%E4%B9%83%E9%A5%85%E9%A0%AD-%E5%A4%A7%E9%98%AA%E5%B8%82",
+        "snippet": "亀乃饅頭 in Osaka, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Osaka and beyond. Kamenomanjū - 26 Photos - Japanese Sweets - 平野区平野上町2-9-10, 平野区, Osaka, 大阪府, Japan - Phone Number - Yelp",
+        "title": "Kamenomanjū - Hirano Ward - Osaka, 大阪府, Japan",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "185553": {
+    "url": "https://www.yelp.com/biz/%E9%BA%BA%E3%82%84-%E3%81%84%E3%81%A1%E3%81%93%E3%82%8D-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2wZjj9KPOwT29Ma_e90_8g/o.jpg",
+    "name": "Menya Ichcikoro",
+    "alias": "麺や-いちころ-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Ramen, Noodles, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "平野区喜連2-7-24",
+    "city_from_postal": "Hirano Ku",
+    "city": "Osaka",
+    "zip_code": "547-0027",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667777628",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.yelp.com/biz/%E9%BA%BA%E3%82%84-%E3%81%84%E3%81%A1%E3%81%93%E3%82%8D-%E5%A4%A7%E9%98%AA%E5%B8%82",
+        "snippet": "麺や いちころ in Osaka, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Osaka and beyond. Menya Ichcikoro - VISIT NOW - 14 Photos - Ramen - 平野区喜連2-7-24, 平野区, Osaka, 大阪府, Japan - Restaurant Reviews - Phone Number - Yelp",
+        "title": "Menya Ichcikoro - Hirano Ward - Osaka, 大阪府, Japan",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d9942875-Reviews-Menya_Ageha-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Menya Ageha, Osaka: See 4 unbiased reviews of Menya Ageha, rated 4.5 of 5 on Tripadvisor and ranked #5,003 of 37,765 restaurants in Osaka.",
+        "title": "Menya Ageha, Osaka - Restaurant Reviews, Photos &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d1703377-Reviews-Menya_Saisai-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Menya Saisai, Osaka: See 7 unbiased reviews of Menya Saisai, rated 4 of 5 on Tripadvisor and ranked #4,047 of 37,869 restaurants in Osaka.",
+        "title": "Menya Saisai, Osaka - Restaurant Reviews, Photos &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d15232886-Reviews-Menya_Taisei-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Menya Taisei, Osaka: See unbiased reviews of Menya Taisei, one of 37,872 Osaka restaurants listed on Tripadvisor.",
+        "title": "Menya Taisei, Osaka - Restaurant Reviews &amp; Phone Number ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g298566-d6023842-Reviews-Menya_Wasshoi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Menya Wasshoi, Osaka: Se 15 objektive anmeldelser av Menya Wasshoi, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 4 219 av 37 924 restauranter i Osaka.",
+        "title": "Menya Wasshoi, Osaka - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://insideosaka.com/menya-ageha/",
+        "snippet": "When you’re in the Osaka Castle Park area and just need a fast, casual, but delicious bowl of noodles, Menya Ageha is a good restaurant to have on your radar. This tiny 13-seater ramen joint serves a variety of bowls: tsukemen (dipping noodles), spicy miso ramen, and shoyu ramen, to name a few.",
+        "title": "Menya Ageha - Inside Osaka",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g298566-d3819231-Reviews-Menya_Fujin-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Menya Fujin, Osaka: Se 2 objektive anmeldelser av Menya Fujin, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 17 410 av 37 877 restauranter i Osaka.",
+        "title": "Menya Fujin, Osaka - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g298566-d8330659-Reviews-Menya_Kyobashi_Toseisen-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Menya Kyobashi Toseisen, Osaka: Se 11 objektive anmeldelser av Menya Kyobashi Toseisen, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 5 197 av 37 671 restauranter i Osaka.",
+        "title": "Menya Kyobashi Toseisen, Osaka - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g298566-d3829807-Reviews-Abeno_Menya-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Abeno Menya, Osaka: Se 2 objektive anmeldelser av Abeno Menya, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 13 084 av 37 912 restauranter i Osaka.",
+        "title": "Abeno Menya, Osaka - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.japantravel.com/osaka/menya-teru-ramen/17183",
+        "snippet": "Menya Teru in Osaka, serves its clients delicious ramen without any chemical seasoning. Founded in 2000, in Awaji in Higashiyodogawa, one of Osaka’s 24 wards, Menya Teru is a ramen chain with restaurants around Osaka and even one in Taipei, Taiwan’s capital. The photos in this article were taken at Menya Teru in Kita ward of Osaka.",
+        "title": "Menya Teru Ramen - Osaka - Japan Travel",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "217474": {
+    "url": "https://www.yelp.com/biz/200-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "200℃",
+    "alias": "200-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Teppanyaki, Burgers, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "平野区平野東3-5-23",
+    "city_from_postal": "Hirano Ku",
+    "city": "Osaka",
+    "zip_code": "547-0042",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667932004",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d10657266-Reviews-200-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "200℃, Osaka: See unbiased reviews of 200℃, one of 37,877 Osaka restaurants listed on Tripadvisor.",
+        "title": "200℃, Osaka - Restaurant Reviews &amp; Phone Number - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pixabay.com/images/search/osaka/",
+        "snippet": "Find images of Osaka. Free for commercial use No attribution required High quality images.",
+        "title": "200+ Free Osaka &amp; Japan Images - Pixabay",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.boconcept.com/nn-no/shop/sofaer",
+        "snippet": "Sofaer Sitt. Synk nedi. Slapp av. Legg deg ned. Vårt store utvalg av modulbaserte sofaer betyr at du alltid vil kunne finne den som er perfekt for deg – fra en 2 seters sofa til en 3 seters sofa til en hjørnesofa og så videre.",
+        "title": "Sofaer fra BoConcept-kolleksjonen - BoConcept",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/2007_World_Championships_in_Athletics",
+        "snippet": "In August 2015, the Turkish Athletics Federation confirmed that an anti-doping test taken from Abeylegesse during the 2007 World Championships in Athletics had been retested and found to be positive for a controlled substance, and that the athlete had been temporarily suspended pending retesting of her &#39;B-sample&#39;.",
+        "title": "2007 World Championships in Athletics - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Attractions-g298566-Activities-c61-t200-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Amfibieturer (buss/båt) i Osaka: Se anmeldelser og bilder av Amfibieturer (buss/båt) i Osaka, Japan på Tripadvisor.",
+        "title": "DE BESTE amfibieturer (buss/båt) i Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Naomi_Osaka",
+        "snippet": "Naomi Osaka (大坂 なおみ Japanese pronunciation: [o̞ːsäkä näo̞mʲi], Ōsaka Naomi, born October 16, 1997) is a professional tennis player who represents Japan. Osaka has been ranked No. 1 by the Women&#39;s Tennis Association (WTA), and is the first Asian player to hold the top ranking in singles. She has won five titles on the WTA Tour, including two titles at both the Grand Slam and ...",
+        "title": "Naomi Osaka - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.pexels.com/nb-no/sok/osaka%20grill/",
+        "snippet": "Finn de beste gratis arkivbildene om osaka grill. Last ned alle bilder og bruk dem for selv kommersielle prosjekter.",
+        "title": "200+ Osaka Grill bilder Pexels · Gratis arkivbilder",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.linkedin.com/pub/dir/Osaka/+",
+        "snippet": "View the profiles of professionals named &quot;Osaka&quot; on LinkedIn. There are 200+ professionals named &quot;Osaka&quot;, who use LinkedIn to exchange information, ideas, and opportunities.",
+        "title": "200+ &quot;Osaka&quot; profiles | LinkedIn",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowTopic-g298566-i2803-k13094865-Is_Nankai_Namba_station_200_m_from_Hiyori_hotel-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Answer 1 of 5: Hi need to arrive to Hiyori hotel. I&#39;m taking the midnight bus from Kansai airport. Bus goes to Nankai Namba station. Can anyone confirm that this station is 200 meters from the hotel. Also are there any problems arriving at the Hiyori hotel...",
+        "title": "is Nankai Namba station 200 m. from Hiyori hotel - Osaka ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=-2VDWOI38J4",
+        "snippet": "เที่ยวโอซาก้าในมุมแปลกๆ SUGOI JAPAN - สุโก้ยเจแปน ตอนที่ 200 Osaka WabisabiTV Loading...",
+        "title": "เที่ยวโอซาก้าในมุมแปลกๆ SUGOI JAPAN - สุโก้ยเจแปน ตอนที่ ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "230292": {
+    "url": "https://www.yelp.com/biz/%E6%BA%80%E4%B8%B8-%E5%B9%B3%E9%87%8E%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Wd_nOxo0a3PAVEKAE5rDBQ/o.jpg",
+    "name": "Manmaru",
+    "alias": "満丸-平野区",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, ",
+    "rating": 4.0,
+    "price": "￥",
+    "address": "平野宮町1-77-1",
+    "city_from_postal": "Hirano Ku",
+    "city": "平野区",
+    "zip_code": "547-0042",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667110379",
+    "review_count": 1,
+    "snippets": []
+  },
+  "276608": {
+    "url": "https://www.yelp.com/biz/%E9%B3%B4%E9%96%80%E5%B1%8B%E8%A3%BD%E3%83%91%E3%83%B3%E6%9C%AC%E7%A4%BE-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%B9%B3%E9%87%8E%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CGaPDpqxgVAafhqs1KVorg/o.jpg",
+    "name": "鳴門屋製パン本社",
+    "alias": "鳴門屋製パン本社-大阪市-平野区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "加美北2丁目2-30",
+    "city_from_postal": "Hirano Ku",
+    "city": "大阪市 平野区",
+    "zip_code": "547-0001",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667581551",
+    "review_count": 1,
+    "snippets": []
+  },
+  "302768": {
+    "url": "https://www.yelp.com/biz/%E5%96%9C%E4%B9%85%E5%AE%89-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%B9%B3%E9%87%8E%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RcAmZLQm1m3R-M0uCrj2ig/o.jpg",
+    "name": "喜久安",
+    "alias": "喜久安-大阪市-平野区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Meat Shops, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "平野宮町1丁目6-2",
+    "city_from_postal": "Hirano Ku",
+    "city": "大阪市 平野区",
+    "zip_code": "547-0046",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667942982",
+    "review_count": 1,
+    "snippets": []
+  },
+  "393002": {
+    "url": "https://www.yelp.com/biz/%E3%82%A4%E3%82%AA%E3%83%B3%E5%96%9C%E9%80%A3%E7%93%9C%E7%A0%B4%E9%A7%85%E5%89%8D-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIME",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_VCoZSGEwoh70oYMuki6aw/o.jpg",
+    "name": "AEON Kireuriwari Ekimae",
+    "alias": "イオン喜連瓜破駅前-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "平野区瓜破2-1-13",
+    "city_from_postal": "Hirano Ku",
+    "city": "Osaka",
+    "zip_code": "547-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667601777",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.booking.com/landmark/jp/aeon-kireuriwari-ekimae-store.html",
+        "snippet": "Find hotels near Aeon Kireuriwari-ekimae Store, jp online. Good availability and great rates. Book online, pay at the hotel. No reservation costs.",
+        "title": "The 10 best hotels near Aeon Kireuriwari-ekimae Store in ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/landmark/jp/aeon-kireuriwari-ekimae-store.en-gb.html",
+        "snippet": "Find hotels near Aeon Kireuriwari-ekimae Store, jp online. Good availability and great rates. Book online, pay at the hotel. No reservation costs.",
+        "title": "The 10 best hotels close to Aeon Kireuriwari-ekimae Store ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/landmark/jp/aeon-kireuriwari-ekimae-store.es.html",
+        "snippet": "Uehommachi, Tennoji, Sur de Osaka, Osaka (a 3 km de Aeon Kireuriwari-ekimae Store) El Osaka Nagai Municipal Youth Hostel se encuentra a 5 minutos a pie de la estación JR Tsurugaoka y ofrece camas en habitaciones compartidas, servicio de alquiler de bicicletas y conexión Wi-Fi... Ver más Ver menos. 8.6 Fabuloso",
+        "title": "Los 10 mejores hoteles cerca de: Aeon Kireuriwari-ekimae ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/landmark/jp/aeon-kireuriwari-ekimae-store.is.html",
+        "snippet": "Find hotels near Aeon Kireuriwari-ekimae Store, jp online. Good availability and great rates. Book online, pay at the hotel. No reservation costs.",
+        "title": "Aeon Kireuriwari-ekimae Store, Osaka, Japan – 10 bestu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d3933173-Reviews-Marugame_Seimen_Aeon_Kireuriwari_Ekimae-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Marugame Seimen Aeon Kireuriwari Ekimae, Osaka: See 5 unbiased reviews of Marugame Seimen Aeon Kireuriwari Ekimae, rated 3 of 5 on Tripadvisor and ranked #15,554 of 37,921 restaurants in Osaka.",
+        "title": "Marugame Seimen Aeon Kireuriwari Ekimae, Osaka ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g298566-d3933173-i164715149-Marugame_Seimen_Aeon_Kireuriwari_Ekimae-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Marugame Seimen Aeon Kireuriwari Ekimae, Osaka Picture: イオンのフードコートにありますよ - Check out Tripadvisor members&#39; 50,250 candid photos and videos of Marugame Seimen Aeon Kireuriwari Ekimae",
+        "title": "イオンのフードコートにありますよ - Picture of Marugame Seimen Aeon ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/landmark/jp/aeon-kireuriwari-ekimae-store.fr.html",
+        "snippet": "Uehommachi, Tennoji, Southern Osaka, Osaka (3 km de : Aeon Kireuriwari-ekimae Store) Situé à 5 minutes à pied de la gare JR Tsurugaoka, l&#39;Osaka Nagai Municipal Youth Hostel propose des lits en dortoir, un service de location de vélos et une connexion Wi-Fi gratuite dans le hall. Voir plus Voir moins.",
+        "title": "Aeon Kireuriwari-ekimae Store (Osaka) : vous recherchez ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/landmark/jp/aeon-kireuriwari-ekimae-store.es-ar.html",
+        "snippet": "Encontrá hoteles cerca de Aeon Kireuriwari-ekimae Store, jp online. Buena disponibilidad y excelentes precios. Reserva online, paga en el hotel. Sin costes de reserva.",
+        "title": "Los 10 mejores hoteles cerca de Aeon Kireuriwari-ekimae ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/landmark/jp/aeon-kireuriwari-ekimae-store.fi.html",
+        "snippet": "Etsi hotelleja netissä läheltä maamerkkiä Aeon Kireuriwari-ekimae Store, jp verkossa. Hyvä saatavuus ja erinomaiset hinnat. Varaa netissä, maksa hotellissa. Ei varausmaksuja.",
+        "title": "Hotellit lähellä maamerkkiä Aeon Kireuriwari-ekimae Store ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/landmark/jp/aeon-kireuriwari-ekimae-store.cs.html",
+        "snippet": "Najděte si on-line hotely poblíž Aeon Kireuriwari-ekimae Store, jp. Mnoho volných pokojů za skvělé ceny. Rezervujte on-line, plaťte až v hotelu. Žádné rezervační poplatky.",
+        "title": "10 nejlepších hotelů v blízkosti: Aeon Kireuriwari-ekimae ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "453529": {
+    "url": "https://www.yelp.com/biz/%E5%AF%BF%E5%8F%B8%E5%BE%B3%E6%9C%AC%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%B9%B3%E9%87%8E%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Ba",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KCxR0IaHBt1jQwF5Oa-07Q/o.jpg",
+    "name": "寿司徳本店",
+    "alias": "寿司徳本店-大阪市-平野区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Sushi Bars, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "平野本町3丁目7-12",
+    "city_from_postal": "Hirano Ku",
+    "city": "大阪市 平野区",
+    "zip_code": "547-0044",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667911026",
+    "review_count": 1,
+    "snippets": []
+  },
+  "460606": {
+    "url": "https://www.yelp.com/biz/%EF%BD%81%EF%BD%90%EF%BD%90%EF%BD%8C%EF%BD%85%E3%81%AE%E7%99%BA%E9%9F%B3-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%B9%B3%E9%87%8E%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lrnV7eeSd11VSE1PIscMMg/o.jpg",
+    "name": "Ａｐｐｌｅの発音",
+    "alias": "ａｐｐｌｅの発音-大阪市-平野区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, ",
+    "rating": 4.0,
+    "price": "￥￥",
+    "address": "流町1丁目9-14",
+    "city_from_postal": "Hirano Ku",
+    "city": "大阪市 平野区",
+    "zip_code": "547-0032",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667017169",
+    "review_count": 1,
+    "snippets": []
+  },
+  "460616": {
+    "url": "https://www.yelp.com/biz/%E5%B0%8F%E3%81%95%E3%81%AA%E9%A7%84%E8%8F%93%E5%AD%90%E5%B1%8B%E3%81%95%E3%82%93%E5%8D%9A%E7%89%A9%E9%A4%A8-%E5%A4%A7%E9%98%AA%E5%B8%82-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uw1kavqI353JseXyWtO-cw/o.jpg",
+    "name": "Chisana Dagashiyasann Hakubutsukan",
+    "alias": "小さな駄菓子屋さん博物館-大阪市-2",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "平野区平野本町 4-12-21",
+    "city_from_postal": "Hirano Ku",
+    "city": "Osaka",
+    "zip_code": "547-0044",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667912680",
+    "review_count": 3,
+    "snippets": [
+      {
+        "url": "https://you.ctrip.com/sight/osaka293/4179016.html",
+        "snippet": "大阪旅游攻略指南? 携程攻略社区! 靠谱的旅游攻略平台，最佳的大阪自助游、自由行、自驾游、跟团旅线路，海量大阪旅游 ...",
+        "title": "you.ctrip.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.giftly.com/museum-gift-cards/%E6%A9%BF%E5%8E%9F%E5%B8%82-29",
+        "snippet": "Buy a gift card to any Museum in 橿原市, 29. Send by email or mail, or print at home. Deliver in a personalized greeting card. The perfect last minute gift. 100% satisfaction guaranteed. Buy 橿原市, 29 Museum gift cards online.",
+        "title": "橿原市 Museum Gift Cards | Giftly",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.giftly.com/activity-gift-cards/%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%B9%B3%E9%87%8E%E5%8C%BA-27",
+        "snippet": "Buy a gift card to any Activity in 大阪市 平野区, 27. Send by email or mail, or print at home. Deliver in a personalized greeting card. The perfect last minute gift. 100% satisfaction guaranteed. Buy 大阪市 平野区, 27 Activity gift cards online.",
+        "title": "大阪市 平野区 Activity Gift Cards | Giftly",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://you.ctrip.com/sight/osaka293/1693380.html",
+        "snippet": "大念佛寺攻略，携程攻略社区! 提供大阪大念佛寺门票价格及查询服务，包含大阪大念佛寺攻略、地址、图片、点评、附近酒店、门票团购等实用信息，大量大念佛寺团购优惠及返现活动。要旅行，从携程攻略开始。",
+        "title": "大阪大念佛寺攻略,大阪大念佛寺门票/游玩攻略/地址/图片/门票价格【携程攻略】",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://you.ctrip.com/sight/osaka293/1734047.html",
+        "snippet": "菅原神社攻略，携程攻略社区! 提供大阪菅原神社门票价格及查询服务，包含大阪菅原神社攻略、地址、图片、点评、附近酒店、门票团购等实用信息，大量菅原神社团购优惠及返现活动。要旅行，从携程攻略开始。",
+        "title": "大阪菅原神社攻略,大阪菅原神社门票/游玩攻略/地址/图片/门票价格【携程攻略】",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/AttractionsNear-g298133-d4487672-Nishiachi_Station-Kurashiki_Okayama_Prefecture_Chugoku.html",
+        "snippet": "Things to do near Nishiachi Station on Tripadvisor: See 3,352 reviews and 7,515 candid photos of things to do near Nishiachi Station in Kurashiki, Okayama Prefecture.",
+        "title": "THE 10 BEST Things to Do Near Nishiachi Station, Kurashiki",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/AttractionsNear-g298133-d4486346-Kurashiki_Station-Kurashiki_Okayama_Prefecture_Chugoku.html",
+        "snippet": "Things to do near Kurashiki Station on Tripadvisor: See 3,350 reviews and 7,487 candid photos of things to do near Kurashiki Station in Kurashiki, Okayama Prefecture.",
+        "title": "THE 10 BEST Things to Do Near Kurashiki Station - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://allabout-japan.com/th/article/6733/2/",
+        "snippet": "ที่โตเกียวยังมีแหล่งให้ตกแต่งลายแก้วน่ารักๆ ของตัวเองด้วยค่ะ ห่างจากสถานีอาซาคุสะแค่ 6 นาที (ด้วยการเดินเท้า) ค่าเข้าร่วมคนละ 2,322 เยน (รวมภาษี ...",
+        "title": "10 แหล่งทำเวิร์คช็อปด้วยตัวเองในญี่ปุ่น | All About Japan",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/AttractionsNear-g298133-d1692697-Misokatsu_Umenoki-Kurashiki_Okayama_Prefecture_Chugoku.html",
+        "snippet": "Things to do near Misokatsu Umenoki on Tripadvisor: See 3,351 reviews and 7,515 candid photos of things to do near Misokatsu Umenoki in Kurashiki, Okayama Prefecture.",
+        "title": "THE 10 BEST Things to Do Near Misokatsu Umenoki, Kurashiki",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/AttractionsNear-g298133-d10307184-Aeon_Mall_Kurashiki-Kurashiki_Okayama_Prefecture_Chugoku.html",
+        "snippet": "Things to do near Aeon Mall Kurashiki on Tripadvisor: See 3,341 reviews and 7,475 candid photos of things to do near Aeon Mall Kurashiki in Kurashiki, Okayama Prefecture.",
+        "title": "The Top 10 Things to Do Near Aeon Mall Kurashiki in 2020 ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "480930": {
+    "url": "https://www.yelp.com/biz/%E9%AD%9A%E8%B0%B7%E9%A3%9F%E5%A0%82-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8JfoL-UpfPb79_WSupgtYg/o.jpg",
+    "name": "Uotani shokudō",
+    "alias": "魚谷食堂-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Canteen, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "平野区平野本町1-7-11",
+    "city_from_postal": "Hirano Ku",
+    "city": "Osaka",
+    "zip_code": "547-0044",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667915264",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g298566-d9906755-Reviews-Sushi_Chiso_Uotani-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Sushi Chiso Uotani, Osaka: Se 2 objektive anmeldelser av Sushi Chiso Uotani, vurdert til 4,5 av 5 på TripAdvisor og vurdert som nr. 8 442 av 37 603 restauranter i Osaka.",
+        "title": "Sushi Chiso Uotani, Osaka - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g298566-d9906755-Reviews-Sushi_Chiso_Uotani-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Sushi Chiso Uotani, Osaka: See 2 unbiased reviews of Sushi Chiso Uotani, rated 4.5 of 5 on TripAdvisor and ranked #8,442 of 37,603 restaurants in Osaka.",
+        "title": "SUSHI CHISO UOTANI, Osaka - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://myconciergejapan.net/yarn_reservation/",
+        "snippet": "※If anyone in your group has any allergies or special dietary requests, please list in as much detail what foods cannot be eaten and also the number of people that it applies to (if it is not listed then the dietary request will be applied to every member of the group).",
+        "title": "SHÓKUDŌ YArn RESERVATION - Best Restaurants Reservation ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.it/Restaurant_Review-g298566-d9906755-Reviews-Sushi_Chiso_Uotani-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Sushi Chiso Uotani, Osaka: su TripAdvisor trovi 2 recensioni imparziali su Sushi Chiso Uotani, con punteggio 4,5 su 5 e al n.8.307 su 37.474 ristoranti a Osaka.",
+        "title": "SUSHI CHISO UOTANI, Osaka - Ristorante Recensioni, Numero ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/%E6%99%AE%E9%80%9A%E3%81%AE%E9%A3%9F%E5%A0%82%E3%81%84%E3%82%8F%E3%81%BE-%E5%A4%A7%E9%98%AA%E5%B8%82-2",
+        "snippet": "普通の食堂いわま in Osaka, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Osaka and beyond. Futsūno Shokudō Yuwama - 17 Photos - Donburi - 中央区難波千日前9-12, 中央区, Osaka, 大阪府, Japan - Restaurant Reviews - Phone Number - Yelp",
+        "title": "Futsūno Shokudō Yuwama - Chuo Ward - Osaka, 大阪府, Japan",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g14127623-d9906755-Reviews-Sushi_Chiso_Uotani-Chuo_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Sushi Chiso Uotani, Chuo: See 2 unbiased reviews of Sushi Chiso Uotani, rated 4.5 of 5 on Tripadvisor and ranked #2,613 of 8,646 restaurants in Chuo.",
+        "title": "Sushi Chiso Uotani, Chuo - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.lonelyplanet.com/articles/a-guide-to-the-eateries-of-japan",
+        "snippet": "Eating out at a sushi-ya (sushi restaurant or sushi bar) is usually considered a special event.At a sushi-ya, diners order a portion at a time while the knife-wielding chefs work away behind the counter making each serving fresh.Order ‘omakase’ to let the chef choose what to serve you. Most sushi-ya also offer set courses, giving you an assortment of sushi – a good option if ordering à ...",
+        "title": "Eating out in Japanese: a guide to Japan&#39;s restaurants ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://crazybluepanda.wordpress.com/2018/03/30/asian-shokudo-georges-recipe/",
+        "snippet": "Asian Shokudō George’s Recipe March 30, 2018 June 9, 2018 Posted in Food , Osaka Name: Asian Shokudō George’s Recipe アジアン食堂 ジョージのレシピ",
+        "title": "Asian Shokudō George’s Recipe – Betsubara Journey",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.japan-guide.com/e/e2036_shokudo.html",
+        "snippet": "Shokudo (食堂, shokudō) are casual restaurants or cafeterias that serve a variety of inexpensive Japanese dishes. Many of them are mom-and-pop, hole-in-the-wall type restaurants where the locals eat. They are numerous across Japan in urban centers and on the countryside.",
+        "title": "Shokudo (Japanese Casual Restaurants)",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tableall.com/restaurant/120",
+        "snippet": "Make a reservation at SHÓKUDŌ YArn. In a sleepy suburban town in eastern Japan, a young couple is setting off a new gastronomic revolution. Inspired by lessons learned at El Bulli, the famed modern restaurant of Spain, SHÓKUDŌ YArn",
+        "title": "SHÓKUDŌ YArn | Restaurant Reservation Service in Japan ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "482832": {
+    "url": "https://www.yelp.com/biz/%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AB%8B%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_",
+    "image_url": "",
+    "name": "oosakafuritsukurafutopāku",
+    "alias": "大阪府立クラフトパーク-大阪市",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Cultural Center, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "大阪府大阪市平野区長吉六反1-8-44",
+    "city_from_postal": "Hirano Ku",
+    "city": "Osaka",
+    "zip_code": "547-0012",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81643029210",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.giftly.com/activity-gift-cards/%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%B9%B3%E9%87%8E%E5%8C%BA-27",
+        "snippet": "Buy a gift card to any Activity in 大阪市 平野区, 27. Send by email or mail, or print at home. Deliver in a personalized greeting card. The perfect last minute gift. 100% satisfaction guaranteed. Buy 大阪市 平野区, 27 Activity gift cards online.",
+        "title": "大阪市 平野区 Activity Gift Cards | Giftly",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.giftly.com/activity-gift-cards/%E9%A6%99%E8%8A%9D%E5%B8%82-29",
+        "snippet": "Buy a gift card to any Activity in 香芝市, 29. Send by email or mail, or print at home. Deliver in a personalized greeting card. The perfect last minute gift. 100% satisfaction guaranteed. Buy 香芝市, 29 Activity gift cards online.",
+        "title": "香芝市 Activity Gift Cards | Giftly",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "513646": {
+    "url": "https://www.yelp.com/biz/%E4%BD%B3%E9%99%BD-%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XAL_Wr7DYqyfv6vrRHvQLw/o.jpg",
+    "name": "Kayou",
+    "alias": "佳陽-千代田区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Chinese, ",
+    "rating": 3.5,
+    "price": "￥",
+    "address": "六番町4-2",
+    "city_from_postal": "Hirano Ku",
+    "city": "Chiyoda",
+    "zip_code": "547-0047",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81352118408",
+    "review_count": 3,
+    "snippets": []
+  },
+  "549908": {
+    "url": "https://www.yelp.com/biz/%E3%82%B5%E3%83%B3%E3%82%AB%E3%83%95%E3%82%A7%E5%B9%B3%E9%87%8E%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%B9%B3%E9%87%8E%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xxLiwowJaUbVLbb1v5d52g/o.jpg",
+    "name": "サンカフェ平野店",
+    "alias": "サンカフェ平野店-大阪市-平野区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, Sandwiches, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "背戸口5丁目3-3",
+    "city_from_postal": "Hirano Ku",
+    "city": "大阪市 平野区",
+    "zip_code": "547-0034",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667739000",
+    "review_count": 1,
+    "snippets": []
+  },
+  "579057": {
+    "url": "https://www.yelp.com/biz/%E3%83%90%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%AB%A5%E5%A4%A2major-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7cr",
+    "image_url": "",
+    "name": "battingudōmumejā",
+    "alias": "バッティング童夢major-大阪市",
+    "main_category": "Active Life",
+    "sub_categories": "Active Life, ",
+    "rating": 2.5,
+    "price": null,
+    "address": "大阪市平野区喜連東5-15-5",
+    "city_from_postal": "Hirano Ku",
+    "city": "Osaka",
+    "zip_code": "547-0021",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667013339",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.giftly.com/activity-gift-cards/%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%B9%B3%E9%87%8E%E5%8C%BA-27",
+        "snippet": "Buy a gift card to any Activity in 大阪市 平野区, 27. Send by email or mail, or print at home. Deliver in a personalized greeting card. The perfect last minute gift. 100% satisfaction guaranteed. Buy 大阪市 平野区, 27 Activity gift cards online.",
+        "title": "大阪市 平野区 Activity Gift Cards | Giftly",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "595018": {
+    "url": "https://www.yelp.com/biz/%E3%83%97%E3%83%AD%E3%83%A0%E3%83%8A%E3%83%BC%E3%83%89%E5%B9%B3%E9%87%8E-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/o-KjwVox_9Xw-8zwDvAbIg/o.jpg",
+    "name": "プロムナード平野",
+    "alias": "プロムナード平野-大阪市",
+    "main_category": "Active Life",
+    "sub_categories": "Parks, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "大阪府大阪市平野区平野本町2-3",
+    "city_from_postal": "Hirano Ku",
+    "city": "Osaka",
+    "zip_code": "547-0044",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.city.osaka.lg.jp/hirano/page/0000210311.html",
+        "snippet": "旧南海電鉄平野線平野駅跡プロムナード このプロムナードは、チンチン電車の愛称で親しまれた南海電鉄平野線の軌道跡地に設置された。(昭和58年4月に完成) 南海電鉄平野線は、大正3年4月に開通以来、多くの人々の交通手段として活躍したが、地下鉄..",
+        "title": "大阪市平野区：旧南海電鉄平野線平野駅跡プロムナード （平野区の紹介&gt;区の歴史・魅力）",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://travel.goo.ne.jp/place/27000251699/",
+        "snippet": "昭和55(1980)年11月に廃止されたチンチン電車が走っていた南海電鉄平野線の軌道跡地に、昭和58(1983)年4月にプロムナードが設置された。六角駅舎や信号、レンガ敷きのレールなどが残る。 [最寄駅]平野(大阪メトロ)駅 平野(大阪)駅 [住所]大阪府大阪市平野区平野本町2丁目3 [ジャンル]通り・坂・橋",
+        "title": "旧南海電鉄平野線平野駅跡プロムナード - 平野(大阪メトロ) / 通り・坂・橋 - goo旅行",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.navitime.co.jp/poi?spt=02025.716976",
+        "snippet": "旧南海電鉄平野線平野駅跡プロムナード(大阪市平野区-通り)のスポット情報。旧南海電鉄平野線平野駅跡プロムナードの地図、アクセス、詳細情報、周辺スポット、口コミを掲載。また、最寄り駅(平野（Osaka Metro） 平野（関西本線） 駒川中野 )、最寄りバス停(背戸口四丁目 地下鉄平野 流町 ...",
+        "title": "「旧南海電鉄平野線平野駅跡プロムナード」(大阪市平野区-通り-〒547-0044)の地図/アクセス/スポット情報 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.jp/Attraction_Review-g298566-d12035915-Reviews-Promenade_Heiya-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "プロムナード平野(大阪市)に行くならトリップアドバイザーで口コミ(0件）、写真（0枚）、地図をチェック！プロムナード平野は大阪市で1,438位(1,441件中)の観光名所です。",
+        "title": "2020年 プロムナード平野へ行く前に！見どころ、営業時間、アクセスをチェック - トリップアドバイザー",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E9%87%8E%E9%A7%85_(Osaka_Metro)",
+        "snippet": "歴史. 旧南海平野線の西平野停留場、平野停留場の代替駅となっているが、平野線沿いではなく大阪内環状線と南港通とが交差する流町1丁目交差点に設けられた。 大阪内環状線を北へ進むと、約1.3km北にJR 平野駅 、約2.5km北にOsaka Metro千日前線 南巽駅がある。. 1980年（昭和55年）11月27日 - 谷町線 ...",
+        "title": "平野駅 (Osaka Metro) - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://travel.rakuten.co.jp/yado/spot/osaka/S27010036.html",
+        "snippet": "旧南海電鉄平野線平野駅跡プロムナード 周辺のホテル・旅館. BONFIRE HOSTEL Osaka [最安料金] 1,250 円～ （消費税込1,350円 ～） 〒558-0056大阪府大阪市住吉区万代東1-3-14 森脇ビル2階",
+        "title": "楽天トラベル:旧南海電鉄平野線平野駅跡プロムナード 周辺のホテル・旅館",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://suumo.jp/library/tf_27/sc_27126/to_0003301148/",
+        "snippet": "ザ・プロムナードb棟/大阪府大阪市平野区の新築マンション、中古マンション、賃貸のsuumo掲載情報がまとめて探せます ...",
+        "title": "【SUUMO】ザ・プロムナードB棟/大阪府大阪市平野区の物件情報",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://osaka-info.jp/page/maishima-seaside-promenade",
+        "snippet": "©osaka convention &amp; tourism bureau このページの問題を送信します 情報はシステム管理者に送信され、Webサイトの改善に役立てます。",
+        "title": "舞洲シーサイドプロムナード | OSAKA-INFO",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.city.osaka.lg.jp/toshikeikaku/page/0000196283.html",
+        "snippet": "平野区の都市景観資源について 大阪市では、平成16年度に平野区の都市景観資源（旧・指定景観形成物）2件を登録するとともに、平成23年度に平野区の都市景観資源の発掘のため、「わがまち自慢の景観」を募集し、大阪市都市景観委員会の審議を経て、..",
+        "title": "大阪市：平野区の都市景観資源 （…&gt;都市景観&gt;都市景観資源）",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270203/27070535/",
+        "snippet": "「プロムナードカフェ あべちか店」の運営者様・オーナー様は食べログ店舗準会員（無料）にご登録ください。 ご登録はこちら この店舗の関係者の方へ",
+        "title": "プロムナードカフェ あべちか店 （PROMENADE CAFE） - 天王寺駅前/カフェ [食べログ]",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "597025": {
+    "url": "https://www.yelp.com/biz/kens-bar-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AkBVpCzkuSubCN-uYyrAfQ/o.jpg",
+    "name": "KEN'S BAR",
+    "alias": "kens-bar-大阪市",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "大阪府大阪市平野区平野本町1-5-18",
+    "city_from_postal": "Hirano Ku",
+    "city": "Osaka",
+    "zip_code": "547-0044",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667915767",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.youtube.com/watch?v=kBzKnbj5qQY",
+        "snippet": "50+ videos Play all Mix - 平井堅 POP STAR@Ken&#39;s Bar 2014 Winter YouTube 大きな古時計 - 平井堅 Ken Hirai .( R&amp;B 節奏藍調，特別版 ) - Duration: 4:14.",
+        "title": "平井堅 POP STAR@Ken&#39;s Bar 2014 Winter - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7439007-Reviews-Ken_s_Bar-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Ken&#39;s Bar, Osaka: See unbiased reviews of Ken&#39;s Bar, one of 37,921 Osaka restaurants listed on Tripadvisor.",
+        "title": "Ken&#39;s Bar, Osaka - Restaurant Reviews &amp; Phone Number ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://twitter.com/kensBARosaka",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "twitter.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://kenhirai.jp/",
+        "snippet": "シンガーソングライター『平井堅（ひらいけん）』の所属事務所が運営する公式サイト。平井堅のニュース、プロフィール、ディスコグラフィー、ライブ情報、出演情報、グッズ、ファンクラブ案内などを掲載。",
+        "title": "【平井 堅】公式サイト┃Ken Hirai Official site",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270405/27052738/",
+        "snippet": "ken&#39;s bar/ケンズバー (平野（大阪メトロ）/バー)の店舗情報は食べログでチェック！ 口コミや評価、写真など、ユーザーに ...",
+        "title": "KEN&#39;S BAR （ケンズバー） - 平野（大阪メトロ）/バー [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://kensbar-bourbon.com/",
+        "snippet": "What&#39;s New; 2020/04/13(月) 【臨時休業】 「緊急事態宣言」を受け、5/6まで臨時休業を延期いたします。 2020/04/14(火)",
+        "title": "Ken&#39;s Bar京橋店 : What&#39;s New",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurants-g298566-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Best Dining in Osaka, Osaka Prefecture: See 166,350 Tripadvisor traveler reviews of 38,743 Osaka restaurants and search by cuisine, price, location, and more. Osaka. Osaka Tourism Osaka Hotels ... to his individual customers at the bar and had a genuine passion for what ...",
+        "title": "THE 10 BEST Restaurants in Osaka - Updated April 2020 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/CAFEandBAR.KENWEST/",
+        "snippet": "Cafe＆bar KEN WEST - 中央区北浜2－6－18, Osaka 541-0041 - Rated 4.9 based on 7 Reviews &quot;ハチノスグラタンが美味しい！",
+        "title": "Cafe＆bar KEN WEST - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g298566-d3922738-Reviews-Aji_Dokoro_Ken-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Spise middag i Osaka: Se anmeldelser fra TripAdvisor-reisende av 37 654restauranter i Osaka, og søk etter kjøkken, pris, sted og mer.",
+        "title": "Aji Dokoro Ken, Osaka - Restaurantanmeldelser - TripAdvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g298566-d9971850-Reviews-Chuo_Ken_Sennichi_Mae-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Chuo-Ken Sennichi Mae, Osaka: Se 5 objektive anmeldelser av Chuo-Ken Sennichi Mae, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 5 850 av 37 878 restauranter i Osaka.",
+        "title": "Chuo-Ken Sennichi Mae, Osaka - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "649723": {
+    "url": "https://www.yelp.com/biz/%E3%83%9E%E3%83%AB%E3%83%A8%E7%B2%BE%E8%82%89%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "マルヨ精肉店",
+    "alias": "マルヨ精肉店-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Butcher, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "大阪市平野区平野本町2-4-15",
+    "city_from_postal": "Hirano Ku",
+    "city": "Osaka",
+    "zip_code": "547-0044",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667917630",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.maruyoseinikuten.jp/",
+        "snippet": "マルヨ精肉店では、皆様に喜んでもらいたいから、笑顔にしたいから、素材にとことんこだわった美味しいものだけを食卓へお届けします！山形牛は口の中に入れると上品な脂の甘味と肉の旨味がぶわっと広がります。是非一度ご賞味ください。",
+        "title": "マルヨ精肉店｜山形牛の良質なステーキやコロッケなどの通販",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.maruyoseinikuten.jp/shop.html",
+        "snippet": "マルヨ精肉店の店舗案内です。当店は大阪府大阪市平野区にある50年以上続く精肉店です。所在地や電話番号・アクセス・営業時間などはこちらをご覧ください。素材にとことんこだわった最高の美味しさを食卓へお届けします！",
+        "title": "店舗案内｜アクセス・営業時間｜マルヨ精肉店・大阪市平野区",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270405/27115099/",
+        "snippet": "マルヨ精肉店 (平野（大阪メトロ）/その他)の店舗情報は食べログでチェック！ 口コミや評価、写真など、ユーザーによる ...",
+        "title": "マルヨ精肉店 - 平野（大阪メトロ）/その他 [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270405/27115099/dtlrvwlst/",
+        "snippet": "マルヨ精肉店 (平野（大阪メトロ）/その他)への口コミです。日本最大級のグルメサイト「食べログ」では、マルヨ精肉店の ...",
+        "title": "口コミ一覧 : マルヨ精肉店 - 平野（大阪メトロ）/その他 [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.globuya.com/JP/Osaka/473898969330658/%E8%82%89%E3%81%AF%E3%83%9E%E3%83%AB%E3%83%A8",
+        "snippet": "肉はマルヨ, 大阪市平野区平野本町2－4－15, Osakaの連絡先情報、マップ、方向、お問い合わせフォーム、営業時間、サービス、評価、写真、動画、お知らせ。",
+        "title": "肉はマルヨ, 大阪市平野区平野本町2－4－15, Osaka (2020)",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.navitime.co.jp/category/0203001/27209/",
+        "snippet": "大阪府守口市の精肉/鮮魚をご紹介。マルニシ食品やマルヨ食品などの住所や地図、電話番号や営業時間、サービス内容など ...",
+        "title": "大阪府守口市の精肉/鮮魚一覧 - NAVITIME",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://map.goo.ne.jp/place/2001578476/",
+        "snippet": "牛肉のマルヨ 食肉 五所川原駅から徒歩3分. 工藤精肉店 食肉 津軽五所川原駅から徒歩4分. もっと見る",
+        "title": "マルヨ精肉店 - 五所川原 / 食肉 - goo地図",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pages/%E8%82%89%E3%81%AF%E3%83%9E%E3%83%AB%E3%83%A8/473898969330658",
+        "snippet": "肉はマルヨ, 大阪府大阪市. 172 likes. ... Butcher Shop in Osaka. 4.4. 4.4 out of 5 stars. Closed Now. Community See All. 172 people like this. 175 people follow this. 163 check-ins. About See All +81 6-6791-7630. Contact 肉はマルヨ on Messenger. ... あめ専門店 ...",
+        "title": "肉はマルヨ - Osaka | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://loco.yahoo.co.jp/place/g-eAfMM8J7SdE/review/",
+        "snippet": "マルヨ精肉店(大阪府大阪市平野区平野本町/デリカテッセン)の口コミ・レビュー一覧。施設情報、写真、地図など、グルメ ...",
+        "title": "口コミ：マルヨ精肉店(大阪府大阪市平野区平野本町/デリカテッセン) - Yahoo!ロコ",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.maidokodemo.jp/mb/osaka/user.php?act=Mb_FroUsr_RetrievalStore&storeId=12317&param=details",
+        "snippet": "マルヨ精肉店 （平野南海商店街） 平野南海商店街にずっと昔からあるお肉屋さんです。 当店では、揚げたてあつあつ美味しいコロッケも販売しております。",
+        "title": "マルヨ精肉店 （平野南海商店街）",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "679036": {
+    "url": "https://www.yelp.com/biz/%E3%83%88%E3%83%AD%E3%83%AF-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9hmkbvXuuV13G2wk6SWTvQ/o.jpg",
+    "name": "Trois 3",
+    "alias": "トロワ-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, Cafes, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "平野区平野本町3-5-3",
+    "city_from_postal": "Hirano Ku",
+    "city": "Osaka",
+    "zip_code": "547-0044",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667771872",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270405/27054996/",
+        "snippet": "仕事で平野区までやってきましたv(´ `*) ひと仕事終えて、お茶をしたくて検索していたら、こちらのパン屋さんが気になって、訪問してみることにしました 住宅街の一角にあって、古民家をリノベーションしたお店のようですね(≧∇≦)b イートインも出来るようですが、テイクアウトしました。",
+        "title": "トロワ （trois 3） - 平野（大阪メトロ）/パン [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270405/27054996/dtlrvwlst/",
+        "snippet": "トロワ/trois 3 (平野（大阪メトロ）/パン)への口コミです。日本最大級のグルメサイト「食べログ」では、トロワ/trois 3の ...",
+        "title": "口コミ一覧 : トロワ （trois 3） - 平野（大阪メトロ）/パン [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://trois3.co.jp/office",
+        "snippet": "OSAKA HEAD OFFICE. UMEDA BRANCH OFFICE. Copyright © 2017 TROIS Co., Ltd. All rights reserved.",
+        "title": "オフィス紹介 | 株式会社トロワ",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.imdb.com/title/tt0418604/",
+        "snippet": "Directed by Sylvain White. With Brian White, Patrice Fisher, Reagan Gomez-Preston, Chris Richardson. When a hip-hop promoter is bailed out of a hefty debt by a club owner, he becomes one of her call boys and nearly loses his life in the process.",
+        "title": "Trois 3: The Escort (Video 2004) - IMDb",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://3-osaka.booked.net/",
+        "snippet": "今哲民宿-3 - Situated in Minami district, 今哲民宿-3 apartment offers a well-equipped accommodation with an elevator and a storage for belongings. Tsutenkaku is approximately 15 minutes&#39; walk from the venue.",
+        "title": "°HOTEL 今哲民宿-3 OSAKA (Japan) | BOOKED",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.3trois3.com/",
+        "snippet": "Bien que les prix aient baissé depuis fin mars dans la plupart des pays (de 3% chez les principaux producteurs européens à plus de 20% au Brésil), la baisse de 39% du prix américain est à souligner, qui atteint un creux saisonnier historique. Vous pouvez consulter les prix dans notre rubrique Économie.",
+        "title": "Home - 3trois3, Le site de la filière porc",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.route2.co.jp/Trois/",
+        "snippet": "当サイト内に掲載されている画像・文章等の全ての権利は（有）ルートツーにあります。 掲載された画像等を無断で転載、引用、複製等は固くお断り致します。",
+        "title": "Trois HomePage - Route2",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=SkLFRj9WmE8",
+        "snippet": "This feature is not available right now. Please try again later.",
+        "title": "Judo Grand-Slam Osaka 2019: Day 3 Commentated - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attractions-g298566-Activities-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Book your tickets online for the top things to do in Osaka, Japan on Tripadvisor: See 122,572 traveler reviews and photos of Osaka tourist attractions. Find what to do today, this weekend, or in April. We have reviews of the best places to see in Osaka. Visit top-rated &amp; must-see attractions.",
+        "title": "THE 15 BEST Things to Do in Osaka - 2020 (with Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.city.settsu.osaka.jp/chuugakkou/3/index.html",
+        "snippet": "3.在校中・・・安全な場所に避難し、安全を確認の上保護者に引き渡す。 4.下校中・・・危険な場所を避け、安全な場所に一時避難した後、原則として速やかに帰宅する。 震度5弱未満の地震（余震）が発生した場合",
+        "title": "第三中学校|摂津市 - Settsu",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

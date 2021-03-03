@@ -1,0 +1,120 @@
+{
+  "1872": {
+    "url": "https://www.yelp.com/biz/restaurante-o-z%C3%A9-pacheco-gondomar?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurante o Zé Pacheco",
+    "alias": "restaurante-o-zé-pacheco-gondomar",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Meat Shops, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "R. Dom António Castro Meireles, 987/907",
+    "city_from_postal": "Baguim Do Monte",
+    "city": "Gondomar",
+    "zip_code": "4435-666",
+    "country_code": "PT",
+    "state_code": "13",
+    "phone": "+351224898662",
+    "review_count": 1,
+    "snippets": []
+  },
+  "298346": {
+    "url": "https://www.yelp.com/biz/atlantiko-regional-porto?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cdA6Phi-qiQwvpWcNE10xg/o.jpg",
+    "name": "Atlantiko Regional",
+    "alias": "atlantiko-regional-porto",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "R. Vasco da Gama, 1137",
+    "city_from_postal": "Baguim Do Monte",
+    "city": "Porto",
+    "zip_code": "4435-835",
+    "country_code": "PT",
+    "state_code": "13",
+    "phone": "+351224210359",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.facebook.com/atlantikogrelhadosdebaguim/",
+        "snippet": "Atlantiko Regional - Rua Vasco da Gama 1137, 4435-835 Baguim Do Monte, Porto, Portugal - Rated 4.9 based on 54 Reviews &quot;Muito bom. Francesinhas top. Boa...",
+        "title": "Atlantiko Regional - Home - Baguim Do Monte, Porto ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/atlantikogrelhadosdebaguim/reviews",
+        "snippet": "Atlantiko Regional - Rua Vasco da Gama 1137, 4435-835 Baguim Do Monte, Porto, Portugal - Rated 4.9 based on 54 Reviews &quot;Muito bom. Francesinhas top. Boa...",
+        "title": "Atlantiko Regional - Reviews - Baguim Do Monte, Porto ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/atlantikogrelhadosdebaguim/posts",
+        "snippet": "Atlantiko Regional - Rua Vasco da Gama 1137, 4435-835 Baguim Do Monte, Porto, Portugal - Rated 4.9 based on 54 Reviews &quot;O Batizado no Altlantiko Regional...",
+        "title": "Atlantiko Regional - Posts - Baguim Do Monte, Porto ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/saboratlantiko",
+        "snippet": "Sabor Atlantiko, porto. 1,006 likes · 7 talking about this. SABOR ATLANTIKO - Porto RESTAURANTE- CERVEJARIA Telefone: 228 314 515",
+        "title": "Sabor Atlantiko - Porto, Portugal - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pt-pt.facebook.com/atlantikogrelhadosdebaguim/",
+        "snippet": "Atlantiko Regional – Rua Vasco da Gama 1137, 4435-835 Baguim Do Monte, Porto, Portugal – Classificada com 4.9 com base em 54 críticas &quot;Muito bom....",
+        "title": "Atlantiko Regional - Página inicial - Baguim Do Monte ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pt-pt.facebook.com/atlantikogrelhadosdebaguim/posts/",
+        "snippet": "Atlantiko Regional – Rua Vasco da Gama 1137, 4435-835 Baguim Do Monte, Porto, Portugal – Classificada com 4.9 com base em 54 críticas &quot;O Batizado no...",
+        "title": "Atlantiko Regional - Publicações - Baguim Do Monte, Porto ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pt-pt.facebook.com/saboratlantiko/",
+        "snippet": "Sabor Atlantiko, Porto, 1044 gostos · 120 falam sobre isto. SABOR ATLANTIKO - Porto RESTAURANTE- CERVEJARIA Telefone: 228 314 515",
+        "title": "Sabor Atlantiko - Porto | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://de-de.facebook.com/atlantikogrelhadosdebaguim",
+        "snippet": "Atlantiko Regional – Rua Vasco da Gama 1137, 4435-835 Baguim Do Monte, Porto, Portugal – Mit 4.9 bewertet, basierend auf 54 Bewertungen „Muito bom....",
+        "title": "Atlantiko Regional - Startseite - Baguim Do Monte, Porto ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ja-jp.facebook.com/atlantikogrelhadosdebaguim/reviews/",
+        "snippet": "Atlantiko Regional - 「いいね！」1,128件 · 1人が話題にしています · 596人がチェックインしました - Atlantiko Regional é o mais recente restaurante de Baguim do Monte. Prometemos um serviço de qualidade!! Aceitamos reservas para...",
+        "title": "Atlantiko Regional - レビュー - Baguim Do Monte, Porto ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.saboratlantiko.com/home",
+        "snippet": "Rua Oliveira Monteiro, 1057 4250-358 Porto 22 831 4515 Segunda a Sábado 8h às 24h",
+        "title": "Sabor Atlantiko",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "645578": {
+    "url": "https://www.yelp.com/biz/jos%C3%A9-gadelho-castro-gondomar?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "José Gadelho Castro",
+    "alias": "josé-gadelho-castro-gondomar",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 4.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Baguim Do Monte",
+    "city": "Gondomar",
+    "zip_code": "4435-755",
+    "country_code": "PT",
+    "state_code": "13",
+    "phone": "+351224892758",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "35392": {
+    "url": "https://www.yelp.com/biz/el-cabildo-sevilla?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qTtZkGn6ln4zcS_K6qmCfQ/o.jpg",
+    "name": "El Cabildo",
+    "alias": "el-cabildo-sevilla",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Spanish, ",
+    "rating": 3.0,
+    "price": "€€",
+    "address": "Plaza del Cabildo, s/n",
+    "city_from_postal": "Aznalcázar",
+    "city": "Seville",
+    "zip_code": "41849",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34954227970",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://restauranteelcabildo.com/",
+        "snippet": "La plaza del Cabildo, el barrio monumental de Sevilla. El conjunto monumental de Sevilla declarado por la UNESCO, Patrimonio de la Humanidad, en el que se sitúan la Catedral y la Giralda, el Archivo de Indias y el Real Alcázar, conforman el entorno de la plaza del Cabildo.",
+        "title": "Restaurante El Cabildo - Restaurante El Cabildo",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g187443-d1788678-Reviews-Restaurante_El_Cabildo-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Reserve a table at Restaurante El Cabildo, Seville on Tripadvisor: See 152 unbiased reviews of Restaurante El Cabildo, rated 3.5 of 5 on Tripadvisor and ranked #1,260 of 2,885 restaurants in Seville.",
+        "title": "Restaurante El Cabildo, Seville - Menu, Prices, Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g187443-d1788678-Reviews-Restaurante_El_Cabildo-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Reserve a table at Restaurante El Cabildo, Seville on Tripadvisor: See 152 unbiased reviews of Restaurante El Cabildo, rated 3.5 of 5 on Tripadvisor and ranked #1,259 of 2,883 restaurants in Seville.",
+        "title": "RESTAURANTE EL CABILDO, Seville - Updated 2020 Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://restaurantguru.com/El-Cabildo-Seville",
+        "snippet": "El Cabildo has good cortado among its drinks. A number of reviewers consider the staff accommodating. Service at this place is something one can call prompt. Attractive prices are what you will pay for your meal. At this spot, people can enjoy the homey ambiance and modern decor. But this restaurant hasn&#39;t received a high rating on the Trip site.",
+        "title": "El Cabildo in Seville - Restaurant menu and reviews",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.fr/Restaurant_Review-g187443-d1788678-Reviews-Restaurante_El_Cabildo-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Réserver une table Restaurante El Cabildo, Séville sur Tripadvisor : consultez 152 avis sur Restaurante El Cabildo, noté 3,5 sur 5 sur Tripadvisor et classé #1 259 sur 2 884 restaurants à Séville.",
+        "title": "Restaurante El Cabildo, Séville - Menu, Prix, Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.catedraldesevilla.es/culto/el-cabildo/",
+        "snippet": "El Archivo de la Catedral de Sevilla debemos entenderlo como un “centro de Archivo” en el que se custodia un fondo archivístico vertebrador, el Archivo Capitular, generado por el Cabildo de la Catedral desde su establecimiento por Fernando III en 1248 hasta nuestros días, en torno al cual se han depositado otros fondos de Archivos, cuyas ...",
+        "title": "El Cabildo - Catedral de Sevilla",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g187443-d1788678-Restaurante_El_Cabildo-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Restaurants near Restaurante El Cabildo, Seville on Tripadvisor: Find traveler reviews and candid photos of dining near Restaurante El Cabildo in Seville, Province of Seville.",
+        "title": "Restaurants Near Restaurante El Cabildo, Seville, Spain",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g187443-d1788678-Reviews-Restaurante_El_Cabildo-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Reserva Restaurante El Cabildo, Sevilla en Tripadvisor: Consulta 152 opiniones sobre Restaurante El Cabildo con puntuación 3,5 de 5 y clasificado en Tripadvisor N.°1.259 de 2.884 restaurantes en Sevilla.",
+        "title": "RESTAURANTE EL CABILDO, Sevilla - Menú, Precios y ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g187443-d1788678-Reviews-Restaurante_El_Cabildo-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Restaurante El Cabildo, Sevilla: Se 152 objektive anmeldelser av Restaurante El Cabildo, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 1 259 av 2 884 restauranter i Sevilla.",
+        "title": "Restaurante El Cabildo, Sevilla - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g187443-d1788678-i132861999-Restaurante_El_Cabildo-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Restaurante El Cabildo, Seville Picture: EL CABILDO - Check out Tripadvisor members&#39; 77,951 candid photos and videos of Restaurante El Cabildo",
+        "title": "EL CABILDO - Picture of Restaurante El Cabildo, Seville ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "363537": {
+    "url": "https://www.yelp.com/biz/mercado-de-la-plaza-del-cabildo-sevilla?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xZ32aYteVQQchzBNmQOmIQ/o.jpg",
+    "name": "Mercado de la Plaza del Cabildo",
+    "alias": "mercado-de-la-plaza-del-cabildo-sevilla",
+    "main_category": "Local Flavor",
+    "sub_categories": "Local Flavor, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Plaza del Cabildo, s/n",
+    "city_from_postal": "Aznalcázar",
+    "city": "Seville",
+    "zip_code": "41849",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "",
+    "review_count": 3,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g187443-d12100800-Reviews-Plaza_del_Cabildo-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "We recommend booking Plaza del Cabildo tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 3 Plaza del Cabildo tours on Tripadvisor",
+        "title": "Plaza del Cabildo (Seville) - 2020 All You Need to Know ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://es.wikipedia.org/wiki/Plaza_del_Cabildo_(Sevilla)",
+        "snippet": "La plaza del Cabildo se encuentra ubicada en el barrio del Arenal, en el distrito Casco Antiguo de la ciudad española de Sevilla.Construida en el solar sobre el que se edificaba el Colegio de San Miguel, derribado a mediados del siglo XX, y que pertenecía al Cabildo de la Catedral.",
+        "title": "Plaza del Cabildo (Sevilla) - Wikipedia, la enciclopedia libre",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.eldiario.es/andalucia/pasaporte/Mercadillo_Plaza_del_Cabildo-coleccionismo_Sevilla-Plaza_del_Cabildo-Sevilla_0_985851406.html",
+        "snippet": "La Avenida de la Constitución de Sevilla, casi vacía, descansa de las pisadas. Se despereza la Catedral y, junto a ella, en la Plaza del Cabildo, ya se monta el mercadillo tradicional de ...",
+        "title": "Mercadillo de la Plaza del Cabildo: Cuatro décadas de ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://sevillapedia.wikanda.es/wiki/Plaza_del_Cabildo_(Sevilla)",
+        "snippet": "La Plaza del Cabildo es una pequeña placita semicircular poco conocida por los propios sevillanos, ubicada en el barrio del Arenal de Sevilla, junto a la Catedral. Los accesos a la plaza son través de los edificios que la forman, dando a las calles Arfe y Almirantazgo, y a la Avenida de la Constitución.",
+        "title": "Plaza del Cabildo (Sevilla) - Sevillapedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://onsevilla.com/mercado-coleccionistas-plaza-cabildo-sevilla",
+        "snippet": "OnSevilla.Todos los domingos del año, por la mañana, se celebra en la ciudad de Sevilla el Mercado de coleccionistas de la plaza del Cabildo. Se organiza en esta ubicación desde el año 1977, anteriormente tenía lugar en la placita de Santa Marta.",
+        "title": "Mercado de coleccionistas de la plaza del Cabildo de ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.monnuage.fr/point-d-interet/place-del-cabildo-a31207",
+        "snippet": "La Plaza del Cabildo est un lieu calme situé dans le centre historique, en face de la cathédrale. Autour de la place on peut trouver de nombreux restaurants où bien manger à un prix raisonnable. Le dimanche, il y a un marché aux puces où on trouve des timbres, des ... FNAC Seville. L&#39;hôpital de la ...",
+        "title": "Place del Cabildo à Séville: 12 expériences et 31 photos",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Attraction_Review-g187443-d12100800-Reviews-Plaza_del_Cabildo-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Recomendamos reservar visitas guiadas de Plaza del Cabildo con antelación para reservar la plaza. Si reserva con Tripadvisor, puede cancelar de forma gratuita hasta 24 horas antes del inicio de la visita para obtener un reembolso completo. Ver las 3 visitas guiadas de Plaza del Cabildo en Tripadvisor",
+        "title": "Plaza del Cabildo (Sevilla) - 2020 Qué saber antes de ir ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g187443-d624429-Reviews-Mercado_de_Triana-Seville_Province_of_Seville_Andalucia.html",
+        "snippet": "Experience one of Seville’s top attractions during a small-group tour in the company of an art historian guide. Learn more than you would if exploring independently, enjoy personal attention, and beat the typically long queues thanks to skip-the-line privileges, which especially benefits travelers with limited time in the region.",
+        "title": "Mercado de Triana (Seville) - 2020 All You Need to Know ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.nosmovemoscontigo.com/mercadillo-plaza-del-cabildo/",
+        "snippet": "El Mercado de la Plaza del Cabildo es un espacio ideal para visitar y descubrir pequeñas antigüedades en tus mañanas de domingo. En sus diferentes puestos puedes encontrar una gran variedad de reliquias antiguas como monedas, billetes, sellos, minerales, figuras y objetos eclesiásticos… Todo tipo de detalles para aquellos que les apasione el coleccionismo y conservar antigüedades en las ...",
+        "title": "Descubre el Mercadillo de la Plaza del Cabildo - Nos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/es/veoapartment-catedral-cabildo.fr.html",
+        "snippet": "Situé dans le Casco Antiguo de Séville, à moins de 1,2 km de la Plaza de Armas et à 2,2 km de la Plaza de España, le Catedral Cabildo est un hébergement offrant une vue sur la ville. Cet hébergement climatisé se trouve à 800 mètres du pont de Triana-Isabelle II.",
+        "title": "Catedral Cabildo, Séville – Tarifs 2020",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "372544": {
+    "url": "https://www.yelp.com/biz/helvetic-heli-neerach?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Helvetic-Heli",
+    "alias": "helvetic-heli-neerach",
+    "main_category": "Active Life",
+    "sub_categories": "Active Life, Transportation, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Binzmühlestrasse 1",
+    "city_from_postal": "Neerach",
+    "city": "Neerach",
+    "zip_code": "8173",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41445860032",
+    "review_count": 1,
+    "snippets": []
+  }
+}

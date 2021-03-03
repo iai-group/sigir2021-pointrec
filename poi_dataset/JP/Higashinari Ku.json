@@ -1,0 +1,2401 @@
+{
+  "18751": {
+    "url": "https://www.yelp.com/biz/%E6%A5%B5%E6%A5%BD%E3%81%86%E3%81%A9%E3%82%93tku-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/R7CtGmemAKp2xRf3Dhii2w/o.jpg",
+    "name": "Gokuraku Udon TKU",
+    "alias": "極楽うどんtku-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Udon, Izakaya, ",
+    "rating": 4.5,
+    "price": "￥",
+    "address": "東成区東小橋1-1-4",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669811333",
+    "review_count": 6,
+    "snippets": [
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g298566-d7439094-Reviews-Gokuraku_Udon_Tku-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Gokuraku Udon Tku, Osaka: Se 19 objektive anmeldelser av Gokuraku Udon Tku, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 929 av 37 920 restauranter i Osaka.",
+        "title": "Gokuraku Udon Tku, Osaka - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7439094-Reviews-Gokuraku_Udon_Tku-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Gokuraku Udon Tku, Osaka: See 18 unbiased reviews of Gokuraku Udon Tku, rated 4 of 5 on Tripadvisor and ranked #1,063 of 37,671 restaurants in Osaka.",
+        "title": "Gokuraku Udon Tku, Osaka - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g298566-d7439094-i142336271-Gokuraku_Udon_Tku-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Gokuraku Udon Tku, Osaka Picture: Tku - Check out Tripadvisor members&#39; 62,644 candid photos and videos of Gokuraku Udon Tku. Osaka. Osaka Tourism Osaka Hotels Osaka Bed and Breakfast Osaka Vacation Rentals Osaka Vacation Packages Flights to Osaka Osaka Restaurants Things to Do in Osaka Osaka Shopping",
+        "title": "Tku - Picture of Gokuraku Udon Tku, Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d15292968-Reviews-Gokuraku_Udon_TKU_Lucua_Osaka-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Gokuraku Udon TKU Lucua Osaka, Osaka: See 4 unbiased reviews of Gokuraku Udon TKU Lucua Osaka, rated 4 of 5 on Tripadvisor and ranked #5,487 of 37,915 restaurants in Osaka.",
+        "title": "Gokuraku Udon TKU Lucua Osaka - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g298566-d7439094-i156541833-Gokuraku_Udon_Tku-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Gokuraku Udon Tku, Osaka Picture: 2015年10月訪問 - Check out Tripadvisor members&#39; 50,310 candid photos and videos of Gokuraku Udon Tku. Osaka. Osaka Tourism Osaka Hotels Osaka Bed and Breakfast Osaka Vacation Rentals Osaka Vacation Packages Flights to Osaka Osaka Restaurants Things to Do in Osaka",
+        "title": "2015年10月訪問 - Picture of Gokuraku Udon Tku, Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g298566-d7439094-i142336288-Gokuraku_Udon_Tku-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Gokuraku Udon Tku, Osaka Picture: Tku - Check out Tripadvisor members&#39; 58,986 candid photos and videos of Gokuraku Udon Tku. Osaka. Osaka Tourism Osaka Hotels Osaka Bed and Breakfast Osaka Vacation Rentals Osaka Vacation Packages Flights to Osaka Osaka Restaurants Things to Do in Osaka Osaka Shopping",
+        "title": "Tku - Picture of Gokuraku Udon Tku, Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g298566-d7439094-i156541831-Gokuraku_Udon_Tku-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Gokuraku Udon Tku, Osaka Picture: 2015年10月訪問 - Check out Tripadvisor members&#39; 50,297 candid photos and videos of Gokuraku Udon Tku. Osaka. Osaka Tourism Osaka Hotels Osaka Bed and Breakfast Osaka Vacation Rentals Osaka Vacation Packages Flights to Osaka Osaka Restaurants Things to Do in Osaka",
+        "title": "2015年10月訪問 - Picture of Gokuraku Udon Tku, Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g298566-d7439094-i142336269-Gokuraku_Udon_Tku-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Gokuraku Udon Tku, Osaka Picture: Tku - Check out Tripadvisor members&#39; 50,217 candid photos and videos of Gokuraku Udon Tku. Osaka. Osaka Tourism Osaka Hotels Osaka Bed and Breakfast Osaka Vacation Rentals Osaka Vacation Packages Flights to Osaka Osaka Restaurants Things to Do in Osaka Osaka Shopping",
+        "title": "Tku - Picture of Gokuraku Udon Tku, Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g298566-d7439094-i156541837-Gokuraku_Udon_Tku-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Gokuraku Udon Tku, Osaka Picture: 2015年10月訪問 - Check out Tripadvisor members&#39; 62,744 candid photos and videos of Gokuraku Udon Tku. Osaka. Osaka Tourism Osaka Hotels Osaka Bed and Breakfast Osaka Vacation Rentals Osaka Vacation Packages Flights to Osaka Osaka Restaurants Things to Do in Osaka",
+        "title": "2015年10月訪問 - Picture of Gokuraku Udon Tku, Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://gokurakuudon.com/",
+        "snippet": "極楽うどんtku ルクア大阪店. 極楽うどんグループ初の商業施設出店。出店費用の高い場所なのに、さらに高額厨房機器を導入して世界でここだけでしか食べれないカレーうどんを提供させて頂いてます。",
+        "title": "極楽うどんグループ - gokurakuudon.com",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "33936": {
+    "url": "https://www.yelp.com/biz/%E5%B1%B1%E5%AF%8C-%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "山富",
+    "alias": "山富-大阪市-東成区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Seafood, Blowfish, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "大今里南6丁目16-20",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市 東成区",
+    "zip_code": "537-0013",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669811595",
+    "review_count": 1,
+    "snippets": []
+  },
+  "38172": {
+    "url": "https://www.yelp.com/biz/r-piano-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Mjsvh_Fb1xgK9btM4JCreg/o.jpg",
+    "name": "R.PIANO",
+    "alias": "r-piano-大阪市",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Jazz & Blues, Coffee & Tea, Education, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "東成区中道2丁目-4",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0025",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://en.m.wikipedia.org/wiki/Renzo_Piano",
+        "snippet": "Renzo Piano OMRI OMCA ... The 1970 Osaka structure was greatly admired by the British architect Richard Rogers, and in 1971 the two men decided to open their own firm, Piano and Rogers, where they worked together from 1971 to 1977.",
+        "title": "Renzo Piano - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/rpianolesson/",
+        "snippet": "Osaka 5370025. Get Directions +81 6-6972-2303. Contact R・ピアノ教室 on Messenger. ekpiano.exblog.jp/26541048. Music Lessons &amp; Instruction School. Page Transparency See More. Facebook is showing information to help you better understand the purpose of a Page.",
+        "title": "R・ピアノ教室 - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.floornature.com/renzo-piano-15/",
+        "snippet": "From the Italian Pavilion at Expo ‘70 in Osaka, to the aforementioned Centre Pompidou in Paris (1977), Piano has produced numerous representative projects, many of which with his firm Renzo Piano Building Workshop (established in Genoa in 1985, later opening offices in Paris and Osaka), bringing together architects, engineers and designers ...",
+        "title": "Biography of the architect: Renzo Piano",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/rpianolesson/posts/",
+        "snippet": "? ハイドンのピアノ3重奏聴いてみよう。. ? ハイドンが一番気に入ってた自作の歌を歌おう . https://ekpiano.exblog.jp/29604378/ 最後は、「起立！礼！先生ありがとうございましたー！」 生徒達（ほんとは、お客様）は、私の歳を上回るおじさま達もいっぱい！",
+        "title": "R・ピアノ教室 - Posts | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://it.wikipedia.org/wiki/Renzo_Piano",
+        "snippet": "Renzo Piano (Genova, 14 settembre 1937) è un architetto e senatore a vita italiano.. Residente a Parigi, è considerato da molti uno dei più influenti, prolifici e attivi architetti a livello internazionale del XX e XXI secolo, vincitore di numerosi premi, tra cui il Premio Pritzker consegnatogli dal Presidente degli Stati Uniti Bill Clinton alla Casa Bianca nel 1998.",
+        "title": "Renzo Piano - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=o5_N_F0TVss",
+        "snippet": "https://bit.ly/2uHUTKR - Renzo e Carlo Piano presentano il loro libro &quot;Atlantide. Viaggio alla ricerca della bellezza&quot;. Assieme a loro Michele Serra. Renzo Piano, con gli occhi di chi sa misurare ...",
+        "title": "Renzo Piano e Carlo Piano: Atlantide - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/rpianolesson/posts/1088876837915382",
+        "snippet": "おはようございます。 今日は、大阪教室で生徒たちによるプライベートコンサートがあります。 場所: r・ピアノ教室 16時〜 26日の発表会に向かって頑張っている生徒たちの発表、どうぞ聴きにいらしてくださいね。",
+        "title": "R・ピアノ教室 - おはようございます。 今日は、大阪教室で生徒たちによるプライベートコンサートがあります ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=5cYkesAEmR8",
+        "snippet": "Renzo Piano ha solo 40 anni, ma è già un celebre architetto, chiamato a realizzare importanti progetti in tutto il mondo: nascono così la se- de della Menil Collection di Houston, in Texas, l ...",
+        "title": "01 - RENZO PIANO - Artigianalità e tecnologia - Luca ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/rpianolesson/posts/1091467707656295",
+        "snippet": "先週末は、大阪教室で、生徒たちが普段の練習を発表し合うプライベートコンサートでした。 演奏の後は、聴いた人達が意見を言います。 弾く人も、聴く人もそれぞれが音楽と向き合って、エールを送りあえる関係って素敵だなぁって思ってます。 2ヶ月に一回やってきたプライベート ...",
+        "title": "R・ピアノ教室 - 先週末は、大阪教室で、生徒たちが普段の練習を発表し合うプライベートコンサートでした ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=rExcQ5nm_yU",
+        "snippet": "&quot;Let Her Go&quot; - Passenger (Grand Piano Cover) - Costantino Carrara Costantino Carrara Music. Loading... Unsubscribe from Costantino Carrara Music? Cancel Unsubscribe. Working...",
+        "title": "&quot;Let Her Go&quot; - Passenger (Grand Piano Cover) - Costantino ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "42455": {
+    "url": "https://www.yelp.com/biz/%E3%82%A6%E3%83%81%E3%83%A4%E3%83%99%E3%82%A4%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5h",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JPqAa7xA0FY8MCZ8L44lcg/o.jpg",
+    "name": "Uchiya Bake Shop",
+    "alias": "ウチヤベイクショップ-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Desserts, ",
+    "rating": 4.0,
+    "price": "￥￥",
+    "address": "東成区大今里西1丁目11-8",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0014",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81643076951",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.uchiyabakeshop.com/",
+        "snippet": "2019年令和元年に伊勢神宮に奉納「たまごのタルト」や、レシピ、サイズ、食感などを見直し新しく作り上げた、やみつきカヌレなどウチヤベイクショップならではの焼き菓子をお届けするスイーツショップ。又、たまごタルトの他、シーズンにはタピオカミルクティーやアイスなど皆様に喜ん ...",
+        "title": "エッグタルト＆カヌレ | ウチヤベイクショップ Uchiyabakeshop | 日本",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d10459860-Reviews-Uchiya_Bake_Shop_bois_maison-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Uchiya Bake Shop bois maison, Osaka: See 4 unbiased reviews of Uchiya Bake Shop bois maison, rated 4 of 5 on Tripadvisor and ranked #8,869 of 37,921 restaurants in Osaka.",
+        "title": "Uchiya Bake Shop bois maison, Osaka - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/uchiyabakeshop",
+        "snippet": "Uchiya Bake Shop （ウチヤベイクショップ）, 大阪市. 1,023 likes · 38 talking about this. UchiyaBakeShopは2014年に1号店がOPEN。国内初の日本版エッグタルトを提供するカヌレとタルトのスイーツショップ です。",
+        "title": "Uchiya Bake Shop （ウチヤベイクショップ） - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g14127623-d14209662-Reviews-Uchiya_Bake_Shop_Tanimachi_Porto_House-Chuo_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Uchiya Bake Shop Tanimachi Porto House, Chuo: See 2 unbiased reviews of Uchiya Bake Shop Tanimachi Porto House, rated 3.5 of 5 on Tripadvisor and ranked #1,486 of 3,624 restaurants in Chuo.",
+        "title": "Uchiya Bake Shop Tanimachi Porto House, Chuo - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.uchiyabakeshop.com/blank-2",
+        "snippet": "uchiyabakeshop 谷六ポルトハウス 大阪市中央区谷町6－10－18 TEL 070-5661-1040 営業時間 11時～19時00分 売り切れ次第閉店 ＊POPUP期間中は臨時で火曜・木曜がお休みになる場合がございます。",
+        "title": "店舗案内 | タルト&amp;カヌレ ウチヤベイクショップ",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.bakerias.com/JP/Osaka/592364967483521/Uchiya-Bake-Shop-%EF%BC%88%E3%82%A6%E3%83%81%E3%83%A4%E3%83%99%E3%82%A4%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%EF%BC%89",
+        "snippet": "Uchiya Bake Shop （ウチヤベイクショップ）がニュースとプロモを投稿した時に最初に知って当社にメールを送信する最初の人になりましょう。あなたのメールアドレスはその他の目的には使用されず、いつでもサブスクリプションを解除することができます。",
+        "title": "Uchiya Bake Shop （ウチヤベイクショップ）, 中央区谷町6-10-18, Osaka (2020)",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.ca/biz/uchiya-bake-shop-%E5%A4%A7%E9%98%AA%E5%B8%82",
+        "snippet": "Uchiya Bake Shop in Osaka, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Osaka and beyond. Uchiya Bake Shop - 11 Photos - Desserts - 北区角田町8-47, 北区, Osaka, 大阪府, Japan - Restaurant Reviews - Phone Number - Yelp",
+        "title": "Uchiya Bake Shop - 北区 - Osaka, 大阪府, Japan",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270204/27087895/",
+        "snippet": "ウチヤ ベイク ショップ 谷六 ポルトハウス/Uchiya Bake Shop (松屋町/洋菓子（その他）)の店舗情報は食べログでチェック！ 口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理メニューなどの詳細情報も充実。",
+        "title": "ウチヤ ベイク ショップ 谷六 ポルトハウス （Uchiya Bake Shop） - 松屋町/洋菓子（その他 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.it/Restaurant_Review-g298566-d10459860-Reviews-Uchiya_Bake_Shop_bois_maison-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Uchiya Bake Shop bois maison, Osaka: su Tripadvisor trovi 4 recensioni imparziali su Uchiya Bake Shop bois maison, con punteggio 4 su 5 e al n.8.845 su 37.924 ristoranti a Osaka.",
+        "title": "UCHIYA BAKE SHOP BOIS MAISON, Osaka - Ristorante ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/uchiyabakeshopimazato",
+        "snippet": "ウチヤベイクショップ今里の木のオウチ - 東成区大今里西1－11－8, Osaka 537-0014 - Rated 4.5 based on 1 Review &quot;久しぶりに美味いと思う洋菓子に出会いました。 パイ生地のタルトです。",
+        "title": "ウチヤベイクショップ今里の木のオウチ - Home | Facebook",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "93637": {
+    "url": "https://www.yelp.com/biz/%E9%B6%B4%E6%A9%8B%E3%81%BE%E3%81%90%E3%82%8D%E9%A3%9F%E5%A0%82-%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/va1_BKDLMVKwJ7cugC1vig/o.jpg",
+    "name": "Tsuruhashi maguroshokudo",
+    "alias": "鶴橋まぐろ食堂-大阪市-東成区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Izakaya, Seafood, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "東小橋3-18-9",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市 東成区",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669749779",
+    "review_count": 3,
+    "snippets": []
+  },
+  "112012": {
+    "url": "https://www.yelp.com/biz/%EF%BD%86%EF%BD%8F%EF%BD%8E%EF%BD%94%EF%BD%85-%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Ba",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LLeBjQ3MZCeAXU3Zcn3Ixw/o.jpg",
+    "name": "Ｆｏｎｔｅ",
+    "alias": "ｆｏｎｔｅ-大阪市-東成区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, ",
+    "rating": 3.0,
+    "price": "￥￥",
+    "address": "東小橋1丁目1-27",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市 東成区",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669811956",
+    "review_count": 1,
+    "snippets": []
+  },
+  "124218": {
+    "url": "https://www.yelp.com/biz/%E6%9D%B1%E5%B0%8F%E6%A9%8B%E5%85%AC%E5%9C%92-%E5%A4%A7%E9%98%AA%E5%B8%82-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PRstVlytLpCyMVL4wy2c0w/o.jpg",
+    "name": "Higashikobashi Kouen",
+    "alias": "東小橋公園-大阪市-2",
+    "main_category": "Active Life",
+    "sub_categories": "Parks, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "東成区東小橋2-1",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667611770",
+    "review_count": 4,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7442713-Reviews-Senkatsutei-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Senkatsutei, Osaka: See unbiased reviews of Senkatsutei, one of 37,921 Osaka restaurants listed on Tripadvisor.",
+        "title": "Senkatsutei, Osaka - Restaurant Reviews &amp; Phone Number ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/jp/tokyo-dome-sapporo.html",
+        "snippet": "Rooms at Sapporo View Hotel Oodori Kouen feature calm colors and wooden highlights. The large windows let in plenty of natural light. Each room includes a flat-screen TV with satellite channels. Guests can rent a bicycle or car to explore the area, or stay in and unwind with a massage.",
+        "title": "Sapporo View Hotel Oodori Kouen, Japan - Booking.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g298566-d7441318-i192052021-Fonte-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Fonte, Osaka Picture: フォンテ - Check out Tripadvisor members&#39; 50,227 candid photos and videos of Fonte. Osaka. Osaka Tourism Osaka Hotels Osaka Bed and Breakfast Osaka Vacation Rentals Osaka Vacation Packages Flights to Osaka Osaka Restaurants Things to Do in Osaka Osaka Shopping Osaka Travel Forum",
+        "title": "フォンテ - Picture of Fonte, Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.ca/biz/%E9%B4%BB%E6%B1%A0%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89-%E6%9D%B1%E5%A4%A7%E9%98%AA%E5%B8%82",
+        "snippet": "鴻池スカイランド in Higashi-osaka, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Higashi-osaka and beyond.",
+        "title": "kounoikesukairando - Parks - 東大阪市北鴻池町1-18, Higashi-osaka ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.city.toyonaka.osaka.jp/machi/kouen_midori/kouen_sounding.files/senrihigashimachi.pdf",
+        "snippet": "テニスコート 花しょうぶ園・長谷池 千里東町公園 竹林 公園区域",
+        "title": "千里東町公園",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Y5rhlL7nQr0",
+        "snippet": "petite balade a vélo dans le parc Nagai, dans Osaka, au sud de Tennoji. petite balade a vélo dans le parc Nagai, dans Osaka, au sud de Tennoji. Skip navigation Sign in. Search.",
+        "title": "Nagai kouen Osaka - parc Nagai - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=6tSBeoWg2ks",
+        "snippet": "An amusement park that opened in 1957, Misaki Kouen features a zoo, rides, and a Dolphin show. This video shows 21-year old tigress Yume-chan (born April 15, 1991). While tigers in the wild rarely ...",
+        "title": "Tiger at Misaki Kouen Zoo, Osaka, Japan みさき公園のトラのユメちゃん ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://miyakojimaosaka.com/higashikema-kouen/",
+        "snippet": "毛馬地区にある「東毛馬公園（ひがしけまこうえん）」の情報をまとめました。東毛馬公園の基本情報名前東毛馬公園住所大阪府大阪市都島区毛馬町2-5最寄りのバス停・駅大東町地区毛馬地区遊具・遊具あり駐車場・駐輪場ないけど自転車は止められます2箇所道",
+        "title": "東毛馬公園【毛馬地区】 | 都島ブログ",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pages/OSAKAJOU-KOUEN/304537250418366",
+        "snippet": "OSAKAJOU KOUEN, Chiang Mai, Thailand. 1 like. Sushi Restaurant",
+        "title": "OSAKAJOU KOUEN - Chiang Mai, Thailand - Sushi Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.howto-osaka.com/en/special/other/misakipark/",
+        "snippet": "A perfect location facing Osaka Bay, it takes about 30min from Kansai Airport, about 50min from Namba, about 15min from Wakayamashi by Nankai Electric Railway. It is popular especially for the dolphin show which is the only one in Osaka and &#39;Wakuwaku train land&#39; where can experience and learn a lot about train.",
+        "title": "Welcome to MISAKI KOEN Amusement Park! - How to Enjoy OSAKA",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "136413": {
+    "url": "https://www.yelp.com/biz/section3-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6jNypFrQ7W6zGpWYAuMqlg/o.jpg",
+    "name": "SECTION3",
+    "alias": "section3-大阪市",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Music Venues, Coffee & Tea, ",
+    "rating": 5.0,
+    "price": "￥",
+    "address": "東成区東小橋3-14-29",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "http://section3.jp/",
+        "snippet": "大阪鶴橋 LIVE BAR Section3. ご予約・お問い合わせは こちら 〒537-0024 大阪市東成区東小橋3－14－29",
+        "title": "大阪・鶴橋 LIVE BAR section3",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLKxihemnctqneR5DE66EdAJ6b0OFzwruG",
+        "snippet": "Skip navigation Sign in. Search",
+        "title": "Popular Videos - section3 &amp; Osaka - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=KVhgz-oFEtk",
+        "snippet": "El Sr.Saravia! interpreta un Medley que incluye &quot;La Casa de la Bomba&quot;(Brighton 64),&quot;Demolición&quot;(Los Saicos) y &quot;You really got me&quot;(The Kinks)en su actuación en el Section 3 Live Bar,en Osaka ...",
+        "title": "Sr Saravia! Medley (live at Section3. Osaka,Japan)29/08 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=_WxrtVGLebw",
+        "snippet": "El Sr.Saravia! Interpreta &quot;I got soul&quot; en el Section3 Live Bar, en Osaka,Japón. Miércoles 29 de agosto de 2018 Más info: facebook.com/elsrsaravia srsaravia.b...",
+        "title": "Sr Saravia - I got soul (Live at Section3.Osaka,Japan ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ja.eventbu.com/osaka/satomin/8764228",
+        "snippet": "Satominワンマンライブ に Osaka, Section3, 月曜日, 02. 7月 2018 - 遂に！ ソロワンマンをやります！！ ぜひ遊びに来てください(`・ω・´) 衣装も豊富にご用意する予定(//ω//) カメラマンも募集でーす笑笑 まだ先ですが ご予定、スケジュールに チェックお願いしますm(__)m",
+        "title": "Satominワンマンライブ | イベント | Osaka",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=sZLVxgzDN_w",
+        "snippet": "ERIKO MUSIC LIVE at Section3 (tsuruhashi Osaka Japan) 2013.8.23 Shitagaki (Draft) Ienairiyuu(The reason why I don&#39;t say)",
+        "title": "ERIKO MUSIC LIVE at Section3 (tsuruhashi Osaka Japan) 2013 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://section3.jp/sp/topics.html",
+        "snippet": "大阪鶴橋 live bar section3. 本文 ... 〒537-0024 大阪市東成区東小橋3－14－29. osaka tsuruhashi live bar section3. section3は大阪・鶴橋のlive bar ...",
+        "title": "SECTION3",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.section3.jp/sp/index.html",
+        "snippet": "大阪鶴橋 live bar section3. 本文 ... ご予約・お問い合わせは こちら 〒537-0024 大阪市東成区東小橋3－14－29. osaka tsuruhashi live bar section3.",
+        "title": "SECTION3",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/livebarsection3/likes",
+        "snippet": "Section3, 大阪府大阪市. 205 likes. 大阪・鶴橋にあるLIVE BARです♪ アコースティックやニコ動系のライブ、アーティストがバーテンダーでお客様を迎えるバー営業など様々なジャンルのイベントを開催しています♪",
+        "title": "Section3 - Community | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=m4FHSaFQrS8",
+        "snippet": "Saori Furukawa music live 2013.10.5 Section3 Tsuruhashi Osaka",
+        "title": "Saori Furukawa music live 2013.10.5 Section3 Tsuruhashi Osaka",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "156930": {
+    "url": "https://www.yelp.com/biz/the-doghouse-inn-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "The Doghouse Inn",
+    "alias": "the-doghouse-inn-大阪市",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "東小橋3-14-3",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669723314",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.facebook.com/pages/category/Pub/The-Doghouse-Inn-208203055900279/",
+        "snippet": "The Doghouse Inn, 大阪市. 1,143 likes · 95 talking about this. 営業時間：夕方～0時 定休日：不定休",
+        "title": "The Doghouse Inn - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7440132-Reviews-The_Doghouse_Inn-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "The Doghouse Inn, Osaka: See unbiased reviews of The Doghouse Inn, rated 5 of 5 on Tripadvisor and ranked #12,667 of 37,921 restaurants in Osaka.",
+        "title": "The Doghouse Inn, Osaka - Restaurant Reviews &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.osakabarandpub.com/thedoghouseinn",
+        "snippet": "本格的な英国風パブとして2002年にオープンしました「the doghouse inn」です。 大都会の“ダウンタウン”鶴橋で美味しいシングルモルトのコレクションやスコッチ、世界のビールを思う存分楽しめます。",
+        "title": "ザ ドッグハウスイン | ザ・ドッグハウスイン",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270205/27002998/",
+        "snippet": "ザ ドッグハウスイン/The Doghouse Inn (鶴橋/パブ)の店舗情報は食べログでチェック！ 口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理メニューなどの詳細情報も充実。",
+        "title": "ザ ドッグハウスイン （The Doghouse Inn ） - 鶴橋/パブ [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.fr/Restaurant_Review-g298566-d7440132-Reviews-The_Doghouse_Inn-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "The Doghouse Inn, Osaka : consultez avis sur The Doghouse Inn, noté 5 sur 5 sur Tripadvisor et classé #12 667 sur 37 921 restaurants à Osaka.",
+        "title": "The Doghouse Inn, Osaka - Restaurant Avis &amp; Numéro de ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pages/%E3%82%B6-%E3%83%89%E3%83%83%E3%82%B0%E3%83%8F%E3%82%A6%E3%82%B9%E3%82%A4%E3%83%B3/159024797447966",
+        "snippet": "The Doghouse Inn added a new photo — with Satoshi Sugiyama at ザ ドッグハウスイン. February 25 at 5:09 PM · Osaka, Japan · The Doghouse Inn added a new photo — with Kentoshi Miyagawa at ザ ドッグハウスイン .",
+        "title": "ザ ドッグハウスイン - Osaka - Pub | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.navitime.co.jp/poi?spt=01125.6187846",
+        "snippet": "THE DOGHOUSE INNの店舗情報、地図、アクセス、詳細情報、周辺スポット、口コミを掲載。また、最寄り駅(鶴橋 玉造（大阪環状線） 玉造（Osaka Metro） )、最寄りバス停(鶴橋駅前 東小橋 舟橋町 )、最寄り駐車場 ...",
+        "title": "「THE DOGHOUSE INN」(大阪市東成区-スナック/パブ/クラブ-〒537-0024)の地図/アクセス ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pages/%E3%83%91%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%96/1587789138138428",
+        "snippet": "パンクラブ, Osaka. 11 likes · 88 were here. Wholesale Bakery",
+        "title": "パンクラブ - Osaka - Wholesale Bakery | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.osakabarandpub.com/",
+        "snippet": "店舗名: the doghouse inn（ザ ドッグハウスイン ） 所在地 〒537-0024 大阪府大阪市東成区東小橋3-14-5: 最寄駅: jr鶴橋駅・地下鉄鶴橋駅より徒歩3分",
+        "title": "ザ・ドッグハウスイン 鶴橋 ペロリ フィノ コート オールドブリッジバー",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ja-jp.facebook.com/The-Doghouse-Inn-208203055900279/posts/",
+        "snippet": "The Doghouse Inn、大阪市 - 「いいね！」1,164件 · 179人が話題にしています - 営業時間：夕方～0時 定休日：不定休",
+        "title": "The Doghouse Inn - 投稿 | Facebook",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "193507": {
+    "url": "https://www.yelp.com/biz/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%B4%E3%82%A3%E3%83%A9-%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIM",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QqhkOwX1xj9Zid3pgOva5Q/o.jpg",
+    "name": "Rock Villa",
+    "alias": "ロックヴィラ-大阪市-東成区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, Coffee & Tea, ",
+    "rating": 4.0,
+    "price": "￥￥",
+    "address": "東小橋3丁目17-23",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市 東成区",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669750315",
+    "review_count": 7,
+    "snippets": []
+  },
+  "211098": {
+    "url": "https://www.yelp.com/biz/%E3%83%81%E3%82%A7-%E5%B4%94-%E3%81%8A%E3%81%B0%E3%81%95%E3%82%93%E3%81%AE%E3%82%AD%E3%83%A0%E3%83%81-%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medi",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/51jzJ_X3CQ_rhldV9KhjCw/o.jpg",
+    "name": "チェ（崔）おばさんのキムチ",
+    "alias": "チェ-崔-おばさんのキムチ-大阪市-東成区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Korean, Imported Food, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "東小橋3丁目15-1",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市 東成区",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669722188",
+    "review_count": 1,
+    "snippets": []
+  },
+  "227067": {
+    "url": "https://www.yelp.com/biz/%E9%87%91%E4%B9%85%E5%8F%B3%E8%A1%9B%E9%96%80-%E6%9C%AC%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XxnFxAKOxpkswjlVj9S5Dg/o.jpg",
+    "name": "Kinguemon Honten ",
+    "alias": "金久右衛門-本店-大阪市-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Ramen, Dumplings, ",
+    "rating": 4.5,
+    "price": "￥",
+    "address": "東成区深江北3-2-8",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0001",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669758018",
+    "review_count": 6,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d6784170-Reviews-Kinguemon_Awaza-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Kinguemon Awaza, Osaka: See 11 unbiased reviews of Kinguemon Awaza, rated 3.5 of 5 on Tripadvisor and ranked #7,557 of 37,921 restaurants in Osaka.",
+        "title": "Kinguemon Awaza, Osaka - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d13136950-Reviews-Kinguemon_Nanko_Atc-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Kinguemon Nanko Atc, Osaka: See 4 unbiased reviews of Kinguemon Nanko Atc, rated 3.5 of 5 on Tripadvisor and ranked #13,551 of 37,877 restaurants in Osaka.",
+        "title": "Kinguemon Nanko Atc, Osaka - Restaurant Reviews &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g14127656-d6784170-Reviews-Kinguemon_Awaza-Nishi_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Kinguemon Awaza, Nishi: See 11 unbiased reviews of Kinguemon Awaza, rated 3.5 of 5 on Tripadvisor and ranked #130 of 806 restaurants in Nishi. ... 3-8-14 Utsubohommachi 1f, Nishi, Osaka 550-0004 Osaka Prefecture. Website +81 6-6445-6330. Improve this listing. Can a vegan person get a good meal at this restaurant? Yes No Unsure.",
+        "title": "Kinguemon Awaza, Nishi - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g298566-d6784170-i117655962-Kinguemon_Awaza-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Kinguemon Awaza, Osaka Picture: 金醤油 - Check out Tripadvisor members&#39; 62,559 candid photos and videos of Kinguemon Awaza",
+        "title": "金醤油 - Picture of Kinguemon Awaza, Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.sg/Restaurant_Review-g298566-d6784170-Reviews-Kinguemon_Awaza-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Kinguemon Awaza, Osaka: See 11 unbiased reviews of Kinguemon Awaza, rated 3.5 of 5 on Tripadvisor and ranked #7,523 of 37,877 restaurants in Osaka.",
+        "title": "Kinguemon Awaza, Osaka - Restaurant Reviews, Phone Number ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://osaka-info.jp/en/page/kinguemon-dotonbori",
+        "snippet": "Kinguemon Dotonbori 0 No. 1 winner in the Ramen Championship for best ramen in Osaka for three years running according to Tabelog. Took the runner-up prize in its first appearance at the Tokyo Ramen Show in 2012.",
+        "title": "Kinguemon Dotonbori | OSAKA-INFO",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g298566-d3779343-Reviews-Fan_Fan_Honten-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Fan Fan Honten, Osaka: Se 26 objektive anmeldelser av Fan Fan Honten, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 482 av 37 921 restauranter i Osaka.",
+        "title": "Fan Fan Honten, Osaka - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d1310376-Reviews-Rokkakutei_Kuromon_Honten-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Rokkakutei Kuromon Honten, Osaka: See 45 unbiased reviews of Rokkakutei Kuromon Honten, rated 4.5 of 5 on Tripadvisor and ranked #541 of 37,869 restaurants in Osaka.",
+        "title": "Rokkakutei Kuromon Honten, Osaka - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g298566-d3751978-Reviews-Tsuruichi_Honten-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Tsuruichi Honten, Osaka: Se 21 objektive anmeldelser av Tsuruichi Honten, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 2 407 av 37 921 restauranter i Osaka.",
+        "title": "Tsuruichi Honten, Osaka - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.sg/Restaurant_Review-g298566-d1669398-Reviews-Uoshin_Honten-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Uoshin Honten, Osaka: See 99 unbiased reviews of Uoshin Honten, rated 4.5 of 5 on Tripadvisor and ranked #126 of 37,876 restaurants in Osaka.",
+        "title": "Uoshin Honten, Osaka - Restaurant Reviews, Phone Number ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "247059": {
+    "url": "https://www.yelp.com/biz/%E4%BF%83%E6%88%90%E9%87%8E%E8%8F%9C-%E5%B1%B1%E5%B9%B8%E5%95%86%E5%BA%97-%E4%B8%9C%E6%88%90%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Ba",
+    "image_url": "",
+    "name": "Hatoyama Store ",
+    "alias": "促成野菜-山幸商店-东成区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Organic Stores, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "東小橋3-20-22",
+    "city_from_postal": "Higashinari Ku",
+    "city": "东成区",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669811477",
+    "review_count": 1,
+    "snippets": []
+  },
+  "261082": {
+    "url": "https://www.yelp.com/biz/%E3%81%A9%E9%8D%8B%E3%82%84%E7%B7%91%E6%A9%8B%E6%9C%AC%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Tnavr-CVMT5dHnh81OHg6w/o.jpg",
+    "name": "donabeya Midoribashi honten",
+    "alias": "ど鍋や緑橋本店-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Hot Pot, Horumon, ",
+    "rating": 4.0,
+    "price": "￥￥",
+    "address": "東成区中本1-10-26",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0022",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669760567",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d3817067-Reviews-Fukimiya_Midoribashi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Fukimiya Midoribashi, Osaka: See unbiased reviews of Fukimiya Midoribashi, one of 37,886 Osaka restaurants listed on Tripadvisor.",
+        "title": "Fukimiya Midoribashi, Osaka - Restaurant Reviews &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298564-d19090483-Reviews-Saeki-Kyoto_Kyoto_Prefecture_Kinki.html",
+        "snippet": "Saeki, Kyoto: See 2 unbiased reviews of Saeki, rated 5 of 5 on Tripadvisor and ranked #3,929 of 15,615 restaurants in Kyoto.",
+        "title": "Saeki, Kyoto - City Center - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.travelocity.com/Osaka-Hotels-JAB-HOTEL-THE-BRESIDENCE.h35550109.Hotel-Information",
+        "snippet": "Guests will be asked to pay the following charges at the property: A city tax may be collected at the property, effective January 1, 2017. The city tax ranges from JPY 100-300 per person, per night based on the nightly room rate.",
+        "title": "JAB HOTEL THE BRESIDENCE, Osaka: 2020 Room Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g298566-d1549378-Carpe_Diem-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Restaurants near Carpe Diem, Osaka on Tripadvisor: Find traveler reviews and candid photos of dining near Carpe Diem in Osaka, Osaka Prefecture.",
+        "title": "THE 10 BEST Restaurants Near Carpe Diem in Osaka, Osaka ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/HotelsNear-g298566-d12196183-oa30-Midoribashi_Table_Tennis_Court-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Hotels near Midoribashi Table Tennis Court, Osaka on Tripadvisor: Find 3,592 traveler reviews, 50,125 candid photos, and prices for 30 hotels near Midoribashi Table Tennis Court in Osaka, Japan.",
+        "title": "Best Hotels Near Midoribashi Table Tennis Court, Osaka, Japan",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g298566-d302760-oa30-Daiwa_Roynet_Hotel_Yotsubashi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Restaurants near Daiwa Roynet Hotel Yotsubashi, Osaka on Tripadvisor: Find traveler reviews and candid photos of dining near Daiwa Roynet Hotel Yotsubashi in Osaka, Osaka Prefecture.",
+        "title": "THE 10 BEST Restaurants Near Daiwa Roynet Hotel Yotsubashi ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.giftly.com/restaurant-gift-cards/%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA-27",
+        "snippet": "Buy a gift card to any restaurant in 大阪市 東成区, 27. Send by email or mail, or print at home. Deliver in a personalized greeting card. The perfect last minute gift. 100% satisfaction guaranteed. Buy 大阪市 東成区, 27 Restaurant gift cards online.",
+        "title": "大阪市 東成区 Restaurant Gift Cards | Giftly",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.ubereats.com/ja-JP/osaka/food-delivery/%E3%81%A8%E9%8D%8B%E3%82%84-%E7%B7%91%E6%A9%8B%E6%9C%AC%E5%BA%97-donabeya-midoribashihonten/5AVQjONkQmaV2dOs5_Tfxg/",
+        "snippet": "Uber アカウントで、 の ど鍋や 緑橋本店 Donabeya MidoribashiHonten に料理の配達をリクエストできます。メニューや人気料理の閲覧、注文状況の確認ができます。",
+        "title": "ど鍋や 緑橋本店 Donabeya MidoribashiHonten の配達 | | Uber Eats",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.travelocity.com/Osaka-Hotels-Noahs-Ark-Midoribashi.h38805276.Hotel-Information",
+        "snippet": "Book Noah&#39;s Ark Midoribashi &amp; Save BIG on Your Next Stay! Compare Reviews, Photos, &amp; Availability w/ Travelocity. Start Saving Today!",
+        "title": "Noah&#39;s Ark Midoribashi, Osaka: 2020 Room Prices &amp; Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Hotel_Review-g14127623-d13947413-Reviews-Dormy_Inn_Osaka_Tanimachi-Chuo_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Dormy Inn Osaka Tanimachi, Chuo: Se 62 reiseanmeldelser, 175 bilder og gode tilbud for Dormy Inn Osaka Tanimachi, vurdert som nr. 49 av 176 hotell i Chuo og vurdert til 4 av 5 på Tripadvisor.",
+        "title": "DORMY INN OSAKA TANIMACHI (Chuo, Japan) - Hotell ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "262367": {
+    "url": "https://www.yelp.com/biz/%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E6%9D%B1%E6%88%90%E5%8C%BA%E6%B0%91%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&u",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Zy0hNly_eb46g2uncgxthQ/o.jpg",
+    "name": "大阪市立東成区民センター",
+    "alias": "大阪市立東成区民センター-大阪市-東成区",
+    "main_category": "Active Life",
+    "sub_categories": "Recreation Centers, Music Venues, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "大今里西3丁目2-17",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市 東成区",
+    "zip_code": "537-0014",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669720717",
+    "review_count": 3,
+    "snippets": []
+  },
+  "264554": {
+    "url": "https://www.yelp.com/biz/%E5%B2%A1%E5%AE%A4%E9%85%92%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mqxs7umke9iP4SwjcaOxzA/o.jpg",
+    "name": "Okamuro Sake",
+    "alias": "岡室酒店-大阪市",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Bento, Izakaya, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "都島区東野田町2-9-11",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0025",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81663515241",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d1701985-Reviews-Okamuro_Sake_Store-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Okamuro Sake Store, Osaka: See 7 unbiased reviews of Okamuro Sake Store, rated 3.5 of 5 on Tripadvisor and ranked #6,460 of 37,890 restaurants in Osaka.",
+        "title": "Okamuro Sake Store, Osaka - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7443393-Reviews-Okamuro_Sake_Shop-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Okamuro Sake Shop, Osaka: See unbiased reviews of Okamuro Sake Shop, rated 5 of 5 on Tripadvisor and ranked #9,057 of 37,912 restaurants in Osaka.",
+        "title": "Okamuro Sake Shop, Osaka - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.de/Restaurant_Review-g298566-d1701985-Reviews-Okamuro_Sake_Store-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Okamuro Sake Store, Osaka: 7 Bewertungen - bei Tripadvisor auf Platz 6.449 von 37.847 von 37.847 Osaka Restaurants; mit 3,5/5 von Reisenden bewertet.",
+        "title": "Okamuro Sake Store, Osaka - Restaurant Bewertungen ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g298566-d1701985-i148710984-Okamuro_Sake_Store-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Okamuro Sake Store, Osaka Picture: 中は激混みです - Check out Tripadvisor members&#39; 50,119 candid photos and videos of Okamuro Sake Store. Osaka. Osaka Tourism Osaka Hotels Osaka Bed and Breakfast Osaka Vacation Rentals Osaka Vacation Packages Flights to Osaka Osaka Restaurants Things to Do in Osaka",
+        "title": "中は激混みです - Picture of Okamuro Sake Store, Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d6044618-Reviews-Sake_No_Ana-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Sake No Ana, Osaka: See unbiased reviews of Sake No Ana, one of 37,890 Osaka restaurants listed on Tripadvisor.",
+        "title": "Sake No Ana, Osaka - Restaurant Reviews, Photos &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g14127623-d6044618-Reviews-Sake_No_Ana-Chuo_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Sake No Ana, Chuo: See unbiased reviews of Sake No Ana, one of 8,676 Chuo restaurants listed on Tripadvisor.",
+        "title": "Sake No Ana, Chuo - Restaurant Reviews, Photos &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.br/Restaurant_Review-g298566-d1701985-Reviews-Okamuro_Sake_Store-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Okamuro Sake Store, Osaka: Veja 7 dicas e avaliações imparciais de Okamuro Sake Store, com classificação Nº 3,5 de 5 no Tripadvisor e classificado como Nº 6.459 de 37.868 restaurantes em Osaka.",
+        "title": "OKAMURO SAKE STORE, Osaka - Comentários de restaurantes ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://tabi2deru.com/osaka-kyobashi-okamuro-sake/",
+        "snippet": "岡室酒店直売所（大阪、京橋）朝日放送の『今ちゃんの「実は…」』を見ていますか？私はまぁまぁ見ています。って言うのも、「tvで紹介されて一番影響力ある番組」と言う飲食店のオーナーさんが多いから。そして…、この番組内で圧倒的な個性を出しながら登",
+        "title": "【京橋】あの『今ちゃんの実は…』でお馴染みの岡室酒店直売所へ！ | 大阪食べ歩き＆旅 グルメ放浪記",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/LocationPhotoDirectLink-g298566-d1701985-i148710984-Okamuro_Sake_Store-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Fotografía de Okamuro Sake Store, Osaka: 中は激混みです. Echa un vistazo a los 50.313 vídeos y fotos de Okamuro Sake Store que han tomado los miembros de Tripadvisor.",
+        "title": "中は激混みです: fotografía de Okamuro Sake Store, Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.timeout.com/singapore/travel/the-best-sake-breweries-in-kansai",
+        "snippet": "The best sake breweries in Kansai ... Wedged between Osaka and Kobe, the Nada Gogo (five villages of Nada) – Nishi, Mikage, Uozaki, Nishinomiya and Imazu ...",
+        "title": "The best sake breweries in Kansai - Time Out",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "267667": {
+    "url": "https://www.yelp.com/biz/%E3%81%97%E3%82%85%E3%81%86-%E5%A4%A7%E9%98%AA%E5%B8%82-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EQAoNp_30rBVcgHNqENnRA/o.jpg",
+    "name": "Shuu",
+    "alias": "しゅう-大阪市-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Seafood, Sushi Bars, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "東成区中道3-2-4",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0025",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81643098725",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://shuu-jp.net/",
+        "snippet": "二十才のモラトリアム. 前作「始まりの場所」より5年ぶりのリリースとなるニューアルバム。 ShuU初となるバンド編成や、チェロ、コンガの入ったアレンジ、ライブではお馴染みの弾き語りも含め、様々なアレンジで楽しめる渾身の最新作。",
+        "title": "ShuU Official Web Site",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.shuuemura.jp/",
+        "snippet": "シュウ ウエムラ公式オンラインショップ - シュウ ウエムラは、「自然、科学、アート」の融合をコンセプトに、シンプル＆リッチな商品を作り続けています。あなたのライフスタイルにあわせてショッピングをお楽しみください。",
+        "title": "シュウ ウエムラ公式オンラインショップ",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=7tYfA5Ic700",
+        "snippet": "NOTICE BY JOSHI PURO OSHI : HIGHLY RECOMMENDED! : AJW Wrestling Queendom [ Captain Fall&#39;s Elimination Match ] : Akira Hokuto / Mima Shimoda / Etsuko Mita &amp; Suzuka Minami ( AJW ) VS Mayumi Ozaki ...",
+        "title": "Hokuto / Shimoda / Mita &amp; Suzuka (AJW) VS Ozaki / Kansai ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Asuka_(wrestler)",
+        "snippet": "Go! West: Osaka, Kana submitted Makoto again, this time in a singles match. On June 17, Kana produced her first Kana Pro event in collaboration with WNC, where she and Kenichi Yamamoto were defeated in the main event by Daisuke Ikeda and Syuri.",
+        "title": "Asuka (wrestler) - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://koizumi-san.fandom.com/wiki/Osawa_Ayane",
+        "snippet": "She is the older cousin of both Yuu and Shuu. Being from Osaka, Ayane will naturally speak in a Kansai dialect. Ayane met Koizumi-san in Osaka, while drawing away the men who were trying to hit on Koizumi-san outside of a ramen shop. From there, she declared herself to be Koizumi-san&#39;s escort and personal guide in Osaka.",
+        "title": "Osawa Ayane | Ramen Daisuki Koizumi-san Wiki | Fandom",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/en/osaka/A2701/A270101/27021558/",
+        "snippet": "ShuuCheck out the information about Yakitori (Grilled chicken) restaurants in Osaka Station, Umeda, Shinchi at Tabelog! It&#39;s full of real information like reviews, ratings, and photos posted by users! It also has enough detailed information like maps and menus.",
+        "title": "Shuu - Osaka Station, Umeda, Shinchi/Yakitori (Grilled ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=LaJPfIgqzGE",
+        "snippet": "Category Entertainment; Song Boy With Luv (Feat. Halsey) Artist BTS; Album MAP OF THE SOUL : 7; Licensed to YouTube by Big Hit Entertainment Co. Ltd. (on behalf of BigHit Entertainment); UMPI ...",
+        "title": "[KPOP IN PUBLIC] GirlVer BTS &#39;작은 것들을 위한 시(Boy With Luv) ft ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=5THAJjb2PrQ",
+        "snippet": "Tomoka Nakagawa vs Shuu Shibutani &amp; Cheryy &amp; Moeka Haruhi &amp; Yuu ... vs宮崎有妃&amp;えべっさん&amp;怪獣Zマンドラ Osaka Pro 6 men tag match ... Yoshida vs Shuu Shibutani &amp; Hiroyo ...",
+        "title": "Tomoka Nakagawa vs Shuu Shibutani &amp; Cheryy &amp; Moeka Haruhi ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=9qERiRytOUI",
+        "snippet": "【お尻】華名と志田光 【ボイパ】Kana and Shida&#39;s &quot;butt games and voice percussion&quot; - Duration: 4:35. カナプロマニアとりびゅーと (KanaProManiaTribute) 55,403 views",
+        "title": "Fairy Nihonbashi vs Asuka - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.airbnb.co.uk/rooms/17624071",
+        "snippet": "Shuu’s place was the perfect thing for us. we had a later flight than we thought and a sick baby who needed a good rest before a long day of flying. we last minute were in touch with Shuu. And he responded promptly and we all got a good nap in. Was really clean and comfortable,… Read more",
+        "title": "民泊松風（En）Near KIX Airport and outlet, 24hrs shuttle ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "271172": {
+    "url": "https://www.yelp.com/biz/%E8%8C%B6%E6%AF%8D-%E9%B6%B4%E6%A9%8B%E5%88%A5%E9%A4%A8-%E5%A4%A7%E9%98%AA%E5%B8%82-%E5%A4%A7%E9%98%AA%E5%BA%9C?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTI",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/i1K6QC-2ip_5xAlv-vtPlA/o.jpg",
+    "name": "Tamo Tsuruhashibekkan ",
+    "alias": "茶母-鶴橋別館-大阪市-大阪府",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Korean, Cafes, ",
+    "rating": 5.0,
+    "price": "￥￥",
+    "address": "東成区東小橋3-17-4",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市, 大阪府",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669785445",
+    "review_count": 1,
+    "snippets": []
+  },
+  "291291": {
+    "url": "https://www.yelp.com/biz/%E3%83%91%E3%83%86%E3%82%A3%E3%82%B9%E3%83%AA%E3%83%BC-%E3%82%B6%E3%82%AD-%E5%A4%A7%E9%98%AA%E5%B8%82-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YBXanSgJaR_Z8wjzZayeQA/o.jpg",
+    "name": "Patisserie Zaki",
+    "alias": "パティスリー-ザキ-大阪市-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Patisserie/Cake Shop, ",
+    "rating": 5.0,
+    "price": "￥￥",
+    "address": "東成区深江北2-9-6",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0001",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669748666",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://www.facebook.com/pages/Patisserie-Zaki/1449890575242598",
+        "snippet": "Patisserie Zaki, Osaka. 6 likes. Cupcake Shop. Sign up for Facebook today to discover local businesses near you.",
+        "title": "Patisserie Zaki - Osaka - Cupcake Shop | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270306/27077588/dtlrvwlst/",
+        "snippet": "パティスリー ザキ/Patisserie Zaki (深江橋/ケーキ)への口コミです。日本最大級のグルメサイト「食べログ」では、パティスリー ザキ/Patisserie Zakiの口コミ27件を掲載中。",
+        "title": "口コミ一覧 : パティスリー ザキ （Patisserie Zaki） - 深江橋/ケーキ [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270306/27077588/dtlphotolst/1/smp2/2/",
+        "snippet": "パティスリー ザキ/Patisserie Zaki (深江橋/ケーキ)の投稿された料理写真の2ページ目です。日本最大級のグルメサイト「食べログ」では、パティスリー ザキ/Patisserie Zakiの料理写真165件を掲載中。",
+        "title": "料理写真 2ページ目 : パティスリー ザキ （Patisserie Zaki） - 深江橋/ケーキ [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270306/27077588/dtlphotolst/4/smp2/",
+        "snippet": "パティスリー ザキ/Patisserie Zaki (深江橋/ケーキ)の投稿された外観写真です。日本最大級のグルメサイト「食べログ」では、パティスリー ザキ/Patisserie Zakiの外観写真30件を掲載中。",
+        "title": "外観写真 : パティスリー ザキ （Patisserie Zaki） - 深江橋/ケーキ [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Patisserie-ZAKI-434212700047983/",
+        "snippet": "See more of Patisserie ZAKI on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Patisserie ZAKI. Food &amp; Beverage Company . Community See All. 1,007 people like this. 1,013 people follow this. About See All. ... Patisserie tartelette. Kitchen/Cooking. Tinky Winky. Baby Goods/Kids Goods.",
+        "title": "Patisserie ZAKI - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://fr.yelp.ca/biz/%E3%83%91%E3%83%86%E3%82%A3%E3%82%B9%E3%83%AA%E3%83%BC-%E3%82%B6%E3%82%AD-%E5%A4%A7%E9%98%AA%E5%B8%82-2",
+        "snippet": "パティスリー ザキ à Osaka, avis rédigés par de vraies personnes. Yelp permet un moyen facile et amusant pour trouver, recommander et discuter des endroits, que vous aimez ou pas à Osaka et ses alentours.",
+        "title": "Patisserie Zaki - Pâtisserie - 東成区深江北2-9-6, 東成区, Osaka ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ja-jp.facebook.com/Patisserie-ZAKI-434212700047983/",
+        "snippet": "Facebookではページの目的を理解するうえで役立つ情報を公開しています。コンテンツの管理や投稿を行っている人が実行したアクションをチェックしよう。",
+        "title": "Patisserie ZAKI - ホーム | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g298566-d9922677-Reviews-Patisserie_Ordinaire-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Patisserie Ordinaire, Osaka: Se 9 objektive anmeldelser av Patisserie Ordinaire, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 1 617 av 37 921 restauranter i Osaka.",
+        "title": "Patisserie Ordinaire, Osaka - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g298566-d3816563-Reviews-Patisserie_Zeppin-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Spise middag i Osaka: Se anmeldelser fra Tripadvisor-reisende av 37 878restauranter i Osaka, og søk etter kjøkken, pris, sted og mer.",
+        "title": "Patisserie Zeppin, Osaka - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurants-g298566-zfg9901-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Bakeries in Osaka, Osaka Prefecture: Find Tripadvisor traveler reviews of Osaka Bakeries and search by price, location, and more. Osaka. Osaka Tourism Osaka Hotels Osaka Bed and Breakfast Osaka Vacation Rentals ... Moncher Patisserie Dojima. 56 reviews Open Now. Bakeries $$ - $$$ Menu",
+        "title": "THE 10 BEST Bakeries in Osaka - Tripadvisor",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "303038": {
+    "url": "https://www.yelp.com/biz/%E3%81%8A%E3%81%AF%E3%81%8E%E3%81%AE%E4%B8%B9%E6%B3%A2%E5%B1%8B-%E9%B6%B4%E6%A9%8B%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IS9gM6KRMQKCcxfS2BsDlg/o.jpg",
+    "name": "Ohagi no Tanbaya Tsuruhashi",
+    "alias": "おはぎの丹波屋-鶴橋店-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Japanese Sweets, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "東成区東小橋3-17-7",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669775150",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d13057074-Reviews-Ohagino_Tanbaya_Tsuruhashi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Ohagino Tanbaya Tsuruhashi, Osaka: See 2 unbiased reviews of Ohagino Tanbaya Tsuruhashi, rated 4 of 5 on Tripadvisor and ranked #10,682 of 37,881 restaurants in Osaka.",
+        "title": "Ohagino Tanbaya Tsuruhashi, Osaka - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g298566-d2471494-oa30-Nobeha_no_Yu_Tsuruhashi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Restaurants near Nobeha no Yu Tsuruhashi, Osaka on Tripadvisor: Find traveler reviews and candid photos of dining near Nobeha no Yu Tsuruhashi in Osaka, Osaka Prefecture.",
+        "title": "Restaurants Near Nobeha no Yu Tsuruhashi, Osaka, Japan",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g298566-d8450063-Tsuruhashi_Fish_Market-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Restaurants near Tsuruhashi Fish Market, Osaka on Tripadvisor: Find traveler reviews and candid photos of dining near Tsuruhashi Fish Market in Osaka, Osaka Prefecture. Osaka. ... Ohagino Tanbaya Tsuruhashi #10,760 of 18,952 Restaurants in Osaka 2 reviews. 3-17-7 Higashiobase, Higashinari-Ku . 0.1 miles from Tsuruhashi Fish Market.",
+        "title": "Restaurants Near Tsuruhashi Fish Market, Osaka, Japan",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/RestaurantsNear-g14127726-d2471494-oa30-Nobeha_no_Yu_Tsuruhashi-Higashinari_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Restaurants near Nobeha no Yu Tsuruhashi, Higashinari on TripAdvisor: Find traveler reviews and candid photos of dining near Nobeha no Yu Tsuruhashi in Higashinari, Osaka Prefecture.",
+        "title": "THE 10 BEST Restaurants Near Nobeha no Yu Tsuruhashi in ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/RestaurantsNear-g298566-d8450063-Tsuruhashi_Fish_Market-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Restaurants near Tsuruhashi Fish Market, Osaka on Tripadvisor: Find traveller reviews and candid photos of dining near Tsuruhashi Fish Market in Osaka, Osaka Prefecture.",
+        "title": "The 10 Best Restaurants Near Tsuruhashi Fish Market, Osaka",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://japaning-kyoto-hotel-enmachi.hotelmix.fr/",
+        "snippet": "Chambres. Certaines chambres comprennent Wi-Fi, un réfrigérateur et une kitchenette pour votre confort. Dîner. Une variété de restaurants comprenant Siam, Art Cafe Nanairo et Rakkase, sont situés dans la zone des alentours, à 100 mètres.",
+        "title": "°HOTEL JAPANING KYOTO ENMACHI KYOTO 2* (Japon) - de € 107 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://ohaginotanbaya.co.jp/tenpo/osakasinai/tenpo-funaba.html",
+        "snippet": "船場心斎橋店. 住所 〒541-0056 大阪市中央区久太郎町3丁目4番17号. 電話 (06)-6281-2530. 営業 10:00～18:00(正月三箇日のみ休み) 交通. 情報",
+        "title": "店舗検索結果 ｜おはぎの丹波屋",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://guesthouse-enmachi-kyoto.hotelmix.es/",
+        "snippet": "El aeropuerto Internacional de Osaka está a 45 minutos en auto. Habitaciones. ... Ohagi no Tanbaya Enmachi Ohagi no Tanbaya Enmachi 180 m. Atakaya Hanten Atakaya Hanten 440 m 107 Nishinokyo Nakamikado Higashimachi. coneruya coneruya 580 m 71-2 Jurakumawari Nishimachi.",
+        "title": "°CONNECT INN ENMACHI KIOTO (Japón) - desde 468 € | HOTELMIX",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.seeing-japan.com/3150",
+        "snippet": "The 10 Best Yakiniku Restaurants You Must Eat in Shinsaibashi, Osaka 1,539 view Down town in Osaka named Shinsaibashi is known as shopping town like brand shops, and fashion stores for young people but they are also famous for good food.",
+        "title": "The 10 Best Yakiniku Restaurants You Must Eat in ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.osakastation.com/five-famous-foods-in-osaka-where-to-eat-them/",
+        "snippet": "Five Famous Foods in Osaka &amp; Where to Eat Them Osaka is famous for its food, and Osaka’s people take great pride in their love of their local cuisine. There is even an expression, “Osaka no kuidaore” which literally means the Osaka habit of eating till you drop, but actually means eating so much you fall into debt!",
+        "title": "Five Famous Foods in Osaka &amp; Where to Eat Them – Osaka Station",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "304986": {
+    "url": "https://www.yelp.com/biz/%E9%87%91%E5%89%9B%E9%A3%9F%E5%93%81-%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LWFxxOJokC1f9UyQexhtMQ/o.jpg",
+    "name": "Kongo Shokuhin",
+    "alias": "金剛食品-大阪市-東成区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 4.0,
+    "price": "￥￥",
+    "address": "東小橋3丁目15-8",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市 東成区",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669716075",
+    "review_count": 2,
+    "snippets": []
+  },
+  "314291": {
+    "url": "https://www.yelp.com/biz/%E3%83%91%E3%83%86%E3%82%A3%E3%82%B9%E3%83%AA%E3%83%BC%E3%82%B3%E3%83%BC%E3%82%B8-%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sZ5EdRvk55_eyuSO3cwaUw/o.jpg",
+    "name": "パティスリーコージ",
+    "alias": "パティスリーコージ-大阪市-東成区-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Specialty Food, Desserts, ",
+    "rating": 5.0,
+    "price": "￥￥",
+    "address": "深江北1丁目12-13",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市 東成区",
+    "zip_code": "537-0001",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669732480",
+    "review_count": 1,
+    "snippets": []
+  },
+  "341094": {
+    "url": "https://www.yelp.com/biz/%E5%9C%9F%E4%BD%90%E6%96%99%E7%90%86%E3%81%BF%E3%81%AA%E3%81%BF-%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5h",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bnpV8LIfgWMOwrjiobokdg/o.jpg",
+    "name": "tosaryouriminami",
+    "alias": "土佐料理みなみ-大阪市東成区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Specialty Food, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "神路4-11-19",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市東成区",
+    "zip_code": "537-0003",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669720373",
+    "review_count": 1,
+    "snippets": []
+  },
+  "367007": {
+    "url": "https://www.yelp.com/biz/trattoria-albero-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Qx4-muGSObzfgj-hUtPvdQ/o.jpg",
+    "name": "Trattoria Albero",
+    "alias": "trattoria-albero-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "大阪府大阪市東成区深江北1-3-26 ロイヤル司ビル 1Ｆ",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0001",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669711900",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270206/27090787/",
+        "snippet": "Trattoria ALBERO/トラットリア アルベロ (桜川/イタリアン)の店舗情報は食べログでチェック！歓送迎会・パーティー予約受付中！お客様から選ばれる人気店！実力派シェフが織りなすイタリアン 【禁煙 / 飲み放題あり / クーポンあり / ネット予約可】口コミや評価、写真など、ユーザーによる ...",
+        "title": "Trattoria ALBERO （トラットリア アルベロ） - 桜川/イタリアン [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d10054854-Reviews-Trattoria_Albero-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Trattoria Albero, Osaka: See 4 unbiased reviews of Trattoria Albero, rated 4 of 5 on Tripadvisor and ranked #7,731 of 37,893 restaurants in Osaka.",
+        "title": "Trattoria Albero, Osaka - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/Trattoria-Albero-997079746997707/",
+        "snippet": "Trattoria Albero, 大阪市. 587 likes. 2016年2月22日、桜川にオープンしたイタリアンレストランです。 ランチタイム、ディナータイムと営業いたしております。 定休日は火曜日でございます。",
+        "title": "Trattoria Albero - Italian Restaurant - Osaka | Facebook ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g14127623-d14027961-Reviews-Prossimo_Trattoria_Albero-Chuo_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Prossimo Trattoria Albero, Chuo: See unbiased reviews of Prossimo Trattoria Albero, one of 8,654 Chuo restaurants listed on Tripadvisor.",
+        "title": "Prossimo Trattoria Albero, Chuo - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g298566-d10054854-Reviews-Trattoria_Albero-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Trattoria Albero, Osaka: Consulta 4 opiniones sobre Trattoria Albero con puntuación 4 de 5 y clasificado en Tripadvisor N.°7.717 de 37.877 restaurantes en Osaka.",
+        "title": "TRATTORIA ALBERO, Osaka - Fotos, Número de Teléfono y ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/ShowUserReviews-g298566-d10054854-r416095304-Trattoria_Albero-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Trattoria Albero: Ver good italian food, extremely friendly staff - See 4 traveller reviews, 6 candid photos, and great deals for Osaka, Japan, at Tripadvisor.",
+        "title": "Ver good italian food, extremely... - Trattoria Albero",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://savorjapan.com/0006077751/map.php",
+        "snippet": "Get directions on SAVOR JAPAN. Trattoria ALBERO is a restaurant in Namba, Osaka",
+        "title": "Map, Trattoria ALBERO in Namba, Osaka - SAVOR JAPAN",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.jp/Restaurant_Review-g298566-d10054854-Reviews-Trattoria_Albero-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Trattoria Albero(大阪市)に行くならトリップアドバイザーで口コミ、地図や写真を事前にチェック！Trattoria Alberoは大阪市で7,754位(37,921件中)、4点の評価を受けています。",
+        "title": "Trattoria Albero (大阪市) の口コミ4件 - トリップアドバイザー",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270206/27090787/dtlrvwlst/",
+        "snippet": "Trattoria ALBERO/トラットリア アルベロ (桜川/イタリアン)への口コミです。日本最大級のグルメサイト「食べログ」では、Trattoria ALBERO/トラットリア アルベロの口コミ11件を掲載中。",
+        "title": "口コミ一覧 : Trattoria ALBERO （トラットリア アルベロ） - 桜川/イタリアン [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://m.facebook.com/Trattoria-Albero-997079746997707/",
+        "snippet": "Trattoria Albero, 大阪市. 588 likes. 2016年2月22日、桜川にオープンしたイタリアンレストランです。 ランチタイム、ディナータイムと営業いたしております。 定休日は火曜日でございます。",
+        "title": "Trattoria Albero - Facebook",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "368520": {
+    "url": "https://www.yelp.com/biz/%E5%96%9C%E5%A4%9A%E8%8A%B3%E6%86%B2%E5%95%86%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "喜多芳憲商店",
+    "alias": "喜多芳憲商店-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Meat Shops, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "東成区東小橋3丁目19-2",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669721454",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "http://www.labornetjp.org/news/2016/0317osaka",
+        "snippet": "争議抱える仲間を一緒に応援！～大阪の「春闘総行動」 大椿裕子 3月17日（木）、おおさかユニオンネットワークの「春闘総行動」が行われました。",
+        "title": "争議抱える仲間を一緒に応援！～大阪の「春闘総行動」",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.mapion.co.jp/phonebook/M26032/27115/22730100631/",
+        "snippet": "株式会社豊田商店（食品）の電話番号は06-6971-3430、住所は大阪府大阪市東成区東小橋3丁目17−20、最寄り駅は鶴橋駅です。わかりやすい地図、アクセス情報、最寄り駅や現在地からのルート案内、口コミ、周辺の食品情報も掲載。株式会社豊田商店情報ならマピオン電話帳。",
+        "title": "株式会社豊田商店（大阪市/食品）の電話番号・住所・地図｜マピオン電話帳",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.mapion.co.jp/phonebook/M26032/27100/ST26101/10.html",
+        "snippet": "日本橋駅（大阪府大阪市中央区）周辺の食品一覧(10ページ目)。施設・店舗の電話番号、住所、わかりやすい地図、最寄り駅や現在地からのルート案内・アクセス情報を掲載。日本橋駅（大阪府大阪市中央区）周辺の食品情報ならマピオン電話帳。",
+        "title": "（10ページ目）日本橋駅（大阪府大阪市中央区）周辺の食品一覧｜マピオン電話帳",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://osaka.town-guide.net/pc/category3.php?kind3=151002&thePage=88",
+        "snippet": "大阪 の情報満載・簡単検索・地域コミュニティ [ タウンガイド 大阪 ]",
+        "title": "有限会社 | タウンガイド大阪 - osaka.town-guide.net",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/search?cflt=gourmet&find_loc=Higashinari+Ward%2C+Osaka%2C+%E5%A4%A7%E9%98%AA%E5%BA%9C",
+        "snippet": "Best Specialty Food in Higashinari Ward, Osaka, 大阪府, Japan - 土佐料理みなみ, パティスリーコージ, 喜多芳憲商店, Calbee+心斎橋店, なんばや, 薩摩の久保, フルーツ八新, あいやさい, フレッシュ808, ... 喜多芳憲商店.",
+        "title": "THE BEST 10 Specialty Food near Higashinari Ward, Osaka ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.vinca.jp/company/02834851",
+        "snippet": "Metro堺筋線 天下茶屋駅 阪堺電気軌道阪堺線 北天下茶屋停留場・聖天坂停留場 岸里・天下茶屋 安養寺 阿倍野区 聖 天山 大阪市立松虫中学校 晴明丘 松虫塚 阪堺電気軌道上町線 東天 下茶屋停留場・松虫停留場 阿倍王子神社 安倍晴明神社 Osaka Metro御堂筋線 ...",
+        "title": "東天山会館 - 企業情報 - Vinca Beta",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.vinca.jp/company/00376818",
+        "snippet": "姫路東ロータリークラブ事務局の電話番号・住所・地図などの情報をご案内しています。",
+        "title": "姫路東ロータリークラブ事務局 - 企業情報 - Vinca Beta",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.nittoso.or.jp/wp-content/themes/nittoso/images/about/overview/member.pdf",
+        "snippet": "一般社団法人日本塗装工業会 会員名簿 No. 支部 会社名 代表者名 〒 住所 TEL FAX EMail URL 1 北海道 内外塗工 ㈱ 本郷 一保 064-0808 北海道 9",
+        "title": "www.nittoso.or.jp",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.company-score.com/bd/type/all/all/27/4068.html",
+        "snippet": "全てで大阪府に属している企業をお探しなら、企業の評価・評判・信用力が分かる「会社番付」をご覧ください。このページでは110701件ある企業の中から、40671－40680件を表示しております。全てで大阪府に属している企業をお探しなら、会社番付で信頼性の高い企業評価をご覧ください。",
+        "title": "4068ページ│大阪府で全ての企業│会社番付",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.company-score.com/bd/type/00/00/27/1073.html",
+        "snippet": "業種分類無しで大阪府に属している企業をお探しなら、企業の評価・評判・信用力が分かる「会社番付」をご覧ください。このページでは29369件ある企業の中から、10721－10730件を表示しております。業種分類無しで大阪府に属している企業をお探しなら、会社番付で信頼性の高い企業評価をご覧 ...",
+        "title": "1073ページ│大阪府で業種分類無しの企業│会社番付",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "392136": {
+    "url": "https://www.yelp.com/biz/%E3%82%B1%E3%83%B3%E3%83%88%E3%83%8F%E3%82%A6%E3%82%B9%E6%9C%AC%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9diYJBMflIg6E1x3Qf3Mzg/o.jpg",
+    "name": "Kent house Honten",
+    "alias": "ケントハウス本店-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Patisserie/Cake Shop, Cafes, Chocolatiers & Shops, ",
+    "rating": 3.5,
+    "price": "￥￥",
+    "address": "東成区大今里南1-21-19",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0013",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81120064109",
+    "review_count": 3,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com.au/Restaurant_Review-g298566-d3867772-Reviews-Kent_House_Honten-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Kent House Honten, Osaka: See 7 unbiased reviews of Kent House Honten, rated 3 of 5 on Tripadvisor and ranked #15,832 of 37,920 restaurants in Osaka.",
+        "title": "KENT HOUSE HONTEN, Osaka - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g14127560-d15067753-Reviews-Kent_House_Hankyu_Umeda_Honten-Kita_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Kent House Hankyu Umeda Honten, Kita: See unbiased reviews of Kent House Hankyu Umeda Honten, one of 3,453 Kita restaurants listed on Tripadvisor.",
+        "title": "Kent House Hankyu Umeda Honten, Kita - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.au/Restaurant_Review-g14127726-d3867772-Reviews-Kent_House_Honten-Higashinari_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Kent House Honten, Higashinari: See 7 unbiased reviews of Kent House Honten, rated 3 of 5 on TripAdvisor and ranked #42 of 253 restaurants in Higashinari.",
+        "title": "KENT HOUSE HONTEN, Higashinari - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.fr/Restaurant_Review-g14127726-d3867772-Reviews-Kent_House_Honten-Higashinari_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Kent House Honten, Higashinari : consultez 7 avis sur Kent House Honten, noté 3 sur 5 sur TripAdvisor et classé #42 sur 253 restaurants à Higashinari.",
+        "title": "Kent House Honten, Higashinari - Menu, Prix &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g14127528-d13136974-Reviews-Kent_House_Kintetsu_Abeno-Abeno_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Kent House Kintetsu Abeno, Abeno: See 3 unbiased reviews of Kent House Kintetsu Abeno, rated 3.5 of 5 on TripAdvisor and ranked #85 of 493 restaurants in Abeno. Flights Vacation Rentals ... Hotels near Osaka City Abeno Life Safety Learning Center;",
+        "title": "Kent House Kintetsu Abeno - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.kr/Restaurant_Review-g298566-d3867772-Reviews-Kent_House_Honten-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Kent House Honten, 오사카: Kent House Honten에 대한 7 건의 공정한 리뷰를 확인하세요. 항공권 음식점 즐길거리 처음 ... 1-21-19 Oimazato Minami, Higashinari-Ku, Osaka 537-0013, Osaka Prefecture +81 6-6974-4109.",
+        "title": "Kent House Honten, 오사카 - 레스토랑 리뷰 - 트립어드바이저",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.kent-house.co.jp/shop/",
+        "snippet": "手作りケーキと洋菓子の店 Kent house（ケントハウス）の店舗情報です。",
+        "title": "店舗情報｜Kent house（ケントハウス）",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.br/Restaurant_Review-g14127726-d3867772-Reviews-Kent_House_Honten-Higashinari_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Kent House Honten, Higashinari: Veja 7 dicas e avaliações imparciais de Kent House Honten, com classificação Nº 3 de 5 no TripAdvisor e classificado como Nº 41 de 251 restaurantes em Higashinari.",
+        "title": "KENT HOUSE HONTEN, Higashinari - Comentários de ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d13136901-Reviews-Kent_House_Kintetsu_Uehonmachi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Kent House Kintetsu Uehonmachi, Osaka: See unbiased reviews of Kent House Kintetsu Uehonmachi, one of 37,921 Osaka restaurants listed on Tripadvisor.",
+        "title": "Kent House Kintetsu Uehonmachi, Osaka - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g14127623-d1669910-Reviews-Mimiu_Honten-Chuo_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Mimiu Honten, Chuo: ... Eaten with their in house special sauce, ... Great taste . This place is located inside of the Dakasimaya department store, Osaka. My first impression of them was very kind and polite. Even though I can not speak Japanese, the servers are very aware of their surroundings.",
+        "title": "Mimiu Honten, Chuo - Menu, Prices &amp; Restaurant Reviews ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "393579": {
+    "url": "https://www.yelp.com/biz/%E5%9C%9F%E4%BA%95%E5%95%86%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DXC3DE37A1kIZJRViQriOA/o.jpg",
+    "name": "doi shouten",
+    "alias": "土井商店-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food, ",
+    "rating": 5.0,
+    "price": "￥",
+    "address": "大阪府大阪市東成区東小橋3-15-11",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81660730036",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g298566-d3841954-i73285266-Doi_Shoten-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Doi Shoten, Osaka Picture: 土井商店 - Check out Tripadvisor members&#39; 50,244 candid photos and videos of Doi Shoten. Osaka. Osaka Tourism Osaka Hotels Osaka Bed and Breakfast Osaka Vacation Rentals Osaka Vacation Packages Flights to Osaka Osaka Restaurants Things to Do in Osaka Osaka Shopping",
+        "title": "土井商店 - Picture of Doi Shoten, Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=zC6v3Q019B8",
+        "snippet": "This is my ultimate travel guide for Osaka, Japan - the kitchen of Japan including 30 secrets and best places to visit which I carefully selected, things to do in Osaka like Endo Sushi, Mr. Kanso ...",
+        "title": "30 Secrets &amp; Things to do in Osaka, Japan - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.japan-guide.com/e/e2157.html",
+        "snippet": "Osaka (大阪, Ōsaka) is Japan&#39;s second largest metropolitan area after Tokyo. It has been the economic powerhouse of the Kansai Region for many centuries. Osaka was formerly known as Naniwa. Before the Nara Period, when the capital used to be moved with the reign of each new emperor, Naniwa was once Japan&#39;s capital city, the first one ever known.",
+        "title": "Osaka Travel Guide - What to do in Osaka",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attractions-g298566-Activities-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Book your tickets online for the top things to do in Osaka, Japan on Tripadvisor: See 122,572 traveler reviews and photos of Osaka tourist attractions. Find what to do today, this weekend, or in April. We have reviews of the best places to see in Osaka. Visit top-rated &amp; must-see attractions.",
+        "title": "THE 15 BEST Things to Do in Osaka - 2020 (with Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g298566-d3787969-i143554769-Gotochi_Sakaba_Hinode_Yokochou_Fujihachi_Shouten-Osaka_Osaka_Prefecture_.html",
+        "snippet": "Gotochi Sakaba Hinode Yokochou Fujihachi Shouten, Osaka Picture: お店のテーブルです。 - Check out Tripadvisor members&#39; 58,853 candid photos and videos of Gotochi Sakaba Hinode Yokochou Fujihachi Shouten",
+        "title": "お店のテーブルです。 - Picture of Gotochi Sakaba Hinode Yokochou ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d9944075-Reviews-Doi_Tei_Hikoboshi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Doi-Tei Hikoboshi, Osaka: See unbiased reviews of Doi-Tei Hikoboshi, one of 37,857 Osaka restaurants listed on Tripadvisor.",
+        "title": "Doi-Tei Hikoboshi, Osaka - Restaurant Reviews &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=24v3C6QJMi8",
+        "snippet": "200104 블랙핑크 Don&#39;t know what to do in OSAKA KYOCERA DOME TOUR day1.",
+        "title": "200104 블랙핑크 Don&#39;t know what to do in OSAKA KYOCERA DOME ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7440876-Reviews-Do_Re_Mi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Do Re Mi, Osaka: See unbiased reviews of Do Re Mi, one of 37,874 Osaka restaurants listed on Tripadvisor.",
+        "title": "Do Re Mi, Osaka - 2-6-7 Morinomiya Joto-Ku - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://teleport.org/cities/osaka/",
+        "snippet": "Costs of living in Osaka are in the 196th place of all 248 Teleport cities. Sign up for free to get access to our cost of living index and use our international cost of living calculator to do cost comparison by city.",
+        "title": "Quality of life in Osaka, Japan - Teleport Cities",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.cnn.com/travel/article/osaka-things-to-do/index.html",
+        "snippet": "Osaka is gearing up to host the G20 summit on June 28 to 29. In honor of the diplomatic action, we&#39;ve put together a quick list of some of the top things to do in Osaka, Japan&#39;s third-largest city.",
+        "title": "Top things to do in Osaka, Japan | CNN Travel",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "396246": {
+    "url": "https://www.yelp.com/biz/%E3%83%87%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%A4%E3%83%9E%E3%82%B6%E3%82%AD%E6%A3%AE%E3%83%8E%E5%AE%AE%E9%A7%85%E5%89%8D%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/z0x_Mhx5DbUni7fOr9EG1w/o.jpg",
+    "name": " Daily YAMAZAKI Morinomiya Ekimae ",
+    "alias": "デイリーヤマザキ森ノ宮駅前店-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, ",
+    "rating": 4.0,
+    "price": "￥￥",
+    "address": "東成区中道1-2-7",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0025",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669716202",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.booking.com/hotel/jp/morinomiya-station-guesthouse.html",
+        "snippet": "Morinomiya Station Guesthouse has a balcony and is located in Osaka, within just a 12-minute walk of Yasaka Shrine - Higashinari-ku and 0.8 miles of Tamatsukuri Inari Shrine. This family stay has free private parking, a shared kitchen and free WiFi.",
+        "title": "Morinomiya Station Guesthouse, Osaka, Japan - Booking.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/jp/morinomiya-station-guesthouse.en-gb.html",
+        "snippet": "Morinomiya Station Guesthouse has a balcony and is situated in Osaka, within just 0.6 miles of Yasaka Shrine - Higashinari-ku and 0.7 miles of Tamatsukuri Inari Shrine. This homestay features free private parking, a shared kitchen and free WiFi.",
+        "title": "Morinomiya Station Guesthouse, Osaka – Updated 2020 Prices",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.agoda.com/hotels-near-morinomiya-piloti-hall/attractions/osaka-jp.html",
+        "snippet": "Morinomiya Piloti Hall is just one of Osaka&#39;s many landmarks to discover. Secure the lowest rates for your trip with Agoda.com at any hotel near Sports Venues. A variety of hotels can be found near Morinomiya Piloti Hall, such as Hotel Keihan Tenmabashi and APA Villa Hotel Osaka-Tanimachi 4Chome-Ekimae.",
+        "title": "Hotels near Morinomiya Piloti Hall, Osaka - BEST HOTEL ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/jp/morinomiya-station-guesthouse.no.html",
+        "snippet": "Morinomiya Station Guesthouse has a balcony and is situated in Osaka, within just 1 km of Yasaka Shrine - Higashinari-ku and 1.2 km of Tamatsukuri Inari Shrine. This homestay features free private parking, a shared kitchen and free WiFi.",
+        "title": "Morinomiya Station Guesthouse (Osaka) – oppdaterte priser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/jp/morinomiya-station-guesthouse.pl.html",
+        "snippet": "Morinomiya Station Guesthouse has a balcony and is situated in Osaka, within just 1 km of Yasaka Shrine - Higashinari-ku and 1.2 km of Tamatsukuri Inari Shrine. This homestay features free private parking, a shared kitchen and free WiFi.",
+        "title": "Morinomiya Station Guesthouse, Osaka – aktualne ceny na ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/jp/morinomiya-station-guesthouse.ro.html",
+        "snippet": "Unul dintre bestsellerurile noastre în Osaka! Morinomiya Station Guesthouse has a balcony and is situated in Osaka, within just 1 km of Yasaka Shrine - Higashinari-ku and 1.2 km of Tamatsukuri Inari Shrine. This homestay features free private parking, a shared kitchen and free WiFi.",
+        "title": "Morinomiya Station Guesthouse, Osaka – Prețuri actualizate ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.rome2rio.com/s/Hakata-ekimae/Yamazaki",
+        "snippet": "There are 7 ways to get from Hakata-ekimae to Yamazaki by train, night bus, car or plane. Select an option below to see step-by-step directions and to compare ticket prices and travel times in Rome2rio&#39;s travel planner.",
+        "title": "Hakata-ekimae to Yamazaki - 7 ways to travel via train ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.rome2rio.com/s/APA-Villa-Hotel-Toyama-Ekimae/Osaka-Castle",
+        "snippet": "There are 7 ways to get from APA Villa Hotel Toyama-Ekimae to Osaka Castle by train, bus, car or plane. Select an option below to see step-by-step directions and to compare ticket prices and travel times in Rome2rio&#39;s travel planner.",
+        "title": "APA Villa Hotel Toyama-Ekimae to Osaka Castle - 7 ways to ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.rome2rio.com/s/Shin-Osaka/Morinomiya-Station",
+        "snippet": "There are 3 ways to get from Shin Osaka to Morinomiya (Station) by train, taxi or foot. Select an option below to see step-by-step directions and to compare ticket prices and travel times in Rome2rio&#39;s travel planner.",
+        "title": "Shin Osaka to Morinomiya (Station) - 2 ways to travel via ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.rome2rio.com/s/Osaka-Castle/APA-Hotel-Osaka-Higobashi-Ekimae",
+        "snippet": "The cheapest way to get from Osaka Castle to APA Hotel Osaka Higobashi Ekimae costs only ¥201, and the quickest way takes just 4 mins. Find the travel option that best suits you.",
+        "title": "Osaka Castle to APA Hotel Osaka Higobashi Ekimae - 3 ways ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "418226": {
+    "url": "https://www.yelp.com/biz/moti-mahal-%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oXP1Q9k9aJ6CNJHoDpiGIw/o.jpg",
+    "name": "Moti Mahal",
+    "alias": "moti-mahal-大阪市-東成区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Indian, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "玉津2丁目1-29",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市 東成区",
+    "zip_code": "537-0023",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669740155",
+    "review_count": 1,
+    "snippets": []
+  },
+  "441251": {
+    "url": "https://www.yelp.com/biz/%E3%83%9F%E3%83%8B%E3%82%B9%E3%83%88%E3%83%83%E3%83%97%E5%A4%A7%E4%BB%8A%E9%87%8C%E8%A5%BF%EF%BC%92%E4%B8%81%E7%9B%AE%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NXFSqK6jkRq3ixUothcRkg/o.jpg",
+    "name": "Ministop Oimazatonishi 2 chome",
+    "alias": "ミニストップ大今里西２丁目店-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Convenience Stores, ",
+    "rating": 4.0,
+    "price": "￥",
+    "address": "東成区大今里西2丁目7-8",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0014",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669766891",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://mapcarta.com/N2535961156",
+        "snippet": "Ikuno-ku is one of 24 wards of Osaka, Japan.The Tsuruhashi area of Ikuno-ku is well known for the large number of Koreans, particularly Korean-Japanese citizens living there, as well as for its large number of yakiniku restaurants. Ikuno Ward is situated 2 km south of Oimazatonishi 1-chome. Photo: Oilstreet, CC BY 2.5.",
+        "title": "Oimazatonishi 1-chome Map - Osaka, Japan - Mapcarta",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/%E3%83%AD%E3%83%BC%E3%82%BD%E3%83%B3-%E7%8E%89%E9%80%A0%EF%BC%92%E4%B8%81%E7%9B%AE%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82",
+        "snippet": "ローソン 玉造2丁目店 in Osaka, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Osaka and beyond. Yelp. Cancel. For Businesses. Write a Review. Log In Sign ... Ministop Oimazatonishi 2 chome.",
+        "title": "Lawson Tamatsukuri 2 chome - Chuo Ward - Osaka, 大阪府, Japan",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.mafengwo.cn/poi/26941382.html",
+        "snippet": "Ministop Oimazatonishi 2 chome. ... +81 6 6976 6891. 地址. 東成区大今里西2丁目7-8 カジビル Osaka, 大阪府 〒537-0014 Japan.",
+        "title": "大阪点评,地址_评价,大阪购物 - 马蜂窝",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://mapcarta.com/N2535961146",
+        "snippet": "Ikuno-ku is one of 24 wards of Osaka, Japan.The Tsuruhashi area of Ikuno-ku is well known for the large number of Koreans, particularly Korean-Japanese citizens living there, as well as for its large number of yakiniku restaurants. Ikuno Ward is situated 2 km south of Oimazato 1-chome. Photo: Oilstreet, CC BY 2.5.",
+        "title": "Oimazato 1-chome Map - Osaka, Japan - Mapcarta",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.somax.co.jp/en/company/profile.html",
+        "snippet": "Completed construction on new offices at 4-4 Oimazatonishi 2-Chome, Higashinari-ku, Osaka, to respond to increasing sales items and larger products. Oct. 1998. Completed construction on a sales headquarters to expand business. Oct. 1999. Increased capital to ¥20,000,000. Dec. 1999",
+        "title": "OUTLINE OF COMPANY | Company Guide | Mold Cleaning Machine ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.compathy.net/magazine/2016/09/22/top-13-guest-houses-in-osaka/",
+        "snippet": "Travel Magazine TOP Japan Osaka Where to Stay in Osaka Osaka Guesthouse – Top 13 Guesthouses in Osaka. Osaka Guesthouse ... 2 Chome-18-1 Nipponbashi, Chuo Ward, Osaka, Osaka Prefecture 542-0073. ... 1 Chome-11-15 Oimazatonishi, Higashinari Ward, Osaka, Osaka Prefecture 537-0014. Price: ...",
+        "title": "Osaka Guesthouse - Top 13 Guesthouses in Osaka | Compathy ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://worldpostalcode.com/japan/osaka-fu/osaka-shi",
+        "snippet": "Postal codes for Osaka Shi, Japan. Use our interactive map, address lookup, or code list to find the correct zip code for your postal mails destination.",
+        "title": "Osaka Shi, Japan Postal Codes",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.chiangdao.com/hotels4/asiahotels/japanhotels/osakahotels/osakacastlehotels.htm",
+        "snippet": "Osaka Castle Hotels - Find your hotel in Osaka Castle, Osaka, Japan",
+        "title": "Osaka Castle Hotels, Osaka, Japan - Hotels in Osaka Castle ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://apartment-in-oimazatonishi-142-osaka.hotelmix.it/",
+        "snippet": "Apartment In Oimazatonishi 142 - L&#39;appartamento In Oimazatonishi 142 offre un alloggio a Osaka. Questo alloggio a Osaka dista 2.",
+        "title": "°HOTEL APARTMENT IN OIMAZATONISHI 142 OSAKA (Giappone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/%E3%82%BB%E3%83%96%E3%83%B3%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3%E5%9B%9B%E8%B0%B74%E4%B8%81%E7%9B%AE%E5%BA%97-%E6%96%B0%E5%AE%BF%E5%8C%BA",
+        "snippet": "2 check-ins. First to Review. This is a convenient stop coming to and from the train station in Shinjuku. Hey have all the things you need just in case you forgot something. Useful Funny Cool. Page 1 of 1. ... Ministop Oimazatonishi 2 chome.",
+        "title": "7-Eleven Yotsuya 4-chome - Convenience Stores - 四谷4-3-4 ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "447321": {
+    "url": "https://www.yelp.com/biz/%E4%BB%8A%E9%87%8C%E3%82%8F%E3%81%A3%E3%81%97%E3%82%87%E3%81%84-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_RlZKdGkRlTIe-Nc8YQI6g/o.jpg",
+    "name": "Imazato Wasshoi",
+    "alias": "今里わっしょい-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Izakaya, Ramen, Noodles, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "東成区大今里南1-5-2",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0013",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669745050",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d6023928-Reviews-Imazato_Wasshoi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Imazato Wasshoi, Osaka: See 6 unbiased reviews of Imazato Wasshoi, rated 4 of 5 on Tripadvisor and ranked #5,819 of 37,882 restaurants in Osaka.",
+        "title": "Imazato Wasshoi, Osaka - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g298566-d6023928-i90641943-Imazato_Wasshoi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Imazato Wasshoi, Osaka Picture: まぜ麺 - Check out Tripadvisor members&#39; 50,279 candid photos and videos of Imazato Wasshoi. Osaka. Osaka Tourism Osaka Hotels Osaka Bed and Breakfast Osaka Vacation Rentals Osaka Vacation Packages Flights to Osaka Osaka Restaurants Things to Do in Osaka Osaka Shopping",
+        "title": "まぜ麺 - Picture of Imazato Wasshoi, Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g14127726-d6023928-Reviews-Imazato_Wasshoi-Higashinari_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Imazato Wasshoi, Higashinari: See 5 unbiased reviews of Imazato Wasshoi, rated 4 of 5 on TripAdvisor and ranked #12 of 252 restaurants in Higashinari.",
+        "title": "Imazato Wasshoi, Higashinari - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g298566-d6023928-i90641938-Imazato_Wasshoi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Imazato Wasshoi, Osaka Picture: 今里わっしょい（大阪市東成区） - Check out Tripadvisor members&#39; 62,759 candid photos and videos of Imazato Wasshoi",
+        "title": "今里わっしょい（大阪市東成区） - Picture of Imazato Wasshoi, Osaka ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g14127726-d6023928-i90641943-Imazato_Wasshoi-Higashinari_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Imazato Wasshoi, Higashinari Picture: まぜ麺 - Check out TripAdvisor members&#39; 486 candid photos and videos of Imazato Wasshoi",
+        "title": "まぜ麺 - Picture of Imazato Wasshoi, Higashinari - TripAdvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.fr/Restaurant_Review-g14127726-d6023928-Reviews-Imazato_Wasshoi-Higashinari_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Imazato Wasshoi, Higashinari : consultez 5 avis sur Imazato Wasshoi, noté 4 sur 5 sur TripAdvisor et classé #12 sur 252 restaurants à Higashinari.",
+        "title": "Imazato Wasshoi, Higashinari - Restaurant Avis, Numéro de ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/wasshoi03imazato/",
+        "snippet": "今里わっしょい, 大阪市. 59 likes · 50 talking about this · 2 were here. 今里わっしょい 定休日：毎週木曜日（祝日は営業） アクセス：大阪メトロ今里駅の6番出口左に出てすぐ 専用駐車場はありません。 近隣の有料コインパーキングをご利用下さい。",
+        "title": "今里わっしょい - Home - Osaka - Menu, Prices, Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://rotary-hotel-imazato-osaka.hotelmix.co.uk/",
+        "snippet": "Rotary Hotel Imazato - Rotary Hotel Imazato is a 3-star venue situated about 1.6 km from Sanadamaru Honoring Monument.",
+        "title": "°ROTARY HOTEL IMAZATO OSAKA 3* (Japan) - from £ 77 | HOTELMIX",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.hotels.com/ho645005408/imazato-crystal-hotel-osaka-japan/",
+        "snippet": "Ta en titt på bilder, les anmeldelser fra tidligere gjester og bestill hotell med vår prismatch. Vi vil også fortelle deg om hemmelige tilbud og salg når du registrerer deg for å motta våre e-poster.",
+        "title": "Imazato Crystal Hotel i Osaka | Hotels.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/jp/imazato-ryokan.html",
+        "snippet": "A 5-minute walk from the Imazato Station on Kintetsu line and metro, Imazato Ryokan features affordable accommodations with a flat-screen TV and free WiFi. The Osaka Station is a 25-minute train ride away. Namba Station is a 10-minute train ride away. Japanese-style rooms provide air-conditioning facilities, a flat-screen TV, yukata robes.",
+        "title": "Imazato Ryokan, Osaka, Japan - Booking.com",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "452432": {
+    "url": "https://www.yelp.com/biz/%E8%B1%8A%E7%94%B0%E5%95%86%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BB_L-MVFJ-aEzvpSUAMKMw/o.jpg",
+    "name": "Toyoda Shoten",
+    "alias": "豊田商店-大阪市-東成区-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Organic Stores, Imported Food, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "東小橋3丁目17-20",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市 東成区",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81667173113",
+    "review_count": 3,
+    "snippets": []
+  },
+  "466249": {
+    "url": "https://www.yelp.com/biz/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%9B%E3%82%B9%E3%83%88-%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iexMV7WA2KtYWSJ6EjYMSg/o.jpg",
+    "name": "Royal Host",
+    "alias": "ロイヤルホスト-大阪市-東成区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Diners, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "中道1丁目4-2　森之宮スカイガーデンハウス",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市 東成区",
+    "zip_code": "537-0025",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669710911",
+    "review_count": 6,
+    "snippets": []
+  },
+  "466512": {
+    "url": "https://www.yelp.com/biz/%E3%81%B6%E3%81%82%E3%81%84%E3%81%9D%E3%81%86-%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Ba",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eDcyrPcioFRkXofTnrf61A/o.jpg",
+    "name": "ぶあいそう",
+    "alias": "ぶあいそう-大阪市-東成区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Donburi, Japanese Curry, Cafeteria, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "東小橋3丁目12-16",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市 東成区",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669749177",
+    "review_count": 2,
+    "snippets": []
+  },
+  "505147": {
+    "url": "https://www.yelp.com/biz/ribone-%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "RiBone",
+    "alias": "ribone-大阪市-東成区-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Barbeque, Italian, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "東小橋1丁目1-15",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市 東成区",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81643074811",
+    "review_count": 1,
+    "snippets": []
+  },
+  "512111": {
+    "url": "https://www.yelp.com/biz/%E4%B8%89%E5%B9%B8-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "MIYUKI",
+    "alias": "三幸-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Sushi Bars, ",
+    "rating": 4.0,
+    "price": "￥￥",
+    "address": "東成区中道1丁目1-21",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0025",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669749727",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.miyuki-beads.co.jp/english/",
+        "snippet": "MIYUKI is pleased to announce the launch of a new web service 【MIYUKI Photo Converter for Delica Beads】. It can assist you to make Patterns, Pattern Tables, and to select of Delica Beads in your favorite size with a feature to limit or expand your color palette. Please click to try the Converter.",
+        "title": "MIYUKI Co.,ltd.| Bead &amp; Craft",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g1023472-d7519775-Reviews-Miyuki-Toyonaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Miyuki, Toyonaka: Se 2 objektive anmeldelser av Miyuki, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 651 av 1 704 restauranter i Toyonaka.",
+        "title": "Miyuki, Toyonaka - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d13056811-Reviews-Miyuki-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Miyuki, Osaka: See unbiased reviews of Miyuki, one of 37,878 Osaka restaurants listed on Tripadvisor.",
+        "title": "Miyuki, Osaka - 1-18-2 Higashishinsaibashi Chuo-Ku ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.miyuki-beads.co.jp/english/etc/retail.html",
+        "snippet": "MIYUKI Co.,Ltd. | The first Japanese seed bead maker.Information of delica, other glass seed beads and more.",
+        "title": "MIYUKI Co.,ltd.",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d13056810-Reviews-Miyuki_2-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Miyuki 2, Osaka: See unbiased reviews of Miyuki 2, one of 37,921 Osaka restaurants listed on Tripadvisor.",
+        "title": "Miyuki 2, Osaka - Restaurant Reviews &amp; Phone Number ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d9914573-Reviews-Miyuki_Zushi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Miyuki-Zushi, Osaka: See unbiased reviews of Miyuki-Zushi, one of 37,878 Osaka restaurants listed on Tripadvisor.",
+        "title": "Miyuki-Zushi, Osaka - Restaurant Reviews &amp; Phone Number ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g298566-d13567762-Reviews-Miyuki_Onsen-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Osaka Bed and Breakfast; Osaka Vacation Rentals; Osaka Vacation Packages; Flights to Osaka; Osaka Restaurants; Things to Do in Osaka; Osaka Shopping; Osaka Travel Forum; Osaka Photos; Osaka Map; Osaka Travel Guide; All Osaka Hotels; Osaka Hotel Deals; Last Minute Hotels in Osaka; By Hotel Type. Osaka Motels; Osaka Hostels; Osaka Campgrounds ...",
+        "title": "Miyuki Onsen (Osaka, Japan): Address, Phone Number ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://diginami.miyuki.jp/special/20200318_osaka.html",
+        "snippet": "中島みゆき公式サイトです。 【同封いただくもの】 未使用コンサートチケット（本券と半券が切り離されているコンサートチケットは払い戻しできません）",
+        "title": "NAKAJIMA MIYUKI OFFICIAL SITE",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.miyuki-beads.co.jp/",
+        "snippet": "グラスビーズ製造メーカー株式会社MIYUKIの公式Webサイト。広島県産のグラスシードビーズを始め、高品質のデリカビーズ、世界のビーズ・クラフトパーツ・副資材。オリジナルキットを幅広く取り扱っております。",
+        "title": "株式会社MIYUKI 公式サイト｜ビーズ・デリカビーズ・世界のクラフトパール 服飾資材の製造販売",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.instagram.com/miyuki.osaka.iwai/",
+        "snippet": "銀座みゆき通り美容外科?大阪院 has 156 posts on their Instagram profile. Follow their account to see all their photos and videos.",
+        "title": "銀座みゆき通り美容外科?大阪院 (@miyuki.osaka.iwai) • Instagram photos ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "518671": {
+    "url": "https://www.yelp.com/biz/%E3%81%BE%E3%82%8B%E3%81%82-%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/E56SSJdZH5G3Cr_HUAKGgg/o.jpg",
+    "name": "まるあ",
+    "alias": "まるあ-大阪市-東成区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Okonomiyaki, Street Vendors, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "東小橋3丁目18-11",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市 東成区",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669711205",
+    "review_count": 1,
+    "snippets": []
+  },
+  "558676": {
+    "url": "https://www.yelp.com/biz/%E5%B9%B3%E9%87%8E%E5%95%86%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "平野商店",
+    "alias": "平野商店-大阪市-東成区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Organic Stores, Breweries, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "東小橋3丁目18-18",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市 東成区",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669721922",
+    "review_count": 1,
+    "snippets": []
+  },
+  "560149": {
+    "url": "https://www.yelp.com/biz/%E3%82%BB%E3%83%96%E3%83%B3%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3-%E5%A4%A7%E9%98%AA%E4%B8%AD%E9%81%93%EF%BC%93%E4%B8%81%E7%9B%AE-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xDD2dKtjECw05Za0Ducu8Q/o.jpg",
+    "name": "7-Eleven Osaka Nakamichi 3 chome",
+    "alias": "セブンイレブン-大阪中道３丁目-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Convenience Stores, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "東成区中道3-14-9",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0025",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669772033",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://mapcarta.com/N2535961143",
+        "snippet": "Nakamichi 3-chome from Mapcarta, the free map. Asia. East Asia. Japan. Kansai. Osaka. Osaka. Tennoji. Nakamichi 3-chome Nakamichi 3 ... Japan. &quot;Jōtō&quot; means &quot;east of the castle&quot;, referring to Osaka Castle. Joto is situated 2½ km northeast of Nakamichi 3-chome. Tennoji Tennōji is one of 24 wards of Osaka, Japan.",
+        "title": "Nakamichi 3-chome Map - Tennoji, Osaka - Mapcarta",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Hotel_Review-g14127623-d1117535-Reviews-Super_Hotel_Tanimachi_4_chome_Subway_Exit_No_6-Chuo_Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Now $64 (Was $̶8̶4̶) on Tripadvisor: Super Hotel Tanimachi 4 chome Subway Exit No. 6, Chuo. See 67 traveler reviews, 45 candid photos, and great deals for Super Hotel Tanimachi 4 chome Subway Exit No. 6, ranked #88 of 177 hotels in Chuo and rated 3.5 of 5 at Tripadvisor.",
+        "title": "SUPER HOTEL TANIMACHI 4 CHOME SUBWAY EXIT NO. 6 $64 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.hosiden.co.jp/en/company/network.html",
+        "snippet": "It introduces a Japanese network of Hosiden. Hosiden is electronic parts maker manufacturing and selling connector, switch, acoustic parts and capacitive touch panel.",
+        "title": "Japan Network | Company Profile | Hosiden",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://sharehouse.in/eng/area/search/106/?house_school_type=1",
+        "snippet": "Sharehouse in Osaka. - ... 18-6, Tanabe 3-chome, Osaka Higashi Sumiyoshi-ku, Osaka Rent: $461~ Access. ... 3chome Nakamichi Higashinari-ku Osaka-city Rent: $480~ Access. JR loop line Tamatsukuri station 4min. Subway Tsurumiryokuchi line Tamatsukuri station 6min.",
+        "title": "Sharehouse in Osaka - Sharehouse.in",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://play.google.com/store/apps/details?id=com.kaguratech.jinja&hl=en_US",
+        "snippet": "3 Chome 13-10-802, Nakamichi, Higashinari-ku Osaka-shi, Osaka, Japan. Similar. See more. Star Jolt - Arcade challenge. Beardybird. Retro inspired, highscore driven, classic arcade. Your highscore is your limit. The Rich King VIP - Amazing Clicker. Next Doors. This game will make you rich in 10 minutes.",
+        "title": "PIXEL SHRINE - JINJA - Apps on Google Play",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=ec28R_WhGAw",
+        "snippet": "Address: 2 Chome-14-10 Nakamichi, Higashinari Ward, Osaka, Osaka Prefecture 537-0025 Tengu (not to be confused with another restaurant with the same name) Address: 3-15-19 Toyosaki, Kita-ku, Osaka ...",
+        "title": "Japanese Food Tour: Best Okonomiyaki in Osaka ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.onlinelibrary.wiley.com/doi/10.1111/j.1349-7006.1994.tb02364.x",
+        "snippet": "This study was conducted to examine the incidence rates and cumulative risks of second primary cancers in Osaka and to compare the observed number of second primary cancers with the expected number...",
+        "title": "Incidence of Second Primary Cancers in Osaka Residents ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://sunrise.maplogs.com/7_eleven_suita_minamikaneden_1_chome_1_ch_me_1_1_minamikaneden_suita_osaka_japan.403709.html",
+        "snippet": "This page shows the sunrise and sunset times in 7-Eleven Suita Minamikaneden 1-chome, 1-chōme-1-1 Minamikaneden, Suita, Osaka -, Japan, including beautiful sunrise or sunset photos, local current time, timezone, longitude, latitude and live map.",
+        "title": "7-Eleven Suita Minamikaneden 1-chome, 1-chōme-1-1 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Hotel_Review-g298566-d12233540-Reviews-Cube_Uemachidai-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Book Cube Uemachidai, Osaka on Tripadvisor: See traveler reviews, 6 candid photos, and great deals for Cube Uemachidai, ranked #242 of 1,229 specialty lodging in Osaka and rated 4 of 5 at Tripadvisor.",
+        "title": "Cube Uemachidai Condominium, Osaka - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.google.com/travel/hotels/Osaka/entity/CgsIqbWf0eGgj9XzARAB?key=CgsIqbWf0eGgj9XzARAB",
+        "snippet": "3 Chome-8-24 Ueshio, Tennoji Ward, Osaka, ... subway station, 7-eleven, family mart.&quot; pingkan singal ... tree-lined street is 2 km from the Tennōji Zoo and 4 km from the restored Osaka Castle.",
+        "title": "Hotel Sakura - Google Search",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "618676": {
+    "url": "https://www.yelp.com/biz/%E5%8D%83%E5%AF%BF%E5%A0%82-%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eFKzsPJhugvfm2LUg38gmw/o.jpg",
+    "name": "千寿堂",
+    "alias": "千寿堂-大阪市-東成区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, ",
+    "rating": 4.0,
+    "price": "￥￥",
+    "address": "東中本2丁目2-32",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市 東成区",
+    "zip_code": "537-0021",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669712324",
+    "review_count": 1,
+    "snippets": []
+  },
+  "620922": {
+    "url": "https://www.yelp.com/biz/%E3%82%B3%E3%83%8A%E3%83%9F%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%AF%E3%83%A9%E3%83%96%E4%BB%8A%E9%87%8C-%E5%A4%A7%E9%98%AA%E5%B8%82-%E6%9D%B1%E6%88%90%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&u",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RQ2kW-lo95ZlGtXmptL0kA/o.jpg",
+    "name": "コナミスポーツクラブ今里",
+    "alias": "コナミスポーツクラブ今里-大阪市-東成区",
+    "main_category": "Active Life",
+    "sub_categories": "Sports Clubs, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "大今里西1丁目26-5",
+    "city_from_postal": "Higashinari Ku",
+    "city": "大阪市 東成区",
+    "zip_code": "537-0014",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669785730",
+    "review_count": 2,
+    "snippets": []
+  },
+  "623548": {
+    "url": "https://www.yelp.com/biz/%E5%B1%85%E9%85%92%E5%B1%8B-%E7%9F%B3%E5%B7%9D-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LEbhrY6G8KQcTvjoWpZ6WA/o.jpg",
+    "name": "Izakaya Ishikawa",
+    "alias": "居酒屋-石川-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafeteria, ",
+    "rating": 3.0,
+    "price": "￥",
+    "address": "東成区中本1-3-3",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0022",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669767335",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g654326-d7431974-Reviews-Izakaya_Ishikawa-Sakai_Osaka_Prefecture_Kinki.html",
+        "snippet": "Izakaya Ishikawa, Sakai: See unbiased reviews of Izakaya Ishikawa, rated 3 of 5 on Tripadvisor and ranked #1,306 of 3,892 restaurants in Sakai.",
+        "title": "Izakaya Ishikawa, Sakai - Restaurant Reviews &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.au/Restaurant_Review-g654326-d7431974-Reviews-Izakaya_Ishikawa-Sakai_Osaka_Prefecture_Kinki.html",
+        "snippet": "Izakaya Ishikawa, Sakai: See unbiased reviews of Izakaya Ishikawa, rated 3 of 5 on Tripadvisor and ranked #1,306 of 3,895 restaurants in Sakai.",
+        "title": "IZAKAYA ISHIKAWA, Sakai - Restaurant Reviews &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7443330-Reviews-Izakaya_Totoyo-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Izakaya Totoyo, Osaka: See unbiased reviews of Izakaya Totoyo, one of 37,920 Osaka restaurants listed on Tripadvisor.",
+        "title": "Izakaya Totoyo, Osaka - Restaurant Reviews &amp; Phone Number ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://pl.tripadvisor.com/Restaurant_Review-g654326-d7431974-Reviews-Izakaya_Ishikawa-Sakai_Osaka_Prefecture_Kinki.html",
+        "snippet": "Izakaya Ishikawa, Sakai: zobacz bezstronne recenzje na temat Izakaya Ishikawa, z oceną 3 na 5 w serwisie Tripadvisor, na pozycji 1 310 z 3 901 restauracji w Sakai.",
+        "title": "Izakaya Ishikawa, Sakai - recenzje restauracji - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://savorjapan.com/contents/more-to-savor/where-to-eat-in-osaka-from-izakaya-restaurants-to-yakitori/",
+        "snippet": "If you&#39;re hungry and looking for a restaurant in Osaka, here&#39;s a list of some delicious places to satisfy your appetite. Yakitori, sushi, izakaya &amp; more.",
+        "title": "Where to Eat in Osaka, from Izakaya Restaurants to Yakitori",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://savorjapan.com/contents/discover-oishii-japan/try-these-yakitori-15-recommended-izakaya-in-osaka/",
+        "snippet": "Osaka is best known for okonomiyaki (Japanese savory pancake) and takoyaki (octopus balls), but it actually has lots of delicious yakitori spots as well. Yakitori are juicy and tasty chicken skewers that you can&#39;t miss when you&#39;re in Japan. Share them with your friends in one of these 15 recommended izakaya (Japanese pub)!",
+        "title": "Try These Yakitori! 15 Recommended Izakaya in Osaka ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://eguru.jp/osaka/izakaya/index.html",
+        "snippet": "大阪の居酒屋情報をお探しなら「e-グルメ 大阪居酒屋・バー OSAKA IZAKAYA・BAR 居酒屋・バー専門グルメ情報検索サイト Osaka Metro」におまかせください。 Osaka Metro沿線を中心とした居酒屋情報を掲載中。 地域とジャンルに特化した専門性で人気・穴場のお店をご紹介。",
+        "title": "e-グルメ 大阪居酒屋・バー OSAKA IZAKAYA・BAR 居酒屋・バー専門グルメ情報検索サイト Osaka ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.cityunscripted.com/travel-magazine/10-of-the-best-izakaya-in-osaka-japan",
+        "snippet": "Visiting Osaka? Then you have to try one of the famous Osaka izakaya! These small, intimate drinking dens are scattered throughout the city and waiting to be explored. For a true taste of Japanese culture follow this guide and discover ten of the best izakaya in Osaka, as recommended by a local.",
+        "title": "The Best Izakaya in Osaka - City Unscripted",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://insideosaka.com/best-izakaya-in-osaka/",
+        "snippet": "Best Izakaya In Osaka. Izakaya and sake specialists (they’re almost the same thing) are everywhere in Osaka. Spending an evening in an izakaya is one of the best ways to really experience this city - you’ll sample great food, meet the locals, and drink some fabulous sake or beer.",
+        "title": "Best Izakaya In Osaka - Inside Osaka",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g298566-d9958284-Reviews-Izakaya_Nakasaki-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Izakaya Nakasaki, Osaka: Se objektive anmeldelser av Izakaya Nakasaki, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 11 700 av 37 870 restauranter i Osaka.",
+        "title": "Izakaya Nakasaki, Osaka - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "634377": {
+    "url": "https://www.yelp.com/biz/%E3%81%AA%E3%82%93%E3%81%B0%E3%82%84-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "なんばや",
+    "alias": "なんばや-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Meat Shops, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "東成区東小橋3丁目18-18",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669762941",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270406/27067664/",
+        "snippet": "西成警察周辺のお薦め立ち飲み屋さん5軒. 新今宮に近いところで西成警察周辺のお店を飲み歩くのは如何でしょう 路上には缶ビールやワンカップを持った地元民が道路脇で飲んでいたり寝そべっていたり 昭和な下町がいま...",
+        "title": "なんばや和 - 萩ノ茶屋/立ち飲み居酒屋・バー [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=sn2ZLgeH4WI",
+        "snippet": "【大阪】【西成】【ヤマキ】【なんばや】ハマちゃん 西成の名店ぶらぶら食べ歩きをしていたら！ 西成の な人に遭遇！",
+        "title": "【大阪】【西成】【ヤマキ】【なんばや】ハマちゃん - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270406/27046610/",
+        "snippet": "難波屋 (今池/立ち飲み居酒屋・バー)の店舗情報は食べログでチェック！ 【喫煙可】口コミや評価、写真など、ユーザーによるリアルな情報が満載です！地図や料理メニューなどの詳細情報も充実。",
+        "title": "難波屋 - 今池/立ち飲み居酒屋・バー [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pages/%E3%81%AA%E3%82%93%E3%81%B0%E3%82%84/336989859755101",
+        "snippet": "なんばや, Osaka. 57 likes · 287 were here. Bar",
+        "title": "なんばや - Osaka - Bar | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270406/27046610/dtlmap/",
+        "snippet": "リクエスト予約 希望条件をお店に申し込み、お店からの確定の連絡をもって、予約が成立します。. 1 予約の申し込み. ご希望の条件を当サイトよりご入力ください。 2 お店からのメール. ご予約が承れるか、お店からの返信メールが届きます。",
+        "title": "地図 : 難波屋 - 今池/立ち飲み居酒屋・バー [食べログ]",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://osaka-tachinomi-hitorinomi-nonbe.com/%E3%81%AA%E3%82%93%E3%81%B0%E3%82%84/",
+        "snippet": "最近は、昔と違ってだいぶ行きやすくなった西成区界隈. 観光客も増えてますわな . そんな西成のなんばやに行ってみましてん",
+        "title": "なんばや | 大阪 立ち飲み 一人飲み",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL95uJA78aCWlWGxRBwpgPpD33F-TaqjqR",
+        "snippet": "Skip navigation Sign in. Search",
+        "title": "【大阪】【西成】【ヤマキ】【なんばや】 - YouTube",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://tabelog.com/osaka/A2701/A270406/27067664/dtlrvwlst/B111855450/",
+        "snippet": "【隠者】なんばや～なぜ登録がなかったの！？というくらいの人気店は、あの店の姉妹店 ※無断写真撮影禁止！",
+        "title": "隠者】なんばや～なぜ登録がなかったの！？というくらいの人気店は、あの店の姉妹店 ※無断写真撮影禁止！』by ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.its-mo.com/detail/DIDX_DKE-3897807/",
+        "snippet": "（有）なんばや（鶴橋・上本町・今里/肉・卵）の店舗情報を掲載。住所や電話番号だけでなく、地図やルートなど ...",
+        "title": "（有）なんばや（鶴橋・上本町・今里/肉・卵）の店舗情報 | いつもNAVI",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.ekiten.jp/shop_704659/",
+        "snippet": "天神橋筋駅が最寄駅の安くてお洒落な服が買えるお店です！ 生地もしっかりしてるので丁寧に扱えば長く着られるし買って ...",
+        "title": "なんばや/大阪市北区本庄西｜エキテン",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "641262": {
+    "url": "https://www.yelp.com/biz/%E8%BF%91%E5%95%86%E3%82%B9%E3%83%88%E3%82%A2%E7%8E%89%E9%80%A0%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jbtcqB4TX0PKBFrdJdTxkQ/o.jpg",
+    "name": "KINSHO Store Tamatsukuri",
+    "alias": "近商ストア玉造店-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "天王寺区玉造元町1番23号",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669776511",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.yelp.com/biz/%E8%BF%91%E5%95%86%E3%82%B9%E3%83%88%E3%82%A2%E7%8E%89%E9%80%A0%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82",
+        "snippet": "近商ストア玉造店 in Osaka, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Osaka and beyond. KINSHO Store Tamatsukuri - Grocery - 天王寺区玉造元町1番23号, 天王寺区, Osaka, 大阪府, Japan - Phone Number - Yelp",
+        "title": "KINSHO Store Tamatsukuri - Tennoji Ward - Osaka, 大阪府, Japan",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/jp/grandouce-tamatsukuri.html",
+        "snippet": "Grandouce Tamatsukuri This neighborhood is a great choice for travelers interested in shopping, street food and food shopping – Check location 540-0004 Osaka Prefecture, Osaka, Chuoku Tamatsukuri 1-6-19, Japan – This neighborhood is a great choice for travelers interested in shopping, street food and food shopping – Check location Great location - show map",
+        "title": "Apartment Grandouce Tamatsukuri, Osaka, Japan - Booking.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.opendi.jp/io/38262.html",
+        "snippet": "Description. Kinsho Store Co., Ltd. Izumiotsu-ten can be found at 59 -1 in Kotobuki-cho district . The following is offered: Supermarkets - In Izumiotsu City, Osaka there are 5 other Supermarkets.",
+        "title": "Kinsho Store Co., Ltd. Izumiotsu-ten in Izumiotsu City ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/jp/grandouce-tamatsukuri.en-gb.html",
+        "snippet": "Grandouce Tamatsukuri This neighbourhood is a great choice for travellers interested in shopping, street food and shopping for food – Check location 540-0004 Osaka Prefecture, Osaka, Chuoku Tamatsukuri 1-6-19, Japan – This neighbourhood is a great choice for travellers interested in shopping, street food and shopping for food – Check location Great location - show map",
+        "title": "Grandouce Tamatsukuri, Osaka – Updated 2020 Prices",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.pinterest.com/pin/95068242104485337/",
+        "snippet": "2012/06/02 - KINSHO (supermarket) at Tamatsukuri station",
+        "title": "KINSHO (supermarket) at Tamatsukuri station",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/jp/grandouce-tamatsukuri.fi.html",
+        "snippet": "Grandouce Tamatsukuri 540-0004 Osaka Prefecture, Osaka, Chuoku Tamatsukuri 1-6-19, Japani – Loistava sijainti – näytä kartta Varaamisen jälkeen kaikki majoituspaikan yhteystiedot, kuten puhelinnumero ja osoite, löytyvät varausvahvistuksesta sekä käyttäjätililtäsi. ... There are supermarket Kinsho, Life, drug store around.",
+        "title": "Grandouce Tamatsukuri, Osaka – päivitetyt vuoden 2020 hinnat",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/jp/grandouce-tamatsukuri.ms.html",
+        "snippet": "Salah satu pilihan terbaik kami di Osaka. Located in Osaka, 300 metres from Sanadayama Sanko Shrine and 400 metres from Tamatsukuri Inari Shrine, Grandouce Tamatsukuri offers free WiFi and air conditioning. The apartment, set in a building dating from 2018, is 1.4 km from Tsuruhashi Shopping Street and 1.5 km from Anraku-ji Temple.",
+        "title": "Grandouce Tamatsukuri, Osaka – Harga Terkini 2019",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://kinsho-store-job.net/brand-jobfind/area/Kansai/Osaka?page=2",
+        "snippet": "大阪府内の求人情報一覧。レジ、惣菜、食品スタッフなど募集中♪近鉄グループなので安心、安定して働けます！主婦 ...",
+        "title": "近商ストア（kinsho/ハー ... - kinsho-store-job.net",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.kinshostore.co.jp/html/index.php",
+        "snippet": "KINSHOネットスーパー楽ねっと便 真美ケ丘店 店頭受取サービス開始！ 詳しくはこちら (2019/05/09) スーパーマーケット KINSHO Pochette 俊徳道店 近鉄大阪線俊徳道駅高架下に5月30日（木）オープン！ 詳しくはこちら (2019/04/27)",
+        "title": "近商ストア・Harves - Kinsho Store Co., Ltd.",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/jp/sun-village-tamatsukuri.en-gb.html",
+        "snippet": "It was also very close to Tamatsukuri station making travel very easy and the nearby convenience stores were great as well when you&#39;re on a budget. Tina Australia. ... Tennoji Station is a 7-minute subway ride from bnb plus Tamatsukuri, while Osaka Castle is a 25-minute walk and subway ride away.",
+        "title": "bnb+ Tamatsukuri, Osaka – Updated 2020 Prices",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "644562": {
+    "url": "https://www.yelp.com/biz/sancafe-%E7%B7%91%E6%A9%8B%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ROv9X_YP0RqTslvh8i52Hg/o.jpg",
+    "name": "Sancafe Midoribashi",
+    "alias": "sancafe-緑橋店-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, Sandwiches, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "東成区中本1丁目11-14",
+    "city_from_postal": "Higashinari Ku",
+    "city": "Osaka",
+    "zip_code": "537-0022",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669753001",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g298566-d7440215-Reviews-Sun_Cafe_Midoribashi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Sun Cafe Midoribashi, Osaka: Se 4 objektive anmeldelser av Sun Cafe Midoribashi, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 6 436 av 37 890 restauranter i Osaka.",
+        "title": "Sun Cafe Midoribashi, Osaka - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7440215-Reviews-Sun_Cafe_Midoribashi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Sun Cafe Midoribashi, Osaka: See 4 unbiased reviews of Sun Cafe Midoribashi, rated 4 of 5 on Tripadvisor and ranked #6,443 of 37,920 restaurants in Osaka.",
+        "title": "Sun Cafe Midoribashi, Osaka - Restaurant Reviews, Photos ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.ca/biz/sancafe-%E7%B7%91%E6%A9%8B%E5%BA%97-%E5%A4%A7%E9%98%AA%E5%B8%82",
+        "snippet": "Sancafe 緑橋店 in Osaka, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Osaka and beyond. Sancafe Midoribashi - Cafes - 東成区中本1丁目11-14, 東成区, Osaka, 大阪府, Japan - Restaurant Reviews - Phone Number - Yelp",
+        "title": "Sancafe Midoribashi - Cafes - 東成区中本1丁目11-14, 東成区, Osaka ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7440452-Reviews-Stand_Midoribashi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Stand Midoribashi, Osaka: See unbiased reviews of Stand Midoribashi, rated 4 of 5 on Tripadvisor and ranked #14,464 of 37,869 restaurants in Osaka.",
+        "title": "Stand Midoribashi, Osaka - Menu, Prices &amp; Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g298566-d7440679-Reviews-Chachamaru_Midoribashi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Spise middag i Osaka: Se anmeldelser fra Tripadvisor-reisende av 37 870restauranter i Osaka, og søk etter kjøkken, pris, sted og mer.",
+        "title": "Chachamaru Midoribashi, Osaka - Restaurantanmeldelser ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7442714-Reviews-Kiccho_Midoribashi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Kiccho Midoribashi, Osaka: See 2 unbiased reviews of Kiccho Midoribashi, rated 3 of 5 on Tripadvisor and ranked #16,903 of 37,870 restaurants in Osaka.",
+        "title": "Kiccho Midoribashi, Osaka - Restaurant Reviews &amp; Phone ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.booking.com/hotel/jp/noah-39-s-ark-midoribashi.html",
+        "snippet": "Midoribashi st, the nearest station, has two different subway lines of train stopping at (Chuo line and Imazato line) so that you have great access to anywhere in Osaka! Moreover, Morinomiya st on the Osaka Loop line are within 10 mins on foot and you can reach Osaka st directly. Great location for trip to Osaka!",
+        "title": "Apartment Noah&#39;s Ark Midoribashi, Osaka, Japan - Booking.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g298566-d7443567-Reviews-Kyuyu-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Kyuyu, Osaka: Se 2 objektive anmeldelser av Kyuyu, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 12 064 av 37 885 restauranter i Osaka.",
+        "title": "Kyuyu, Osaka - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.hotels.com/ho1242768832/noah-s-ark-midoribashi-osaka-japan/",
+        "snippet": "Located in Osaka&#39;s Higashinari neighborhood, Noah&#39;s Ark Midoribashi is in the city center and near a metro station. Osaka Castle and Korea Town are notable landmarks, and some of the area&#39;s popular attractions include Tennoji Zoo and Osaka Aquarium Kaiyukan. Universal Studios Japan™ and Kidzania Koshien Theme Park are not to be missed.",
+        "title": "Book Noah&#39;s Ark Midoribashi in Osaka | Hotels.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g298566-d7443016-Reviews-Ofuji_Midoribashi-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Ofuji Midoribashi, Osaka: See unbiased reviews of Ofuji Midoribashi, rated 5 of 5 on Tripadvisor and ranked #11,223 of 37,886 restaurants in Osaka.",
+        "title": "Ofuji Midoribashi, Osaka - Restaurant Reviews &amp; Phone ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "700010": {
+    "url": "https://www.yelp.com/biz/%E6%B0%91%E6%97%8F%E6%9D%91-%E6%9D%B1%E6%88%90%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dIdMrQC8ApEAyho-dv7Mvg/o.jpg",
+    "name": "Mizoku mura",
+    "alias": "民族村-東成区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Korean, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "東小橋3-14-18",
+    "city_from_postal": "Higashinari Ku",
+    "city": "東成区",
+    "zip_code": "537-0024",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81662244951",
+    "review_count": 1,
+    "snippets": []
+  }
+}

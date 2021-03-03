@@ -1,0 +1,40 @@
+{
+  "622883": {
+    "url": "https://www.yelp.com/biz/restaurant-stollen-bar-hausen-ag?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Restaurant Stollen-Bar",
+    "alias": "restaurant-stollen-bar-hausen-ag",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food, Hotels & Travel, Restaurants, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Hauptstrasse 69",
+    "city_from_postal": "Hausen (AG)",
+    "city": "Hausen AG",
+    "zip_code": "5212",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41564411503",
+    "review_count": 2,
+    "snippets": []
+  },
+  "687779": {
+    "url": "https://www.yelp.com/biz/restaurant-max-moritz-hausen-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TUgrW8Q0PVQizxYO1e64Xw/o.jpg",
+    "name": "Restaurant Max + Moritz",
+    "alias": "restaurant-max-moritz-hausen-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, ",
+    "rating": 4.5,
+    "price": "$",
+    "address": "Hauptstrasse 33",
+    "city_from_postal": "Hausen (AG)",
+    "city": "Hausen",
+    "zip_code": "5212",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41564413311",
+    "review_count": 5,
+    "snippets": []
+  }
+}

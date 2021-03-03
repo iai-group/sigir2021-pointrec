@@ -1,0 +1,40 @@
+{
+  "348190": {
+    "url": "https://www.yelp.com/biz/gletscherspalte-tux?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Gletscherspalte",
+    "alias": "gletscherspalte-tux",
+    "main_category": "Nightlife",
+    "sub_categories": "Dance Clubs, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Vorderlanersbach  268",
+    "city_from_postal": "Finkenberg",
+    "city": "Tux",
+    "zip_code": "6293",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "454519": {
+    "url": "https://www.yelp.com/biz/kleine-tenne-tux?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9RHwu0ZphOQ5ixdambrH4A/o.jpg",
+    "name": "Kleine Tenne",
+    "alias": "kleine-tenne-tux",
+    "main_category": "Nightlife",
+    "sub_categories": "Dance Clubs, Bars, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Lanersbach 463",
+    "city_from_postal": "Finkenberg",
+    "city": "Tux",
+    "zip_code": "6293",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+4352878501",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "233146": {
+    "url": "https://www.yelp.com/biz/%E8%8D%92%E5%B7%9D%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%89-%E5%8C%97%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5h",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kZ3om1U2r4zVpC8Mfk6C3Q/o.jpg",
+    "name": "Arakawasaikuringurōdo",
+    "alias": "荒川サイクリングロード-北区",
+    "main_category": "Active Life",
+    "sub_categories": "Cycling Classes, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "志茂5-41-1",
+    "city_from_postal": "Kawagoe Shi",
+    "city": "Kita",
+    "zip_code": "350-1124",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81339022311",
+    "review_count": 3,
+    "snippets": []
+  }
+}

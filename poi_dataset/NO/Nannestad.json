@@ -1,0 +1,21 @@
+{
+  "507359": {
+    "url": "https://www.yelp.com/biz/franks-nannestad?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Franks",
+    "alias": "franks-nannestad",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Ice Cream & Frozen Yogurt, Hot Dogs, Gluten-Free, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Oslo Lufthavn Gardermoen",
+    "city_from_postal": "Nannestad",
+    "city": "Nannestad",
+    "zip_code": "2030",
+    "country_code": "NO",
+    "state_code": "02",
+    "phone": "+4764811626",
+    "review_count": 2,
+    "snippets": []
+  }
+}

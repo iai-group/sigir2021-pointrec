@@ -1,0 +1,21 @@
+{
+  "459956": {
+    "url": "https://www.yelp.com/biz/yogolicious-frozen-yogurt-merced?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6B095L-U0_w8lfW-0h4kBA/o.jpg",
+    "name": "Yogolicious Frozen Yogurt",
+    "alias": "yogolicious-frozen-yogurt-merced",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Ice Cream & Frozen Yogurt, ",
+    "rating": 3.0,
+    "price": "$",
+    "address": "3110 R St",
+    "city_from_postal": "St. Bernard",
+    "city": "Merced",
+    "zip_code": "70092",
+    "country_code": "US",
+    "state_code": "CA",
+    "phone": "+12093849646",
+    "review_count": 36,
+    "snippets": []
+  }
+}

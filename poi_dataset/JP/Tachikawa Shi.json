@@ -1,0 +1,21 @@
+{
+  "155053": {
+    "url": "https://www.yelp.com/biz/%E3%82%BB%E3%82%A4%E3%83%AD%E3%83%B3%E3%83%89%E3%83%AD%E3%83%83%E3%83%97-%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIME",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lntAn_ZtiEi2lwlv0H_cBA/o.jpg",
+    "name": "Cylon Drop",
+    "alias": "セイロンドロップ-千代田区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Sri Lankan, Tea Rooms, ",
+    "rating": 4.5,
+    "price": "￥",
+    "address": "西神田2-8-9",
+    "city_from_postal": "Tachikawa Shi",
+    "city": "Chiyoda",
+    "zip_code": "190-0012",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81332612791",
+    "review_count": 3,
+    "snippets": []
+  }
+}

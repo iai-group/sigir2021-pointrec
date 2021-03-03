@@ -1,0 +1,40 @@
+{
+  "399522": {
+    "url": "https://www.yelp.com/biz/la-grenouille-cowansville?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "La Grenouille",
+    "alias": "la-grenouille-cowansville",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Wineries, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "434 chemin Plouffe",
+    "city_from_postal": "Cowansville",
+    "city": "Cowansville",
+    "zip_code": "J2K 3G6",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14505786562",
+    "review_count": 1,
+    "snippets": []
+  },
+  "639545": {
+    "url": "https://www.yelp.com/biz/vignoble-de-la-bauge-brigham?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Vignoble De La Bauge",
+    "alias": "vignoble-de-la-bauge-brigham",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Wineries, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "155 Av Des Erables",
+    "city_from_postal": "Cowansville",
+    "city": "Brigham",
+    "zip_code": "J2K 4E1",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14502662149",
+    "review_count": 1,
+    "snippets": []
+  }
+}

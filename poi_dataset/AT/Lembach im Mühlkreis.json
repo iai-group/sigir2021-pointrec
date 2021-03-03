@@ -1,0 +1,21 @@
+{
+  "36378": {
+    "url": "https://www.yelp.com/biz/skilift-lembach-im-m%C3%BChlkreis?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Skilift",
+    "alias": "skilift-lembach-im-mühlkreis",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Ski Resorts, Skiing, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Knechtswies 5",
+    "city_from_postal": "Lembach im Mühlkreis",
+    "city": "Lembach im Mühlkreis",
+    "zip_code": "4132",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4369911791660",
+    "review_count": 1,
+    "snippets": []
+  }
+}

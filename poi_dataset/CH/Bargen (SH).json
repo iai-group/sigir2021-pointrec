@@ -1,0 +1,21 @@
+{
+  "215394": {
+    "url": "https://www.yelp.com/biz/restaurant-krone-bargen-sh?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Krone",
+    "alias": "restaurant-krone-bargen-sh",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Dorfstrasse 60",
+    "city_from_postal": "Bargen (SH)",
+    "city": "Bargen Sh",
+    "zip_code": "8233",
+    "country_code": "CH",
+    "state_code": "SH",
+    "phone": "+41526531142",
+    "review_count": 1,
+    "snippets": []
+  }
+}

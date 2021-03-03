@@ -1,0 +1,40 @@
+{
+  "270934": {
+    "url": "https://www.yelp.com/biz/hotel-restaurant-bar-hirschen-oberkirch-lu?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Hotel Restaurant Bar Hirschen",
+    "alias": "hotel-restaurant-bar-hirschen-oberkirch-lu",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food, Restaurants, Hotels, Bars, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Bahnstrasse 1",
+    "city_from_postal": "Oberkirch",
+    "city": "Oberkirch LU",
+    "zip_code": "6208",
+    "country_code": "CH",
+    "state_code": "LU",
+    "phone": "+41419215555",
+    "review_count": 2,
+    "snippets": []
+  },
+  "471572": {
+    "url": "https://www.yelp.com/biz/restaurant-protos-oberkirch-lu?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Protos",
+    "alias": "restaurant-protos-oberkirch-lu",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 2.0,
+    "price": "$$$",
+    "address": "Luzernstrasse 66",
+    "city_from_postal": "Oberkirch",
+    "city": "Oberkirch Lu",
+    "zip_code": "6208",
+    "country_code": "CH",
+    "state_code": "LU",
+    "phone": "+41419221181",
+    "review_count": 1,
+    "snippets": []
+  }
+}

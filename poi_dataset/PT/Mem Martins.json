@@ -1,0 +1,402 @@
+{
+  "65010": {
+    "url": "https://www.yelp.com/biz/a-tendinha-sintra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6cQsx784A94JHCfvI9eRVA/o.jpg",
+    "name": "A Tendinha",
+    "alias": "a-tendinha-sintra",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Barbeque, Seafood, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Estrada de Mem Martins 211-215",
+    "city_from_postal": "Mem Martins",
+    "city": "Sintra",
+    "zip_code": "2725-389",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219217863",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "http://www.tendinha.com/",
+        "snippet": "A Tendinha é um prestigiado restaurante do Concelho de Sintra gerido pela mesma familia desde 1976. A equipa de cozinha assegura qualidade na confecção baseada na frescura diária dos seus produtos e a equipa de sala sempre atenta e cuidadosa oferece-lhe um serviço amável e distinto.",
+        "title": "Tendinha Restaurante Marisqueira",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g2615627-d2615198-Reviews-A_Tendinha-Mem_Martins_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "A Tendinha, Mem Martins: See 382 unbiased reviews of A Tendinha, rated 4 of 5 on Tripadvisor and ranked #1 of 22 restaurants in Mem Martins. ... Estrada de Mem Martins 211 Sintra, Mem Martins 2725-389 Portugal. Website. Email +351 21 921 7863. Improve this listing. Can a gluten free person get a good meal at this restaurant?",
+        "title": "A Tendinha, Mem Martins - Estrada de Mem Martins 211 ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.tendinha.com/menus-orcamentos.html",
+        "snippet": "Restaurante A Tendinha prestigiado restaurante marisqueira no Concelho de Sintra. Para ler/imprimir os menus em formato PDF (Adobe Portable Document Format), necessita do Adobe Acrobat Reader®.",
+        "title": "Menus &amp; Orçamentos - Tendinha Restaurante Marisqueira",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g2615627-d2615198-Reviews-A_Tendinha-Mem_Martins_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "A Tendinha, Mem Martins: Se 379 objektive anmeldelser av A Tendinha, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 av 22 restauranter i Mem Martins. Fly Restauranter ... På vei til Sintra kjørte jeg opp til en by som heter Nem Martins, hvor vi planla å spise lunsj. Uten å vite at stedet stanset på den restauranten.",
+        "title": "A Tendinha, Mem Martins - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/atendinha",
+        "snippet": "Restaurante A Tendinha - Estrada de Mem Martins, 211 a 215, 2725-389 Sintra, Portugal - Rated 4.4 based on 637 Reviews &quot;We passed New Year Eve in this...",
+        "title": "Restaurante A Tendinha - Portuguese Restaurant - Sintra ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/atendinhadaabrunheira/",
+        "snippet": "A Tendinha da Abrunheira - Largo do Chafariz nº27/28, 2710-026 Sintra, Portugal - Rated 5 based on 1 Review &quot;Se duvidam , vão ver como é . Não deixam de...",
+        "title": "A Tendinha da Abrunheira - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g2615627-d2615198-Reviews-A_Tendinha-Mem_Martins_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "A Tendinha, Mem Martins: Veja 383 dicas e avaliações imparciais de A Tendinha, com classificação Nº 4 de 5 no Tripadvisor e classificado como Nº 1 de 22 restaurantes em Mem Martins.",
+        "title": "A TENDINHA, Mem Martins - Comentários de restaurantes ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/RestaurantsNear-g2615627-d2615198-A_Tendinha-Mem_Martins_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Restauranter i nærheten av A Tendinha på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av A Tendinha, Mem Martins.",
+        "title": "Restauranter i nærheten av A Tendinha i Estrada de Mem ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189158-d15026646-Reviews-A_Tendinha_do_Rossio-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "A Tendinha do Rossio, Lisbon: See 19 unbiased reviews of A Tendinha do Rossio, ... grants easy access to trains leading to Sintra, the trams that go around the Castle hill, old neighborhoods or even take you to Belém, and Lisbon&#39;s traditional restaurants and cafes.",
+        "title": "A Tendinha do Rossio, Lisbon - Baixa, Rossio ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/a-tendinha-mem-martins-lisboa/menu",
+        "snippet": "Menu A Tendinha Mem Martins - Encontra o menu e preços de refeições, bebidas, take-away e entregas de A Tendinha Lisboa na Zomato. . A Tendinha Menu. Cozinha: Marisqueira, Portuguesa, Peixe fresco — 60 € para duas pessoas (aprox.)Para Jantar 18 € para duas pessoas ... Sintra. Mem Martins. A Tendinha. Menu - A Tendinha",
+        "title": "A Tendinha Menu, Menu de A Tendinha, Mem Martins, Lisboa ...",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "160392": {
+    "url": "https://www.yelp.com/biz/pic-nic-sintra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hlFq4ERjDb-2r7EmVP8h8Q/o.jpg",
+    "name": "Pic Nic",
+    "alias": "pic-nic-sintra",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Indian, Italian, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "Largo Artur Soares Ribeiro 14",
+    "city_from_postal": "Mem Martins",
+    "city": "Sintra",
+    "zip_code": "2725-229",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219216568",
+    "review_count": 2,
+    "snippets": [
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g189164-d3170278-Reviews-Pic_Nic_Sintra-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Pic Nic Sintra, Sintra: Se 204 objektive anmeldelser av Pic Nic Sintra, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 48 av 298 restauranter i Sintra.",
+        "title": "Pic Nic Sintra - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189164-d3170278-Reviews-Pic_Nic_Sintra-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Pic Nic Sintra, Sintra: See 204 unbiased reviews of Pic Nic Sintra, rated 4.5 of 5 on Tripadvisor and ranked #49 of 298 restaurants in Sintra.",
+        "title": "Pic Nic Sintra - Menu, Prices &amp; Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/picnic.sintra",
+        "snippet": "Pic Nic Sintra - Praça Don Fernando II, Nº10, São Pedro de Sintra, 2710-483, Sintra, 2710-483 Sintra, Portugal - Rated 4.5 based on 64 Reviews &quot;Worth the...",
+        "title": "Pic Nic Sintra - Home - Sintra, Portugal - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189164-d15081754-Reviews-Pic_Nic-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Pic Nic, Sintra: See 4 unbiased reviews of Pic Nic, rated 3.5 of 5 on Tripadvisor and ranked #244 of 298 restaurants in Sintra.",
+        "title": "Pic Nic, Sintra - Restaurant Reviews &amp; Photos - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g189164-d3170278-Reviews-Pic_Nic_Sintra-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Pic Nic Sintra, Sintra: Veja 204 dicas e avaliações imparciais de Pic Nic Sintra, com classificação Nº 4,5 de 5 no Tripadvisor e classificado como Nº 49 de 298 restaurantes em Sintra.",
+        "title": "PIC NIC SINTRA - Comentários de restaurantes - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.zomato.com/pt/grande-lisboa/pic-nic-i-sintra-centro-lisboa",
+        "snippet": "Pic Nic I Lisboa; Pic Nic I, Sintra Centro; Encontra menus, contactos, telefone, localização, fotos, opiniões e muito mais para Pic Nic I na Zomato Cozinha: Indiana, Italiana — Sabores exóticos que nos transportam directamente para a Índia. — 28 € para duas pessoas (aprox.)Genérico 15 € para duas pessoas (aprox.)Para menu de almoço",
+        "title": "Pic Nic I, Sintra Centro, Lisboa - Zomato Portugal",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g189164-d3170278-Reviews-Pic_Nic_Sintra-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Pic Nic Sintra, Sintra: See 204 unbiased reviews of Pic Nic Sintra, rated 4.5 of 5 on Tripadvisor and ranked #49 of 298 restaurants in Sintra.",
+        "title": "PIC NIC SINTRA - Updated 2020 Restaurant Reviews, Menu ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.de/Restaurant_Review-g189164-d3170278-Reviews-Pic_Nic_Sintra-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Pic Nic Sintra, Sintra: 204 Bewertungen - bei Tripadvisor auf Platz 49 von 298 von 298 Sintra Restaurants; mit 4,5/5 von Reisenden bewertet.",
+        "title": "Pic Nic Sintra - Menü, Preise &amp; Restaurant Bewertungen ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g2615627-d4007892-Reviews-Pic_Nic_Mem_Martins_Restaurante_Indiano_Italiano-Mem_Martins_Sintra_Municipality.html",
+        "snippet": "Pic Nic, Mem Martins - Restaurante Indiano &amp; Italiano, Mem Martins: Se 113 objektive anmeldelser av Pic Nic, Mem Martins - Restaurante Indiano &amp; Italiano, vurdert til 4 av 5 på TripAdvisor og vurdert som nr. 2 av 22 restauranter i Mem Martins.",
+        "title": "Pic Nic, Mem Martins - Restaurante Indiano &amp; Italiano ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.dk/Restaurant_Review-g189164-d3170278-Reviews-Pic_Nic_Sintra-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "Pic Nic Sintra, Sintra: Se 204 objektive anmeldelser af Pic Nic Sintra, som har fået 4,5 af 5 på Tripadvisor og er placeret som nr. 49 af 298 restauranter i Sintra.",
+        "title": "Pic Nic Sintra - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "254860": {
+    "url": "https://www.yelp.com/biz/mc-donalds-sintra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "MC Donalds",
+    "alias": "mc-donalds-sintra",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Estr. das Merces",
+    "city_from_postal": "Mem Martins",
+    "city": "Sintra",
+    "zip_code": "2725-083",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219264107",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g189164-d5959752-Reviews-McDonald_s-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "McDonald&#39;s, Sintra: Se 17 objektive anmeldelser av McDonald&#39;s, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 219 av 298 restauranter i Sintra.",
+        "title": "McDonald&#39;s, Sintra - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.mcdonalds.pt/",
+        "snippet": "Bem-vindo à McDonald&#39;s! Descubra todos os nossos produtos, menus e promoções. E esteja a par de todas as novidades aqui.",
+        "title": "McDonald&#39;s Portugal | McMenu, Happy Meal, Saladas e mais.",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.tripadvisor.com/Restaurant_Review-g2615627-d8691111-Reviews-McDonald_s-Mem_Martins_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "McDonald&#39;s, Mem Martins: Se 26 objektive anmeldelser av McDonald&#39;s, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 10 av 22 restauranter i Mem Martins.",
+        "title": "McDonald&#39;s, Mem Martins - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g189164-d5959752-Reviews-McDonald_s-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "McDonald&#39;s, Sintra: See 17 unbiased reviews of McDonald&#39;s, rated 3.5 of 5 on Tripadvisor and ranked #219 of 298 restaurants in Sintra.",
+        "title": "McDonald&#39;s, Sintra - Rua Amilcar Antunes - Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g189164-d5959752-i107518065-McDonald_s-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "McDonald&#39;s, Sintra Picture: McDonald&#39;s Sintra Retail Park - Check out Tripadvisor members&#39; 69,576 candid photos and videos of McDonald&#39;s",
+        "title": "McDonald&#39;s Sintra Retail Park - Picture of McDonald&#39;s ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tiendeo.pt/Lojas/sintra/mcdonalds",
+        "snippet": "Aqui pode encontrar todas as lojas de McDonald&#39;s em Sintra. Veja os detalhes das lojas (endereços, horários, web e promoções) clicando no endereço ou no nome da loja . Mais informação de McDonald&#39;s Ver todas as lojas de McDonald&#39;s McDonald&#39;s em Sintra - Promoções e Catálogos.",
+        "title": "McDonald&#39;s em Sintra | Horários e telefones",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.mcdonalds.pt/restaurantes",
+        "snippet": "Um sítio com história que agora dá lugar a um espaço McDonald&#39;s fora do formato e que aposta nos espaços comuns. No interior do espaço vai encontrar os úteis painéis eletrónicos, mas também tablets onde pode consultar a Internet, carregadores de indução para o smartphone, bem como tomadas USB.",
+        "title": "Todos os Restaurantes | McDonald&#39;s Portugal",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.pt/Restaurant_Review-g8744586-d8691125-Reviews-McDonald_s-Rio_de_Mouro_Lisbon_District_Central_Portugal.html",
+        "snippet": "McDonald&#39;s Fórum Sintra, Rio de Mouro: Veja 11 dicas e avaliações imparciais de McDonald&#39;s Fórum Sintra, com classificação Nº 3 de 5 no Tripadvisor e classificado como Nº 8 de 17 restaurantes em Rio de Mouro.",
+        "title": "MCDONALD&#39;S FÓRUM SINTRA, Rio de Mouro - Comentários de ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.se/Restaurant_Review-g189164-d5959752-Reviews-McDonald_s-Sintra_Sintra_Municipality_Lisbon_District_Central_Portugal.html",
+        "snippet": "McDonald&#39;s, Sintra: Se 17 objektiva omdömen av McDonald&#39;s, som fått betyg 3,5 av 5 på Tripadvisor och rankas som nummer219 av 298 restauranger i Sintra.",
+        "title": "MCDONALD&#39;S, Sintra - Omdömen om restauranger - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://foursquare.com/v/mcdonalds/4c615b31b6f3be9a6e706173",
+        "snippet": "Bem vindo ao McDonald’s Mercês! À tua disposição tens menus, saladas, sobremesas, rapidez de atendimento e bom ambiente. Serve-te e boa refeição! Aqui também poderás fazer o teu pedido sem sair do carro e levá-lo contigo de imediato.",
+        "title": "McDonald&#39;s - Estrada das Mercês - Foursquare",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "351738": {
+    "url": "https://www.yelp.com/biz/armando-a-afonso-cruz-sintra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Armando A Afonso Cruz",
+    "alias": "armando-a-afonso-cruz-sintra",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Mem Martins",
+    "city": "Sintra",
+    "zip_code": "2725-335",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219264613",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.yelp.pt/biz/armando-a-afonso-cruz-sintra",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "www.yelp.pt",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tuugo.pt/Companies/armando-a-afonso-cruz2/0240003993180",
+        "snippet": "Sintra. Login Registre-se Fazer login com Facebook. A. Armando A Afonso Cruz Ainda não evaluado Avalie R. D. João Castro 28 - Lj. Mem Martins, Sintra, Lisboa, 2725335. Sobre nós; ... As avaliações de Armando A Afonso Cruz: ...",
+        "title": "Armando A Afonso Cruz • Sintra • Lisboa •",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://codigopostal.ciberforma.pt/dir/0/armando-a-afonso-cruz/",
+        "snippet": "Armando A Afonso Cruz Rua D. João Castro 28 - Lj. Mem Martins Mem Martins 2725-335 MEM MARTINS Telefone: 219264613 A entidade Armando A Afonso Cruz tem a sua sede localizada na freguesia de Algueirão-Mem Martins, concelho de Sintra, distrito de Lisboa.Para correspondência postal deverá utilizar a morada Rua D. João Castro 28 - Lj.",
+        "title": "Armando A Afonso Cruz em Sintra",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tuugo.pt/Companies/armando-a-afonso-cruz/024000707808",
+        "snippet": "Armando A Afonso Cruz Ainda não evaluado Avalie R. D. João Castro 28 - Lj. Mem Martins Mem Martins, Mem Martins, Lisboa, 2725-335. Sobre nós;",
+        "title": "Armando A Afonso Cruz • Mem Martins • Lisboa •",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.serradesintra.net/en/lendas-de-sintra",
+        "snippet": "Lendas de Sintra mais conhecidas Sala das Pegas Versão do Portugal Pitoresco (1847) Sendo encontrado D. João I por sua esposa beijando uma das suas damas, porque o fazia por sincera amizade, e não por criminoso amor, respondeu à rainha agastada, que tinha sido por bem; e com esta legenda, que bem podemos assemelhar ao Honi soit qui mal y pense dos ingleses mandou edificar uma sala, cujo ...",
+        "title": "Serra de Sintra | Lendas de Sintra",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tuugo.pt/Companies/armando-ant%C3%A3o-l-cruz9/024000709713",
+        "snippet": "R. Sintra Lt. 4 Abrunheira, 2710-084 Sintra, Lisboa ... As avaliações de Armando Antão L Cruz: Para avaliar esta empresa por favor Login ou Registre-se ...",
+        "title": "Armando Antão L Cruz • Sintra • Lisboa •",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.lojasehorarios.com.pt/restaurantes/sintra/7",
+        "snippet": "Restaurantes em Sintra - preços, horários, ofertas. Todos os estabelecimentos Restaurantes em Sintra. - página 7. Restaurantes em Sintra. Encontre. ... Horas, telefone e endereço Armando A Afonso Cruz. R. D. Joo Castro 28 - Lj. Mem Martins, Sintra , 2725335. Direções para Armando A Afonso ...",
+        "title": "Restaurantes em Sintra - página 7",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tuugo.pt/Companies/armando-ant%C3%A3o-l-cruz7/0240003855901",
+        "snippet": "A Armando Gonçalves &amp; Filhos Lda é líder no comércio de quiejos e charcutaria. Contacte",
+        "title": "Armando Antão L Cruz • Sintra • Lisboa •",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.lojasehorarios.com.pt/maria-elisa-jesus-pinto-e-manuel-luis-martins-lda/sintra/c-5863794632cff589d81512ea",
+        "snippet": "undefined - Maria Elisa Jesus Pinto e Manuel Luís Martins, Lda. - Sintra - Horários, telefone e endereço. Maria Elisa Jesus Pinto e Manuel Luís Martins, Lda. ... Calimero Expresso 24 Loja Cristina Sérgio Baptista Parente Marco Reboque Acácio Castanhinha Coelho Restaurante Coza Nostra Armando A Afonso Cruz.",
+        "title": "Maria Elisa Jesus Pinto e Manuel Luís Martins, Lda. - Sintra",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tuugo.pt/Companies/armando-afonso-ramos/0240003975613",
+        "snippet": "Sintra. Login Registre-se Fazer login com Facebook. A. Armando Afonso Ramos Ainda não evaluado Avalie R. das Dálias, Lote 851 - Loja E - Casal de Cambra, Sintra, Lisboa, 2605000. ... As avaliações de Armando Afonso Ramos: Para avaliar esta empresa por favor Login ou Registre-se .",
+        "title": "Armando Afonso Ramos • Sintra • Lisboa •",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "391902": {
+    "url": "https://www.yelp.com/biz/lidl-lisboa-3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Lidl",
+    "alias": "lidl-lisboa-3",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Estrada de Mercês-Algueirão",
+    "city_from_postal": "Mem Martins",
+    "city": "Lisbon",
+    "zip_code": "2725-093",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.lidl.pt/pt/",
+        "snippet": "Na nossa página web, usamos os chamados cookies para melhorar a sua experiência como utilizador. Ao continuar a navegar no site Lidl está a concordar com o uso de cookies de acordo com nossa política de cookies.",
+        "title": "Lidl - Mais para si - www.lidl.pt",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.lidl.pt/",
+        "snippet": "Na nossa página web, usamos os chamados cookies para melhorar a sua experiência como utilizador. Ao continuar a navegar no site Lidl está a concordar com o uso de cookies de acordo com nossa política de cookies.",
+        "title": "Lidl - No Javascript",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tiendeo.pt/Lojas/lisboa/lidl",
+        "snippet": "Consulte aqui as moradas, telefones e horários do Lidl em Lisboa e não perca as melhores promoções dos seus supermercados favoritos. Mais info em Tiendeo!",
+        "title": "Supermercados Lidl em Lisboa | Horários e telefones",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.esmmagazine.com/retail/lidl-portugal-opens-stores-railway-stations-71824",
+        "snippet": "Lidl Portugal has opened supermarkets in two of the busiest railway stations in Lisbon, which see some 18 million passengers pass through each year. The contract for t...",
+        "title": "Lidl Portugal Opens Stores In Lisbon Train Stations | ESM ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.triphobo.com/places/lisbon-portugal/lidl",
+        "snippet": "Do you want to know the entry ticket price for Lidl? Opening &amp; closing timings, parking options, restaurants nearby or what to see on your visit to Lidl? Click Now to check the details!",
+        "title": "Lidl, Lisbon | Ticket Price | Timings | Address: TripHobo",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.angloinfo.com/lisbon/directory/lisbon-supermarkets-shopping-centres-367",
+        "snippet": "Supermarkets &amp; Shopping Centres Business Directory for Lisbon, the English-language local business directory from Angloinfo Lisbon ... Lidl. Primarily a budget supermarket, who offer electrical appliances at times. Check their website to see special offers.",
+        "title": "Supermarkets &amp; Shopping Centres - Lisbon Business ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowTopic-g189158-i203-k6724759-Supermarkets-Lisbon_Lisbon_District_Central_Portugal.html",
+        "snippet": "Answer 1 of 5: Hi , We are visiting Lisbon for 7 days from next Wednesday. We are staying at the Marriott Hotel near the zoo , we got a good rate. Could anyone tell me where the nearest supermarket is in this area for drinks and snacks , want to avoid Hotel...",
+        "title": "Supermarkets ? - Lisbon Forum - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://it.foursquare.com/v/lidl/4b9f784df964a520b42437e3/photos",
+        "snippet": "Vedi tutte le foto 10 scattate a Lidl da 848 visitatori. Foursquare utilizza i cookie per fornire un&#39;esperienza ottimale, personalizzare gli annunci visualizzati e aiutare le agenzie pubblicitarie a valutare l&#39;efficacia delle loro campagne.",
+        "title": "Foto di Lidl - Supermercato in Lisboa",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.lidl.lt/",
+        "snippet": "UAB &quot;Lidl Lietuva&quot; pasilieka teisę keisti prekių kainas be išankstinio įspėjimo. Atsiliepimus, pasiūlymus galite teikti ar informacijos apie prekes teirautis nemokamu telefonu 8 800 100 11, el. paštu infolinija@lidl.lt ar interneto svetainėje www.lidl.lt.",
+        "title": "LIDL Lietuva - www.lidl.lt",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.gps-data-team.com/poi/portugal/shopping/Lidl_PT.html",
+        "snippet": "Lidl in Portugal - Shopping GPS POI Directory and POI Download Zone. (GPS POI Zone). Points of interest and support for all popular smartphones, tablets, GPS devices and software. Road safety, recreational and corporate points of interest.",
+        "title": "Lidl in Portugal - Shopping GPS POI Directory and POI ...",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

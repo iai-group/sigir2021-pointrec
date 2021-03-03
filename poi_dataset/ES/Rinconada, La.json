@@ -1,0 +1,40 @@
+{
+  "348111": {
+    "url": "https://www.yelp.com/biz/charlotte-la-rinconada?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nR3CxomsyJhahGn6VrFvDw/o.jpg",
+    "name": "Charlotte",
+    "alias": "charlotte-la-rinconada",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafeteria, Gastropubs, Tapas Bars, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Calle Ignacio Sánchez Mejías, 17-29",
+    "city_from_postal": "Rinconada, La",
+    "city": "La Rinconada",
+    "zip_code": "41300",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "680161": {
+    "url": "https://www.yelp.com/biz/100-montaditos-aeropuerto-la-rinconada?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "100 Montaditos Aeropuerto",
+    "alias": "100-montaditos-aeropuerto-la-rinconada",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Spanish, ",
+    "rating": 1.0,
+    "price": "€",
+    "address": "C.C. Factory la Rinconada",
+    "city_from_postal": "Rinconada, La",
+    "city": "La Rinconada",
+    "zip_code": "41309",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34905500078",
+    "review_count": 1,
+    "snippets": []
+  }
+}

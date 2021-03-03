@@ -1,0 +1,40 @@
+{
+  "469750": {
+    "url": "https://www.yelp.com/biz/restaurant-vogelsang-eich?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UdmBXwo8zY4XAV3akof2IA/o.jpg",
+    "name": "Restaurant Vogelsang",
+    "alias": "restaurant-vogelsang-eich",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Eichbergstrasse 2",
+    "city_from_postal": "Eich",
+    "city": "Eich",
+    "zip_code": "6205",
+    "country_code": "CH",
+    "state_code": "LU",
+    "phone": "+41414626666",
+    "review_count": 1,
+    "snippets": []
+  },
+  "626407": {
+    "url": "https://www.yelp.com/biz/restaurant-sonne-eich?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GB7WVJSlM9CNs-yBhyLqfg/o.jpg",
+    "name": "Restaurant Sonne",
+    "alias": "restaurant-sonne-eich",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Seestrasse 23",
+    "city_from_postal": "Eich",
+    "city": "Eich",
+    "zip_code": "6205",
+    "country_code": "CH",
+    "state_code": "LU",
+    "phone": "+41412020101",
+    "review_count": 1,
+    "snippets": []
+  }
+}

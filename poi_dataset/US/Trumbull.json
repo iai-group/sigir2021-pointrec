@@ -1,0 +1,40 @@
+{
+  "239408": {
+    "url": "https://www.yelp.com/biz/the-inspired-cookie-san-mateo-3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LP8CO-qWE7BRya-L6uHk6A/o.jpg",
+    "name": "The Inspired Cookie",
+    "alias": "the-inspired-cookie-san-mateo-3",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, ",
+    "rating": 5.0,
+    "price": "$",
+    "address": "",
+    "city_from_postal": "Trumbull",
+    "city": "San Mateo",
+    "zip_code": "44403",
+    "country_code": "US",
+    "state_code": "CA",
+    "phone": "",
+    "review_count": 9,
+    "snippets": []
+  },
+  "394375": {
+    "url": "https://www.yelp.com/biz/plaskos-farm-trumbull?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/USTActUUXNwO6TrT0uSsaw/o.jpg",
+    "name": "Plasko's Farm",
+    "alias": "plaskos-farm-trumbull",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Ice Cream & Frozen Yogurt, Farms, Pumpkin Patches, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "670 Daniels Farm Rd",
+    "city_from_postal": "Fairfield",
+    "city": "Trumbull",
+    "zip_code": "06611",
+    "country_code": "US",
+    "state_code": "CT",
+    "phone": "+12032682716",
+    "review_count": 41,
+    "snippets": []
+  }
+}

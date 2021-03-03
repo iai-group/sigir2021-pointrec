@@ -1,0 +1,40 @@
+{
+  "433422": {
+    "url": "https://www.yelp.com/biz/nordsee-krems-an-der-donau?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/j5sD4s2zV7-_V83qfSDM1g/o.jpg",
+    "name": "Nordsee",
+    "alias": "nordsee-krems-an-der-donau",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fishmonger, Fish & Chips, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Obere Landstr. 20",
+    "city_from_postal": "Stratzing",
+    "city": "Krems an der Donau",
+    "zip_code": "3500",
+    "country_code": "AT",
+    "state_code": "3",
+    "phone": "+43273282045",
+    "review_count": 2,
+    "snippets": []
+  },
+  "436536": {
+    "url": "https://www.yelp.com/biz/moyome-krems-an-der-donau?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XZWSDxnzaa4SfFQO8LkDPQ/o.jpg",
+    "name": "Moyome",
+    "alias": "moyome-krems-an-der-donau",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "African, Vegan, ",
+    "rating": 5.0,
+    "price": "€€",
+    "address": "Obere Landstr. 10",
+    "city_from_postal": "Stratzing",
+    "city": "Krems an der Donau",
+    "zip_code": "3500",
+    "country_code": "AT",
+    "state_code": "3",
+    "phone": "+436645144686",
+    "review_count": 3,
+    "snippets": []
+  }
+}

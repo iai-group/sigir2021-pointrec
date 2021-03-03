@@ -1,0 +1,40 @@
+{
+  "53426": {
+    "url": "https://www.yelp.com/biz/%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%80%E3%82%A4%E3%83%96%E8%97%A4%E5%B2%A1-%E6%A0%83%E6%9C%A8%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac",
+    "image_url": "",
+    "name": "Skydive Fujioka",
+    "alias": "スカイダイブ藤岡-栃木市",
+    "main_category": "Active Life",
+    "sub_categories": "Skydiving, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "藤岡町大字赤麻502-1",
+    "city_from_postal": "Tochigi Shi",
+    "city": "Tochigi",
+    "zip_code": "323-1102",
+    "country_code": "JP",
+    "state_code": "09",
+    "phone": "+819084921250",
+    "review_count": 1,
+    "snippets": []
+  },
+  "698659": {
+    "url": "https://www.yelp.com/biz/%E6%B8%A1%E8%89%AF%E7%80%AC%E9%81%8A%E6%B0%B4%E5%9C%B0-%E6%A0%83%E6%9C%A8%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NmWrrh0fgdVzRgVflTyAZg/o.jpg",
+    "name": "Wataraseyūsuichi",
+    "alias": "渡良瀬遊水地-栃木市",
+    "main_category": "Active Life",
+    "sub_categories": "Lakes, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "藤岡町藤岡1778",
+    "city_from_postal": "Tochigi Shi",
+    "city": "Tochigi",
+    "zip_code": "323-1104",
+    "country_code": "JP",
+    "state_code": "09",
+    "phone": "+81282621161",
+    "review_count": 1,
+    "snippets": []
+  }
+}

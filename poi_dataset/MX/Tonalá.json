@@ -1,0 +1,21 @@
+{
+  "232991": {
+    "url": "https://www.yelp.com/biz/himitsu-tonal%C3%A1?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9phez8KLWG1zyu5EnAdqow/o.jpg",
+    "name": "Himitsu",
+    "alias": "himitsu-tonalá",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Japanese, Pan Asian, ",
+    "rating": 4.0,
+    "price": "$$$",
+    "address": "David Alfaro Siqueiros 164",
+    "city_from_postal": "Tonalá",
+    "city": "Tonalá",
+    "zip_code": "45420",
+    "country_code": "MX",
+    "state_code": "JAL",
+    "phone": "+523222262900",
+    "review_count": 6,
+    "snippets": []
+  }
+}

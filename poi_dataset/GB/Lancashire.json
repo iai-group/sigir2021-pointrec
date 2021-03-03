@@ -1,0 +1,21 @@
+{
+  "191981": {
+    "url": "https://www.yelp.com/biz/the-swann-inn-argleton?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/z61-S3Yj_dFCOrEc8hK8CA/o.jpg",
+    "name": "The Swann Inn",
+    "alias": "the-swann-inn-argleton",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "British, French, ",
+    "rating": 3.0,
+    "price": "££",
+    "address": "Springfield Road",
+    "city_from_postal": "Lancashire",
+    "city": "Argleton",
+    "zip_code": "L39 6ST",
+    "country_code": "GB",
+    "state_code": "LAN",
+    "phone": "+441695421450",
+    "review_count": 5,
+    "snippets": []
+  }
+}

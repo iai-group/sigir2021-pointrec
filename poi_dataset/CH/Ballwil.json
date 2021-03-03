@@ -1,0 +1,21 @@
+{
+  "124927": {
+    "url": "https://www.yelp.com/biz/restaurant-zur-sonne-ballwil?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dOLOLcjA_MvRMFxPGw5ZNA/o.jpg",
+    "name": "Restaurant zur Sonne",
+    "alias": "restaurant-zur-sonne-ballwil",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 5.0,
+    "price": "$$$$",
+    "address": "Dorfstrasse 13",
+    "city_from_postal": "Ballwil",
+    "city": "Ballwil",
+    "zip_code": "6275",
+    "country_code": "CH",
+    "state_code": "LU",
+    "phone": "+41414481318",
+    "review_count": 1,
+    "snippets": []
+  }
+}

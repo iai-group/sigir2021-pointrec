@@ -1,0 +1,40 @@
+{
+  "458640": {
+    "url": "https://www.yelp.com/biz/restaurants-schulhus-krumbach?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9UHmr6dEO1LO5m846hi9gA/o.jpg",
+    "name": "Restaurant's Schulhus",
+    "alias": "restaurants-schulhus-krumbach",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Austrian, Specialty Food, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Glatzegg 58",
+    "city_from_postal": "Krumbach",
+    "city": "Krumbach",
+    "zip_code": "6942",
+    "country_code": "AT",
+    "state_code": "8",
+    "phone": "+4355138389",
+    "review_count": 2,
+    "snippets": []
+  },
+  "505341": {
+    "url": "https://www.yelp.com/biz/gasthaus-brauerei-krumbach?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7uWInUyMxkdB3AxEs0XaIA/o.jpg",
+    "name": "Gasthaus Brauerei",
+    "alias": "gasthaus-brauerei-krumbach",
+    "main_category": "Active Life",
+    "sub_categories": "Bowling, Hotels, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Dorf 174",
+    "city_from_postal": "Krumbach",
+    "city": "Krumbach",
+    "zip_code": "6942",
+    "country_code": "AT",
+    "state_code": "8",
+    "phone": "+4355138158",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "450598": {
+    "url": "https://www.yelp.com/biz/%E3%82%A4%E3%83%B3%E3%83%89%E6%96%99%E7%90%86%E3%82%B5%E3%83%B3%E3%82%AC%E3%83%A0-%E5%A4%A7%E9%98%AA%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIME",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BBlf03E13LWilJNWk78M4Q/o.jpg",
+    "name": "Indo ryōri Sangam",
+    "alias": "インド料理サンガム-大阪市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Indian, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "旭区中宮5-6-17",
+    "city_from_postal": "Kishiwada Shi",
+    "city": "Osaka",
+    "zip_code": "596-0825",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81669540149",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://savorjapan.com/contents/more-to-savor/shojin-ryori-japans-sophisticated-buddhist-cuisine/",
+        "snippet": "Japanese Buddhist cuisine - shojin ryori - offers up elegant and flavorful food. Sesame tofu with wasabi, vegetable tempura, handmade buckwheat noodles, more. ... Osaka, and Nagoya, where the vibrant colors and healthy dishes make shojin ryori especially popular among health-conscious young women.",
+        "title": "Shojin Ryori: Japan’s Sophisticated Buddhist Cuisine ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.giftly.com/indian-restaurant-gift-cards/%E5%A4%A7%E9%98%AA%E5%B8%82-27",
+        "snippet": "Buy a gift card to any Indian restaurant in 大阪市, 27. Send by email or mail, or print at home. Deliver in a personalized greeting card. The perfect last minute gift. 100% satisfaction guaranteed. Buy 大阪市, 27 Indian Restaurant gift cards online.",
+        "title": "大阪市 Indian Restaurant Gift Cards | Giftly",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.giftly.com/indian-restaurant-gift-cards/%E5%BE%A1%E6%89%80%E5%B8%82-29",
+        "snippet": "Buy a gift card to any Indian restaurant in 御所市, 29. Send by email or mail, or print at home. Deliver in a personalized greeting card. The perfect last minute gift. 100% satisfaction guaranteed. Buy 御所市, 29 Indian Restaurant gift cards online.",
+        "title": "御所市 Indian Restaurant Gift Cards | Giftly",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.giftly.com/restaurant-gift-cards/%E5%AE%88%E5%8F%A3%E5%B8%82-27",
+        "snippet": "Buy a gift card to any restaurant in 守口市, 27. Send by email or mail, or print at home. Deliver in a personalized greeting card. The perfect last minute gift. 100% satisfaction guaranteed. Buy 守口市, 27 Restaurant gift cards online.",
+        "title": "守口市 Restaurant Gift Cards | Giftly",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Indians_in_Japan",
+        "snippet": "Indians in Japan speak a number of different languages and follow various religions; there is little correlation between religion or language and profession, except in the case of the Jains, many of whom work in the jewellery industry. The Jains are generally concentrated around Okachi-machi in Taitō, Tokyo.",
+        "title": "Indians in Japan - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.giftly.com/restaurant-gift-cards/%E9%96%80%E7%9C%9F%E5%B8%82-27",
+        "snippet": "Buy a gift card to any restaurant in 門真市, 27. Send by email or mail, or print at home. Deliver in a personalized greeting card. The perfect last minute gift. 100% satisfaction guaranteed. Buy 門真市, 27 Restaurant gift cards online.",
+        "title": "門真市 Restaurant Gift Cards | Giftly",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.japantravel.com/yamagata/dewa-sanzan-shojin-ryori/3444",
+        "snippet": "Dewa Sanzan Shōjin Ryōri – Local Cuisine Developed by Mountain Priests. Shōjin Ryōri dishes differ from temple to temple and from region to region as the ingredients used very much reflect what vegetables can be found in the mountains and forests nearby.",
+        "title": "Dewa Sanzan Shōjin Ryōri - Tsuruoka, Yamagata - Japan Travel",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g298566-d13975687-r634302706-Indian_Restaurant_Sangam-Osaka_Osaka_Prefecture_Kinki.html",
+        "snippet": "Indian Restaurant Sangam: Underrated Nepali. Great Food &amp; Service - See 4 traveler reviews, 54 candid photos, and great deals for Osaka, Japan, at Tripadvisor.",
+        "title": "Underrated Nepali. Great Food &amp; Service - Review of Indian ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://vegemap.org/en/listing/hiroshima/kanak_indian_en/",
+        "snippet": "We check the map information on a regular basis, but the latest information on the store may differ from the information on the map. Please contact us using this form if you have any changes.. We recommend that you choose a menu after telling the staff about vegetarian / vegan support, and your potential allergies.",
+        "title": "Indo Ryōri Kanakku | 日本ベジマップ - Japan VegeMap",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://vegemap.org/en/listing/hiroshima/roopali_indian_en/",
+        "snippet": "We check the map information on a regular basis, but the latest information on the store may differ from the information on the map. Please contact us using this form if you have any changes.. We recommend that you choose a menu after telling the staff about vegetarian / vegan support, and your potential allergies.",
+        "title": "Indo Ryōri Rūpari | Japan VegeMap",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

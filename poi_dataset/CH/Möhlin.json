@@ -1,0 +1,21 @@
+{
+  "427339": {
+    "url": "https://www.yelp.com/biz/restaurant-warteck-m%C3%B6hlin?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Warteck",
+    "alias": "restaurant-warteck-möhlin",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 5.0,
+    "price": "$$",
+    "address": "Bahnhofstrasse 45",
+    "city_from_postal": "Möhlin",
+    "city": "Möhlin",
+    "zip_code": "4313",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41618514790",
+    "review_count": 1,
+    "snippets": []
+  }
+}

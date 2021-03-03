@@ -1,0 +1,40 @@
+{
+  "133814": {
+    "url": "https://www.yelp.com/biz/andalusia-restaurant-musik-mellingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Andalusia Restaurant Musik",
+    "alias": "andalusia-restaurant-musik-mellingen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food, Hotels & Travel, Restaurants, Bars, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Wallistrasse 17",
+    "city_from_postal": "Mellingen",
+    "city": "Mellingen",
+    "zip_code": "5507",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41564912060",
+    "review_count": 2,
+    "snippets": []
+  },
+  "688760": {
+    "url": "https://www.yelp.com/biz/bar-la-dolce-vita-mellingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Bar la Dolce Vita",
+    "alias": "bar-la-dolce-vita-mellingen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food, Hotels & Travel, Bars, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Obere Bahnhofstrasse 26",
+    "city_from_postal": "Mellingen",
+    "city": "Mellingen",
+    "zip_code": "5507",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41564706726",
+    "review_count": 1,
+    "snippets": []
+  }
+}

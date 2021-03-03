@@ -1,0 +1,21 @@
+{
+  "249725": {
+    "url": "https://www.yelp.com/biz/la-locanda-del-gusto-castelvetro-piacentino?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UX9ntXqyPxZJDYqVIeHPwQ/o.jpg",
+    "name": "La Locanda del Gusto",
+    "alias": "la-locanda-del-gusto-castelvetro-piacentino",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, Pizza, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Via Statale 10",
+    "city_from_postal": "Piacenza",
+    "city": "Castelvetro Piacentino",
+    "zip_code": "29010",
+    "country_code": "IT",
+    "state_code": "PC",
+    "phone": "+390523824143",
+    "review_count": 2,
+    "snippets": []
+  }
+}

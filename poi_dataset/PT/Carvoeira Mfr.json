@@ -1,0 +1,40 @@
+{
+  "300852": {
+    "url": "https://www.yelp.com/biz/pao-com-chorico-mafra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Dly0nhE7AaJ4jVv2D42YLA/o.jpg",
+    "name": "Pao Com Chorico",
+    "alias": "pao-com-chorico-mafra",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fast Food, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Estrada Nacional 247 25",
+    "city_from_postal": "Carvoeira Mfr",
+    "city": "Mafra",
+    "zip_code": "2655-042",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "655729": {
+    "url": "https://www.yelp.com/biz/portugalsurfcamp-mafra-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YMS2DJM1CEwz7SKV8CywgQ/o.jpg",
+    "name": "Portugalsurfcamp",
+    "alias": "portugalsurfcamp-mafra-2",
+    "main_category": "Active Life",
+    "sub_categories": "Surfing, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "R. do Barril de Cima, 20",
+    "city_from_postal": "Carvoeira Mfr",
+    "city": "Mafra",
+    "zip_code": "2655-020",
+    "country_code": "PT",
+    "state_code": "10",
+    "phone": "+351911790820",
+    "review_count": 1,
+    "snippets": []
+  }
+}

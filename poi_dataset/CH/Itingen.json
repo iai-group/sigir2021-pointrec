@@ -1,0 +1,40 @@
+{
+  "103155": {
+    "url": "https://www.yelp.com/biz/restaurant-ochsen-itingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xU9C0sL8bbgJArpeOP7YYA/o.jpg",
+    "name": "Restaurant Ochsen",
+    "alias": "restaurant-ochsen-itingen",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": "Landstrasse 35",
+    "city_from_postal": "Itingen",
+    "city": "Itingen",
+    "zip_code": "4452",
+    "country_code": "CH",
+    "state_code": "BL",
+    "phone": "+41619716409",
+    "review_count": 2,
+    "snippets": []
+  },
+  "389599": {
+    "url": "https://www.yelp.com/biz/restaurant-r%C3%B6ssli-itingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Rössli",
+    "alias": "restaurant-rössli-itingen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, ",
+    "rating": 4.0,
+    "price": "$$$",
+    "address": "Dorfstrasse 39",
+    "city_from_postal": "Itingen",
+    "city": "Itingen",
+    "zip_code": "4452",
+    "country_code": "CH",
+    "state_code": "BL",
+    "phone": "+41619730909",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "380208": {
+    "url": "https://www.yelp.com/biz/restauracja-kepler-%C5%BCaga%C5%84-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uBhYDtmjkgfP0LZG9r0D2g/o.jpg",
+    "name": "Restauracja Kepler",
+    "alias": "restauracja-kepler-żagań-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Polish, Bars, Venues & Event Spaces, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "ul. Rynek 27 / 28",
+    "city_from_postal": "Żagań",
+    "city": "Żagań",
+    "zip_code": "68-100",
+    "country_code": "PL",
+    "state_code": "LB",
+    "phone": "+48683772762",
+    "review_count": 4,
+    "snippets": []
+  }
+}

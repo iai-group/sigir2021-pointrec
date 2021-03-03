@@ -1,0 +1,101 @@
+{
+  "271588": {
+    "url": "https://www.yelp.com/biz/kebab-hut-colmenarejo?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o5B5nrpiVmkYKsZatvZmFw/o.jpg",
+    "name": "Kebab Hut",
+    "alias": "kebab-hut-colmenarejo",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pakistani, Kebab, ",
+    "rating": 5.0,
+    "price": "€",
+    "address": "Calle de San Lorenzo, 4",
+    "city_from_postal": "Galapagar",
+    "city": "Colmenarejo",
+    "zip_code": "28270",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34911409170",
+    "review_count": 1,
+    "snippets": []
+  },
+  "408958": {
+    "url": "https://www.yelp.com/biz/teatro-fern%C3%A1n-g%C3%B3mez-centro-de-arte-galapagar-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2XafYyf4TMur7_K5vbTIbw/o.jpg",
+    "name": "Teatro Fernán Gómez Centro de Arte",
+    "alias": "teatro-fernán-gómez-centro-de-arte-galapagar-2",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Performing Arts, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Plaza de Colón, 4",
+    "city_from_postal": "Madrid",
+    "city": "Galapagar",
+    "zip_code": "28001",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "+34914362540",
+    "review_count": 4,
+    "snippets": [
+      {
+        "url": "https://www.teatrofernangomez.es/",
+        "snippet": "El Fernán Gómez Centro Cultural de la Villa suspende su actividad durante el periodo aconsejado por las autoridades competentes . Quedan canceladas todas las funciones, espectáculos, talleres, exposiciones, proyecciones cinematográficas o cualquier otra actividad con público.",
+        "title": "Inicio | Teatro Fernán Gómez",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.teatrofernangomez.es/programacion",
+        "snippet": "La Mediación Cultural, área destinada a fomentar y producir las actividades educativas y complementarias a la programación; plantea un programa paralelo a las obras teatrales y espectáculos orientado a la mejor comprensión e interpretación de las instituciones culturales por parte de la ciudadanía.",
+        "title": "Programación | Teatro Fernán Gómez",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://madridesteatro.com/teatro-fernan-gomez/",
+        "snippet": "TEATRO FERNÁN GÓMEZ. CENTRO CULTURAL DE LA VILLA. Pza de Colón, 4 . El origen del Teatro Fernán Gómez, denominado actualmente FERNÁN GÓMEZ CENTRO CULTURAL DE LA VILLA, está unido a la importancia que tuvo la remodelación de la Plaza de Colón.Antes de la reestructuración, esta plaza era de forma ovalada en cuyo centro, se alzaba el monumento a Colón.",
+        "title": "TEATRO FERNÁN GÓMEZ Centro Cultural de la Villa",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.teatrofernangomez.es/programacion/madrionetas-2019",
+        "snippet": "Estas navidades y por segundo año consecutivo, el teatro Fernán Gómez.Centro Cultural de la Villa se convierte en un “país de títeres”, donde descubrir las diferentes técnicas y tendencias actuales de este arte. Durante dos semanas presentamos la segunda edición de Madrionetas: el arte del títere; un festival que reúne más de 40 espectáculos, cine, talleres y una exposición que ...",
+        "title": "Madrionetas 2019 | Teatro Fernán Gómez",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.teatrofernangomez.es/sobre-nosotros/historia",
+        "snippet": "El origen del Centro Cultural de Villa, denominado actualmente FERNÁN GÓMEZ CENTRO CULTURAL DE LA VILLA, está unido a la importancia que tuvo la remodelación de la Plaza de Colón.Antes de la reestructuración, esta plaza era de forma ovalada en cuyo centro, se alzaba el monumento a Colón. Alrededor había diversos palacetes, destacando el Palacio de Medinaceli.",
+        "title": "Historia | Teatro Fernán Gómez",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.teatrofernangomez.es/actividades/proyecto-edipo",
+        "snippet": "El texto inmenso de Sófocles genera infinitas lecturas. Eso ha ocurrido también en el TeatroLab Madrid.El concienzudo trabajo de actores y director con el texto, ha parido dos criaturas que, aunque diferentes, tienen un mismo padre: Edipo. Ambos espectáculos respiran el mismo aliento trágico, aunque plantean preguntas distintas y proponen respuestas escénicas diferentes.",
+        "title": "Proyecto Edipo | Teatro Fernán Gómez",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.teatrofernangomez.es/programacion/madrionetas-2018",
+        "snippet": "Un país de títeres.Celebramos el primer festival Madrionetas, el arte del títere, con espectáculos para el público familiar, para los más pequeños y una muestra de títeres para adultos. El teatro de títeres es un puente entre la ilusión y la realidad, entre la magia y la técnica; el teatro de marionetas es pura magia, para pequeños y mayores.",
+        "title": "Madrionetas 2018 | Teatro Fernán Gómez",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.teatrofernangomez.es/actividades/madrid-design-festival-2019",
+        "snippet": "Esta cita anual, símbolo de las nuevas tendencias de moda, convierte a la ciudad en el hogar de las mejores herramientas de democratización del diseño. Las muestras que se acogen en el Fernán Gómez, en esta segunda edición, son Darro. Diseño y arte (1959- 1979), Cuidado Diseño. Artesanía española contemporánea y SuperPackaging.",
+        "title": "Madrid Design Festival 2019 | Teatro Fernán Gómez",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.esmadrid.com/en/tourist-information/fernan-gomez-centro-cultural-de-la-villa",
+        "snippet": "Fernán Gómez Centro Cultural de la Villa . Fernán Gómez Centro Cultural de la Villa . Sala Jardiel Poncela.jpg. ... Paseo del Arte (52) Princesa (29) Retiro (23) Salesas (26) Sol / Gran Vía (65) Type. ... Teatro, música y cine on-line. Categoría: Arte y Cultura. Ignacio Vleming. Discover Madrid.",
+        "title": "Fernán Gómez Centro Cultural de la Villa | Official ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://es.m.wikipedia.org/wiki/Centro_Cultural_de_la_Villa",
+        "snippet": "Después de barajar la posibilidad de llamarlo «Centro Cultural de la Villa - Centro de Arte» y dejar el nombre de Fernán Gómez para una de sus salas, [6] se decidió recuperar su antigua denominación para renombrarlo Centro Cultural de la Villa – Teatro Fernán Gómez. [7] En 2014, el teatro se llama «Fernán Gómez Centro Cultural de ...",
+        "title": "Teatro Fernán Gómez - Wikipedia, la enciclopedia libre",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

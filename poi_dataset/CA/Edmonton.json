@@ -1,0 +1,101 @@
+{
+  "242866": {
+    "url": "https://www.yelp.com/biz/the-urban-temple-toronto-4?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nzVUJXIfm9TGEqP38ue2oQ/o.jpg",
+    "name": "The Urban Temple",
+    "alias": "the-urban-temple-toronto-4",
+    "main_category": "Active Life",
+    "sub_categories": "Yoga, Reiki, Psychics, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "518 yonge street",
+    "city_from_postal": "Edmonton",
+    "city": "Toronto",
+    "zip_code": "T5M 0J3",
+    "country_code": "CA",
+    "state_code": "AB",
+    "phone": "+16478535297",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.yelp.ca/biz/the-urban-temple-toronto-4",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "www.yelp.ca",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.ca/biz_photos/the-urban-temple-toronto-4",
+        "snippet": "Photos at The Urban Temple - Toronto, AB. Yelp. Cancel",
+        "title": "Photos for The Urban Temple - Yelp",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/YogiEmmanuelle/reviews/",
+        "snippet": "Urban Temple Toronto, Toronto, Ontario. 1,402 likes · 72 talking about this. Please message us for more details. :)",
+        "title": "Urban Temple Toronto - Reviews | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/YogiEmmanuelle/posts/2771579289738430",
+        "snippet": "See more of Urban Temple Toronto on Facebook. Log In. or. Create New Account. See more of Urban Temple Toronto on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Related Pages. Tiffany Tin. Alternative &amp; Holistic Health Service. The Urban Apothecary. Alternative &amp; Holistic Health Service. Earth Heals.",
+        "title": "Future Vibes - Urban Temple Toronto | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/YogiEmmanuelle/posts/2779070735655952",
+        "snippet": "Urban Temple Toronto. Jump to. Sections of this page. Accessibility Help. Press alt + / to open this menu. Facebook. Email or Phone: Password: Forgot account? Sign Up. See more of Urban Temple Toronto on Facebook. Log In. or. Create New Account. See more of Urban Temple Toronto on Facebook. Log In. Forgot account? or. Create New Account.",
+        "title": "Urban Temple Toronto - Urban Temple Toronto | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.ca/biz_photos/the-urban-temple-toronto-4?select=pfl7T4LLfDuFRYewwNNPZA",
+        "snippet": "Photo of The Urban Temple - &quot;City Shaman&quot; - Toronto, AB. Know your future and adjust the way of your life ,temple of success,Pandit Durga prasad is expert in removing black magic , evil spirits,…",
+        "title": "City Shaman - Yelp",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://no.wikipedia.org/wiki/Toronto",
+        "snippet": "Toronto er den mest folkerike byen i Canada og provinshovedstad i provinsen Ontario. Den er ligger i det sørlige Ontario på nordvestbredden av Ontariosjøen. Torontos historie begynte på slutten av 1700-tallet da den britiske kronen kjøpte land fra den indianske urbefolkningsgruppen mississaugaer.",
+        "title": "Toronto – Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://m.facebook.com/YogiEmmanuelle/",
+        "snippet": "Urban Temple Toronto, Toronto, Ontario. 1,436 likes · 9 talking about this. Please message us for more details. :)",
+        "title": "Urban Temple Toronto",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://westendbuddhist.com/standby4/",
+        "snippet": "A Taste of Mindfulness Meditation with the Urban Buddhist Monk. Presented at the Annual HR Conference taken place at the Metro Toronto Convention Centre on January 31st 2019 ... West End Buddhist Temple and Meditation Centre, 3133 Cawthra Road, Mississauga, ON L5A 2X4",
+        "title": "West End Buddhist Temple and Meditation Centre",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.ca/biz_photos/the-urban-temple-toronto-4?select=XsyGbBkbOvdThkkV974HwA",
+        "snippet": "Photo of The Urban Temple - &quot;Enjoy home cooked vegan meal every evening at the Urban Temple.&quot; - Toronto, AB",
+        "title": "15 photos for The Urban Temple - Yelp",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "445338": {
+    "url": "https://www.yelp.com/biz/select-sport-performance-elk-grove?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lJz3hPhcaLGSmcHaV-72pA/o.jpg",
+    "name": "Select Sport Performance",
+    "alias": "select-sport-performance-elk-grove",
+    "main_category": "Active Life",
+    "sub_categories": "Trainers, ",
+    "rating": 5.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Edmonton",
+    "city": "Elk Grove",
+    "zip_code": "T5A 4L2",
+    "country_code": "CA",
+    "state_code": "AB",
+    "phone": "+19162804686",
+    "review_count": 1,
+    "snippets": []
+  }
+}

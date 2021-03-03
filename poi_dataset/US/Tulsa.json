@@ -1,0 +1,21 @@
+{
+  "688141": {
+    "url": "https://www.yelp.com/biz/laurannae-baking-co-broken-arrow-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kPDOjBBsobUWSQlGxVeKCQ/o.jpg",
+    "name": "Laurannae Baking Co.",
+    "alias": "laurannae-baking-co-broken-arrow-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Desserts, Bakeries, Caterers, ",
+    "rating": 5.0,
+    "price": "$$",
+    "address": "112 W Commercial",
+    "city_from_postal": "Tulsa",
+    "city": "Broken Arrow",
+    "zip_code": "74012",
+    "country_code": "US",
+    "state_code": "OK",
+    "phone": "+19182585744",
+    "review_count": 37,
+    "snippets": []
+  }
+}

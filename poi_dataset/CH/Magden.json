@@ -1,0 +1,21 @@
+{
+  "601632": {
+    "url": "https://www.yelp.com/biz/restaurant-zur-blume-magden?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pKL9a7kCiMGDAmqnmDR6iw/o.jpg",
+    "name": "Restaurant zur Blume",
+    "alias": "restaurant-zur-blume-magden",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Hauptstrasse 11",
+    "city_from_postal": "Magden",
+    "city": "Magden",
+    "zip_code": "4312",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41618411533",
+    "review_count": 3,
+    "snippets": []
+  }
+}

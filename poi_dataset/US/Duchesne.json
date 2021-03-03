@@ -1,0 +1,40 @@
+{
+  "21339": {
+    "url": "https://www.yelp.com/biz/dakine-grindz-restaurant-sunset?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/chMWYOuUEZ4J6N9GcCS9Jg/o.jpg",
+    "name": "Dakine Grindz Restaurant",
+    "alias": "dakine-grindz-restaurant-sunset",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Filipino, Hawaiian, ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": "2465 N Main St",
+    "city_from_postal": "Duchesne",
+    "city": "Sunset",
+    "zip_code": "84051",
+    "country_code": "US",
+    "state_code": "UT",
+    "phone": "+18084955932",
+    "review_count": 107,
+    "snippets": []
+  },
+  "565043": {
+    "url": "https://www.yelp.com/biz/dakine-grindz-food-truck-sunset?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mJBBR5fAB87Tw3e0L-WXLw/o.jpg",
+    "name": "Dakine Grindz Food Truck",
+    "alias": "dakine-grindz-food-truck-sunset",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food Trucks, Filipino, Hawaiian, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "2465 N Main St",
+    "city_from_postal": "Duchesne",
+    "city": "Sunset",
+    "zip_code": "84051",
+    "country_code": "US",
+    "state_code": "UT",
+    "phone": "+18084955932",
+    "review_count": 3,
+    "snippets": []
+  }
+}

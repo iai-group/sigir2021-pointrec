@@ -1,0 +1,21 @@
+{
+  "703245": {
+    "url": "https://www.yelp.com/biz/rosemarie-stockmaier-st-georgen-bei-salzburg?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Rosemarie Stockmaier",
+    "alias": "rosemarie-stockmaier-st-georgen-bei-salzburg",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Beverage Store, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Auweg 12",
+    "city_from_postal": "Sankt Georgen bei Salzburg",
+    "city": "St. Georgen bei Salzburg",
+    "zip_code": "5113",
+    "country_code": "AT",
+    "state_code": "5",
+    "phone": "+4362728388",
+    "review_count": 2,
+    "snippets": []
+  }
+}

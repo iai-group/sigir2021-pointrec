@@ -1,0 +1,21 @@
+{
+  "363934": {
+    "url": "https://www.yelp.com/biz/laterndl-elbigenalp?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Laternd'l",
+    "alias": "laterndl-elbigenalp",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, Pubs, ",
+    "rating": 5.0,
+    "price": "€€",
+    "address": "Grünau 7 a",
+    "city_from_postal": "Elbigenalp",
+    "city": "Elbigenalp",
+    "zip_code": "6652",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+436767021796",
+    "review_count": 1,
+    "snippets": []
+  }
+}

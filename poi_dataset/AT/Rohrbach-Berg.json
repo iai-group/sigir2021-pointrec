@@ -1,0 +1,21 @@
+{
+  "541957": {
+    "url": "https://www.yelp.com/biz/villa-sinnenreich-rohrbach-ober%C3%B6sterreich?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yyxVlCOo6Ma6Zou0IgzIag/o.jpg",
+    "name": "Villa Sinnenreich",
+    "alias": "villa-sinnenreich-rohrbach-oberösterreich",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Bahnhofstr. 19",
+    "city_from_postal": "Rohrbach-Berg",
+    "city": "Rohrbach/Oberösterreich",
+    "zip_code": "4150",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+43728922458x20",
+    "review_count": 1,
+    "snippets": []
+  }
+}

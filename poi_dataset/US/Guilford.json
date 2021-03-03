@@ -1,0 +1,40 @@
+{
+  "46778": {
+    "url": "https://www.yelp.com/biz/bicycle-burger-greensboro?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KnIIQCqPWb2jROzrOkTdBg/o.jpg",
+    "name": "Bicycle Burger",
+    "alias": "bicycle-burger-greensboro",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food Trucks, Burgers, Vegetarian, ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": null,
+    "city_from_postal": "Guilford",
+    "city": "Greensboro",
+    "zip_code": "27403",
+    "country_code": "US",
+    "state_code": "NC",
+    "phone": "+19196498616",
+    "review_count": 9,
+    "snippets": []
+  },
+  "64244": {
+    "url": "https://www.yelp.com/biz/the-ice-queen-greensboro-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/21MMBoHsJdCIaqeR_nwywg/o.jpg",
+    "name": "The Ice Queen",
+    "alias": "the-ice-queen-greensboro-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food Trucks, Ice Cream & Frozen Yogurt, ",
+    "rating": 4.5,
+    "price": "$",
+    "address": null,
+    "city_from_postal": "Guilford",
+    "city": "Greensboro",
+    "zip_code": "27409",
+    "country_code": "US",
+    "state_code": "NC",
+    "phone": "+13362557421",
+    "review_count": 20,
+    "snippets": []
+  }
+}

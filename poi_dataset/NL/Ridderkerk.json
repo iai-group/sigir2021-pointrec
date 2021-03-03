@@ -1,0 +1,40 @@
+{
+  "107808": {
+    "url": "https://www.yelp.com/biz/fit-all-day-ridderkerk?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZbYS9YfJ7RVXnje_G3o7GQ/o.jpg",
+    "name": "Fit All Day",
+    "alias": "fit-all-day-ridderkerk",
+    "main_category": "Active Life",
+    "sub_categories": "Gyms, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Kruisweg 1",
+    "city_from_postal": "Ridderkerk",
+    "city": "Ridderkerk",
+    "zip_code": "2982 TN",
+    "country_code": "NL",
+    "state_code": "ZH",
+    "phone": "+319000400490",
+    "review_count": 1,
+    "snippets": []
+  },
+  "444835": {
+    "url": "https://www.yelp.com/biz/van-der-valk-ridderkerk-ridderkerk?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3xEPqzbgnR94Qo1HknHAYw/o.jpg",
+    "name": "Van der Valk Ridderkerk",
+    "alias": "van-der-valk-ridderkerk-ridderkerk",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Hotels, Venues & Event Spaces, Restaurants, ",
+    "rating": 3.0,
+    "price": "€€€€",
+    "address": "Krommeweg 1",
+    "city_from_postal": "Ridderkerk",
+    "city": "Ridderkerk",
+    "zip_code": "2988 CB",
+    "country_code": "NL",
+    "state_code": "ZH",
+    "phone": "+31180646900",
+    "review_count": 6,
+    "snippets": []
+  }
+}

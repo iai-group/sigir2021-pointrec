@@ -1,0 +1,21 @@
+{
+  "104740": {
+    "url": "https://www.yelp.com/biz/colegio-27-ponta-delgada?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/f7ozIODGeimstnca-maeHA/o.jpg",
+    "name": "Colegio 27",
+    "alias": "colegio-27-ponta-delgada",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Jazz & Blues, Portuguese, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Rua Carvalho Araújo, 27",
+    "city_from_postal": "Ponta Delgada",
+    "city": "Ponta Delgada",
+    "zip_code": "9500-046",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351296288930",
+    "review_count": 1,
+    "snippets": []
+  }
+}

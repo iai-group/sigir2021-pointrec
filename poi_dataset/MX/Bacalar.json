@@ -1,0 +1,21 @@
+{
+  "158125": {
+    "url": "https://www.yelp.com/biz/mr-cream-pancakes-and-waffles-jarretaderas?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EqqFGCL-UH3M6SmI35CZ4A/o.jpg",
+    "name": "Mr Cream Pancakes And Waffles",
+    "alias": "mr-cream-pancakes-and-waffles-jarretaderas",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Breakfast & Brunch, Bakeries, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Av. Paseo de las Palmas 3",
+    "city_from_postal": "Bacalar",
+    "city": "Jarretaderas",
+    "zip_code": "77930",
+    "country_code": "MX",
+    "state_code": "NAY",
+    "phone": "+523222970201",
+    "review_count": 6,
+    "snippets": []
+  }
+}

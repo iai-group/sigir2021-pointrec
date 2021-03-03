@@ -1,0 +1,21 @@
+{
+  "238668": {
+    "url": "https://www.yelp.com/biz/sonora-winery-y-port-works-sonora?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Sonora Winery & Port Works",
+    "alias": "sonora-winery-y-port-works-sonora",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Wineries, ",
+    "rating": 3.0,
+    "price": "$$",
+    "address": "Ruta 5",
+    "city_from_postal": "Tres Valles",
+    "city": "Sonora",
+    "zip_code": "95370",
+    "country_code": "MX",
+    "state_code": "SON",
+    "phone": "+522095327678",
+    "review_count": 1,
+    "snippets": []
+  }
+}

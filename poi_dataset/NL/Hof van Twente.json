@@ -1,0 +1,21 @@
+{
+  "143448": {
+    "url": "https://www.yelp.com/biz/kasteel-twickel-ambt-delden?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Kasteel Twickel",
+    "alias": "kasteel-twickel-ambt-delden",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Twickelerlaan 6",
+    "city_from_postal": "Hof van Twente",
+    "city": "Ambt Delden",
+    "zip_code": "7495 VG",
+    "country_code": "NL",
+    "state_code": "OV",
+    "phone": "+31743761309",
+    "review_count": 1,
+    "snippets": []
+  }
+}

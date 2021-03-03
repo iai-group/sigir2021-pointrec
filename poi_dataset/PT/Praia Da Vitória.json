@@ -1,0 +1,21 @@
+{
+  "220127": {
+    "url": "https://www.yelp.com/biz/sabores-do-chef-praia-da-vit%C3%B3ria?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Sabores do Chef",
+    "alias": "sabores-do-chef-praia-da-vitória",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Modern European, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Estrada 25 Abril, 31",
+    "city_from_postal": "Praia Da Vitória",
+    "city": "Praia da Vitória",
+    "zip_code": "9760-403",
+    "country_code": "PT",
+    "state_code": "20",
+    "phone": "+351295512876",
+    "review_count": 1,
+    "snippets": []
+  }
+}

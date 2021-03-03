@@ -1,0 +1,21 @@
+{
+  "542594": {
+    "url": "https://www.yelp.com/biz/%E3%81%8B%E3%81%9F%E3%81%8E%E5%8F%A4%E9%A6%99%E5%9C%92-%E7%94%B2%E8%B3%80%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fha7jfaAJbWqj2bpmHJmLw/o.jpg",
+    "name": "Katagi Kokaen Tea House",
+    "alias": "かたぎ古香園-甲賀市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, ",
+    "rating": 4.0,
+    "price": "￥￥",
+    "address": "信楽町宮尻1090",
+    "city_from_postal": "Koka Shi",
+    "city": "Koka",
+    "zip_code": "529-1843",
+    "country_code": "JP",
+    "state_code": "25",
+    "phone": "+81748840135",
+    "review_count": 1,
+    "snippets": []
+  }
+}

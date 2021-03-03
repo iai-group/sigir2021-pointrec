@@ -1,0 +1,21 @@
+{
+  "398809": {
+    "url": "https://www.yelp.com/biz/cafe-spoorzicht-staphorst?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6ZsUh4lNEn2qri3mZ_Vnjg/o.jpg",
+    "name": "Cafe Spoorzicht",
+    "alias": "cafe-spoorzicht-staphorst",
+    "main_category": "Nightlife",
+    "sub_categories": "Dance Clubs, Cafes, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Gemeenteweg 171",
+    "city_from_postal": "Staphorst",
+    "city": "Staphorst",
+    "zip_code": "7951 CJ",
+    "country_code": "NL",
+    "state_code": "OV",
+    "phone": "+31522461291",
+    "review_count": 1,
+    "snippets": []
+  }
+}

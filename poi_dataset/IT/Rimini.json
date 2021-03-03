@@ -1,0 +1,40 @@
+{
+  "186929": {
+    "url": "https://www.yelp.com/biz/spiaggia-bellaria-bellaria?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Spiaggia Bellaria",
+    "alias": "spiaggia-bellaria-bellaria",
+    "main_category": "Active Life",
+    "sub_categories": "Beaches, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Via Cristoforo Colombo 58",
+    "city_from_postal": "Rimini",
+    "city": "Bellaria",
+    "zip_code": "47814",
+    "country_code": "IT",
+    "state_code": "RN",
+    "phone": "+390541346808",
+    "review_count": 1,
+    "snippets": []
+  },
+  "332427": {
+    "url": "https://www.yelp.com/biz/mocambo-viserbella?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Mocambo",
+    "alias": "mocambo-viserbella",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Seafood, Emilian, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Via Porto Palos 120",
+    "city_from_postal": "Rimini",
+    "city": "Viserbella",
+    "zip_code": "47922",
+    "country_code": "IT",
+    "state_code": "RN",
+    "phone": "+390541720692",
+    "review_count": 2,
+    "snippets": []
+  }
+}

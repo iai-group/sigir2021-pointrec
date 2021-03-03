@@ -1,0 +1,21 @@
+{
+  "578421": {
+    "url": "https://www.yelp.com/biz/el-castillo-de-las-tinieblas-gav%C3%A0?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2Xbr1Bd67b8PY8jUFqY9BA/o.jpg",
+    "name": "El Castillo de las Tinieblas",
+    "alias": "el-castillo-de-las-tinieblas-gavà",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Dinner Theater, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Carrer Josep Lluís Sert, 40",
+    "city_from_postal": "Gavà",
+    "city": "Gavà",
+    "zip_code": "08850",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34936331853",
+    "review_count": 1,
+    "snippets": []
+  }
+}

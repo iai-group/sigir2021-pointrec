@@ -1,0 +1,21 @@
+{
+  "706268": {
+    "url": "https://www.yelp.com/biz/goblin-valley-state-park-green-river-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tueT1syeZhNRmmibGB-kVA/o.jpg",
+    "name": "Goblin Valley State Park",
+    "alias": "goblin-valley-state-park-green-river-2",
+    "main_category": "Active Life",
+    "sub_categories": "Parks, Hiking, Mountain Biking, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "18630 Goblin Valley Rd",
+    "city_from_postal": "Emery",
+    "city": "Green River",
+    "zip_code": "84525",
+    "country_code": "US",
+    "state_code": "UT",
+    "phone": "+14352754584",
+    "review_count": 40,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "65445": {
+    "url": "https://www.yelp.com/biz/rookies-wigton?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Rookies",
+    "alias": "rookies-wigton",
+    "main_category": "Active Life",
+    "sub_categories": "Kids Activities, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Unit 3 Miller Park",
+    "city_from_postal": "Cumbria",
+    "city": "Wigton",
+    "zip_code": "CA7 9BA",
+    "country_code": "GB",
+    "state_code": "CMA",
+    "phone": "+441697349241",
+    "review_count": 1,
+    "snippets": []
+  }
+}

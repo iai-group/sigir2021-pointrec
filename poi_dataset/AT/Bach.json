@@ -1,0 +1,21 @@
+{
+  "684416": {
+    "url": "https://www.yelp.com/biz/dorfalm-holzgau?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/w6sqDeJhwzz3QzcfkdVFFg/o.jpg",
+    "name": "Dorfalm",
+    "alias": "dorfalm-holzgau",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Austrian, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Holzgau 71",
+    "city_from_postal": "Bach",
+    "city": "Holzgau",
+    "zip_code": "6654",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+4356335586",
+    "review_count": 1,
+    "snippets": []
+  }
+}

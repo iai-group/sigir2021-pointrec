@@ -1,0 +1,21 @@
+{
+  "257687": {
+    "url": "https://www.yelp.com/biz/bolhas-tours-sesimbra?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sj9-NnEf1_2dnjDA_sIRfg/o.jpg",
+    "name": "Bolhas Tours",
+    "alias": "bolhas-tours-sesimbra",
+    "main_category": "Active Life",
+    "sub_categories": "Fishing, Whale Watching Tours, Boat Tours, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Porto de Abrigo de Sesimbra",
+    "city_from_postal": "Sesimbra",
+    "city": "Sesimbra",
+    "zip_code": "2970-423",
+    "country_code": "PT",
+    "state_code": "15",
+    "phone": "+351910658555",
+    "review_count": 1,
+    "snippets": []
+  }
+}

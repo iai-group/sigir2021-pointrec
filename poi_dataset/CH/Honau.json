@@ -1,0 +1,21 @@
+{
+  "618062": {
+    "url": "https://www.yelp.com/biz/gasthof-tell-gisikon?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZkD_EQwkm3lIgT28jJ3Scg/o.jpg",
+    "name": "Gasthof Tell",
+    "alias": "gasthof-tell-gisikon",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "Tellstrasse 1",
+    "city_from_postal": "Honau",
+    "city": "Gisikon",
+    "zip_code": "6038",
+    "country_code": "CH",
+    "state_code": "LU",
+    "phone": "+41414501261",
+    "review_count": 3,
+    "snippets": []
+  }
+}

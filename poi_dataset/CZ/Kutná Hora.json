@@ -1,0 +1,21 @@
+{
+  "503752": {
+    "url": "https://www.yelp.com/biz/restaurace-star%C3%A1-myslivna-bene%C5%A1ov?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/W7My0r22_AC6N40LOCydYQ/o.jpg",
+    "name": "Restaurace Stará Myslivna",
+    "alias": "restaurace-stará-myslivna-benešov",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Czech, Game Meat, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Konopiště 22",
+    "city_from_postal": "Kutná Hora",
+    "city": "Benešov",
+    "zip_code": "256 01",
+    "country_code": "CZ",
+    "state_code": "ST",
+    "phone": "+420317700280",
+    "review_count": 3,
+    "snippets": []
+  }
+}

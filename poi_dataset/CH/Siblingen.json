@@ -1,0 +1,21 @@
+{
+  "508225": {
+    "url": "https://www.yelp.com/biz/siblinger-randenhaus-siblingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NgLLiyfloS7O33hLRE2B2g/o.jpg",
+    "name": "Siblinger Randenhaus",
+    "alias": "siblinger-randenhaus-siblingen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food, Hotels & Travel, Swiss Food, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Randenstrasse",
+    "city_from_postal": "Siblingen",
+    "city": "Siblingen",
+    "zip_code": "8225",
+    "country_code": "CH",
+    "state_code": "SH",
+    "phone": "+41526852737",
+    "review_count": 1,
+    "snippets": []
+  }
+}

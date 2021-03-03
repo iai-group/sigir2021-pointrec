@@ -1,0 +1,21 @@
+{
+  "22384": {
+    "url": "https://www.yelp.com/biz/wald-der-kinder-zell-am-pettenfirst?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xUc-IgSJ_Ven_9wTlzBvNg/o.jpg",
+    "name": "Wald der Kinder",
+    "alias": "wald-der-kinder-zell-am-pettenfirst",
+    "main_category": "Financial Services",
+    "sub_categories": "Insurance, Arts & Entertainment, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Zell am Pettenfirst 51",
+    "city_from_postal": "Zell am Pettenfirst",
+    "city": "Zell am Pettenfirst",
+    "zip_code": "4842",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

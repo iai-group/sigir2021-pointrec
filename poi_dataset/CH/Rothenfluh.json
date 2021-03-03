@@ -1,0 +1,40 @@
+{
+  "118797": {
+    "url": "https://www.yelp.com/biz/restaurant-s%C3%A4ge-rothenfluh?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TL3MzI5Lke6yHkAPQRfthw/o.jpg",
+    "name": "Restaurant Säge",
+    "alias": "restaurant-säge-rothenfluh",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 5.0,
+    "price": "$",
+    "address": "Säge 119",
+    "city_from_postal": "Rothenfluh",
+    "city": "Rothenfluh",
+    "zip_code": "4467",
+    "country_code": "CH",
+    "state_code": "BL",
+    "phone": "+41619919067",
+    "review_count": 1,
+    "snippets": []
+  },
+  "465863": {
+    "url": "https://www.yelp.com/biz/asphof-rothenfluh?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3Qkazfav2Tn8ZFjsQdPEHw/o.jpg",
+    "name": "asphof",
+    "alias": "asphof-rothenfluh",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Rothenfluh",
+    "city": "Rothenfluh",
+    "zip_code": "4467",
+    "country_code": "CH",
+    "state_code": "BL",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

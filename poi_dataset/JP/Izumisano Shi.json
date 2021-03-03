@@ -1,0 +1,21 @@
+{
+  "662914": {
+    "url": "https://www.yelp.com/biz/%E8%BE%BB%E5%88%A9%E5%85%B5%E8%A1%9E%E6%9C%AC%E5%BA%97-%E6%B3%89%E4%BD%90%E9%87%8E%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JjNJMRilRymN7PFVYwmUxQ/o.jpg",
+    "name": "Tsujirihei Honten",
+    "alias": "辻利兵衞本店-泉佐野市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Japanese Sweets, Tea Rooms, ",
+    "rating": 5.0,
+    "price": "￥￥",
+    "address": "宇治若森41",
+    "city_from_postal": "Izumisano Shi",
+    "city": "Izumisano",
+    "zip_code": "598-0045",
+    "country_code": "JP",
+    "state_code": "27",
+    "phone": "+81774299021",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "648403": {
+    "url": "https://www.yelp.com/biz/bistro-49-wash-und-shop-langenthal?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2Pw1hZDQr3jhKOGgWXwcHg/o.jpg",
+    "name": "Bistro 49 Wash & Shop",
+    "alias": "bistro-49-wash-und-shop-langenthal",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bistros, Curry Sausage, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Bern-Zürichstrasse 49a",
+    "city_from_postal": "Langenthal",
+    "city": "Langenthal",
+    "zip_code": "4900",
+    "country_code": "CH",
+    "state_code": "BE",
+    "phone": "+41629223638",
+    "review_count": 1,
+    "snippets": []
+  }
+}

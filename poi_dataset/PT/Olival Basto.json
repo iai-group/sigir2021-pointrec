@@ -1,0 +1,40 @@
+{
+  "91075": {
+    "url": "https://www.yelp.com/biz/florbela-odivelas?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Florbela",
+    "alias": "florbela-odivelas",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Seafood, Beer Bar, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Rua de Angola 6",
+    "city_from_postal": "Olival Basto",
+    "city": "Odivelas",
+    "zip_code": "2620-035",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351219370308",
+    "review_count": 1,
+    "snippets": []
+  },
+  "156416": {
+    "url": "https://www.yelp.com/biz/mulemba-xangola-olival-basto?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nlMinIF8NvM7dzgS98iTOw/o.jpg",
+    "name": "Mulemba X'Angola",
+    "alias": "mulemba-xangola-olival-basto",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "African, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "Largo José Afonso, 4",
+    "city_from_postal": "Olival Basto",
+    "city": "Olival Basto",
+    "zip_code": "2620-046",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351210475865",
+    "review_count": 1,
+    "snippets": []
+  }
+}

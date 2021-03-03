@@ -1,0 +1,21 @@
+{
+  "504255": {
+    "url": "https://www.yelp.com/biz/%E3%83%A8%E3%83%8D%E3%83%83%E3%83%86%E3%82%A3%E3%83%BC%E7%8E%8B%E7%A6%85%E5%AF%BA-%E5%B7%9D%E5%B4%8E%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIME",
+    "image_url": "",
+    "name": "Yonetty Ouzenji",
+    "alias": "ヨネッティー王禅寺-川崎市",
+    "main_category": "Active Life",
+    "sub_categories": "Swimming Pools, Gyms, Senior Centers, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "麻生区王禅寺1321",
+    "city_from_postal": "Asao Ku",
+    "city": "Kawasaki",
+    "zip_code": "215-0013",
+    "country_code": "JP",
+    "state_code": "14",
+    "phone": "+81449513636",
+    "review_count": 2,
+    "snippets": []
+  }
+}

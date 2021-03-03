@@ -1,0 +1,21 @@
+{
+  "583892": {
+    "url": "https://www.yelp.com/biz/ch%C3%A2teau-de-mille-apt?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Château de Mille",
+    "alias": "château-de-mille-apt",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Beer, Wine & Spirits, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "Quartier Mille",
+    "city_from_postal": "Arrondissement d’Apt",
+    "city": "Apt",
+    "zip_code": "84400",
+    "country_code": "FR",
+    "state_code": "84",
+    "phone": "+33490741194",
+    "review_count": 1,
+    "snippets": []
+  }
+}

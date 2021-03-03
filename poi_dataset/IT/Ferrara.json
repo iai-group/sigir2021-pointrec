@@ -1,0 +1,21 @@
+{
+  "681917": {
+    "url": "https://www.yelp.com/biz/casa-museo-remo-brindisi-lido-di-spina?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SLvIdXxTHAY2MB1lCXQKDw/o.jpg",
+    "name": "Casa Museo Remo Brindisi",
+    "alias": "casa-museo-remo-brindisi-lido-di-spina",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Via Nicolò Pisano 51",
+    "city_from_postal": "Ferrara",
+    "city": "Lido di Spina",
+    "zip_code": "44029",
+    "country_code": "IT",
+    "state_code": "FE",
+    "phone": "+390533311316",
+    "review_count": 1,
+    "snippets": []
+  }
+}

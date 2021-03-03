@@ -1,0 +1,21 @@
+{
+  "295500": {
+    "url": "https://www.yelp.com/biz/soccer-training-ca-albuquerque?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/msg1h7PEIwRij-bXlrXiEg/o.jpg",
+    "name": "Soccer Training CA",
+    "alias": "soccer-training-ca-albuquerque",
+    "main_category": "Active Life",
+    "sub_categories": "Soccer, Fitness & Instruction, Sports Clubs, ",
+    "rating": 5.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Bernalillo",
+    "city": "Albuquerque",
+    "zip_code": "87110",
+    "country_code": "US",
+    "state_code": "NM",
+    "phone": "+13107480141",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "389262": {
+    "url": "https://www.yelp.com/biz/angelic-organics-caledonia-3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ddy2dzeaeSEvA6OM-sZWGA/o.jpg",
+    "name": "Angelic Organics",
+    "alias": "angelic-organics-caledonia-3",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "CSA, Food Delivery Services, Fruits & Veggies, ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": "1547 Rockton Rd",
+    "city_from_postal": "Boone",
+    "city": "Caledonia",
+    "zip_code": "61011",
+    "country_code": "US",
+    "state_code": "IL",
+    "phone": "+18153892746",
+    "review_count": 46,
+    "snippets": []
+  }
+}

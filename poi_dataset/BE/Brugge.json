@@ -1,0 +1,21 @@
+{
+  "410734": {
+    "url": "https://www.yelp.com/biz/sint-pietershoeve-damme-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K2HmUvYn7w70s6RIQU2Syg/o.jpg",
+    "name": "Sint Pietershoeve",
+    "alias": "sint-pietershoeve-damme-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, Brasseries, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Damse Vaart Zuid 15",
+    "city_from_postal": "Brugge",
+    "city": "Damme",
+    "zip_code": "8340",
+    "country_code": "BE",
+    "state_code": "VWV",
+    "phone": "+3250357560",
+    "review_count": 1,
+    "snippets": []
+  }
+}

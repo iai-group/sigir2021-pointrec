@@ -1,0 +1,40 @@
+{
+  "99720": {
+    "url": "https://www.yelp.com/biz/defroidmont-chocolatier-erez%C3%A9e-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Defroidmont Chocolatier",
+    "alias": "defroidmont-chocolatier-erezée-2",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Briscol 19/A",
+    "city_from_postal": "Marche-en-Famenne",
+    "city": "Erezée",
+    "zip_code": "6997",
+    "country_code": "BE",
+    "state_code": "WLX",
+    "phone": "+3286218440",
+    "review_count": 1,
+    "snippets": []
+  },
+  "601787": {
+    "url": "https://www.yelp.com/biz/contes-de-salme-vielsalm?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5vo5pgtU15-wcxN8dTb4hA/o.jpg",
+    "name": "Contes de Salme",
+    "alias": "contes-de-salme-vielsalm",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Belgian, ",
+    "rating": 3.5,
+    "price": "€€",
+    "address": "Rue Jean Bertholet 6",
+    "city_from_postal": "Marche-en-Famenne",
+    "city": "Vielsalm",
+    "zip_code": "6990",
+    "country_code": "BE",
+    "state_code": "WLX",
+    "phone": "+3280216236",
+    "review_count": 4,
+    "snippets": []
+  }
+}

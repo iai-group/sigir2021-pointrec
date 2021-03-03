@@ -1,0 +1,21 @@
+{
+  "331177": {
+    "url": "https://www.yelp.com/biz/binis-bar-g%C3%B6tzens?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gihyIUKsJCI0jWPIn8ogOw/o.jpg",
+    "name": "Bini's Bar",
+    "alias": "binis-bar-götzens",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Restaurants, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Burgstr. 7",
+    "city_from_postal": "Natters",
+    "city": "Götzens",
+    "zip_code": "6091",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+43523448010",
+    "review_count": 3,
+    "snippets": []
+  }
+}

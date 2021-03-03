@@ -1,0 +1,40 @@
+{
+  "82410": {
+    "url": "https://www.yelp.com/biz/caf%C3%A9-parasol-eijsden?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Café Parasol",
+    "alias": "café-parasol-eijsden",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Putstraat 41",
+    "city_from_postal": "Eijsden-Margraten",
+    "city": "Eijsden",
+    "zip_code": "6245 LD",
+    "country_code": "NL",
+    "state_code": "LI",
+    "phone": "+31434092575",
+    "review_count": 1,
+    "snippets": []
+  },
+  "518704": {
+    "url": "https://www.yelp.com/biz/caf%C3%A9-de-zwaluw-gronsveld?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Café De Zwaluw",
+    "alias": "café-de-zwaluw-gronsveld",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Rijksweg 2",
+    "city_from_postal": "Eijsden-Margraten",
+    "city": "Gronsveld",
+    "zip_code": "6247 AH",
+    "country_code": "NL",
+    "state_code": "LI",
+    "phone": "+31434081262",
+    "review_count": 1,
+    "snippets": []
+  }
+}

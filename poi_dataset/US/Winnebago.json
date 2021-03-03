@@ -1,0 +1,21 @@
+{
+  "541706": {
+    "url": "https://www.yelp.com/biz/dc-estate-winery-south-beloit?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/u3rxR7G8jJf_5B9gsRFgrw/o.jpg",
+    "name": "DC Estate Winery",
+    "alias": "dc-estate-winery-south-beloit",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Wedding Planning, Wineries, Venues & Event Spaces, ",
+    "rating": 4.5,
+    "price": "$$",
+    "address": "8877 Stateline Rd",
+    "city_from_postal": "Winnebago",
+    "city": "South Beloit",
+    "zip_code": "61080",
+    "country_code": "US",
+    "state_code": "IL",
+    "phone": "+16084811565",
+    "review_count": 21,
+    "snippets": []
+  }
+}

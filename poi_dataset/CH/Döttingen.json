@@ -1,0 +1,40 @@
+{
+  "116465": {
+    "url": "https://www.yelp.com/biz/metzgerei-k%C3%B6ferli-d%C3%B6ttingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Metzgerei Köferli ",
+    "alias": "metzgerei-köferli-döttingen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food, Arts & Crafts, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Hauptstrasse 37",
+    "city_from_postal": "Döttingen",
+    "city": "Döttingen",
+    "zip_code": "5312",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41562451020",
+    "review_count": 1,
+    "snippets": []
+  },
+  "629794": {
+    "url": "https://www.yelp.com/biz/restaurant-central-d%C3%B6ttingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sUt2CN1AmhM2Dxixhxngtw/o.jpg",
+    "name": "Restaurant Central",
+    "alias": "restaurant-central-döttingen",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Hauptstrasse 36",
+    "city_from_postal": "Döttingen",
+    "city": "Döttingen",
+    "zip_code": "5312",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41562452710",
+    "review_count": 1,
+    "snippets": []
+  }
+}

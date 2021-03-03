@@ -1,0 +1,21 @@
+{
+  "216612": {
+    "url": "https://www.yelp.com/biz/the-cake-barn-prescott-az?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/O2al9U5WV8y0JbrmlKurpQ/o.jpg",
+    "name": "The Cake Barn",
+    "alias": "the-cake-barn-prescott-az",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, Custom Cakes, Cupcakes, ",
+    "rating": 5.0,
+    "price": "$$",
+    "address": null,
+    "city_from_postal": "Yavapai",
+    "city": "Prescott, Az",
+    "zip_code": "86305",
+    "country_code": "US",
+    "state_code": "CA",
+    "phone": "+19282271918",
+    "review_count": 195,
+    "snippets": []
+  }
+}

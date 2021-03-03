@@ -1,0 +1,40 @@
+{
+  "194504": {
+    "url": "https://www.yelp.com/biz/shenandoah-river-outfitters-luray-3?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AV945IeJaKP7AeaH0vYwcw/o.jpg",
+    "name": "Shenandoah River Outfitters",
+    "alias": "shenandoah-river-outfitters-luray-3",
+    "main_category": "Active Life",
+    "sub_categories": "Rafting/Kayaking, Campgrounds, Tubing, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "6502 S Page Valley Rd",
+    "city_from_postal": "Page",
+    "city": "Luray",
+    "zip_code": "22835",
+    "country_code": "US",
+    "state_code": "VA",
+    "phone": "+15407434159",
+    "review_count": 60,
+    "snippets": []
+  },
+  "706092": {
+    "url": "https://www.yelp.com/biz/shenandoah-national-park-luray?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ChrBoCH8yfgIcfCZS71jBg/o.jpg",
+    "name": "Shenandoah National Park",
+    "alias": "shenandoah-national-park-luray",
+    "main_category": "Active Life",
+    "sub_categories": "Parks, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "3655 US Hwy 211 E",
+    "city_from_postal": "Page",
+    "city": "Luray",
+    "zip_code": "22835",
+    "country_code": "US",
+    "state_code": "VA",
+    "phone": "+15409993500",
+    "review_count": 184,
+    "snippets": []
+  }
+}

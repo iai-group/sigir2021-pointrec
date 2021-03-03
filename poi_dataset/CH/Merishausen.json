@@ -1,0 +1,21 @@
+{
+  "313718": {
+    "url": "https://www.yelp.com/biz/restaurant-gemeindehaus-merishausen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/itV7AeZr-UAqSBxv0GDjuw/o.jpg",
+    "name": "Restaurant Gemeindehaus",
+    "alias": "restaurant-gemeindehaus-merishausen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Hauptstrasse 78",
+    "city_from_postal": "Merishausen",
+    "city": "Merishausen",
+    "zip_code": "8232",
+    "country_code": "CH",
+    "state_code": "SH",
+    "phone": "+41526531131",
+    "review_count": 2,
+    "snippets": []
+  }
+}

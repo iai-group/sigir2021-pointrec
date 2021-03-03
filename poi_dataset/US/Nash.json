@@ -1,0 +1,21 @@
+{
+  "126314": {
+    "url": "https://www.yelp.com/biz/guacamole-s-rocky-mount?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hK3KJqXY9suVQ3j6mvei8w/o.jpg",
+    "name": "Guacamole’s",
+    "alias": "guacamole-s-rocky-mount",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Mexican, Honduran, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "126 S Winstead Ave",
+    "city_from_postal": "Nash",
+    "city": "Rocky Mount",
+    "zip_code": "27804",
+    "country_code": "US",
+    "state_code": "NC",
+    "phone": "+12524436623",
+    "review_count": 8,
+    "snippets": []
+  }
+}

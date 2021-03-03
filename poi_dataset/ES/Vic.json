@@ -1,0 +1,101 @@
+{
+  "585382": {
+    "url": "https://www.yelp.com/biz/la-llavor-del-isis-barcelona?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FcOgj1Jx-K_r6yjJrO6ZYA/o.jpg",
+    "name": "La llavor del Isi's",
+    "alias": "la-llavor-del-isis-barcelona",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Catalan, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Av. de Francesc Ferrer i Guàrdia, 13",
+    "city_from_postal": "Vic",
+    "city": "Barcelona",
+    "zip_code": "08500",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34934264760",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "http://lallavordelisis.com/",
+        "snippet": "Restaurante Poble Espanyol. La Llavor del Isi’s es un restaurante, situado en la plaza Mayor del Poble Espanyol de Barcelona, donde miles de personas ya han degustado nuestros típicos menús españoles y una gran variedad de tapas acompañadas de las bebidas tradicionales de la península ibérica.",
+        "title": "Restaurante Poble Espanyol - La Llavor del Isi&#39;s - Menús ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g187497-d4149781-Reviews-La_llavor_d_Isis-Barcelona_Catalonia.html",
+        "snippet": "La llavor d&#39;Isis, Barcelona: See 104 unbiased reviews of La llavor d&#39;Isis, rated 3 of 5 on Tripadvisor and ranked #8,879 of 10,157 restaurants in Barcelona.",
+        "title": "La llavor d&#39;Isis, Barcelona - Les Corts - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g187497-d4149781-Reviews-La_llavor_d_Isis-Barcelona_Catalonia.html",
+        "snippet": "La llavor d&#39;Isis, Barcelona: Consulta 104 opiniones sobre La llavor d&#39;Isis con puntuación 3 de 5 y clasificado en Tripadvisor N.°8.840 de 10.117 restaurantes en Barcelona. ... Este sitio web utiliza cookies para mejorar tu experiencia, incrementar la seguridad del sitio y mostrarte anuncios personalizados.",
+        "title": "LA LLAVOR D&#39;ISIS, Barcelona - Les Corts - Menú, Precios y ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g187497-d4149781-Reviews-or10-La_llavor_d_Isis-Barcelona_Catalonia.html",
+        "snippet": "La llavor d&#39;Isis, Barcelona: See 104 unbiased reviews of La llavor d&#39;Isis, ... Since 1996 we visit La Llavor del Isis each year with a group of students ( 18 year) and we like the place. Nice environment ( lovely terrace) and service. Food in fine price-quality ratio.",
+        "title": "La llavor d&#39;Isis, Barcelona - Les Corts - Menu, Prices ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g187497-d4149781-i146529656-La_llavor_d_Isis-Barcelona_Catalonia.html",
+        "snippet": "La llavor d&#39;Isis, Barcelona Picture: View from restaurant - Check out Tripadvisor members&#39; 50,002 candid photos and videos of La llavor d&#39;Isis",
+        "title": "View from restaurant - Picture of La llavor d&#39;Isis, Barcelona",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g187497-d4149781-i146529743-La_llavor_d_Isis-Barcelona_Catalonia.html",
+        "snippet": "La llavor d&#39;Isis, Barcelona Picture: View from restaurant - Check out Tripadvisor members&#39; 51,913 candid photos and videos of La llavor d&#39;Isis. Barcelona. Barcelona Tourism Barcelona Hotels Barcelona Bed and Breakfast Barcelona Vacation Rentals Barcelona Vacation Packages Flights to Barcelona",
+        "title": "View from restaurant - Picture of La llavor d&#39;Isis ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/LocationPhotoDirectLink-g187497-d4149781-i135109029-La_llavor_d_Isis-Barcelona_Catalonia.html",
+        "snippet": "La llavor d&#39;Isis, Barcelona Picture: the terrace of La Llavor del Isis - Check out Tripadvisor members&#39; 51,726 candid photos and videos of La llavor d&#39;Isis. Barcelona. Barcelona Tourism Barcelona Hotels Barcelona Bed and Breakfast Barcelona Vacation Rentals Barcelona Vacation Packages",
+        "title": "the terrace of La Llavor del Isis - Picture of La llavor d ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/pages/La-Llavor-del-Isis/139026142834291",
+        "snippet": "La Llavor del Isi&#39;s, Barcelona, Spain. 3 likes · 79 were here. Seafood Restaurant",
+        "title": "La Llavor del Isi&#39;s - Barcelona, Spain - Seafood ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://lallavordelisis.com/en/",
+        "snippet": "La Llavor del Isi’s is a restaurant, located in the Plaza Mayor of Poble Espanyol in Barcelona, where thousands of people have already tasted our typical Spanish menus and a wide variety of tapas accompanied by traditional drinks from the Iberian peninsula.",
+        "title": "Restaurante Poble Espanyol - La Llavor del Isi&#39;s - Menús ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/la-llavor-del-isis-barcelona",
+        "snippet": "1 review of La llavor del Isi&#39;s &quot;The most awful restaurant I have been to in a long time. The &quot;gluten free&quot; potato omelet was served on bread, with a salad that was so old it was already dark green, moldy and decomposing. The waiter did not even…",
+        "title": "La llavor del Isi’s - Montjuïc - Barcelona, Spain",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "663071": {
+    "url": "https://www.yelp.com/biz/oikia-vic?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YVYPQWUEpGUa83uyO5aexg/o.jpg",
+    "name": "Oikia",
+    "alias": "oikia-vic",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Ethical Grocery, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Carrer de la Ramada, 14",
+    "city_from_postal": "Vic",
+    "city": "Vic",
+    "zip_code": "08500",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34608171928",
+    "review_count": 1,
+    "snippets": []
+  }
+}

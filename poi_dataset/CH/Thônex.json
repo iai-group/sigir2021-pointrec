@@ -1,0 +1,40 @@
+{
+  "76782": {
+    "url": "https://www.yelp.com/biz/restaurant-trois-communes-th%C3%B4nex-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tGFI7nx3762QITVdx77pMA/o.jpg",
+    "name": "Restaurant Trois Communes",
+    "alias": "restaurant-trois-communes-thônex-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "Route de Sous-Moulin 39",
+    "city_from_postal": "Thônex",
+    "city": "Thônex",
+    "zip_code": "1226",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41223495250",
+    "review_count": 1,
+    "snippets": []
+  },
+  "363422": {
+    "url": "https://www.yelp.com/biz/salsavirus-th%C3%B4nex?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5XbjUVJ1D2dVqRUcgAmIdw/o.jpg",
+    "name": "SalsaVirus",
+    "alias": "salsavirus-thônex",
+    "main_category": "Active Life",
+    "sub_categories": "Dance Schools, Dance Studios, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Route de Sous-Moulin 39",
+    "city_from_postal": "Thônex",
+    "city": "Thônex",
+    "zip_code": "1226",
+    "country_code": "CH",
+    "state_code": "GE",
+    "phone": "+41792392021",
+    "review_count": 1,
+    "snippets": []
+  }
+}

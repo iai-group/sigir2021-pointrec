@@ -1,0 +1,21 @@
+{
+  "31449": {
+    "url": "https://www.yelp.com/biz/yogastudio-aktiv-wellness-arisdorf?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1O3_jeowxMuRT8murgV8ig/o.jpg",
+    "name": "Yogastudio Aktiv-Wellness",
+    "alias": "yogastudio-aktiv-wellness-arisdorf",
+    "main_category": "Active Life",
+    "sub_categories": "Yoga, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Winkel 3",
+    "city_from_postal": "Arisdorf",
+    "city": "Arisdorf",
+    "zip_code": "4422",
+    "country_code": "CH",
+    "state_code": "BL",
+    "phone": "+41613132101",
+    "review_count": 2,
+    "snippets": []
+  }
+}

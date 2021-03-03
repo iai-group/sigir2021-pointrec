@@ -1,0 +1,40 @@
+{
+  "46380": {
+    "url": "https://www.yelp.com/biz/bogensport-waldenfels-hayrl?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aRAX4abV8B4DtpIZGMBcaw/o.jpg",
+    "name": "Bogensport Waldenfels",
+    "alias": "bogensport-waldenfels-hayrl",
+    "main_category": "Active Life",
+    "sub_categories": "Archery, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Hayrl 16",
+    "city_from_postal": "Reichenthal",
+    "city": "Hayrl",
+    "zip_code": "4193",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+436645208759",
+    "review_count": 1,
+    "snippets": []
+  },
+  "661557": {
+    "url": "https://www.yelp.com/biz/acanto-cocktailbar-freistadt?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Acanto Cocktailbar",
+    "alias": "acanto-cocktailbar-freistadt",
+    "main_category": "Nightlife",
+    "sub_categories": "Cocktail Bars, ",
+    "rating": 4.5,
+    "price": "€€",
+    "address": "Hauptplatz 13",
+    "city_from_postal": "Reichenthal",
+    "city": "Freistadt",
+    "zip_code": "4240",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "",
+    "review_count": 2,
+    "snippets": []
+  }
+}

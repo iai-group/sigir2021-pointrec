@@ -1,0 +1,21 @@
+{
+  "59230": {
+    "url": "https://www.yelp.com/biz/alte-fabrik-laakirchen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gdQc2KuTxPyGRZ8OMAPEhA/o.jpg",
+    "name": "Alte Fabrik",
+    "alias": "alte-fabrik-laakirchen",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Museums, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Museumsplatz 1",
+    "city_from_postal": "Laakirchen",
+    "city": "Laakirchen",
+    "zip_code": "4662",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4376133951",
+    "review_count": 2,
+    "snippets": []
+  }
+}

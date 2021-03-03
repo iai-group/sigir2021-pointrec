@@ -1,0 +1,21 @@
+{
+  "246972": {
+    "url": "https://www.yelp.com/biz/br%C3%BCgglifeld-suhr?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/X0R3r-jmHh8hgel2DXWRZA/o.jpg",
+    "name": "Brügglifeld",
+    "alias": "brügglifeld-suhr",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Stadiums & Arenas, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Brügglifeldweg 8",
+    "city_from_postal": "Suhr",
+    "city": "Suhr",
+    "zip_code": "5034",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41628321414",
+    "review_count": 1,
+    "snippets": []
+  }
+}

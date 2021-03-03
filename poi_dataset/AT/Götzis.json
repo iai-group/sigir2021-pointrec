@@ -1,0 +1,40 @@
+{
+  "254193": {
+    "url": "https://www.yelp.com/biz/stadion-m%C3%B6sle-g%C3%B6tzis?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-dGzOCCjwnEpxQQUdJpgYA/o.jpg",
+    "name": "Stadion Mösle",
+    "alias": "stadion-mösle-götzis",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Stadiums & Arenas, ",
+    "rating": 5.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Götzis",
+    "city": "Götzis",
+    "zip_code": "6840",
+    "country_code": "AT",
+    "state_code": "8",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "645295": {
+    "url": "https://www.yelp.com/biz/g%C3%B6tziserhaus-g%C3%B6tzis?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Götziserhaus",
+    "alias": "götziserhaus-götzis",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Social Clubs, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Meschach",
+    "city_from_postal": "Götzis",
+    "city": "Götzis",
+    "zip_code": "6840",
+    "country_code": "AT",
+    "state_code": "8",
+    "phone": "+43552362292",
+    "review_count": 1,
+    "snippets": []
+  }
+}

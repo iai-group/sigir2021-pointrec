@@ -1,0 +1,21 @@
+{
+  "358513": {
+    "url": "https://www.yelp.com/biz/marius-chambly?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jkMOb4wk8iEP7tzkA7tj_g/o.jpg",
+    "name": "Marius",
+    "alias": "marius-chambly",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Steakhouses, Dinner Theater, Pizza, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "1737 Avenue Bourgogne",
+    "city_from_postal": "Chambly",
+    "city": "Chambly",
+    "zip_code": "J3L 1Y8",
+    "country_code": "CA",
+    "state_code": "QC",
+    "phone": "+14506586092",
+    "review_count": 2,
+    "snippets": []
+  }
+}

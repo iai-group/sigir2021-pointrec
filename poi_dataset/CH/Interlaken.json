@@ -1,0 +1,40 @@
+{
+  "706113": {
+    "url": "https://www.yelp.com/biz/harder-kulm-unterseen?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/41pg-HUPxMgQyBEBIAVKug/o.jpg",
+    "name": "Harder Kulm",
+    "alias": "harder-kulm-unterseen",
+    "main_category": "Active Life",
+    "sub_categories": "Hiking, Mountain Biking, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "",
+    "city_from_postal": "Interlaken",
+    "city": "Unterseen",
+    "zip_code": "3800",
+    "country_code": "CH",
+    "state_code": "BE",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  },
+  "706115": {
+    "url": "https://www.yelp.com/biz/funrental-interlaken-matten-bei-interlaken?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jNwLmjCWqMCJzJ3MGws7dw/o.jpg",
+    "name": "Funrental Interlaken",
+    "alias": "funrental-interlaken-matten-bei-interlaken",
+    "main_category": "Active Life",
+    "sub_categories": "Bike Rentals, Mountain Biking, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Hauptstrasse 19",
+    "city_from_postal": "Interlaken",
+    "city": "Matten bei Interlaken",
+    "zip_code": "3800",
+    "country_code": "CH",
+    "state_code": "BE",
+    "phone": "+41338220175",
+    "review_count": 1,
+    "snippets": []
+  }
+}

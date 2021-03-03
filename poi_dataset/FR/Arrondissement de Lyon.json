@@ -1,0 +1,40 @@
+{
+  "28461": {
+    "url": "https://www.yelp.com/biz/la-perle-sushi-caluire-et-cuire-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tm4BjUKRX1V1KLhFW87C3Q/o.jpg",
+    "name": "La Perle - Sushi",
+    "alias": "la-perle-sushi-caluire-et-cuire-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Sushi Bars, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "41 rue Jean Moulin",
+    "city_from_postal": "Arrondissement de Lyon",
+    "city": "Caluire-et-Cuire",
+    "zip_code": "69300",
+    "country_code": "FR",
+    "state_code": "69",
+    "phone": "+33478729456",
+    "review_count": 11,
+    "snippets": []
+  },
+  "646211": {
+    "url": "https://www.yelp.com/biz/le-caf%C3%A9-prem1er-lyon?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mfJvEpVNfj2VU-XnMVZ_9g/o.jpg",
+    "name": "Le Café Prem1er",
+    "alias": "le-café-prem1er-lyon",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, Coffee & Tea, ",
+    "rating": 3.0,
+    "price": "€",
+    "address": "Gare de Lyon Hall 2",
+    "city_from_postal": "Arrondissement de Lyon",
+    "city": "Lyon",
+    "zip_code": "69009",
+    "country_code": "FR",
+    "state_code": "69",
+    "phone": "",
+    "review_count": 4,
+    "snippets": []
+  }
+}

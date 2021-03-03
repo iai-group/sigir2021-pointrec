@@ -1,0 +1,40 @@
+{
+  "452235": {
+    "url": "https://www.yelp.com/biz/skilift-glasau-manfred-taferner-kirchschlag-bei-linz?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MywpmmSvN4xm86VcP8bjog/o.jpg",
+    "name": "Skilift Glasau - Manfred Taferner",
+    "alias": "skilift-glasau-manfred-taferner-kirchschlag-bei-linz",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Ski Resorts, Skiing, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Davidschlag 18",
+    "city_from_postal": "Kirchschlag bei Linz",
+    "city": "Kirchschlag bei Linz",
+    "zip_code": "4202",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+43721520995",
+    "review_count": 1,
+    "snippets": []
+  },
+  "623092": {
+    "url": "https://www.yelp.com/biz/maurerwirt-kirchschlag-bei-linz?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MitdE0YQvWGO07BC9GMwvw/o.jpg",
+    "name": "Maurerwirt \"echt gmiatlich\"",
+    "alias": "maurerwirt-kirchschlag-bei-linz",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Austrian, Pubs, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Kirchschlag 46",
+    "city_from_postal": "Kirchschlag bei Linz",
+    "city": "Kirchschlag bei Linz",
+    "zip_code": "4202",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4372152663",
+    "review_count": 1,
+    "snippets": []
+  }
+}

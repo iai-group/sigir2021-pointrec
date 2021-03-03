@@ -1,0 +1,21 @@
+{
+  "560873": {
+    "url": "https://www.yelp.com/biz/restaurant-aan-de-zweth-schipluiden?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8MaXCmekShvuLHb2EcIZdQ/o.jpg",
+    "name": "Restaurant Aan de Zweth",
+    "alias": "restaurant-aan-de-zweth-schipluiden",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Rotterdamseweg 480",
+    "city_from_postal": "Midden-Delfland",
+    "city": "Schipluiden",
+    "zip_code": "2636 KB",
+    "country_code": "NL",
+    "state_code": "ZH",
+    "phone": "+31104704166",
+    "review_count": 1,
+    "snippets": []
+  }
+}

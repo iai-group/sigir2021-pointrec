@@ -1,0 +1,21 @@
+{
+  "251692": {
+    "url": "https://www.yelp.com/biz/fitnesscentrum-performance-wagenborgen?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Fitnesscentrum Performance",
+    "alias": "fitnesscentrum-performance-wagenborgen",
+    "main_category": "Active Life",
+    "sub_categories": "Gyms, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Fam Bronsweg 22",
+    "city_from_postal": "Delfzijl",
+    "city": "Wagenborgen",
+    "zip_code": "9945 PS",
+    "country_code": "NL",
+    "state_code": "GR",
+    "phone": "+31596542831",
+    "review_count": 1,
+    "snippets": []
+  }
+}

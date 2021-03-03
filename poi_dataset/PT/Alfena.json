@@ -1,0 +1,21 @@
+{
+  "565605": {
+    "url": "https://www.yelp.com/biz/grill-alfena-alfena?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DdZaI-r63xZ9nVwfEFcPxA/o.jpg",
+    "name": "Grill Alfena",
+    "alias": "grill-alfena-alfena",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Steakhouses, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "R. Dom Afonso Henriques, 365",
+    "city_from_postal": "Alfena",
+    "city": "Alfena",
+    "zip_code": "4445-085",
+    "country_code": "PT",
+    "state_code": "13",
+    "phone": "+351229673008",
+    "review_count": 1,
+    "snippets": []
+  }
+}

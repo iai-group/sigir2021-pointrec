@@ -1,0 +1,21 @@
+{
+  "470862": {
+    "url": "https://www.yelp.com/biz/schloss-wildegg-wildegg?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hshscyt8BqJGTffiwN9zhQ/o.jpg",
+    "name": "Schloss Wildegg",
+    "alias": "schloss-wildegg-wildegg",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Castles, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Effingerweg 5",
+    "city_from_postal": "Möriken-Wildegg",
+    "city": "Wildegg",
+    "zip_code": "5103",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41628871200",
+    "review_count": 1,
+    "snippets": []
+  }
+}

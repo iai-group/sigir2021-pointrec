@@ -1,0 +1,40 @@
+{
+  "355578": {
+    "url": "https://www.yelp.com/biz/manduu-santa-monica-on-main-santa-monica-3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Manduu Santa Monica on Main",
+    "alias": "manduu-santa-monica-on-main-santa-monica-3",
+    "main_category": "Active Life",
+    "sub_categories": "Gyms, Trainers, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "2721 Main St ,",
+    "city_from_postal": "Miami-Dade",
+    "city": "Santa Monica",
+    "zip_code": "33131",
+    "country_code": "US",
+    "state_code": "CA",
+    "phone": "+18444626388",
+    "review_count": 1,
+    "snippets": []
+  },
+  "365515": {
+    "url": "https://www.yelp.com/biz/michael-duralde-fitness-brea-3?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AtRm4GQ1wM_KMPceb6eDUQ/o.jpg",
+    "name": "Michael Duralde Fitness",
+    "alias": "michael-duralde-fitness-brea-3",
+    "main_category": "Active Life",
+    "sub_categories": "Trainers, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "",
+    "city_from_postal": "Miami-Dade",
+    "city": "Brea",
+    "zip_code": "33109",
+    "country_code": "US",
+    "state_code": "CA",
+    "phone": "+17146867116",
+    "review_count": 1,
+    "snippets": []
+  }
+}

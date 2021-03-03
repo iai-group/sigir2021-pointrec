@@ -1,0 +1,21 @@
+{
+  "408794": {
+    "url": "https://www.yelp.com/biz/restaurant-sternen-gmbh-b%C3%B6zberg-oberb%C3%B6zberg?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/86ph-9TWPgrF2PPRgVhuKg/o.jpg",
+    "name": "Restaurant Sternen Gmbh Bözberg",
+    "alias": "restaurant-sternen-gmbh-bözberg-oberbözberg",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Oberdorf 59",
+    "city_from_postal": "Bözberg",
+    "city": "Oberbözberg",
+    "zip_code": "5225",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41564412424",
+    "review_count": 2,
+    "snippets": []
+  }
+}

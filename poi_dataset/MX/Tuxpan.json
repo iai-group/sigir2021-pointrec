@@ -1,0 +1,21 @@
+{
+  "264515": {
+    "url": "https://www.yelp.com/biz/do%C3%B1a-tere-nayarit?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gREcMAGIeg3CoyfhI644yA/o.jpg",
+    "name": "Doña Tere",
+    "alias": "doña-tere-nayarit",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Mexican, ",
+    "rating": 4.0,
+    "price": "$",
+    "address": "Calle 5 De Mayo 14",
+    "city_from_postal": "Tuxpan",
+    "city": "Nayarit",
+    "zip_code": "63205",
+    "country_code": "MX",
+    "state_code": "NAY",
+    "phone": "+523222970732",
+    "review_count": 22,
+    "snippets": []
+  }
+}

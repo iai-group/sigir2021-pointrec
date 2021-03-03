@@ -1,0 +1,21 @@
+{
+  "338677": {
+    "url": "https://www.yelp.com/biz/restaurante-manuel-redondo-vila-nova-de-gaia-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurante Manuel Redondo",
+    "alias": "restaurante-manuel-redondo-vila-nova-de-gaia-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Portuguese, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Rua Central, 4935",
+    "city_from_postal": "Lever",
+    "city": "Vila Nova de Gaia",
+    "zip_code": "4415-638",
+    "country_code": "PT",
+    "state_code": "13",
+    "phone": "+351227650181",
+    "review_count": 1,
+    "snippets": []
+  }
+}

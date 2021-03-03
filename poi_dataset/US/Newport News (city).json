@@ -1,0 +1,21 @@
+{
+  "78561": {
+    "url": "https://www.yelp.com/biz/fits-like-a-glove-newport-news?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/T3DupM1cO57XiTBlPEsUkQ/o.jpg",
+    "name": "Fits Like A Glove",
+    "alias": "fits-like-a-glove-newport-news",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Barbeque, Comfort Food, Soul Food, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "229 Lochaven Dr",
+    "city_from_postal": "Newport News (city)",
+    "city": "Newport News",
+    "zip_code": "23602",
+    "country_code": "US",
+    "state_code": "VA",
+    "phone": "+17575289970",
+    "review_count": 4,
+    "snippets": []
+  }
+}

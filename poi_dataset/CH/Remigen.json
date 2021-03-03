@@ -1,0 +1,21 @@
+{
+  "306316": {
+    "url": "https://www.yelp.com/biz/restaurant-b%C3%A4ren-remigen?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oxKX1JWEXrNpJf_39ckhxg/o.jpg",
+    "name": "Restaurant Bären",
+    "alias": "restaurant-bären-remigen",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 4.0,
+    "price": "$$",
+    "address": "Gansingerstrasse 115",
+    "city_from_postal": "Remigen",
+    "city": "Remigen",
+    "zip_code": "5236",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41562841214",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "121424": {
+    "url": "https://www.yelp.com/biz/der-burgerladen-schwoich?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/moRe0bxTF-LX2vII8TIj4g/o.jpg",
+    "name": "Der Burgerladen",
+    "alias": "der-burgerladen-schwoich",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Am Bach 145",
+    "city_from_postal": "Schwoich",
+    "city": "Schwoich",
+    "zip_code": "6334",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+436605520750",
+    "review_count": 1,
+    "snippets": []
+  },
+  "489215": {
+    "url": "https://www.yelp.com/biz/st%C3%B6fflbr%C3%A4u-schwoich?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sokiF2DIjOIGlFfKsT-S9Q/o.jpg",
+    "name": "Stöfflbräu",
+    "alias": "stöfflbräu-schwoich",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Austrian, Bavarian, German, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "Sonnendorf 27",
+    "city_from_postal": "Schwoich",
+    "city": "Schwoich",
+    "zip_code": "6334",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+43537258207",
+    "review_count": 2,
+    "snippets": []
+  }
+}

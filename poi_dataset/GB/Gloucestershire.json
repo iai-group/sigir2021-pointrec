@@ -1,0 +1,21 @@
+{
+  "191205": {
+    "url": "https://www.yelp.com/biz/vernes-cheltenham?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/U1Jji2Ds9wUxlJem_uYb9A/o.jpg",
+    "name": "Vernes",
+    "alias": "vernes-cheltenham",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "British, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Riverside",
+    "city_from_postal": "Gloucestershire",
+    "city": "Cheltenham",
+    "zip_code": "GL54 2DP",
+    "country_code": "GB",
+    "state_code": "GLS",
+    "phone": "+441451822005",
+    "review_count": 1,
+    "snippets": []
+  }
+}

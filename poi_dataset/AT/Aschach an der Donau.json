@@ -1,0 +1,40 @@
+{
+  "94169": {
+    "url": "https://www.yelp.com/biz/presshaus-aschach-aschach-an-der-donau?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Gi5fvfHLYrp0h6S0UIiVzA/o.jpg",
+    "name": "Presshaus Aschach",
+    "alias": "presshaus-aschach-aschach-an-der-donau",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Cultural Center, Music Venues, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Kirchenplatz 2",
+    "city_from_postal": "Aschach an der Donau",
+    "city": "Aschach an der Donau",
+    "zip_code": "4082",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+436769533778",
+    "review_count": 1,
+    "snippets": []
+  },
+  "702839": {
+    "url": "https://www.yelp.com/biz/schopper-und-fischerei-museum-aschach-an-der-donau?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "schopper - und Fischerei- Museum",
+    "alias": "schopper-und-fischerei-museum-aschach-an-der-donau",
+    "main_category": "Local Services",
+    "sub_categories": "IT Services & Computer Repair, Internet Service Providers, Arts & Entertainment, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Schopperplatz 2",
+    "city_from_postal": "Aschach an der Donau",
+    "city": "Aschach an der Donau",
+    "zip_code": "4082",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+436644797704",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "182058": {
+    "url": "https://www.yelp.com/biz/impuls-fitnesscenter-m%C3%A4genwil?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Impuls Fitnesscenter",
+    "alias": "impuls-fitnesscenter-mägenwil",
+    "main_category": "Health & Medical",
+    "sub_categories": "Doctors, Gyms, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Hintermättlistrasse 3",
+    "city_from_postal": "Mägenwil",
+    "city": "Mägenwil",
+    "zip_code": "5506",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41628960350",
+    "review_count": 1,
+    "snippets": []
+  },
+  "331881": {
+    "url": "https://www.yelp.com/biz/saga-khan-m%C3%A4genwil?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7K5kjiakTuKvHOZPGt8u3Q/o.jpg",
+    "name": "Saga Khan",
+    "alias": "saga-khan-mägenwil",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Mongolian, ",
+    "rating": 5.0,
+    "price": "$$$$",
+    "address": "Hauptstrasse 38",
+    "city_from_postal": "Mägenwil",
+    "city": "Mägenwil",
+    "zip_code": "5506",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41628962220",
+    "review_count": 4,
+    "snippets": []
+  }
+}

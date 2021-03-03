@@ -1,0 +1,21 @@
+{
+  "161670": {
+    "url": "https://www.yelp.com/biz/castell-miquel-alaro?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Castell Miquel",
+    "alias": "castell-miquel-alaro",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Beer, Wine & Spirits, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Calle 3 0",
+    "city_from_postal": "Alaró",
+    "city": "Alaro",
+    "zip_code": "07340",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34971510648",
+    "review_count": 1,
+    "snippets": []
+  }
+}

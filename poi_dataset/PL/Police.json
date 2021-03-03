@@ -1,0 +1,21 @@
+{
+  "500108": {
+    "url": "https://www.yelp.com/biz/arkadiusz-ziarkiewicz-fun-trzebie%C5%BC?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Arkadiusz Ziarkiewicz Fun",
+    "alias": "arkadiusz-ziarkiewicz-fun-trzebież",
+    "main_category": "Active Life",
+    "sub_categories": "Recreation Centers, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Leśna",
+    "city_from_postal": "Police",
+    "city": "Trzebież",
+    "zip_code": "72-020",
+    "country_code": "PL",
+    "state_code": "ZP",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

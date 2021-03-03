@@ -1,0 +1,40 @@
+{
+  "385413": {
+    "url": "https://www.yelp.com/biz/pizza-hut-cedar-rapids-12?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/x9ExDOSHA5y1wy8Df5p0GQ/o.jpg",
+    "name": "Pizza Hut",
+    "alias": "pizza-hut-cedar-rapids-12",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, Chicken Wings, ",
+    "rating": 3.5,
+    "price": "$",
+    "address": "5462 Blairs Forest Way",
+    "city_from_postal": "Linn",
+    "city": "Cedar Rapids",
+    "zip_code": "52402",
+    "country_code": "US",
+    "state_code": "IA",
+    "phone": "+13193784444",
+    "review_count": 3,
+    "snippets": []
+  },
+  "423046": {
+    "url": "https://www.yelp.com/biz/schwarz-pork-and-poultry-centerville?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6T96IpSsRsCkLjMibi5bOQ/o.jpg",
+    "name": "Schwarz Pork and Poultry",
+    "alias": "schwarz-pork-and-poultry-centerville",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Ranches, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "13945 Faucett Rd",
+    "city_from_postal": "Linn",
+    "city": "Centerville",
+    "zip_code": "66014",
+    "country_code": "US",
+    "state_code": "KS",
+    "phone": "+19138982326",
+    "review_count": 1,
+    "snippets": []
+  }
+}

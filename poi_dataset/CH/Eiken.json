@@ -1,0 +1,21 @@
+{
+  "157528": {
+    "url": "https://www.yelp.com/biz/gasthaus-r%C3%B6ssli-eiken?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Gasthaus Rössli",
+    "alias": "gasthaus-rössli-eiken",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Restaurants, Hotels, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Hauptstrasse 65",
+    "city_from_postal": "Eiken",
+    "city": "Eiken",
+    "zip_code": "5074",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41628711421",
+    "review_count": 1,
+    "snippets": []
+  }
+}

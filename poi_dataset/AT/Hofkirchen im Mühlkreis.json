@@ -1,0 +1,40 @@
+{
+  "84787": {
+    "url": "https://www.yelp.com/biz/zoo-club-hofkirchen-im-m%C3%BChlkreis?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Zoo Club",
+    "alias": "zoo-club-hofkirchen-im-mühlkreis",
+    "main_category": "Nightlife",
+    "sub_categories": "Dance Clubs, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Grand'route 666",
+    "city_from_postal": "Hofkirchen im Mühlkreis",
+    "city": "Hofkirchen Im Mühlkreis",
+    "zip_code": "4142",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+433269548578",
+    "review_count": 1,
+    "snippets": []
+  },
+  "241528": {
+    "url": "https://www.yelp.com/biz/radler-treff-hofkirchen-im-m%C3%BChlkreis?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Radler-Treff",
+    "alias": "radler-treff-hofkirchen-im-mühlkreis",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Austrian, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Niederranna 59",
+    "city_from_postal": "Waldkirchen am Wesen",
+    "city": "Hofkirchen im Mühlkreis",
+    "zip_code": "4085",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4372856262",
+    "review_count": 1,
+    "snippets": []
+  }
+}

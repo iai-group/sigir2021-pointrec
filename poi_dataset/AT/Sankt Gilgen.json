@@ -1,0 +1,40 @@
+{
+  "474015": {
+    "url": "https://www.yelp.com/biz/kulturgut-h%C3%B6ribach-mondsee?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QOmAvpnijUZZe5ZfHxzYBQ/o.jpg",
+    "name": "Kulturgut Höribach",
+    "alias": "kulturgut-höribach-mondsee",
+    "main_category": "Public Services & Government",
+    "sub_categories": "Landmarks & Historical Buildings, Social Clubs, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Höribachhof 1",
+    "city_from_postal": "Sankt Gilgen",
+    "city": "Mondsee",
+    "zip_code": "5310",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+43623227585",
+    "review_count": 1,
+    "snippets": []
+  },
+  "526724": {
+    "url": "https://www.yelp.com/biz/advent-in-mondsee-mondsee-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7V4v22pBgLICfgXziCyZBw/o.jpg",
+    "name": "Advent in Mondsee",
+    "alias": "advent-in-mondsee-mondsee-2",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Christmas Markets, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Kirchenplatz",
+    "city_from_postal": "Sankt Gilgen",
+    "city": "Mondsee",
+    "zip_code": "5310",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4362322270",
+    "review_count": 2,
+    "snippets": []
+  }
+}

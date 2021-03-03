@@ -1,0 +1,21 @@
+{
+  "328014": {
+    "url": "https://www.yelp.com/biz/spunkies-soul-food-edmond-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fMLiGejx8WO6ipMENugxug/o.jpg",
+    "name": "Spunkies Soul Food",
+    "alias": "spunkies-soul-food-edmond-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food Trucks, Soul Food, Southern, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "1101 W Memorial",
+    "city_from_postal": "Oklahoma",
+    "city": "Edmond",
+    "zip_code": "73012",
+    "country_code": "US",
+    "state_code": "OK",
+    "phone": "+14052293196",
+    "review_count": 14,
+    "snippets": []
+  }
+}

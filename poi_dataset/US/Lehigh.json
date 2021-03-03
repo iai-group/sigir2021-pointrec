@@ -1,0 +1,40 @@
+{
+  "185215": {
+    "url": "https://www.yelp.com/biz/tr%C3%A8-locally-sourced-allentown?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eiXkXyLmhUutBVSKNMN_NA/o.jpg",
+    "name": "Trè Locally Sourced",
+    "alias": "trè-locally-sourced-allentown",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food Trucks, Caterers, ",
+    "rating": 4.0,
+    "price": null,
+    "address": null,
+    "city_from_postal": "Lehigh",
+    "city": "Allentown",
+    "zip_code": "18104",
+    "country_code": "US",
+    "state_code": "PA",
+    "phone": "+14848910873",
+    "review_count": 5,
+    "snippets": []
+  },
+  "633632": {
+    "url": "https://www.yelp.com/biz/frozen-island-coopersburg-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HmjpxrRYfA-CtG2By4wDWg/o.jpg",
+    "name": "Frozen Island",
+    "alias": "frozen-island-coopersburg-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Shaved Ice, Food Trucks, Ice Cream & Frozen Yogurt, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "",
+    "city_from_postal": "Lehigh",
+    "city": "Coopersburg",
+    "zip_code": "18036",
+    "country_code": "US",
+    "state_code": "PA",
+    "phone": "+13023538868",
+    "review_count": 5,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "383311": {
+    "url": "https://www.yelp.com/biz/gasthaus-hohlagarten-obernberg-am-inn?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/07rWhmIQW1K0GPryomDu5A/o.jpg",
+    "name": "Gasthaus Hohlagarten",
+    "alias": "gasthaus-hohlagarten-obernberg-am-inn",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Gastropubs, Beer Garden, ",
+    "rating": 2.0,
+    "price": null,
+    "address": "",
+    "city_from_postal": "Mörschwang",
+    "city": "Obernberg am Inn",
+    "zip_code": "4982",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+436643128284",
+    "review_count": 1,
+    "snippets": []
+  },
+  "507279": {
+    "url": "https://www.yelp.com/biz/hofwirt-obernberg-am-inn?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qWmMgzkxAfN9JUXOo_zBEg/o.jpg",
+    "name": "Hofwirt",
+    "alias": "hofwirt-obernberg-am-inn",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Austrian, ",
+    "rating": 2.5,
+    "price": "€€",
+    "address": "Marktplatz 13",
+    "city_from_postal": "Mörschwang",
+    "city": "Obernberg am Inn",
+    "zip_code": "4982",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+4377582294",
+    "review_count": 3,
+    "snippets": []
+  }
+}

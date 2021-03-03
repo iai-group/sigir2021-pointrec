@@ -1,0 +1,21 @@
+{
+  "343046": {
+    "url": "https://www.yelp.com/biz/storm-cinemas-belfast-down?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Storm Cinemas - Belfast",
+    "alias": "storm-cinemas-belfast-down",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Arts & Entertainment, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Odyssey Arena",
+    "city_from_postal": "County Down",
+    "city": "Down",
+    "zip_code": "BT33 0",
+    "country_code": "GB",
+    "state_code": "DOW",
+    "phone": "",
+    "review_count": 4,
+    "snippets": []
+  }
+}

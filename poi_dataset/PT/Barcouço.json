@@ -1,0 +1,21 @@
+{
+  "463706": {
+    "url": "https://www.yelp.com/biz/churrasqueira-brasa-viva-mealhada?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iyJoXFy6wz1simxnJefKIw/o.jpg",
+    "name": "Churrasqueira Brasa VIva",
+    "alias": "churrasqueira-brasa-viva-mealhada",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Steakhouses, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "EN, 1 Santa Luzia",
+    "city_from_postal": "Barcouço",
+    "city": "Mealhada",
+    "zip_code": "3050-106",
+    "country_code": "PT",
+    "state_code": "01",
+    "phone": "+351966269083",
+    "review_count": 1,
+    "snippets": []
+  }
+}

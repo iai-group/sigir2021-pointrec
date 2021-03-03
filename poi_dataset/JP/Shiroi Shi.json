@@ -1,0 +1,21 @@
+{
+  "319408": {
+    "url": "https://www.yelp.com/biz/club-33-%E6%B5%A6%E5%AE%89%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IVKvSfjrey_f6u2uwnniZA/o.jpg",
+    "name": "クラブ33",
+    "alias": "club-33-浦安市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "French, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "舞浜1-1",
+    "city_from_postal": "Shiroi Shi",
+    "city": "Urayasu",
+    "zip_code": "270-1400",
+    "country_code": "JP",
+    "state_code": "12",
+    "phone": "",
+    "review_count": 2,
+    "snippets": []
+  }
+}

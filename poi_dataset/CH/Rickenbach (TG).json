@@ -1,0 +1,21 @@
+{
+  "407125": {
+    "url": "https://www.yelp.com/biz/pearl-bar-rickenbach-b-wil?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/z-OXkekQLivQ_kXJkPdLVQ/o.jpg",
+    "name": "Pearl Bar",
+    "alias": "pearl-bar-rickenbach-b-wil",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, ",
+    "rating": 4.0,
+    "price": "$$$",
+    "address": "Toggenburgerstrasse 32",
+    "city_from_postal": "Rickenbach (TG)",
+    "city": "Rickenbach B. Wil",
+    "zip_code": "9532",
+    "country_code": "CH",
+    "state_code": "TG",
+    "phone": "+41719201515",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "1698": {
+    "url": "https://www.yelp.com/biz/tgi-fridays-gardermoen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ngL8RJr5P9KGDsjBqnCgUA/o.jpg",
+    "name": "TGI Friday's",
+    "alias": "tgi-fridays-gardermoen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "American (New), ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Edvard Munchs veg",
+    "city_from_postal": "Ullensaker",
+    "city": "Gardermoen",
+    "zip_code": "2061",
+    "country_code": "NO",
+    "state_code": "02",
+    "phone": "",
+    "review_count": 4,
+    "snippets": []
+  },
+  "31311": {
+    "url": "https://www.yelp.com/biz/forsvarets-flysamling-gardermoen-norwegian-airforce-museum-oslo?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jPphiiT0Xtsi-H6imbBZ7w/o.jpg",
+    "name": "Forsvarets flysamling Gardermoen - Norwegian  Airforce Museum",
+    "alias": "forsvarets-flysamling-gardermoen-norwegian-airforce-museum-oslo",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Arts & Entertainment, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Museumsvegen 180",
+    "city_from_postal": "Ullensaker",
+    "city": "Oslo",
+    "zip_code": "2060",
+    "country_code": "NO",
+    "state_code": "03",
+    "phone": "",
+    "review_count": 1,
+    "snippets": [
+      {
+        "url": "https://www.flysam.no/",
+        "snippet": "Forsvarets Flysamling Gardermoen er Forsvarets Museer sitt magasin for fly som ikke får plass i hovedutstillingen i Bodø. Samlingen består av nær 40 fly og gir et enestående innblikk i norsk militær flyging i krig og fred.",
+        "title": "Forsvarets Flysamling Gardermoen",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.flysam.no/utstillingen/flyene/",
+        "snippet": "Flysamlingen består av nær 40 flymaskiner fra alle epoker i luftforsvarets historie, fra pionertiden 1912-1920 og til nyere tid.",
+        "title": "Flyene - Flysamlingen Forsvarets museer",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Norwegian_Armed_Forces_Aircraft_Collection",
+        "snippet": "Norwegian Armed Forces Aircraft Collection (Forsvarets flysamling Gardermoen) is a military aviation museum located at Gardermoen, north of Oslo, Norway.The founding of the Norwegian Aviation Historical Society in 1967, gave the first boost to the idea of preserving aircraft in Norway.",
+        "title": "Norwegian Armed Forces Aircraft Collection - Wikipedia",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://forsvaretsmuseer.no/Luftforsvarsmuseet",
+        "snippet": "Luftforsvarsmuseet og Forsvarets Museer er av og til i media. Denne gangen er det Avisa Nordland som har laget en reportasje om shelterproblematikken.",
+        "title": "Luftforsvarsmuseet / Forsvarets museer - Website Interface",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Attraction_Review-g226935-d3671777-Reviews-Forsvarets_Flysamling-Gardermoen_Ullensaker_Municipality_Akershus_Eastern_Norway.html",
+        "snippet": "Things to Do in Gardermoen ; Forsvarets Flysamling; Search. Forsvarets Flysamling. 17 Reviews ... Museumsvegen 35 next to Oslo Airport Gardermoen, Gardermoen 2060 Norway. Website +47 63 92 86 60. Email. Best nearby. ... This museum is the Norwegian military plane collection and has some good planes and all so mock up of F35.",
+        "title": "Forsvarets Flysamling, Gardermoen - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://www.aviationmuseum.eu/Blogvorm/forsvarets-fflysamling-gardermoen/",
+        "snippet": "Forsvarets Fflysamling Gardermoen, Norway Aircraft: Kjeller PK X-1, Farman F.46, Heinkel He 111, ... Home Forsvarets Flysamling Gardermoen ... Forsvarets Flysamling Gardermoen – Norwegian Armed Forces Aircraft Collection. Museumsvegen 35. NO-2060 Gardermoen. Norway . www.flysam.no. flysam@flysam.no +47 63 92 86 60.",
+        "title": "Forsvarets Fflysamling Gardermoen, Norway - aviationmuseum.eu",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/FlysamlingenVenneforening",
+        "snippet": "Flysamlingen Gardermoen, Venneforening, Gardermoen, Akershus, Norway. 2.5K likes. Venneforeningens støtte og innsats er nødvendig for den løpende driften av Forsvarets flysamling Gardermoen.",
+        "title": "Flysamlingen Gardermoen, Venneforening - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "http://aviationmuseum.eu/World/Europe/Norway/Gardermoen/Forsvarets_Flysamling.htm",
+        "snippet": "Forsvarets flysamling Gardermoen. Norwegian Armed Forces Aircraft Collection. Updated version. Museumsvegen 35, ... Alternatively from Oslo Airport Gardermoen: Shuttle bus S33. Douglas C-47A Dakota 42-93797/BW-L. Aircraft collection. ... if you have information or photos of any museum, ...",
+        "title": "Forsvarets Flysamling - Oslo Lufthavn - Gardermoen - Norway",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com.au/Attraction_Review-g226935-d3671777-Reviews-Forsvarets_Flysamling-Gardermoen_Ullensaker_Municipality_Akershus_Eastern_Norway.html",
+        "snippet": "Forsvarets Flysamling, Gardermoen: See 17 reviews, articles, ... Museumsvegen 35 next to Oslo Airport Gardermoen, Gardermoen 2060 Norway. Website +47 63 92 86 60. Email. Best nearby. ... This museum is the Norwegian military plane collection and has some good planes and all so mock up of F35.",
+        "title": "Forsvarets Flysamling, Gardermoen - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.visitnorway.no/listings/forsvarets-flysamling-gardermoen/26455/",
+        "snippet": "Forsvarets flysamling - museum for gamle fly på Gardermoen. Velkommen til Forsvarets flysamling Gardermoen - vi holder stengt fra 5/12 2019- 1/2 2020. Gå ikke glipp av denne unike samlingen på nær 40 fly - helt fra Norges aller første spinkle flymaskin «Start» årgang 1912 til jetjagere som fløy med mer enn to ganger lydens hastighet.",
+        "title": "Forsvarets flysamling Gardermoen - visitnorway.no",
+        "family_friendly": 1
+      }
+    ]
+  },
+  "233531": {
+    "url": "https://www.yelp.com/biz/egon-ullensaker?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XHd9-z2LBE2udmnEb96-GA/o.jpg",
+    "name": "Egon",
+    "alias": "egon-ullensaker",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "American (New), ",
+    "rating": 2.0,
+    "price": "$$",
+    "address": "Furusethgata 5",
+    "city_from_postal": "Ullensaker",
+    "city": "Ullensaker",
+    "zip_code": "2050",
+    "country_code": "NO",
+    "state_code": "02",
+    "phone": "+4763982728",
+    "review_count": 2,
+    "snippets": []
+  },
+  "590317": {
+    "url": "https://www.yelp.com/biz/fiskeriet-gardermoen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NEgpgEwlH6W47wTM7ru5Ig/o.jpg",
+    "name": "Fiskeriet",
+    "alias": "fiskeriet-gardermoen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fish & Chips, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Gate E3",
+    "city_from_postal": "Ullensaker",
+    "city": "Gardermoen",
+    "zip_code": "2061",
+    "country_code": "NO",
+    "state_code": "02",
+    "phone": "+4793041435",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "25967": {
+    "url": "https://www.yelp.com/biz/badi-bistro-pfungen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Badi Bistro",
+    "alias": "badi-bistro-pfungen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Schnitzel, Swiss Food, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Reckholdernstrasse",
+    "city_from_postal": "Pfungen",
+    "city": "Pfungen",
+    "zip_code": "8422",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41523151758",
+    "review_count": 1,
+    "snippets": []
+  },
+  "410072": {
+    "url": "https://www.yelp.com/biz/chickeria-pfungen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wyto5nXyvUDs0bQ67xhX_w/o.jpg",
+    "name": "Chickeria",
+    "alias": "chickeria-pfungen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fast Food, Chicken Shop, Swiss Food, ",
+    "rating": 2.5,
+    "price": "$",
+    "address": "Weiacherstrasse 1",
+    "city_from_postal": "Pfungen",
+    "city": "Pfungen",
+    "zip_code": "8422",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41523034360",
+    "review_count": 4,
+    "snippets": []
+  }
+}

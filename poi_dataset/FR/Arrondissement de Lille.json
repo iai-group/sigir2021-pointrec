@@ -1,0 +1,21 @@
+{
+  "435225": {
+    "url": "https://www.yelp.com/biz/station-oxyg%C3%A8ne-lille-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tb9XvQN2CZUiluSnja-7BQ/o.jpg",
+    "name": "Station Oxygène",
+    "alias": "station-oxygène-lille-2",
+    "main_category": "Active Life",
+    "sub_categories": "Bike Rentals, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Champs de Mars",
+    "city_from_postal": "Arrondissement de Lille",
+    "city": "Lille",
+    "zip_code": "59000",
+    "country_code": "FR",
+    "state_code": "75",
+    "phone": "+33320404040",
+    "review_count": 1,
+    "snippets": []
+  }
+}

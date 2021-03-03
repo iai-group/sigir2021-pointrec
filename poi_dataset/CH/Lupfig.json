@@ -1,0 +1,21 @@
+{
+  "661069": {
+    "url": "https://www.yelp.com/biz/burger-king-lupfig-5?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/e-nWqLeypj6T2NOEeco3zQ/o.jpg",
+    "name": "Burger King",
+    "alias": "burger-king-lupfig-5",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fast Food, Burgers, ",
+    "rating": 3.0,
+    "price": "$$",
+    "address": "Hauserstrasse 2",
+    "city_from_postal": "Lupfig",
+    "city": "Lupfig",
+    "zip_code": "5242",
+    "country_code": "CH",
+    "state_code": "AG",
+    "phone": "+41564500404",
+    "review_count": 5,
+    "snippets": []
+  }
+}

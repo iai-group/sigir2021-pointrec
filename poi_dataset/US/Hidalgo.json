@@ -1,0 +1,21 @@
+{
+  "462646": {
+    "url": "https://www.yelp.com/biz/pizza-hut-alamo-7?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/avyPGOnUy9b0My2RiytxQA/o.jpg",
+    "name": "Pizza Hut",
+    "alias": "pizza-hut-alamo-7",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, Chicken Wings, ",
+    "rating": 2.5,
+    "price": "$",
+    "address": "522 N Alamo Rd",
+    "city_from_postal": "Hidalgo",
+    "city": "Alamo",
+    "zip_code": "78516",
+    "country_code": "US",
+    "state_code": "TX",
+    "phone": "+19567831515",
+    "review_count": 11,
+    "snippets": []
+  }
+}

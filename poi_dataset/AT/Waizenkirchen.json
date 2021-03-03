@@ -1,0 +1,21 @@
+{
+  "593769": {
+    "url": "https://www.yelp.com/biz/fly-2-0-prambachkirchen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "FLY 2.0",
+    "alias": "fly-2-0-prambachkirchen",
+    "main_category": "Nightlife",
+    "sub_categories": "Dance Clubs, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Hauptstr. 27",
+    "city_from_postal": "Waizenkirchen",
+    "city": "Prambachkirchen",
+    "zip_code": "4731",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

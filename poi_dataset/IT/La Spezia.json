@@ -1,0 +1,21 @@
+{
+  "698213": {
+    "url": "https://www.yelp.com/biz/i-siciliani-la-spezia?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mUILxXLhz1RHwK7LO7FhfA/o.jpg",
+    "name": "I Siciliani",
+    "alias": "i-siciliani-la-spezia",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Desserts, Ice Cream & Frozen Yogurt, Cafes, ",
+    "rating": 2.5,
+    "price": null,
+    "address": "Via XX Settembre 45",
+    "city_from_postal": "La Spezia",
+    "city": "La Spezia",
+    "zip_code": "19121",
+    "country_code": "IT",
+    "state_code": "SP",
+    "phone": "+390687696645",
+    "review_count": 2,
+    "snippets": []
+  }
+}

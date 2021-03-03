@@ -1,0 +1,21 @@
+{
+  "14597": {
+    "url": "https://www.yelp.com/biz/alte-brennerei-nuglar?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Alte Brennerei",
+    "alias": "alte-brennerei-nuglar",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Brewpubs, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Bifangstrasse 1",
+    "city_from_postal": "Nuglar-St. Pantaleon",
+    "city": "Nuglar",
+    "zip_code": "4412",
+    "country_code": "CH",
+    "state_code": "SO",
+    "phone": "+41619130270",
+    "review_count": 1,
+    "snippets": []
+  }
+}

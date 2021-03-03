@@ -1,0 +1,82 @@
+{
+  "5673": {
+    "url": "https://www.yelp.com/biz/collins-family-orchards-seattle-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PTJ7-8weeyeKVQbq2cVhvQ/o.jpg",
+    "name": "Collins Family Orchards",
+    "alias": "collins-family-orchards-seattle-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Farmers Market, CSA, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "931 Parish Rd",
+    "city_from_postal": "Yakima",
+    "city": "Seattle",
+    "zip_code": "98942",
+    "country_code": "US",
+    "state_code": "WA",
+    "phone": "+12064021300",
+    "review_count": 3,
+    "snippets": [
+      {
+        "url": "https://www.collinsfamilyorchards.com/csa/",
+        "snippet": "Seasonal organic local fruit delivery in Seattle",
+        "title": "Collins Family Orchards",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.collinsfamilyorchards.com/csa-delivery-zones",
+        "snippet": "Collins Family Orchards Wholesale CSA Farmers Markets Contact Us What&#39;s In Season? CSA Member Login Wholesale CSA Farmers Markets ... Bellevue, Mercer Island, Kirkland, Shoreline, Kenmore, Redmond, Lake Forest Park, Edmonds, North Seattle, Ravenna, U-District, View Ridge, Wedgewood, Maple Leaf, Lake City.",
+        "title": "Collins Family Orchards",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/collinsfamilyorchards/",
+        "snippet": "Collins Family Orchards - - Rated 4.7 based on 15 Reviews &quot;My baby girl can&#39;t have enough of your farm&#39;s donut peach. The fruits are fresh, and the...",
+        "title": "Collins Family Orchards - Home | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.collinsfamilyorchards.com/csa-faqs",
+        "snippet": "At Collins Family Orchards, we pride ourselves on quality fruit and sustainable practices. We have been sustainably growing since 1905. Our livelihood and family has been connected with this orchard and this land for over 100 years; we take our responsibilities as land stewards seriously.",
+        "title": "Collins Family Orchards",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.collinsfamilyorchards.com/farmers-markets",
+        "snippet": "Collins Family Orchards Workplace Fruit Wholesale CSA Farmers Markets Contact Us What&#39;s In Season? CSA Member Login Workplace Fruit Wholesale CSA. Collins Family Orchards ... Find us at the farmers markets in the greater seattle area year-round. Wednesdays",
+        "title": "Collins Family Orchards",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.collinsfamilyorchards.com/our-fruit",
+        "snippet": "At Collins Family Orchards, it&#39;s all about the fruit. Please keep in mind these are approximate timeframes as the season varies year to year!",
+        "title": "Collins Family Orchards",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.facebook.com/collinsfamilyorchards/posts",
+        "snippet": "Collins Family Orchards - - Rated 4.7 based on 17 Reviews &quot;Some of the best fruit I have ever had the pleasure of eating. We are almost done with our...",
+        "title": "Collins Family Orchards - Posts | Facebook",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.globuya.com/US/Seattle/186365634726934/Collins-Family-Orchards",
+        "snippet": "Contact information, map and directions, contact form, opening hours, services, ratings, photos, videos and announcements from Collins Family Orchards, 931 Parish Rd ...",
+        "title": "Collins Family Orchards, 931 Parish Rd, Seattle, WA (2020)",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://local.yahoo.com/info-197390384-collins-family-orchards-seattle",
+        "snippet": "Find Collins Family Orchards in Seattle with Address, Phone number from Yahoo US Local. Includes Collins Family Orchards Reviews, maps &amp; directions to Collins Family Orchards in Seattle and more from Yahoo US Local.",
+        "title": "Collins Family Orchards in Seattle | Collins Family ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.pacificcoastharvest.com/farmer.php?login=CollinsFamilyFarmWA",
+        "snippet": "The Collins Family believes in healthy and sustainable growing practices for which they use organic fertilizers, seaweed, and fish oils. For pest control they use organic insecticide - &quot;Entrust&quot;. This keeps their fruit, their farm land, and their employees healthy and happy for many seasons to come!",
+        "title": "Collins Family Orchards (WA) :: PCH - Eat Local, Made Easy",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "435689": {
+    "url": "https://www.yelp.com/biz/restaurant-sumangali-alkmaar?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QPdXEJ-LNHkuziazfUFq9Q/o.jpg",
+    "name": "Restaurant Sumangali",
+    "alias": "restaurant-sumangali-alkmaar",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Indian, Sri Lankan, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "Gedempte Nieuwesloot 119",
+    "city_from_postal": "Alkmaar",
+    "city": "Alkmaar",
+    "zip_code": "1811 KR",
+    "country_code": "NL",
+    "state_code": "NH",
+    "phone": "+31725117546",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "335813": {
+    "url": "https://www.yelp.com/biz/alpenblick-w%C3%A4ldi?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Alpenblick",
+    "alias": "alpenblick-wäldi",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Breakfast & Brunch, Cafes, Swiss Food, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Wolfsbergstrasse 3",
+    "city_from_postal": "Wigoltingen",
+    "city": "Wäldi",
+    "zip_code": "8564",
+    "country_code": "CH",
+    "state_code": "TG",
+    "phone": "+41527631952",
+    "review_count": 1,
+    "snippets": []
+  }
+}

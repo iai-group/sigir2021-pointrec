@@ -1,0 +1,21 @@
+{
+  "643228": {
+    "url": "https://www.yelp.com/biz/b%C3%A4rgbeiz-gempenturm-gempen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/w2khyf5_sETjGnWpOEctUw/o.jpg",
+    "name": "Bärgbeiz Gempenturm",
+    "alias": "bärgbeiz-gempenturm-gempen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Gempenturmstrasse 15",
+    "city_from_postal": "Gempen",
+    "city": "Gempen",
+    "zip_code": "4145",
+    "country_code": "CH",
+    "state_code": "SO",
+    "phone": "+41617015150",
+    "review_count": 3,
+    "snippets": []
+  }
+}

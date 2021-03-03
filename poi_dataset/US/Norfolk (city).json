@@ -1,0 +1,21 @@
+{
+  "179310": {
+    "url": "https://www.yelp.com/biz/great-white-water-sports-norfolk?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/23Zl_0uqZd63lP3VAFFZLw/o.jpg",
+    "name": "Great White Water Sports",
+    "alias": "great-white-water-sports-norfolk",
+    "main_category": "Active Life",
+    "sub_categories": "Boating, Tours, Jet Skis, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "1000 E Ocean View Ave",
+    "city_from_postal": "Norfolk (city)",
+    "city": "Norfolk",
+    "zip_code": "23503",
+    "country_code": "US",
+    "state_code": "VA",
+    "phone": "+17576563577",
+    "review_count": 39,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "281270": {
+    "url": "https://www.yelp.com/biz/antonius-br%C3%A4u-leobersdorf?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/COU-j6-ZBctxDb1qE3eqPA/o.jpg",
+    "name": "Antonius Bräu",
+    "alias": "antonius-bräu-leobersdorf",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Beer Hall, Austrian, ",
+    "rating": 4.0,
+    "price": "€€€€",
+    "address": "Hauptstr. 29",
+    "city_from_postal": "Enzesfeld-Lindabrunn",
+    "city": "Leobersdorf",
+    "zip_code": "2544",
+    "country_code": "AT",
+    "state_code": "3",
+    "phone": "+43225621223",
+    "review_count": 2,
+    "snippets": []
+  }
+}

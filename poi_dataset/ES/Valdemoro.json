@@ -1,0 +1,82 @@
+{
+  "29100": {
+    "url": "https://www.yelp.com/biz/caf%C3%A9-prado-madrid-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YkTzafa2Ea8EEBozIPMgUQ/o.jpg",
+    "name": "Café Prado",
+    "alias": "café-prado-madrid-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Coffee & Tea, ",
+    "rating": 3.0,
+    "price": "€€€",
+    "address": "Paseo del Prado",
+    "city_from_postal": "Valdemoro",
+    "city": "Madrid",
+    "zip_code": "28343",
+    "country_code": "ES",
+    "state_code": "M",
+    "phone": "",
+    "review_count": 9,
+    "snippets": [
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g187514-d8445169-Reviews-Cafe_Prado-Madrid.html",
+        "snippet": "Cafe Prado, Madrid: See 368 unbiased reviews of Cafe Prado, rated 3.5 of 5 on Tripadvisor and ranked #1,894 of 11,660 restaurants in Madrid. Flights ... Café Prado is located on the ground floor close to one of the entrances in the newer wing of the museum.",
+        "title": "Cafe Prado, Madrid - Jeronimos - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g187514-d8445169-Reviews-or20-Cafe_Prado-Madrid.html",
+        "snippet": "Cafe Prado, Madrid: See 368 unbiased reviews of Cafe Prado, rated 3.5 of 5 on Tripadvisor and ranked #1,894 of 11,660 restaurants in Madrid.",
+        "title": "Cafe Prado, Madrid - Jeronimos - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.yelp.com/biz/caf%C3%A9-prado-madrid-2",
+        "snippet": "Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.",
+        "title": "www.yelp.com",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.de/Restaurant_Review-g187514-d8445169-Reviews-Cafe_Prado-Madrid.html",
+        "snippet": "Cafe Prado, Madrid: 367 Bewertungen - bei Tripadvisor auf Platz 1.920 von 11.573 von 11.573 Madrid Restaurants; mit 3,5/5 von Reisenden bewertet.",
+        "title": "Cafe Prado, Madrid - Jerónimos - Restaurant Bewertungen ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.co.nz/Restaurant_Review-g187514-d8445169-Reviews-Cafe_Prado-Madrid.html",
+        "snippet": "Cafe Prado, Madrid: See 367 unbiased reviews of Cafe Prado, rated 3.5 of 5 on Tripadvisor and ranked #1,920 of 11,586 restaurants in Madrid.",
+        "title": "Cafe Prado, Madrid - Jeronimos - Restaurant Reviews ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.ca/Restaurant_Review-g187514-d8445169-Reviews-Cafe_Prado-Madrid.html",
+        "snippet": "Café Prado is located on the ground floor close to one of the entrances in the newer wing of the museum. It appears to be the only dining facility inside the museum and is divided into a full service and cafeteria style restaurant.",
+        "title": "CAFE PRADO, Madrid - Jeronimos - Updated 2020 Restaurant ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.it/Restaurant_Review-g187514-d8445169-Reviews-Cafe_Prado-Madrid.html",
+        "snippet": "Cafe Prado, Madrid: su Tripadvisor trovi 368 recensioni imparziali su Cafe Prado, con punteggio 3,5 su 5 e al n.1.897 su 11.650 ristoranti a Madrid.",
+        "title": "CAFE PRADO, Madrid - Jerónimos - Ristorante Recensioni ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.es/Restaurant_Review-g187514-d8445169-Reviews-Cafe_Prado-Madrid.html",
+        "snippet": "Cafe Prado, Madrid: Consulta 368 opiniones sobre Cafe Prado con puntuación 3,5 de 5 y clasificado en Tripadvisor N.°1.896 de 11.658 restaurantes en Madrid.",
+        "title": "CAFE PRADO, Madrid - Jerónimos - Fotos y Restaurante ...",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.tripadvisor.dk/Restaurant_Review-g187514-d8445169-Reviews-Cafe_Prado-Madrid.html",
+        "snippet": "Cafe Prado, Madrid: Se 368 objektive anmeldelser af Cafe Prado, som har fået 3,5 af 5 på Tripadvisor og er placeret som nr. 1.909 af 11.656 restauranter i Madrid.",
+        "title": "Cafe Prado, Madrid - Restaurantanmeldelser - Tripadvisor",
+        "family_friendly": 1
+      },
+      {
+        "url": "https://www.museodelprado.es/en",
+        "snippet": "Thanks to sponsorship by Telefónica, the Museo del Prado is offering an expanded reading resource that adds historical context to the works and artists present in its collection from the 12th to the 19th centuries, thus enriching the Museum’s knowledge graph with other online sources such as Wikidata and Wikipedia.",
+        "title": "Museo Nacional del Prado",
+        "family_friendly": 1
+      }
+    ]
+  }
+}

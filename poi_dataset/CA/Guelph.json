@@ -1,0 +1,21 @@
+{
+  "200834": {
+    "url": "https://www.yelp.com/biz/psychic-boutique-guelph?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gOV-K-ZGhzGAdVqwamITNg/o.jpg",
+    "name": "Psychic Boutique",
+    "alias": "psychic-boutique-guelph",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Psychics, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "13 Eramosa Rd",
+    "city_from_postal": "Guelph",
+    "city": "Guelph",
+    "zip_code": "N1E 2L4",
+    "country_code": "CA",
+    "state_code": "ON",
+    "phone": "+12265007473",
+    "review_count": 2,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "198643": {
+    "url": "https://www.yelp.com/biz/erlebnisbad-attersee?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JQkbFwVzbvYDTxwu3edIcg/o.jpg",
+    "name": "Erlebnisbad",
+    "alias": "erlebnisbad-attersee",
+    "main_category": "Active Life",
+    "sub_categories": "Swimming Pools, Arts & Entertainment, Kids Activities, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "Nussdorfer Str.",
+    "city_from_postal": "Attersee am Attersee",
+    "city": "Attersee",
+    "zip_code": "4864",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+437666775576",
+    "review_count": 3,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "162360": {
+    "url": "https://www.yelp.com/biz/intermarch%C3%A9-cantanhede-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/J6o9jN10zRPw-U5cZLGG_g/o.jpg",
+    "name": "Intermarché",
+    "alias": "intermarché-cantanhede-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Lugar do Freixial, s/n",
+    "city_from_postal": "Cantanhede",
+    "city": "Cantanhede",
+    "zip_code": "3060-228",
+    "country_code": "PT",
+    "state_code": "20",
+    "phone": "+351231410740",
+    "review_count": 1,
+    "snippets": []
+  },
+  "665805": {
+    "url": "https://www.yelp.com/biz/lidl-cantanhede?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UFNyoAJ35KG6bqvEdfcWXg/o.jpg",
+    "name": "Lidl",
+    "alias": "lidl-cantanhede",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Grocery, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Av. Portugal, s/n",
+    "city_from_postal": "Cantanhede",
+    "city": "Cantanhede",
+    "zip_code": "3060-124",
+    "country_code": "PT",
+    "state_code": "06",
+    "phone": "+351808025025",
+    "review_count": 1,
+    "snippets": []
+  }
+}

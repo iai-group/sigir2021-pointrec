@@ -1,0 +1,21 @@
+{
+  "506651": {
+    "url": "https://www.yelp.com/biz/station-31-m%C3%A4rstetten-4?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/h3tppUBmfCKjjU9Z7VN7CQ/o.jpg",
+    "name": "Station 31",
+    "alias": "station-31-märstetten-4",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Music Venues, Bars, Swiss Food, ",
+    "rating": 5.0,
+    "price": "$",
+    "address": "Bahnhofstrasse 31",
+    "city_from_postal": "Märstetten",
+    "city": "Märstetten",
+    "zip_code": "8560",
+    "country_code": "CH",
+    "state_code": "TG",
+    "phone": "+41716590159",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "150884": {
+    "url": "https://www.yelp.com/biz/%E5%A4%A9%E6%A9%8B%E7%AB%8B%E6%9D%BE%E5%90%9F-%E5%AE%AE%E6%B4%A5%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/undAdg-NJzKF4S7cD4YZvw/o.jpg",
+    "name": "Amanohashidate Matsugin",
+    "alias": "天橋立松吟-宮津市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Seafood, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "文珠470-1",
+    "city_from_postal": "Miyazu Shi",
+    "city": "Miyazu",
+    "zip_code": "626-0001",
+    "country_code": "JP",
+    "state_code": "26",
+    "phone": "+81772223285",
+    "review_count": 1,
+    "snippets": []
+  }
+}

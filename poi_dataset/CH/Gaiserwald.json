@@ -1,0 +1,21 @@
+{
+  "492913": {
+    "url": "https://www.yelp.com/biz/cinedome-gastronomie-abtwil-sg-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tQ3J__VNPIGoyoWFg1V69Q/o.jpg",
+    "name": "Cinedome Gastronomie",
+    "alias": "cinedome-gastronomie-abtwil-sg-2",
+    "main_category": "Financial Services",
+    "sub_categories": "Financial Services, Hotels & Travel, Food, Professional Services, Cinema, ",
+    "rating": 4.0,
+    "price": "$",
+    "address": "Bildstrasse 1",
+    "city_from_postal": "Gaiserwald",
+    "city": "Abtwil SG",
+    "zip_code": "9030",
+    "country_code": "CH",
+    "state_code": "SG",
+    "phone": "+41713134270",
+    "review_count": 4,
+    "snippets": []
+  }
+}

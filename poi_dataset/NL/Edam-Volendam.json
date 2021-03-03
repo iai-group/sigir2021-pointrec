@@ -1,0 +1,21 @@
+{
+  "4772": {
+    "url": "https://www.yelp.com/biz/vishandel-lekkers-volendam?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tlYZoca8n6dYKtP7xdsemg/o.jpg",
+    "name": "Vishandel Lekkers",
+    "alias": "vishandel-lekkers-volendam",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fishmonger, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Haven 90",
+    "city_from_postal": "Edam-Volendam",
+    "city": "Volendam",
+    "zip_code": "1131 EP",
+    "country_code": "NL",
+    "state_code": "NH",
+    "phone": "+31624593990",
+    "review_count": 3,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "61127": {
+    "url": "https://www.yelp.com/biz/mostheuriger-fuchsberger-gunskirchen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Mostheuriger Fuchsberger",
+    "alias": "mostheuriger-fuchsberger-gunskirchen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Heuriger, Attraction Farms, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Aichberg 3",
+    "city_from_postal": "Gunskirchen",
+    "city": "Gunskirchen",
+    "zip_code": "4623",
+    "country_code": "AT",
+    "state_code": "4",
+    "phone": "+43724262908",
+    "review_count": 2,
+    "snippets": []
+  }
+}

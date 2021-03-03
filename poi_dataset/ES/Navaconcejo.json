@@ -1,0 +1,21 @@
+{
+  "373962": {
+    "url": "https://www.yelp.com/biz/spa-y-teter%C3%ADa-medina-aljarafe-bormujos?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jM4um0XIZNOsPh-A5J615g/o.jpg",
+    "name": "SPA & Tetería Medina Aljarafe",
+    "alias": "spa-y-tetería-medina-aljarafe-bormujos",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Massage, Day Spas, Tea Rooms, ",
+    "rating": 3.5,
+    "price": "€€€",
+    "address": "Calle Hernán Cortés, 12",
+    "city_from_postal": "Navaconcejo",
+    "city": "Bormujos",
+    "zip_code": "10613",
+    "country_code": "ES",
+    "state_code": "SE",
+    "phone": "+34954788344",
+    "review_count": 3,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "529046": {
+    "url": "https://www.yelp.com/biz/cafe-restaurant-g%C3%BCnther-weer?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "",
+    "name": "Cafe-Restaurant Günther",
+    "alias": "cafe-restaurant-günther-weer",
+    "main_category": "Nightlife",
+    "sub_categories": "Nightlife, Restaurants, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "Austhäuser 6",
+    "city_from_postal": "Kolsass",
+    "city": "Weer",
+    "zip_code": "6114",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+43522468480",
+    "review_count": 1,
+    "snippets": []
+  }
+}

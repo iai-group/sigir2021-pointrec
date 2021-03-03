@@ -1,0 +1,40 @@
+{
+  "273026": {
+    "url": "https://www.yelp.com/biz/truhealth-ayurveda-cle-elum-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K0YdgcPMQskTllLYW21qAQ/o.jpg",
+    "name": "TruHealth Ayurveda",
+    "alias": "truhealth-ayurveda-cle-elum-2",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Health Coach, Astrologers, Ayurveda, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "112 W Railroad Ave",
+    "city_from_postal": "Kittitas",
+    "city": "Cle Elum",
+    "zip_code": "98922",
+    "country_code": "US",
+    "state_code": "WA",
+    "phone": "+15093045518",
+    "review_count": 1,
+    "snippets": []
+  },
+  "471081": {
+    "url": "https://www.yelp.com/biz/cascade-playtime-rental-ronald?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LwHZbDf4SAFMX4nn-JbKQA/o.jpg",
+    "name": "Cascade Playtime Rental",
+    "alias": "cascade-playtime-rental-ronald",
+    "main_category": "Active Life",
+    "sub_categories": "Boating, Tours, Jet Skis, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "14181 Salmon La Sac Hwy",
+    "city_from_postal": "Kittitas",
+    "city": "Ronald",
+    "zip_code": "98940",
+    "country_code": "US",
+    "state_code": "WA",
+    "phone": "+15096492444",
+    "review_count": 29,
+    "snippets": []
+  }
+}

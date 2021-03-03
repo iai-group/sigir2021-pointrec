@@ -1,0 +1,21 @@
+{
+  "103197": {
+    "url": "https://www.yelp.com/biz/sunneh%C3%BCsli-g%C3%BCttingen?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/40c-Q3RHj1ehSgej_TMwHQ/o.jpg",
+    "name": "Sunnehüsli",
+    "alias": "sunnehüsli-güttingen",
+    "main_category": "Arts & Entertainment",
+    "sub_categories": "Attraction Farms, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Seeweg 20",
+    "city_from_postal": "Güttingen",
+    "city": "Güttingen",
+    "zip_code": "8594",
+    "country_code": "CH",
+    "state_code": "TG",
+    "phone": "+41716951259",
+    "review_count": 1,
+    "snippets": []
+  }
+}

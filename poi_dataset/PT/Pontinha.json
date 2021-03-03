@@ -1,0 +1,21 @@
+{
+  "298546": {
+    "url": "https://www.yelp.com/biz/novo-edmundo-odivelas?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Zp-ify6TcNPCEC1rCDql8A/o.jpg",
+    "name": "Novo Edmundo",
+    "alias": "novo-edmundo-odivelas",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Seafood, Portuguese, ",
+    "rating": 2.5,
+    "price": null,
+    "address": "Rua São Simão, 5",
+    "city_from_postal": "Pontinha",
+    "city": "Odivelas",
+    "zip_code": "1675-172",
+    "country_code": "PT",
+    "state_code": "11",
+    "phone": "+351214794087",
+    "review_count": 3,
+    "snippets": []
+  }
+}

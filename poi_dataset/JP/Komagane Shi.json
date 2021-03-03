@@ -1,0 +1,40 @@
+{
+  "242419": {
+    "url": "https://www.yelp.com/biz/%E5%B7%8C%E6%B5%81%E5%B3%B6%E6%AD%A6%E8%94%B5%E5%88%A5%E9%82%B8-%E4%B8%AD%E5%A4%AE%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uzqXzraOgKa64QAcCjVRLg/o.jpg",
+    "name": "Ganryujima Musashi Bettei",
+    "alias": "巌流島武蔵別邸-中央区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Yakiniku, Sukiyaki, Hot Pot, ",
+    "rating": 3.0,
+    "price": "￥￥￥",
+    "address": "銀座7-2-20",
+    "city_from_postal": "Komagane Shi",
+    "city": "Chūō",
+    "zip_code": "399-4112",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81355685555",
+    "review_count": 3,
+    "snippets": []
+  },
+  "652125": {
+    "url": "https://www.yelp.com/biz/%E8%A1%A3%E5%AE%B6-%E4%B8%AD%E5%A4%AE%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/c6QJlC4jMkc6_xC24-Osfg/o.jpg",
+    "name": "Koromoya",
+    "alias": "衣家-中央区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Japanese, Seafood, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "築地4-11-10",
+    "city_from_postal": "Komagane Shi",
+    "city": "Chūō",
+    "zip_code": "399-4112",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+815057845872",
+    "review_count": 1,
+    "snippets": []
+  }
+}

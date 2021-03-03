@@ -1,0 +1,21 @@
+{
+  "656432": {
+    "url": "https://www.yelp.com/biz/quick-nancy?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zL0jFWsfR-Cn07p1xvuO1A/o.jpg",
+    "name": "Quick",
+    "alias": "quick-nancy",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fast Food, Burgers, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "10/12 rue Mazagran",
+    "city_from_postal": "Arrondissement de Nancy",
+    "city": "Nancy",
+    "zip_code": "54000",
+    "country_code": "FR",
+    "state_code": "54",
+    "phone": "+33383454185",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "458143": {
+    "url": "https://www.yelp.com/biz/mcdonalds-f%C3%BCllinsdorf?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "McDonald's",
+    "alias": "mcdonalds-füllinsdorf",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, Fast Food, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "Wölferstrasse 2",
+    "city_from_postal": "Füllinsdorf",
+    "city": "Füllinsdorf",
+    "zip_code": "4414",
+    "country_code": "CH",
+    "state_code": "BL",
+    "phone": "+41619021270",
+    "review_count": 2,
+    "snippets": []
+  }
+}

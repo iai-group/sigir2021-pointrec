@@ -1,0 +1,40 @@
+{
+  "203971": {
+    "url": "https://www.yelp.com/biz/excelsior31-rijssen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2NHgpM9d9ogHZ67Rev1DRQ/o.jpg",
+    "name": "Excelsior'31",
+    "alias": "excelsior31-rijssen",
+    "main_category": "Active Life",
+    "sub_categories": "Soccer, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Arend Baanstraat 102a",
+    "city_from_postal": "Rijssen-Holten",
+    "city": "Rijssen",
+    "zip_code": "7461 DX",
+    "country_code": "NL",
+    "state_code": "OV",
+    "phone": "+31548541939",
+    "review_count": 1,
+    "snippets": []
+  },
+  "315714": {
+    "url": "https://www.yelp.com/biz/grandcafe-keuntje-holten?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fhzxeG5YA9ZBUb6KNRVpeg/o.jpg",
+    "name": "Grandcafe Keuntje",
+    "alias": "grandcafe-keuntje-holten",
+    "main_category": "Nightlife",
+    "sub_categories": "Pubs, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Dorpsstraat 29",
+    "city_from_postal": "Rijssen-Holten",
+    "city": "Holten",
+    "zip_code": "7451 BR",
+    "country_code": "NL",
+    "state_code": "OV",
+    "phone": "+31548625988",
+    "review_count": 1,
+    "snippets": []
+  }
+}

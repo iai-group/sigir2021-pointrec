@@ -1,0 +1,21 @@
+{
+  "509630": {
+    "url": "https://www.yelp.com/biz/jijonenca-castelldefels?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mwxRPdThVOWpOoNuXCIhBA/o.jpg",
+    "name": "Jijonenca",
+    "alias": "jijonenca-castelldefels",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Ice Cream & Frozen Yogurt, ",
+    "rating": 3.5,
+    "price": "€€",
+    "address": "Paseo Maritimo, 312",
+    "city_from_postal": "Castelldefels",
+    "city": "Castelldefels",
+    "zip_code": "08860",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34936655404",
+    "review_count": 3,
+    "snippets": []
+  }
+}

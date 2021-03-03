@@ -1,0 +1,21 @@
+{
+  "426826": {
+    "url": "https://www.yelp.com/biz/meating-point-burger-bar-og-diner-asker?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Meating Point Burger Bar & Diner",
+    "alias": "meating-point-burger-bar-og-diner-asker",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "American (Traditional), Burgers, Diners, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Torvveien 12 C",
+    "city_from_postal": "Asker",
+    "city": "Asker",
+    "zip_code": "1383",
+    "country_code": "NO",
+    "state_code": "02",
+    "phone": "+4794858350",
+    "review_count": 1,
+    "snippets": []
+  }
+}

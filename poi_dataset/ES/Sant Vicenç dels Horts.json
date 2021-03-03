@@ -1,0 +1,21 @@
+{
+  "149479": {
+    "url": "https://www.yelp.com/biz/mi-casa-sant-vicen%C3%A7-dels-horts?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aGcOyiTvJ0CIz7rvwzjJ3w/o.jpg",
+    "name": "Mi Casa",
+    "alias": "mi-casa-sant-vicenç-dels-horts",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Andalusian, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "Carrer de Rafael de Casanova, 2",
+    "city_from_postal": "Sant Vicenç dels Horts",
+    "city": "Sant Vicenç dels Horts",
+    "zip_code": "08620",
+    "country_code": "ES",
+    "state_code": "B",
+    "phone": "+34936768581",
+    "review_count": 2,
+    "snippets": []
+  }
+}

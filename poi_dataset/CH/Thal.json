@@ -1,0 +1,21 @@
+{
+  "693375": {
+    "url": "https://www.yelp.com/biz/hamsters-food-inn-thal?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Hamster's Food Inn",
+    "alias": "hamsters-food-inn-thal",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food, Hotels & Travel, Bars, Fast Food, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Wiesental Buriet",
+    "city_from_postal": "Thal",
+    "city": "Thal",
+    "zip_code": "9425",
+    "country_code": "CH",
+    "state_code": "SG",
+    "phone": "+41796967335",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "310045": {
+    "url": "https://www.yelp.com/biz/%E7%94%B0%E6%9D%91%E9%85%92%E9%80%A0%E5%A0%B4-%E5%98%89%E6%B3%89-%E7%A6%8F%E7%94%9F%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ks1qHmM4i6YUpK2ZE7M7vA/o.jpg",
+    "name": "Tamura Shuzojo Kasen",
+    "alias": "田村酒造場-嘉泉-福生市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Distilleries, Breweries, ",
+    "rating": 5.0,
+    "price": "￥￥",
+    "address": "大字福生626",
+    "city_from_postal": "Fussa Shi",
+    "city": "Fussa",
+    "zip_code": "197-0011",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81425510003",
+    "review_count": 2,
+    "snippets": []
+  },
+  "418080": {
+    "url": "https://www.yelp.com/biz/%E3%83%AC%E3%83%83%E3%82%B0%E3%82%AA%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8A%E3%83%BC-%E6%B8%8B%E8%B0%B7%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIME",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/32I4aJSE_FYBqk7CrghCMQ/o.jpg",
+    "name": "Reg-On Diner",
+    "alias": "レッグオンダイナー-渋谷区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Burgers, ",
+    "rating": 4.5,
+    "price": "￥￥",
+    "address": "東1-8-1",
+    "city_from_postal": "Fussa Shi",
+    "city": "Shibuya",
+    "zip_code": "197-0021",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81334985488",
+    "review_count": 7,
+    "snippets": []
+  }
+}

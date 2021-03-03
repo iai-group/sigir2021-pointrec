@@ -1,0 +1,21 @@
+{
+  "28307": {
+    "url": "https://www.yelp.com/biz/%E3%83%9E%E3%83%AA%E3%83%8E%E3%82%B9%E3%83%86%E3%83%AA%E3%82%A2-%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dot8J2EmKmVcNpx8ifzfaQ/o.jpg",
+    "name": "Marin｀O´steria",
+    "alias": "マリノステリア-江戸川区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, Pasta Shops, Pizza, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "東葛西6-4-16",
+    "city_from_postal": "Yonezawa Shi",
+    "city": "Edogawa",
+    "zip_code": "992-0083",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81368088780",
+    "review_count": 1,
+    "snippets": []
+  }
+}

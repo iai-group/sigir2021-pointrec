@@ -1,0 +1,40 @@
+{
+  "296408": {
+    "url": "https://www.yelp.com/biz/kleiner-wok-embrach?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mrAzFCBD4SBapyzh7dPr7w/o.jpg",
+    "name": "Kleiner Wok",
+    "alias": "kleiner-wok-embrach",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Asian Fusion, Wok, ",
+    "rating": 5.0,
+    "price": "$$",
+    "address": "Schützenmauerstrasse 2",
+    "city_from_postal": "Embrach",
+    "city": "Embrach",
+    "zip_code": "8424",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41448817477",
+    "review_count": 1,
+    "snippets": []
+  },
+  "436954": {
+    "url": "https://www.yelp.com/biz/ochsner-hockey-embrach?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_OPxBiFjIb8mrsAl82gGcA/o.jpg",
+    "name": "Ochsner Hockey ",
+    "alias": "ochsner-hockey-embrach",
+    "main_category": "Active Life",
+    "sub_categories": "Active Life, Fashion, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Industriestrasse 22",
+    "city_from_postal": "Embrach",
+    "city": "Embrach",
+    "zip_code": "8424",
+    "country_code": "CH",
+    "state_code": "ZH",
+    "phone": "+41448668000",
+    "review_count": 1,
+    "snippets": []
+  }
+}

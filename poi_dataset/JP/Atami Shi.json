@@ -1,0 +1,40 @@
+{
+  "323651": {
+    "url": "https://www.yelp.com/biz/%E7%86%B1%E6%B5%B7%E3%82%B5%E3%83%B3%E3%83%93%E3%83%BC%E3%83%81-%E7%86%B1%E6%B5%B7%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uBFw0iQXol1H57NjqiFsiA/o.jpg",
+    "name": "Atami Sun Beach",
+    "alias": "熱海サンビーチ-熱海市",
+    "main_category": "Active Life",
+    "sub_categories": "Beaches, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "整備課公園緑",
+    "city_from_postal": "Atami Shi",
+    "city": "Atami",
+    "zip_code": "413-0012",
+    "country_code": "JP",
+    "state_code": "22",
+    "phone": "+81557866218",
+    "review_count": 1,
+    "snippets": []
+  },
+  "609389": {
+    "url": "https://www.yelp.com/biz/%E7%B6%B2%E4%BB%A3%E6%B8%A9%E6%B3%89-%E5%A4%A7%E7%B9%A9-%E6%B5%B7%E6%B0%B4%E6%B5%B4%E5%A0%B4-%E7%86%B1%E6%B5%B7%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zKR8T6yoAwtcrrVAbeuElw/o.jpg",
+    "name": "Ajiro Onsen Onawa Beach",
+    "alias": "網代温泉-大繩-海水浴場-熱海市",
+    "main_category": "Active Life",
+    "sub_categories": "Beaches, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "下多賀",
+    "city_from_postal": "Atami Shi",
+    "city": "Atami",
+    "zip_code": "413-0102",
+    "country_code": "JP",
+    "state_code": "22",
+    "phone": "+81557866218",
+    "review_count": 1,
+    "snippets": []
+  }
+}

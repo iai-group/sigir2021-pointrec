@@ -1,0 +1,21 @@
+{
+  "642223": {
+    "url": "https://www.yelp.com/biz/whisked-away-bake-house-terrell?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AjEAH6OI7q6d2zYpgOb1yQ/o.jpg",
+    "name": "Whisked Away Bake House",
+    "alias": "whisked-away-bake-house-terrell",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Bakeries, Candy Stores, Desserts, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "118 E Moore Ave",
+    "city_from_postal": "Kaufman",
+    "city": "Terrell",
+    "zip_code": "75160",
+    "country_code": "US",
+    "state_code": "TX",
+    "phone": "+19524843360",
+    "review_count": 4,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "125719": {
+    "url": "https://www.yelp.com/biz/%E5%A4%A7%E7%A3%AF%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%93%E3%83%BC%E3%83%81-%E4%B8%AD%E9%83%A1?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jpi9a27RR0Z_CTT0hMidbQ/o.jpg",
+    "name": "Oiso Long Beach",
+    "alias": "大磯ロングビーチ-中郡",
+    "main_category": "Active Life",
+    "sub_categories": "Water Parks, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "大磯町国府本郷546",
+    "city_from_postal": "Oiso Machi",
+    "city": "中郡",
+    "zip_code": "259-0111",
+    "country_code": "JP",
+    "state_code": "14",
+    "phone": "+81463611111",
+    "review_count": 1,
+    "snippets": []
+  },
+  "385192": {
+    "url": "https://www.yelp.com/biz/%E5%A4%A7%E7%A3%AF%E6%B5%B7%E6%B0%B4%E6%B5%B4%E5%A0%B4-%E4%B8%AD%E9%83%A1?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/noM4c62zIcLnbhyusGIbKw/o.jpg",
+    "name": "Oiso Beach",
+    "alias": "大磯海水浴場-中郡",
+    "main_category": "Active Life",
+    "sub_categories": "Beaches, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "大磯町大磯1990番地先",
+    "city_from_postal": "Oiso Machi",
+    "city": "中郡",
+    "zip_code": "255-0003",
+    "country_code": "JP",
+    "state_code": "14",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

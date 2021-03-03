@@ -1,0 +1,21 @@
+{
+  "668502": {
+    "url": "https://www.yelp.com/biz/la-casita-zahara?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Bi4w22sZDF0FZedEUZqC1Q/o.jpg",
+    "name": "La Casita",
+    "alias": "la-casita-zahara",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, Delis, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "Paseo de la Fuente,  s/n",
+    "city_from_postal": "Zahara",
+    "city": "Zahara",
+    "zip_code": "11688",
+    "country_code": "ES",
+    "state_code": "CA",
+    "phone": "+34628386903",
+    "review_count": 1,
+    "snippets": []
+  }
+}

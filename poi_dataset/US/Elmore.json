@@ -1,0 +1,21 @@
+{
+  "608837": {
+    "url": "https://www.yelp.com/biz/pizza-hut-bakersfield-29?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BnvuOU5d1RvtW63uz3wZxw/o.jpg",
+    "name": "Pizza Hut",
+    "alias": "pizza-hut-bakersfield-29",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Pizza, Italian, Chicken Wings, ",
+    "rating": 1.5,
+    "price": "$",
+    "address": "5229 US Hwy 231",
+    "city_from_postal": "Elmore",
+    "city": "Wetumpka",
+    "zip_code": "36092",
+    "country_code": "US",
+    "state_code": "AL",
+    "phone": "+13345675504",
+    "review_count": 11,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "151593": {
+    "url": "https://www.yelp.com/biz/beda-kafi-basadingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/A_SP5Y1TlpRJzqagDrvPug/o.jpg",
+    "name": "Beda Kafi",
+    "alias": "beda-kafi-basadingen",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Cafes, Bakeries, Coffee & Tea, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Diessenhoferstrasse 8",
+    "city_from_postal": "Basadingen-Schlattingen",
+    "city": "Basadingen",
+    "zip_code": "8254",
+    "country_code": "CH",
+    "state_code": "TG",
+    "phone": "+41526571173",
+    "review_count": 2,
+    "snippets": []
+  },
+  "202933": {
+    "url": "https://www.yelp.com/biz/restaurant-bienengarten-schlattingen?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Restaurant Bienengarten",
+    "alias": "restaurant-bienengarten-schlattingen",
+    "main_category": "Hotels & Travel",
+    "sub_categories": "Hotels & Travel, Restaurants, ",
+    "rating": 5.0,
+    "price": "$$",
+    "address": "Obere Dorfstrasse 1",
+    "city_from_postal": "Basadingen-Schlattingen",
+    "city": "Schlattingen",
+    "zip_code": "8255",
+    "country_code": "CH",
+    "state_code": "TG",
+    "phone": "+41526571947",
+    "review_count": 1,
+    "snippets": []
+  }
+}

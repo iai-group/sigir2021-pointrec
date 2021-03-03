@@ -1,0 +1,40 @@
+{
+  "326083": {
+    "url": "https://www.yelp.com/biz/old-brewery-malters-lu-malters?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pvL1Sc29H8mvngdQLxVvYQ/o.jpg",
+    "name": "Old Brewery Malters LU",
+    "alias": "old-brewery-malters-lu-malters",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "American (Traditional), Burgers, Beer Bar, ",
+    "rating": 5.0,
+    "price": null,
+    "address": "Luzernstrasse 102",
+    "city_from_postal": "Malters",
+    "city": "Malters",
+    "zip_code": "6102",
+    "country_code": "CH",
+    "state_code": "LU",
+    "phone": "+41414975555",
+    "review_count": 1,
+    "snippets": []
+  },
+  "344439": {
+    "url": "https://www.yelp.com/biz/gasthof-krone-blatten?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9VB8tP8fNnwmnCt7_uGroA/o.jpg",
+    "name": "Gasthof Krone",
+    "alias": "gasthof-krone-blatten",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Swiss Food, ",
+    "rating": 4.5,
+    "price": "$$$$",
+    "address": null,
+    "city_from_postal": "Malters",
+    "city": "Blatten",
+    "zip_code": "6102",
+    "country_code": "CH",
+    "state_code": "VS",
+    "phone": "+41414980707",
+    "review_count": 2,
+    "snippets": []
+  }
+}

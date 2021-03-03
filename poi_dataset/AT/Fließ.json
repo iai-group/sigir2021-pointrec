@@ -1,0 +1,40 @@
+{
+  "193957": {
+    "url": "https://www.yelp.com/biz/gasthaus-pitztaler-hof-wenns?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GbAhH_e1Z7oe_1MgF52zpg/o.jpg",
+    "name": "Gasthaus Pitztaler Hof",
+    "alias": "gasthaus-pitztaler-hof-wenns",
+    "main_category": "Nightlife",
+    "sub_categories": "Nightlife, Hotels, Restaurants, ",
+    "rating": 3.0,
+    "price": "€€",
+    "address": "Oberdorf 215",
+    "city_from_postal": "Fließ",
+    "city": "Wenns",
+    "zip_code": "6473",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+435414872200",
+    "review_count": 2,
+    "snippets": []
+  },
+  "659968": {
+    "url": "https://www.yelp.com/biz/hotel-schrofenstein-landeck?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8VstyzvwF1gl20lCA53gIg/o.jpg",
+    "name": "Hotel Schrofenstein",
+    "alias": "hotel-schrofenstein-landeck",
+    "main_category": "Nightlife",
+    "sub_categories": "Bars, Hotels, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "Malserstr. 31",
+    "city_from_postal": "Fließ",
+    "city": "Landeck",
+    "zip_code": "6500",
+    "country_code": "AT",
+    "state_code": "7",
+    "phone": "+43544262395",
+    "review_count": 1,
+    "snippets": []
+  }
+}

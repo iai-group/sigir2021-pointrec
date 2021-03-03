@@ -1,0 +1,40 @@
+{
+  "382774": {
+    "url": "https://www.yelp.com/biz/groundworks-farm-pittsville?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bwra2xwYvvYy4kEQ4_yAqA/o.jpg",
+    "name": "Groundworks Farm",
+    "alias": "groundworks-farm-pittsville",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "CSA, ",
+    "rating": 5.0,
+    "price": "$$",
+    "address": "8284 Gumboro Rd",
+    "city_from_postal": "Wicomico",
+    "city": "Pittsville",
+    "zip_code": "21850",
+    "country_code": "US",
+    "state_code": "MD",
+    "phone": "+14432202338",
+    "review_count": 4,
+    "snippets": []
+  },
+  "678990": {
+    "url": "https://www.yelp.com/biz/east-side-produce-hebron?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QUYgFMQkZvbH4ekZSbNQfQ/o.jpg",
+    "name": "East Side Produce",
+    "alias": "east-side-produce-hebron",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Food Delivery Services, ",
+    "rating": 3.5,
+    "price": "$",
+    "address": "Main St",
+    "city_from_postal": "Wicomico",
+    "city": "Hebron",
+    "zip_code": "21830",
+    "country_code": "US",
+    "state_code": "MD",
+    "phone": "+14432678195",
+    "review_count": 3,
+    "snippets": []
+  }
+}

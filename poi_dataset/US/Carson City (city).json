@@ -1,0 +1,40 @@
+{
+  "580819": {
+    "url": "https://www.yelp.com/biz/peak-performance-personal-training-carson-city-carson-city-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/feLeNXR7tszD-xXKAsFnhw/o.jpg",
+    "name": "PEAK Performance Personal Training - Carson City",
+    "alias": "peak-performance-personal-training-carson-city-carson-city-2",
+    "main_category": "Active Life",
+    "sub_categories": "Gyms, Trainers, ",
+    "rating": 1.0,
+    "price": null,
+    "address": "829 Fairview Dr",
+    "city_from_postal": "Carson City (city)",
+    "city": "Carson City",
+    "zip_code": "89701",
+    "country_code": "US",
+    "state_code": "NV",
+    "phone": "+17758851871",
+    "review_count": 2,
+    "snippets": []
+  },
+  "641461": {
+    "url": "https://www.yelp.com/biz/hang-gliding-tahoe-carson-city?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Y7ZPSe9fZS7nSL8PmiIlow/o.jpg",
+    "name": "Hang Gliding Tahoe",
+    "alias": "hang-gliding-tahoe-carson-city",
+    "main_category": "Active Life",
+    "sub_categories": "Hang Gliding, Challenge Courses, Tours, ",
+    "rating": 4.5,
+    "price": null,
+    "address": "2640 E College Pkwy",
+    "city_from_postal": "Carson City (city)",
+    "city": "Carson City",
+    "zip_code": "89706",
+    "country_code": "US",
+    "state_code": "NV",
+    "phone": "+17757728232",
+    "review_count": 11,
+    "snippets": []
+  }
+}

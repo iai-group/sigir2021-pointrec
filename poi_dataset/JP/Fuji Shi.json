@@ -1,0 +1,21 @@
+{
+  "144509": {
+    "url": "https://www.yelp.com/biz/%E5%93%81%E5%B7%9D%E7%89%A1%E8%A0%A3%E5%85%A5%E3%83%AC%E6%99%82-%E6%B8%AF%E5%8C%BA?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/L5xvgfW6dx9tUj6ikK0Tnw/o.jpg",
+    "name": "Shinagawa Kaki Iredoki",
+    "alias": "品川牡蠣入レ時-港区",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Izakaya, Seafood, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "港南2-2-2",
+    "city_from_postal": "Fuji Shi",
+    "city": "Minato",
+    "zip_code": "416-0939",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+815058905737",
+    "review_count": 1,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "283716": {
+    "url": "https://www.yelp.com/biz/cheese-craft-works-%E5%90%89%E7%A5%A5%E5%AF%BA-%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7WRBRbjfuO1abFBw4zie-w/o.jpg",
+    "name": "CHEESE CRAFT WORKS Kichijoji",
+    "alias": "cheese-craft-works-吉祥寺-武蔵野市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Fondue, Steakhouses, Cafes, ",
+    "rating": 4.0,
+    "price": null,
+    "address": "吉祥寺本町1-9-12",
+    "city_from_postal": "Musashino Shi",
+    "city": "Musashino",
+    "zip_code": "180-0004",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81422271853",
+    "review_count": 1,
+    "snippets": []
+  },
+  "337266": {
+    "url": "https://www.yelp.com/biz/%E4%BA%95%E3%81%AE%E9%A0%AD%E8%87%AA%E7%84%B6%E6%96%87%E5%8C%96%E5%9C%92-%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIME",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/E0QWYXxegR0XzPfRj9JOJA/o.jpg",
+    "name": "Inokashira Park Zoo",
+    "alias": "井の頭自然文化園-武蔵野市",
+    "main_category": "Active Life",
+    "sub_categories": "Zoos, ",
+    "rating": 3.5,
+    "price": null,
+    "address": "御殿山1-17-6",
+    "city_from_postal": "Musashino Shi",
+    "city": "Musashino",
+    "zip_code": "180-0005",
+    "country_code": "JP",
+    "state_code": "13",
+    "phone": "+81422461100",
+    "review_count": 6,
+    "snippets": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "61078": {
+    "url": "https://www.yelp.com/biz/ekoplaza-zaandam?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YbadYfynMQEZGbPHqhTkig/o.jpg",
+    "name": "Ekoplaza",
+    "alias": "ekoplaza-zaandam",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Organic Stores, Grocery, ",
+    "rating": 4.0,
+    "price": "€€",
+    "address": "Hermitage 91",
+    "city_from_postal": "Zaanstad",
+    "city": "Zaandam",
+    "zip_code": "1506 TX",
+    "country_code": "NL",
+    "state_code": "NH",
+    "phone": "+31756162019",
+    "review_count": 1,
+    "snippets": []
+  },
+  "196995": {
+    "url": "https://www.yelp.com/biz/boer-geert-zaandam-2?adjust_creative=NOl6cNLLkrD4j74baZTyew&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=NOl6cNLLkrD4j74baZTyew",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KPWo5AsV7W3HbVp4QNr5WA/o.jpg",
+    "name": "Boer Geert",
+    "alias": "boer-geert-zaandam-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Sandwiches, Specialty Food, ",
+    "rating": 4.5,
+    "price": "€",
+    "address": "Pieter Ghijsenlaan 19",
+    "city_from_postal": "Zaanstad",
+    "city": "Zaandam",
+    "zip_code": "1506 PW",
+    "country_code": "NL",
+    "state_code": "NH",
+    "phone": "+31756141601",
+    "review_count": 8,
+    "snippets": []
+  }
+}

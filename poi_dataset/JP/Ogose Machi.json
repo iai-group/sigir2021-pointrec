@@ -1,0 +1,21 @@
+{
+  "150228": {
+    "url": "https://www.yelp.com/biz/%E8%B6%8A%E4%B8%8A%E5%B1%B1-%E5%85%A5%E9%96%93%E9%83%A1?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=5hutJMpTIMEz7crE-Bac2Q",
+    "image_url": "",
+    "name": "Ogamiyama",
+    "alias": "越上山-入間郡",
+    "main_category": "Active Life",
+    "sub_categories": "Hiking, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "越生町黒山",
+    "city_from_postal": "Ogose Machi",
+    "city": "入間郡",
+    "zip_code": "350-0424",
+    "country_code": "JP",
+    "state_code": "11",
+    "phone": "",
+    "review_count": 1,
+    "snippets": []
+  }
+}

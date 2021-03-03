@@ -1,0 +1,40 @@
+{
+  "423446": {
+    "url": "https://www.yelp.com/biz/%E3%83%81%E3%83%A3%E3%82%A4%E3%83%8F%E3%83%8D%E3%81%A8%E3%83%9A%E3%83%AB%E3%82%B7%E3%83%A3%E9%9B%91%E8%B2%A8shuru-%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82-2?adjust_creative=5hutJMpTIMEz7crE-Bac2Q&utm_campaign=yelp_api_v3&utm_",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EqOcAmm1ithbA04tjYmlkA/o.jpg",
+    "name": "Chaihane to Perusha zakka shuru",
+    "alias": "チャイハネとペルシャ雑貨shuru-さいたま市-2",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Shopping, Persian/Iranian, ",
+    "rating": 4.0,
+    "price": "￥",
+    "address": "大宮区桜木町2-455-2",
+    "city_from_postal": "Omiya Ku",
+    "city": "Saitama",
+    "zip_code": "330-0854",
+    "country_code": "JP",
+    "state_code": "11",
+    "phone": "+81486538992",
+    "review_count": 2,
+    "snippets": []
+  },
+  "570678": {
+    "url": "https://www.yelp.com/biz/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A7-%E3%83%87%E3%82%A3-%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A8%E3%83%83%E3%82%BF-%E3%81%9D%E3%81%94%E3%81%86%E5%A4%A7%E5%AE%AE%E5%BA%97-%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82?adjust_creative=5h",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gUFt-87l0c94H_JTidLZfQ/o.jpg",
+    "name": "Bacio di Giulietta Sogo Omiya",
+    "alias": "バーチョ-ディ-ジュリエッタ-そごう大宮店-さいたま市",
+    "main_category": "Restaurants and Food",
+    "sub_categories": "Italian, ",
+    "rating": 3.0,
+    "price": null,
+    "address": "大宮区桜木町1-6-2",
+    "city_from_postal": "Omiya Ku",
+    "city": "Saitama",
+    "zip_code": "330-0854",
+    "country_code": "JP",
+    "state_code": "11",
+    "phone": "+81487882218",
+    "review_count": 2,
+    "snippets": []
+  }
+}
